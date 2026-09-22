@@ -9,7 +9,7 @@
       "fingerprint": "chick fil a|promo_code|chick fil 8 count nuggets purchase",
       "firstSeenAt": "2026-09-22T19:56:47+00:00",
       "id": "a43b817b6762",
-      "lastSeenAt": "2026-09-22T19:56:47+00:00",
+      "lastSeenAt": "2026-09-22T20:46:32+00:00",
       "locationScope": "unknown",
       "promoCode": "NUGGETS8",
       "restaurant": "Chick-fil-A",
@@ -21,7 +21,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 2,
+      "timesSeen": 3,
       "title": "Chick-fil-A offers free 8-count nuggets with purchase\nUse promo code NUGGETS8 in the Chick-fil-A app for a fre",
       "validDays": [],
       "windowEnd": null,
@@ -36,7 +36,7 @@
       "fingerprint": "mcalisters deli|combo_meal|mcalisters deli 6 99 lunch combo",
       "firstSeenAt": "2026-09-22T19:56:47+00:00",
       "id": "8797c097d0b7",
-      "lastSeenAt": "2026-09-22T19:56:47+00:00",
+      "lastSeenAt": "2026-09-22T20:46:32+00:00",
       "locationScope": "unknown",
       "promoCode": null,
       "restaurant": "McAlister's Deli",
@@ -48,7 +48,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 2,
+      "timesSeen": 3,
       "title": "McAlister's Deli $6.99 lunch combo\nMcAlister's Deli offers a $6.99 lunch combo with a half sandwich and soup,",
       "validDays": [],
       "windowEnd": null,
@@ -63,7 +63,7 @@
       "fingerprint": "walk ons bistreaux|happy_hour|walk ons bistreaux bar happy hour",
       "firstSeenAt": "2026-09-22T19:56:47+00:00",
       "id": "c49bd0f61f6c",
-      "lastSeenAt": "2026-09-22T19:56:47+00:00",
+      "lastSeenAt": "2026-09-22T20:46:32+00:00",
       "locationScope": "unknown",
       "promoCode": null,
       "restaurant": "Walk-On's Bistreaux & Bar",
@@ -75,14 +75,14 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 2,
+      "timesSeen": 3,
       "title": "Walk-On's Bistreaux & Bar Happy Hour - half off appetizers Mon-Fri\nWalk-On's happy hour features half-price ap",
       "validDays": [],
       "windowEnd": null,
       "windowStart": null
     }
   ],
-  "generatedAt": "2026-09-22T19:56:47+00:00",
+  "generatedAt": "2026-09-22T20:46:32+00:00",
   "home": {
     "label": "New Orleans, LA",
     "lat": 29.9511,
@@ -90,25 +90,11 @@
     "radiusMiles": 15.0
   },
   "schemaVersion": 1,
-  "spend": {
-    "braveQueries": 0,
-    "braveSoftCap": 900,
-    "calls": 0,
-    "capUSD": 5.0,
-    "deepseekUSD": 0.0,
-    "month": "2026-09"
-  },
   "stats": {
     "activeCount": 3,
-    "daypart": "afternoon",
     "dealCount": 3,
-    "deepseekCalls": 0,
-    "durationSeconds": 0.0,
     "expiringSoonCount": 0,
-    "heuristicsOnly": true,
     "newDealCount": 0,
-    "pagesFetched": 0,
-    "promoCodeCount": 1,
-    "queryCount": 3
+    "promoCodeCount": 1
   }
 }
