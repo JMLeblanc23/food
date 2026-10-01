@@ -14,7 +14,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Plates Restaurant and Bar",
-      "score": 0.7521,
+      "score": 0.752,
       "sourceName": "neworleans.com",
       "sourceURL": "https://www.neworleans.com/blog/post/best-happy-hours-in-new-orleans/",
       "sources": [
@@ -51,7 +51,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Cure",
-      "score": 0.7521,
+      "score": 0.752,
       "sourceName": "neworleans.com",
       "sourceURL": "https://www.neworleans.com/blog/post/best-happy-hours-in-new-orleans/",
       "sources": [
@@ -84,7 +84,7 @@
       "fingerprint": "copelands of new orleans|daily_special|weekday lunch from 11 99",
       "firstSeenAt": "2026-09-23T15:36:55+00:00",
       "id": "714782efadd4",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Copeland's of New Orleans",
@@ -96,7 +96,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 12,
+      "timesSeen": 13,
       "title": "Weekday lunch specials from $11.99",
       "validDays": [
         "mon",
@@ -106,6 +106,40 @@
         "fri"
       ],
       "windowEnd": "16:00",
+      "windowStart": "11:00"
+    },
+    {
+      "address": "4218 Magazine Street",
+      "city": "New Orleans",
+      "confidence": 0.9,
+      "dealType": "daily_special",
+      "details": "Monday through Friday lunch special: pick up a small, one-topping pizza or a sandwich plus a fountain drink, all for $10.",
+      "expiresOn": null,
+      "fingerprint": "theos neighborhood pizza|daily_special|lunch small one topping pizza sandwich",
+      "firstSeenAt": "2026-10-01T18:59:53+00:00",
+      "id": "6c48f3d0a92a",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
+      "locationScope": "local",
+      "promoCode": null,
+      "restaurant": "Theo's Neighborhood Pizza",
+      "score": 0.73,
+      "sourceName": "nola.com",
+      "sourceURL": "https://www.nola.com/gambit/best_of_new_orleans/theo-s-neighborhood-pizza-celebrates-20-years-of-being-a-staple-in-the-new-orleans/article_c6750f4a-ab7d-11ef-8365-3323482b67f4.html",
+      "sources": [
+        "nola.com"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 1,
+      "title": "Lunch special: small one-topping pizza or sandwich plus fountain drink for $10",
+      "validDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "windowEnd": "15:00",
       "windowStart": "11:00"
     },
     {
@@ -122,7 +156,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Costera",
-      "score": 0.7296,
+      "score": 0.7295,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -156,7 +190,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Bacchanal Wine",
-      "score": 0.7296,
+      "score": 0.7295,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -192,7 +226,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Origen Venezuelan Bistro",
-      "score": 0.7296,
+      "score": 0.7295,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -228,7 +262,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Charmant",
-      "score": 0.7296,
+      "score": 0.7295,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -263,7 +297,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "The Country Club",
-      "score": 0.7296,
+      "score": 0.7295,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -501,7 +535,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Maypop Restaurant",
-      "score": 0.7293,
+      "score": 0.7292,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -533,7 +567,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Union Ramen",
-      "score": 0.7293,
+      "score": 0.7292,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -567,7 +601,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "The Franklin",
-      "score": 0.7293,
+      "score": 0.7292,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -603,7 +637,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Picnic Provisions & Whiskey",
-      "score": 0.7293,
+      "score": 0.7292,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -634,7 +668,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Costera",
-      "score": 0.7214,
+      "score": 0.7213,
       "sourceName": "thepearlneworleans.com",
       "sourceURL": "https://www.thepearlneworleans.com/dining/5-local-happy-hours-with-deals-on-beverages-and-bites/article_dc7ee47a-5437-11ef-8987-af2a1f525f60.html",
       "sources": [
@@ -664,7 +698,7 @@
       "fingerprint": "cinnabon|limited_drop|1 classic roll national cinnamon roll",
       "firstSeenAt": "2026-10-01T15:48:30+00:00",
       "id": "a23a4b33d1c8",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Cinnabon",
@@ -676,7 +710,7 @@
       ],
       "startsOn": "2026-10-04",
       "status": "expiring_soon",
-      "timesSeen": 5,
+      "timesSeen": 6,
       "title": "$1 Classic Roll for National Cinnamon Roll Day",
       "validDays": [
         "sun"
@@ -694,7 +728,7 @@
       "fingerprint": "dairy queen|promo_code|delivery mondays",
       "firstSeenAt": "2026-10-01T15:48:30+00:00",
       "id": "b7c1377fa96e",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Dairy Queen",
@@ -706,7 +740,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 5,
+      "timesSeen": 6,
       "title": "Free delivery on Mondays",
       "validDays": [
         "mon"
@@ -728,7 +762,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Saba",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -760,7 +794,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Good Catch",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -796,7 +830,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Trinity",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -831,7 +865,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Erin Rose",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -867,7 +901,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Pizza Domenica",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -901,7 +935,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Cane & Table",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -935,7 +969,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Meril",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -971,7 +1005,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Bacchanal Wine",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "bacchanalwine.com",
       "sourceURL": "http://www.bacchanalwine.com/about-marquee",
       "sources": [
@@ -1001,7 +1035,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Cure",
-      "score": 0.7071,
+      "score": 0.707,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/bar-tab-cure-happy-hour-jewel-of-the-south-and-more/",
       "sources": [
@@ -1066,7 +1100,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Bayou Wine Garden / Bayou Beer Garden",
-      "score": 0.7068,
+      "score": 0.7067,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -1100,7 +1134,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "The Vintage",
-      "score": 0.7068,
+      "score": 0.7067,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -1132,7 +1166,7 @@
       "fingerprint": "mcdonalds|other|medium fries 1 purchase",
       "firstSeenAt": "2026-10-01T18:45:51+00:00",
       "id": "0efa2db3a58f",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "McDonald's",
@@ -1146,7 +1180,7 @@
       ],
       "startsOn": null,
       "status": "expiring_soon",
-      "timesSeen": 3,
+      "timesSeen": 4,
       "title": "Free medium fries with $1+ purchase",
       "validDays": [],
       "windowEnd": null,
@@ -1197,7 +1231,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Maypop",
-      "score": 0.6989,
+      "score": 0.6988,
       "sourceName": "thepearlneworleans.com",
       "sourceURL": "https://www.thepearlneworleans.com/dining/5-local-happy-hours-with-deals-on-beverages-and-bites/article_dc7ee47a-5437-11ef-8987-af2a1f525f60.html",
       "sources": [
@@ -1231,7 +1265,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Desire Oyster Bar",
-      "score": 0.6989,
+      "score": 0.6988,
       "sourceName": "thepearlneworleans.com",
       "sourceURL": "https://www.thepearlneworleans.com/dining/5-local-happy-hours-with-deals-on-beverages-and-bites/article_dc7ee47a-5437-11ef-8987-af2a1f525f60.html",
       "sources": [
@@ -1267,7 +1301,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Costera",
-      "score": 0.6989,
+      "score": 0.6988,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/costera-announces-happy-hour/",
       "sources": [
@@ -1301,7 +1335,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Seaworthy",
-      "score": 0.6989,
+      "score": 0.6988,
       "sourceName": "thepearlneworleans.com",
       "sourceURL": "https://www.thepearlneworleans.com/dining/5-local-happy-hours-with-deals-on-beverages-and-bites/article_dc7ee47a-5437-11ef-8987-af2a1f525f60.html",
       "sources": [
@@ -1337,7 +1371,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "TANA",
-      "score": 0.6989,
+      "score": 0.6988,
       "sourceName": "thepearlneworleans.com",
       "sourceURL": "https://www.thepearlneworleans.com/dining/5-local-happy-hours-with-deals-on-beverages-and-bites/article_dc7ee47a-5437-11ef-8987-af2a1f525f60.html",
       "sources": [
@@ -1371,7 +1405,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Copeland's of New Orleans",
-      "score": 0.6911,
+      "score": 0.691,
       "sourceName": "copelandsofneworleans.com",
       "sourceURL": "https://copelandsofneworleans.com/store_location/cajun-restaurant-kenner-la/",
       "sources": [
@@ -1401,7 +1435,7 @@
       "fingerprint": "mcdonalds|promo_code|2 breakfast sandwich",
       "firstSeenAt": "2026-10-01T15:48:30+00:00",
       "id": "131aba929093",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "McDonald's",
@@ -1414,9 +1448,47 @@
       ],
       "startsOn": null,
       "status": "expiring_soon",
-      "timesSeen": 6,
+      "timesSeen": 7,
       "title": "$2 breakfast sandwich",
       "validDays": [],
+      "windowEnd": null,
+      "windowStart": null
+    },
+    {
+      "address": null,
+      "city": null,
+      "confidence": 0.95,
+      "dealType": "combo_meal",
+      "details": "SONIC Cheeseburger, Medium Soft Drink or Iced Tea, Medium Fries or Tots, and a Sundae with choice of topping for $7 plus tax. Add-ons and add-ins cost extra. Limited time at participating locations.",
+      "expiresOn": null,
+      "fingerprint": "sonic drive in|combo_meal|7 big meal",
+      "firstSeenAt": "2026-09-29T18:38:51+00:00",
+      "id": "41576d73a541",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
+      "locationScope": "chain_wide",
+      "promoCode": null,
+      "restaurant": "Sonic Drive-In",
+      "score": 0.69,
+      "sourceName": "eatdrinkdeals.com",
+      "sourceURL": "https://www.eatdrinkdeals.com/sonic-specials-sonic-coupons/",
+      "sources": [
+        "eatdrinkdeals.com",
+        "email.sonicdrivein.com",
+        "totallythebomb.com"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 3,
+      "title": "$7 Big Deal Meal",
+      "validDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat",
+        "sun"
+      ],
       "windowEnd": null,
       "windowStart": null
     },
@@ -1430,7 +1502,41 @@
       "fingerprint": "landrys seafood house|happy_hour|happenin hour drinks from 3 25",
       "firstSeenAt": "2026-09-22T21:08:35+00:00",
       "id": "4d83bf34eafb",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
+      "locationScope": "local",
+      "promoCode": null,
+      "restaurant": "Landry's Seafood House",
+      "score": 0.685,
+      "sourceName": "neworleansrestaurants.com",
+      "sourceURL": "https://www.neworleansrestaurants.com/special-restaurant-offers/",
+      "sources": [
+        "neworleansrestaurants.com"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 12,
+      "title": "Happenin' Hour drinks from $3.25 and food from $5",
+      "validDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "windowEnd": "18:30",
+      "windowStart": "15:30"
+    },
+    {
+      "address": null,
+      "city": "New Orleans",
+      "confidence": 0.8,
+      "dealType": "happy_hour",
+      "details": "Drinks starting at $3.25 and food starting at $5 during Happenin' Hour, Monday-Friday 3:30 pm - 6:30 pm.",
+      "expiresOn": null,
+      "fingerprint": "landrys seafood house|happy_hour|happenin hour drinks food",
+      "firstSeenAt": "2026-09-22T21:02:49+00:00",
+      "id": "73ed2fda58c0",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Landry's Seafood House",
@@ -1443,7 +1549,7 @@
       "startsOn": null,
       "status": "active",
       "timesSeen": 11,
-      "title": "Happenin' Hour drinks from $3.25 and food from $5",
+      "title": "Happenin' Hour drinks and food specials",
       "validDays": [
         "mon",
         "tue",
@@ -1464,7 +1570,7 @@
       "fingerprint": "7 eleven|combo_meal|3 8 piece boneless wings pizza",
       "firstSeenAt": "2026-10-01T18:45:31+00:00",
       "id": "77691fa56b8a",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "7-Eleven",
@@ -1476,7 +1582,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 3,
+      "timesSeen": 4,
       "title": "$3 8-piece boneless wings with pizza purchase",
       "validDays": [
         "mon",
@@ -1504,7 +1610,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Muriel's",
-      "score": 0.6846,
+      "score": 0.6845,
       "sourceName": "neworleans.com",
       "sourceURL": "https://www.neworleans.com/blog/post/best-happy-hours-in-new-orleans/",
       "sources": [
@@ -1645,7 +1751,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "7-Eleven / Speedway",
-      "score": 0.6843,
+      "score": 0.6842,
       "sourceName": "sporked.com",
       "sourceURL": "https://sporked.com/article/every-fast-food-deal-this-week-5/",
       "sources": [
@@ -1681,7 +1787,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Costera",
-      "score": 0.6843,
+      "score": 0.6842,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -1999,7 +2105,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Church's Texas Chicken",
-      "score": 0.6686,
+      "score": 0.6685,
       "sourceName": "churchs.com",
       "sourceURL": "https://www.churchs.com/rewards",
       "sources": [
@@ -2055,43 +2161,6 @@
       "address": null,
       "city": null,
       "confidence": 0.9,
-      "dealType": "combo_meal",
-      "details": "SONIC Cheeseburger, Medium Soft Drink or Iced Tea, Medium Fries or Tots, and a Sundae with choice of topping for $7 plus tax. Add-ons and add-ins cost extra. Limited time at participating locations.",
-      "expiresOn": null,
-      "fingerprint": "sonic drive in|combo_meal|7 big meal",
-      "firstSeenAt": "2026-09-29T18:38:51+00:00",
-      "id": "41576d73a541",
-      "lastSeenAt": "2026-10-01T18:48:44+00:00",
-      "locationScope": "chain_wide",
-      "promoCode": null,
-      "restaurant": "Sonic Drive-In",
-      "score": 0.6671,
-      "sourceName": "eatdrinkdeals.com",
-      "sourceURL": "https://www.eatdrinkdeals.com/sonic-specials-sonic-coupons/",
-      "sources": [
-        "eatdrinkdeals.com",
-        "email.sonicdrivein.com"
-      ],
-      "startsOn": null,
-      "status": "active",
-      "timesSeen": 2,
-      "title": "$7 Big Deal Meal",
-      "validDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri",
-        "sat",
-        "sun"
-      ],
-      "windowEnd": null,
-      "windowStart": null
-    },
-    {
-      "address": null,
-      "city": null,
-      "confidence": 0.9,
       "dealType": "happy_hour",
       "details": "Get 1/2 price Drinks and Slushes every time you order in the SONIC App. Includes Soft Drinks, Iced Teas, Lemonades and Limeades, Ocean Water and Slushes. Candy, Real Fruit and Flavor Add-Ins cost extra and are not discounted. Excludes Mini size, Cold Brew Iced Coffee, Combos, Wacky Pack Kids Meals and other offers. Discount based on menu price. Mobile ordering available only at select locations, hours may vary. Offer good for a limited time only at participating SONIC Drive-Ins.",
       "expiresOn": null,
@@ -2102,7 +2171,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Sonic Drive-In",
-      "score": 0.6671,
+      "score": 0.667,
       "sourceName": "tw-dev-dot-sonic-web.appspot.com",
       "sourceURL": "https://tw-dev-dot-sonic-web.appspot.com/deals",
       "sources": [
@@ -2174,7 +2243,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.6618,
+      "score": 0.6617,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -2204,7 +2273,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.6618,
+      "score": 0.6617,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -2304,7 +2373,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Copeland's of New Orleans",
-      "score": 0.6461,
+      "score": 0.646,
       "sourceName": "facebook.com",
       "sourceURL": "https://www.facebook.com/CopelandsNewOrleans/posts/happy-hour-power-%EF%B8%8Fenjoy-half-price-appetizers-and-drink-specials-monday-through-/10155159429356315/",
       "sources": [
@@ -2435,7 +2504,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Fulton Alley",
-      "score": 0.6446,
+      "score": 0.6445,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -2465,7 +2534,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Fulton Alley",
-      "score": 0.6446,
+      "score": 0.6445,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -2495,7 +2564,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Evviva",
-      "score": 0.6446,
+      "score": 0.6445,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -2523,7 +2592,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Cure",
-      "score": 0.6446,
+      "score": 0.6445,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/bar-tab-cure-happy-hour-jewel-of-the-south-and-more/",
       "sources": [
@@ -2557,7 +2626,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Fulton Alley",
-      "score": 0.6446,
+      "score": 0.6445,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -2587,7 +2656,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Vals",
-      "score": 0.6443,
+      "score": 0.6442,
       "sourceName": "whereyat.com",
       "sourceURL": "https://www.whereyat.com/happy-hours-in-new-orleans-this-fall",
       "sources": [
@@ -2619,7 +2688,7 @@
       "fingerprint": "walk ons sports bistreaux|happy_hour|weekday happy hour half price appetizers",
       "firstSeenAt": "2026-09-22T21:02:52+00:00",
       "id": "c58af3d98ae6",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Walk-On's Sports Bistreaux",
@@ -2631,7 +2700,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 45,
+      "timesSeen": 46,
       "title": "Weekday happy hour: half-price appetizers and drink specials",
       "validDays": [
         "mon",
@@ -2657,7 +2726,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Sonic Drive-In",
-      "score": 0.6396,
+      "score": 0.6395,
       "sourceName": "happyhourmenuu.com",
       "sourceURL": "https://happyhourmenuu.com/sonic-happy-hour/",
       "sources": [
@@ -2763,7 +2832,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.6393,
+      "score": 0.6392,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -2793,7 +2862,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.6393,
+      "score": 0.6392,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -2823,7 +2892,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.6393,
+      "score": 0.6392,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -2838,40 +2907,6 @@
       ],
       "windowEnd": "22:00",
       "windowStart": "18:00"
-    },
-    {
-      "address": null,
-      "city": "New Orleans",
-      "confidence": 0.8,
-      "dealType": "happy_hour",
-      "details": "Drinks starting at $3.25 and food starting at $5 during Happenin' Hour, Monday-Friday 3:30 pm - 6:30 pm.",
-      "expiresOn": null,
-      "fingerprint": "landrys seafood house|happy_hour|happenin hour drinks food",
-      "firstSeenAt": "2026-09-22T21:02:49+00:00",
-      "id": "73ed2fda58c0",
-      "lastSeenAt": "2026-09-30T23:47:09+00:00",
-      "locationScope": "local",
-      "promoCode": null,
-      "restaurant": "Landry's Seafood House",
-      "score": 0.6382,
-      "sourceName": "neworleansrestaurants.com",
-      "sourceURL": "https://www.neworleansrestaurants.com/special-restaurant-offers/",
-      "sources": [
-        "neworleansrestaurants.com"
-      ],
-      "startsOn": null,
-      "status": "active",
-      "timesSeen": 10,
-      "title": "Happenin' Hour drinks and food specials",
-      "validDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "windowEnd": "18:30",
-      "windowStart": "15:30"
     },
     {
       "address": null,
@@ -3046,7 +3081,7 @@
       "fingerprint": "porter lukes|daily_special|wine down wednesdays half off all",
       "firstSeenAt": "2026-09-22T23:44:40+00:00",
       "id": "d23d0da6d606",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Porter & Luke's",
@@ -3058,7 +3093,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 8,
+      "timesSeen": 10,
       "title": "Wine Down Wednesdays: half off all wines",
       "validDays": [
         "wed"
@@ -3076,7 +3111,7 @@
       "fingerprint": "dairy queen|promo_code|99 cent blizzard purchase",
       "firstSeenAt": "2026-10-01T18:43:21+00:00",
       "id": "fcfb564a5302",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Dairy Queen",
@@ -3088,7 +3123,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 4,
+      "timesSeen": 5,
       "title": "99-cent Blizzard with purchase",
       "validDays": [
         "mon",
@@ -3152,7 +3187,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Cure",
-      "score": 0.6221,
+      "score": 0.622,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/markdown-mondays-and-happy-hour-at-cure/",
       "sources": [
@@ -3182,7 +3217,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Trinity",
-      "score": 0.6221,
+      "score": 0.622,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/a-happy-hours-for-end-of-summer/",
       "sources": [
@@ -3212,7 +3247,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Porter & Luke's",
-      "score": 0.6221,
+      "score": 0.622,
       "sourceName": "neworleansrestaurants.com",
       "sourceURL": "https://www.neworleansrestaurants.com/special-restaurant-offers/",
       "sources": [
@@ -3417,7 +3452,7 @@
       "fingerprint": "walk ons sports bistreaux|happy_hour|sunday brunch drink",
       "firstSeenAt": "2026-09-22T21:02:52+00:00",
       "id": "6f7c82ce58f9",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Walk-On's Sports Bistreaux",
@@ -3429,7 +3464,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 47,
+      "timesSeen": 48,
       "title": "Sunday brunch drink specials",
       "validDays": [
         "sun"
@@ -3451,7 +3486,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Heads & Tails",
-      "score": 0.6112,
+      "score": 0.6111,
       "sourceName": "1stlake.com",
       "sourceURL": "https://1stlake.com/blog/10-happy-hours-metairie-kenner-river-ridge-2018/",
       "sources": [
@@ -4247,7 +4282,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Saint John",
-      "score": 0.5821,
+      "score": 0.582,
       "sourceName": "nola.eater.com",
       "sourceURL": "https://nola.eater.com/maps/best-happy-hour-new-orleans-nola",
       "sources": [
@@ -4299,6 +4334,40 @@
       "address": null,
       "city": null,
       "confidence": 0.7,
+      "dealType": "happy_hour",
+      "details": "Half-price select appetizers including Boneless Wings, Spinach & Artichoke Dip, Mozzarella Sticks, and Chicken Wonton Tacos; dine-in only at participating locations. Happy hour runs 3-6 PM and 9 PM-close.",
+      "expiresOn": null,
+      "fingerprint": "applebees|happy_hour|half price appetizers during happy hour",
+      "firstSeenAt": "2026-09-30T16:00:28+00:00",
+      "id": "3ccbd8fa3c7b",
+      "lastSeenAt": "2026-09-30T16:00:28+00:00",
+      "locationScope": "chain_wide",
+      "promoCode": null,
+      "restaurant": "Applebee's",
+      "score": 0.5775,
+      "sourceName": "getfoodmenus.com",
+      "sourceURL": "https://getfoodmenus.com/news/applebees-happy-hour-2026",
+      "sources": [
+        "getfoodmenus.com"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 1,
+      "title": "Half-price appetizers during happy hour",
+      "validDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "windowEnd": "18:00",
+      "windowStart": "15:00"
+    },
+    {
+      "address": null,
+      "city": null,
+      "confidence": 0.7,
       "dealType": "combo_meal",
       "details": "Sonic lists its $7 Big Deal Meal on the current menu; no posted end date.",
       "expiresOn": null,
@@ -4309,7 +4378,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Sonic",
-      "score": 0.5775,
+      "score": 0.5774,
       "sourceName": "totallythebomb.com",
       "sourceURL": "https://totallythebomb.com/october-restaurant-deals-2026/",
       "sources": [
@@ -4345,7 +4414,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Wendy's",
-      "score": 0.5775,
+      "score": 0.5774,
       "sourceName": "dealsonmeals.app",
       "sourceURL": "https://www.dealsonmeals.app/",
       "sources": [
@@ -4358,40 +4427,6 @@
       "validDays": [],
       "windowEnd": null,
       "windowStart": null
-    },
-    {
-      "address": null,
-      "city": null,
-      "confidence": 0.7,
-      "dealType": "happy_hour",
-      "details": "Half-price select appetizers including Boneless Wings, Spinach & Artichoke Dip, Mozzarella Sticks, and Chicken Wonton Tacos; dine-in only at participating locations. Happy hour runs 3-6 PM and 9 PM-close.",
-      "expiresOn": null,
-      "fingerprint": "applebees|happy_hour|half price appetizers during happy hour",
-      "firstSeenAt": "2026-09-30T16:00:28+00:00",
-      "id": "3ccbd8fa3c7b",
-      "lastSeenAt": "2026-09-30T16:00:28+00:00",
-      "locationScope": "chain_wide",
-      "promoCode": null,
-      "restaurant": "Applebee's",
-      "score": 0.5775,
-      "sourceName": "getfoodmenus.com",
-      "sourceURL": "https://getfoodmenus.com/news/applebees-happy-hour-2026",
-      "sources": [
-        "getfoodmenus.com"
-      ],
-      "startsOn": null,
-      "status": "active",
-      "timesSeen": 1,
-      "title": "Half-price appetizers during happy hour",
-      "validDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri"
-      ],
-      "windowEnd": "18:00",
-      "windowStart": "15:00"
     },
     {
       "address": "4041 Williams Blvd STE A3",
@@ -4407,7 +4442,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.5768,
+      "score": 0.5767,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -4437,7 +4472,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Laketown Bar & Grill",
-      "score": 0.5768,
+      "score": 0.5767,
       "sourceName": "whereat.io",
       "sourceURL": "https://www.whereat.io/go/laketown-bar-grill-kenner-5b73f9e9",
       "sources": [
@@ -4467,7 +4502,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Saba",
-      "score": 0.5719,
+      "score": 0.5718,
       "sourceName": "myneworleans.com",
       "sourceURL": "https://www.myneworleans.com/saba-announces-new-happy-hour-lunch-menu/",
       "sources": [
@@ -4484,70 +4519,6 @@
       ],
       "windowEnd": "17:00",
       "windowStart": "14:30"
-    },
-    {
-      "address": null,
-      "city": null,
-      "confidence": 0.7,
-      "dealType": "other",
-      "details": "Buy a $1 Boo! Book coupon booklet and get 5 free Jr. Frosty coupons plus a $1.99 Kids Meal coupon with purchase. $0.90 per book benefits the Dave Thomas Foundation for Adoption. Coupons valid through December 31, 2026, for in-restaurant redemption only.",
-      "expiresOn": "2026-12-31",
-      "fingerprint": "dairy queen|other|1 boo book jr frosty",
-      "firstSeenAt": "2026-10-01T15:48:30+00:00",
-      "id": "70db632fea14",
-      "lastSeenAt": "2026-10-01T15:48:40+00:00",
-      "locationScope": "chain_wide",
-      "promoCode": null,
-      "restaurant": "Dairy Queen",
-      "score": 0.5689,
-      "sourceName": "dealsonmeals.app",
-      "sourceURL": "https://www.dealsonmeals.app/",
-      "sources": [
-        "dealsonmeals.app"
-      ],
-      "startsOn": null,
-      "status": "active",
-      "timesSeen": 1,
-      "title": "$1 Boo! Book with free Jr. Frosty coupons",
-      "validDays": [],
-      "windowEnd": null,
-      "windowStart": null
-    },
-    {
-      "address": null,
-      "city": null,
-      "confidence": 0.7,
-      "dealType": "promo_code",
-      "details": "DQ Rewards members can get a Blizzard Treat for $0.99 when buying one at full price. Redeem in the app; valid once per day.",
-      "expiresOn": null,
-      "fingerprint": "dairy queen|promo_code|0 99 blizzard full price blizzard",
-      "firstSeenAt": "2026-10-01T15:48:30+00:00",
-      "id": "f7005f706e53",
-      "lastSeenAt": "2026-10-01T15:48:40+00:00",
-      "locationScope": "chain_wide",
-      "promoCode": null,
-      "restaurant": "Dairy Queen",
-      "score": 0.5689,
-      "sourceName": "sporked.com",
-      "sourceURL": "https://sporked.com/article/we-found-the-best-fast-food-deals-this-weekend-2/",
-      "sources": [
-        "sporked.com"
-      ],
-      "startsOn": null,
-      "status": "active",
-      "timesSeen": 1,
-      "title": "$0.99 Blizzard with full-price Blizzard purchase",
-      "validDays": [
-        "mon",
-        "tue",
-        "wed",
-        "thu",
-        "fri",
-        "sat",
-        "sun"
-      ],
-      "windowEnd": null,
-      "windowStart": null
     },
     {
       "address": null,
@@ -4578,6 +4549,70 @@
       ],
       "windowEnd": "22:00",
       "windowStart": "18:00"
+    },
+    {
+      "address": null,
+      "city": null,
+      "confidence": 0.7,
+      "dealType": "other",
+      "details": "Buy a $1 Boo! Book coupon booklet and get 5 free Jr. Frosty coupons plus a $1.99 Kids Meal coupon with purchase. $0.90 per book benefits the Dave Thomas Foundation for Adoption. Coupons valid through December 31, 2026, for in-restaurant redemption only.",
+      "expiresOn": "2026-12-31",
+      "fingerprint": "dairy queen|other|1 boo book jr frosty",
+      "firstSeenAt": "2026-10-01T15:48:30+00:00",
+      "id": "70db632fea14",
+      "lastSeenAt": "2026-10-01T15:48:40+00:00",
+      "locationScope": "chain_wide",
+      "promoCode": null,
+      "restaurant": "Dairy Queen",
+      "score": 0.5688,
+      "sourceName": "dealsonmeals.app",
+      "sourceURL": "https://www.dealsonmeals.app/",
+      "sources": [
+        "dealsonmeals.app"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 1,
+      "title": "$1 Boo! Book with free Jr. Frosty coupons",
+      "validDays": [],
+      "windowEnd": null,
+      "windowStart": null
+    },
+    {
+      "address": null,
+      "city": null,
+      "confidence": 0.7,
+      "dealType": "promo_code",
+      "details": "DQ Rewards members can get a Blizzard Treat for $0.99 when buying one at full price. Redeem in the app; valid once per day.",
+      "expiresOn": null,
+      "fingerprint": "dairy queen|promo_code|0 99 blizzard full price blizzard",
+      "firstSeenAt": "2026-10-01T15:48:30+00:00",
+      "id": "f7005f706e53",
+      "lastSeenAt": "2026-10-01T15:48:40+00:00",
+      "locationScope": "chain_wide",
+      "promoCode": null,
+      "restaurant": "Dairy Queen",
+      "score": 0.5688,
+      "sourceName": "sporked.com",
+      "sourceURL": "https://sporked.com/article/we-found-the-best-fast-food-deals-this-weekend-2/",
+      "sources": [
+        "sporked.com"
+      ],
+      "startsOn": null,
+      "status": "active",
+      "timesSeen": 1,
+      "title": "$0.99 Blizzard with full-price Blizzard purchase",
+      "validDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat",
+        "sun"
+      ],
+      "windowEnd": null,
+      "windowStart": null
     },
     {
       "address": null,
@@ -4807,7 +4842,7 @@
       "fingerprint": "new orleans school of cooking|promo_code|3 off lunch cooking classes",
       "firstSeenAt": "2026-09-22T21:02:49+00:00",
       "id": "c7f7c43f794b",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "New Orleans School of Cooking",
@@ -4819,7 +4854,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 20,
+      "timesSeen": 22,
       "title": "$3 off lunch cooking classes",
       "validDays": [],
       "windowEnd": null,
@@ -5449,7 +5484,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Church's Texas Chicken",
-      "score": 0.5436,
+      "score": 0.5435,
       "sourceName": "churchs.com",
       "sourceURL": "https://www.churchs.com/deals",
       "sources": [
@@ -5713,7 +5748,7 @@
       "fingerprint": "baskin robbins|promo_code|2 off medium large frozen beverage",
       "firstSeenAt": "2026-10-01T15:48:30+00:00",
       "id": "7f65675cd23d",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Baskin-Robbins",
@@ -5725,7 +5760,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 5,
+      "timesSeen": 6,
       "title": "$2 off medium or large frozen beverage",
       "validDays": [],
       "windowEnd": null,
@@ -5805,7 +5840,7 @@
       "fingerprint": "walk ons sports bistreaux|daily_special|5 appetizers tuesdays",
       "firstSeenAt": "2026-09-22T21:02:52+00:00",
       "id": "129df141ac7c",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Walk-On's Sports Bistreaux",
@@ -5817,7 +5852,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 44,
+      "timesSeen": 45,
       "title": "$5 appetizers on Tuesdays",
       "validDays": [
         "tue"
@@ -6200,7 +6235,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Church's Texas Chicken",
-      "score": 0.5161,
+      "score": 0.516,
       "sourceName": "churchs.com",
       "sourceURL": "https://www.churchs.com/rewards",
       "sources": [
@@ -6226,7 +6261,7 @@
       "fingerprint": "walk ons sports bistreaux|promo_code|mozzarella logs loyalty sign up",
       "firstSeenAt": "2026-09-22T21:02:52+00:00",
       "id": "6440c7ce246f",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Walk-On's Sports Bistreaux",
@@ -6238,7 +6273,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 43,
+      "timesSeen": 44,
       "title": "Free Mozzarella Logs for loyalty sign-up",
       "validDays": [],
       "windowEnd": null,
@@ -6254,7 +6289,7 @@
       "fingerprint": "olde new orleans cookery|promo_code|10 off entree purchase",
       "firstSeenAt": "2026-09-22T21:02:49+00:00",
       "id": "c0fb2688507f",
-      "lastSeenAt": "2026-10-01T18:58:20+00:00",
+      "lastSeenAt": "2026-10-01T18:59:57+00:00",
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Olde New Orleans Cookery",
@@ -6266,7 +6301,7 @@
       ],
       "startsOn": null,
       "status": "active",
-      "timesSeen": 16,
+      "timesSeen": 18,
       "title": "10% off with entree purchase",
       "validDays": [],
       "windowEnd": null,
@@ -6286,7 +6321,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Bacchanal Wine",
-      "score": 0.5146,
+      "score": 0.5145,
       "sourceName": "bacchanalwine.com",
       "sourceURL": "http://www.bacchanalwine.com/about-marquee",
       "sources": [
@@ -6417,7 +6452,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Copeland's of New Orleans",
-      "score": 0.4987,
+      "score": 0.4986,
       "sourceName": "1stlake.com",
       "sourceURL": "https://1stlake.com/blog/10-happy-hours-metairie-kenner-river-ridge-2018/",
       "sources": [
@@ -6765,7 +6800,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Sonic Drive-In",
-      "score": 0.4812,
+      "score": 0.4811,
       "sourceName": "livefreeshopsonic.com",
       "sourceURL": "https://www.livefreeshopsonic.com/legal/sonic-legal-lines",
       "sources": [
@@ -7068,7 +7103,7 @@
       "locationScope": "local",
       "promoCode": null,
       "restaurant": "Loft18",
-      "score": 0.4587,
+      "score": 0.4586,
       "sourceName": "1stlake.com",
       "sourceURL": "https://1stlake.com/blog/10-happy-hours-metairie-kenner-river-ridge-2018/",
       "sources": [
@@ -7861,7 +7896,7 @@
       "locationScope": "chain_wide",
       "promoCode": null,
       "restaurant": "Burger King",
-      "score": 0.3953,
+      "score": 0.3952,
       "sourceName": "usafoodmenu.com",
       "sourceURL": "https://usafoodmenu.com/menu/burger-king-menu/",
       "sources": [
@@ -11673,7 +11708,7 @@
       "windowStart": null
     }
   ],
-  "generatedAt": "2026-10-01T18:58:20+00:00",
+  "generatedAt": "2026-10-01T18:59:57+00:00",
   "home": {
     "label": "New Orleans, LA",
     "lat": 29.9511,
@@ -11682,8 +11717,8 @@
   },
   "schemaVersion": 1,
   "stats": {
-    "activeCount": 242,
-    "dealCount": 370,
+    "activeCount": 243,
+    "dealCount": 371,
     "expiringSoonCount": 4,
     "newDealCount": 1,
     "promoCodeCount": 7
