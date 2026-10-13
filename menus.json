@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T18:31:20+00:00",
-  "itemCount": 385,
+  "generatedAt": "2026-10-13T21:33:29+00:00",
+  "itemCount": 450,
   "schemaVersion": 1,
-  "venueCount": 5,
+  "venueCount": 7,
   "venues": [
     {
       "items": [
@@ -2353,6 +2353,412 @@
       "name": "Mahoney's Po-boy Shop",
       "sourceURL": "https://mahonyspoboys.com/menu",
       "verifiedAt": "2026-10-13T15:10:52+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Salads",
+          "description": "Mixed Greens, Buttermilk Dressing, Shaved Onion, Herbs Pecorino Romano",
+          "name": "HOUSE",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine, Sourdough Croutons, Pecorino Romano, Charred Pepper Dressing",
+          "name": "CAESAR",
+          "price": null
+        },
+        {
+          "category": "Pizza Toppings",
+          "description": null,
+          "name": "BASIL, HONEY, PEPERONCINO, RED ONION, SHAVED GARLIC, SIDE OF RANCH",
+          "price": "$1"
+        },
+        {
+          "category": "Pizza Toppings",
+          "description": null,
+          "name": "MOZZARELLA, PECORINO ROMANO, BLACK OLIVES, CAPERS, FARM EGG, RICOTTA",
+          "price": "$2"
+        },
+        {
+          "category": "Pizza Toppings",
+          "description": null,
+          "name": "PEPPERONI, PORK SAUSAGE, BOQUERONES",
+          "price": "$3"
+        },
+        {
+          "category": "Pizzas",
+          "description": "Tomato Sauce, Fresh Mozzarella, Basil, Olive Oil",
+          "name": "MARGHERITA",
+          "price": "$15"
+        },
+        {
+          "category": "Pizzas",
+          "description": "Fontina, Fresh Mozzarella, Ricotta, Pecorino, Roasted Garlic",
+          "name": "BIANCA",
+          "price": "$16"
+        },
+        {
+          "category": "Pizzas",
+          "description": "Tomato Sauce, Fresh Mozzarella, Pepperoni",
+          "name": "PEPPERONI",
+          "price": "$16"
+        },
+        {
+          "category": "Pizzas",
+          "description": "Tomato Sauce, Olives, Capers, Peperoncino, Anchovies, Calabrian Chili Paste, Shaved Garlic, Oregano",
+          "name": "PUTTANESCA",
+          "price": "$17"
+        },
+        {
+          "category": "Pizzas",
+          "description": "Maggie\u2019s Mushrooms, Truffled Ricotta, Mozzarella, Fontina, Pickled Red Onions",
+          "name": "FUNGUS AMONG US",
+          "price": "$21"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Olive Oil Gin, Basil Eau de Vie, Bay Laurel Vermouth, White Balsamic, Pearl Onion",
+          "name": "MEDITERRANEAN FREEZER GIBSON",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Bonded Bourbon, Marsala, Rhubarb Three Ways",
+          "name": "RHUBARB OLD FASHIONED",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "OFTD Rum, Cucumber Menta, CH Fernet, House Ginger Beer",
+          "name": "CUCUMBER BUCK",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Vodka, Lime, Strega, Passionfruit, Vanilla",
+          "name": "PASSIONFRUIT GIMLET",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Jalape\u00f1o Tequila, Yellow Chartreuse, Apricot, Orgeat, Lime, Tajin",
+          "name": "SPICY MARG",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Brown Butter Gin, Oloroso, Lemon, Raw Sage Honey, dell\u2019Eborista",
+          "name": "BITTER BEE\u2019S KNEE",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Vodka, Cold Brew, Averna, PX Sherry",
+          "name": "ESPRESSO MARTINI",
+          "price": null
+        },
+        {
+          "category": "Natural Wine",
+          "description": null,
+          "name": "HOUSE RED OR WHITE",
+          "price": "$10 | $25 | $45(L)"
+        },
+        {
+          "category": "Natural Wine",
+          "description": null,
+          "name": "PROSECCO",
+          "price": "$10"
+        },
+        {
+          "category": "Natural Wine",
+          "description": null,
+          "name": "OTHER GLASS",
+          "price": "$13"
+        },
+        {
+          "category": "Negronis",
+          "description": "Bombay Dry Gin, Campari, Vermouth di Torino, Orange Peel",
+          "name": "CLASSIC",
+          "price": null
+        },
+        {
+          "category": "Negronis",
+          "description": "Bourbon, Bruto Americano, Strawberry Vermouth, Thyme",
+          "name": "LOUISVILLE",
+          "price": null
+        },
+        {
+          "category": "Negronis",
+          "description": "Japanese Plum Whisky, Gran Classico, Shiso Quinquina",
+          "name": "SHINJUKU",
+          "price": null
+        },
+        {
+          "category": "Negronis",
+          "description": "Beet Vodka, Bitter Bianco, Dill Vermouth, Absinthe",
+          "name": "WARSAW",
+          "price": null
+        },
+        {
+          "category": "Negronis",
+          "description": "Blanco Tequila, Cynar, Manzanilla, Cilantro",
+          "name": "JALISCO",
+          "price": null
+        },
+        {
+          "category": "Negronis",
+          "description": "Pineapple Rum, Cappelletti, Coconut Vermouth, Lime Bitters",
+          "name": "SAN JUAN",
+          "price": null
+        },
+        {
+          "category": "Spritz",
+          "description": "London Dry Gin, Italicus Rosolio, Earl Grey",
+          "name": "BERGAMOT",
+          "price": null
+        },
+        {
+          "category": "Spritz",
+          "description": "White Port, Fino Sherry, Celery, Elderflower Tonic",
+          "name": "CELERY & TONIC",
+          "price": null
+        },
+        {
+          "category": "Spritz",
+          "description": "Rhum Agricole, Cherry Chartreuse, Lime, Mint",
+          "name": "CHERRY",
+          "price": null
+        },
+        {
+          "category": "Spritz",
+          "description": "Vodka, Pimm\u2019s No. 1, Blackberry, Almond",
+          "name": "WIMBLEDON",
+          "price": null
+        }
+      ],
+      "key": "margots",
+      "name": "Margot's",
+      "sourceURL": "https://www.margotsnola.com/menu",
+      "verifiedAt": "2026-10-13T21:32:08+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Raw Bar",
+          "description": "Area 3",
+          "name": "WILD GULF OYSTERS",
+          "price": "$13 / $25"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Grand Isle, LA",
+          "name": "BARATARIA BEAUTIES",
+          "price": "$3"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Murder Point, AL",
+          "name": "MURDER POINTS",
+          "price": "$3"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Grand Isle, LA",
+          "name": "BRIGHTSIDES",
+          "price": "$3"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Coconut Leche de Tigre, Fresno Chilis, Cucumber",
+          "name": "GULF TUNA CRUDO",
+          "price": "$18"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Aji Amarillo, Red Onion, Herbs, Tarro Chips",
+          "name": "RED SNAPPER CEVICHE",
+          "price": "$18"
+        },
+        {
+          "category": "Raw Bar",
+          "description": "Poach Jumbo Gulf Shrimp with Cocktail Sauce and Fresh Horseradish",
+          "name": "PEEL 'n EAT SHRIMP",
+          "price": null
+        },
+        {
+          "category": "Raw Bar",
+          "description": "6 Wild Gulf Oysters, 6 Premium Gulf Oysters, Smoked Tuna Dip, Snapper Ceviche, Poached Shrimp",
+          "name": "SEAFOOD PLATEAUX",
+          "price": "$68"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Tabasco Mash, Lemon, Parmesan",
+          "name": "CHILI BUTTER ROASTED OYSTERS",
+          "price": "$24"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Tasso Marmalade",
+          "name": "PIMENTO CHEESE CROQUETTES",
+          "price": "$15"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Chili Butter Saltines, Pickled Chilies",
+          "name": "SMOKED TUNA DIP",
+          "price": "$13"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Habanero Lime Butter, Grilled Bread",
+          "name": "MARIA'S SHRIMP",
+          "price": "$19"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Chili Oil",
+          "name": "FRESH BAKED FOCCACIA",
+          "price": "$6"
+        },
+        {
+          "category": "Soup + Salad",
+          "description": "Shrimp, Oysters, Okra, Louisiana Popcorn Rice",
+          "name": "SEAFOOD GUMBO",
+          "price": "$13"
+        },
+        {
+          "category": "Soup + Salad",
+          "description": "Green Goddess, Feta, Tomatoes, Pickled Peppers, Red Onion, Breadcrumbs",
+          "name": "ICEBERG WEDGE",
+          "price": "$15"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "Brisket & Short Rib Grind, White Cheddar, Habanero Mayo, Caramelized Onions, Pikliz",
+          "name": "JERK BURGER",
+          "price": "$20"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "Spicy Lamb Sausage, Cucumber Yogurt, Tomato, Fries",
+          "name": "LAMB PITA",
+          "price": "$19"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "tossed in white remoulade with pickled celery on a challah roll",
+          "name": "LOUISIANA SHRIMP ROLL",
+          "price": "$24"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "fresh gulf tuna seared rare over Napa cabbage, pickled edamame and a ginger miso dressing",
+          "name": "SEARED YELLOWFIN TUNA",
+          "price": "$28"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "Crispy Gulf Oysters, Apple Kimchi, Jalapeno, Cilantro, Cucumber, Ginger BBQ, Dong Phoung Pistolette, Fries",
+          "name": "FRIED OYSTER BANH MI",
+          "price": "$24"
+        },
+        {
+          "category": "Larger Plates",
+          "description": "on Dong Phoung Brioche Bun with Remoulade,Pickled Peppers, House Chips",
+          "name": "SPICY GULF FISH SANDWICH",
+          "price": "$22"
+        },
+        {
+          "category": "Sweet",
+          "description": "chantilly cream",
+          "name": "Chocolate Flan",
+          "price": "$12"
+        },
+        {
+          "category": "Sweet",
+          "description": "Daily Selection",
+          "name": "HOUSE MADE ICE CREAM or SORBET",
+          "price": "$8"
+        },
+        {
+          "category": "Happy Hour Drinks",
+          "description": "Sparkling | Rose | White | Orange",
+          "name": "WINE",
+          "price": "$8"
+        },
+        {
+          "category": "Happy Hour Drinks",
+          "description": "Rotating Selection of 3 Wines",
+          "name": "WINE FLIGHTS",
+          "price": "$20"
+        },
+        {
+          "category": "Happy Hour Drinks",
+          "description": "Local Can & Bottle Selections",
+          "name": "BEER",
+          "price": "$5"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Creamy Frozen Rum Concoction",
+          "name": "BUSHWACKER",
+          "price": "10"
+        },
+        {
+          "category": "Cocktails",
+          "description": ".",
+          "name": "OLD FASHIONED & MARGARITA",
+          "price": "$8"
+        },
+        {
+          "category": "Cocktails",
+          "description": "A trip to the beach is just what the doctor ordered. Dive into this Painkiller with dark rum, coconut & Louisiana Satsuma juice.",
+          "name": "Shore Leave",
+          "price": "$15"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Cosmo-style sunshine in a glass. Pineapple infused vodka and summer vibes.",
+          "name": "Fineapple",
+          "price": "$15"
+        },
+        {
+          "category": "Cocktails",
+          "description": "She\u2019s a little spicy, a little sweet and a whole lot of attitude. A tropical mezcal Margarita.",
+          "name": "Smoke Show",
+          "price": "$15"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Bramble on with this fall crusher. House made muscadine jam, lemon and gin.",
+          "name": "That\u2019s My Jam",
+          "price": "$14"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Tired of Espresso Martinis? Need a caffeine buzz? This amaro and bourbon old fashioned style drink is for you",
+          "name": "Not Another Coffee Cocktail",
+          "price": "$15"
+        },
+        {
+          "category": "Cocktails",
+          "description": "A twist on a yummy New Orleans classic. A crab boil spiced hurricane",
+          "name": "Down The Bayou",
+          "price": "$14"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Be pretty in pink with this fruity and floral spin on a Peruvian classic.",
+          "name": "Flower Power Sour",
+          "price": "$15"
+        }
+      ],
+      "key": "marias oyster wine",
+      "name": "Maria's Oyster & Wine Bar",
+      "sourceURL": "https://www.mariasoysterbar.com/menus",
+      "verifiedAt": "2026-10-13T21:32:14+00:00"
     }
   ]
 }
