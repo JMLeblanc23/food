@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T02:00:01+00:00",
-  "itemCount": 334,
+  "generatedAt": "2026-10-13T12:10:08+00:00",
+  "itemCount": 375,
   "schemaVersion": 1,
-  "venueCount": 3,
+  "venueCount": 4,
   "venues": [
     {
       "items": [
@@ -2031,6 +2031,260 @@
       "name": "Lebanon's Cafe",
       "sourceURL": "https://lebanonscafe.com/our-menu",
       "verifiedAt": "2026-10-13T01:59:17+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "A savory New Orleans standard stock with sausage, chicken and a cornucopia of seasonings. We saut\u00e9 fresh shrimp right before we send it to your taste buds. Also available without seafood.",
+          "name": "Creole Gumbo",
+          "price": "$9.95 / $13.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Crawfish Etouffe",
+          "price": "$9.95 / $13.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Shrimp Remoulade",
+          "price": "$10.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Shrimp Cocktail",
+          "price": "$10.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Fried Pickled Okra",
+          "price": "$8.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Fried Eggplant",
+          "price": "$8.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Fried Green Tomatoes",
+          "price": "$9.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Lettuce blend, cucumber and tomato.",
+          "name": "Liuzza's House",
+          "price": "$7.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Savory chicken (grilled or pan\u00e9ed) on a bed of lettuce, tomato, cucumber, sliced egg, shredded parmigiana, and crispy bacon.",
+          "name": "Savory Chicken",
+          "price": "$17.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Lettuce blend, shrimp saut\u00e9ed in a light butter lemon sauce.",
+          "name": "Saut\u00e9ed Shrimp",
+          "price": "$17.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Shrimp and oysters on a bed of lettuce with tomato and cucumber.",
+          "name": "Fried Seafood",
+          "price": "$18.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Add chicken or shrimp for $6",
+          "name": "Caesar",
+          "price": "$11.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "OUR SIGNATURE DISH! Fresh shrimp saut\u00e9ed in a New Orleans BBQ sauce and stuffed into a French bread pistolette.",
+          "name": "BBQ Shrimp Poboy",
+          "price": "$18.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Succulent, deep-fried oysters served on roasted garlic butter bread.",
+          "name": "Garlic Oyster Poboy",
+          "price": "MKT"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "The reason to come to New Orleans. The Breath Taking Beef Poboy with mayo and nostril searing horseradish!",
+          "name": "Breathtaking Beef",
+          "price": "$15.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Slowly simmered corned beef with sauerkraut, Swiss cheese and our own Thousand Island dressing on rye bread.",
+          "name": "Reuben",
+          "price": "$14.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Our specialty house ground with magic seasoning chuck mixed with bell peppers and onions and grilled to your taste. Served with French fries.",
+          "name": "Liuzza's House Burger",
+          "price": "$16.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Grilled chicken breast, pepper jack cheese, bacon, mayo, lettuce and tomato on a bun. Served with French fries.",
+          "name": "Hot Grilled Chicken Club",
+          "price": "$16.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Shrimp",
+          "price": "$15.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Oyster",
+          "price": "MKT"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Catfish",
+          "price": "$13.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Softshell",
+          "price": "MKT"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Roast Beef (sliced or debris)",
+          "price": "$14.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Ham",
+          "price": "$11.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Turkey",
+          "price": "$11.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Corned Beef",
+          "price": "$12.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Hot Sausage",
+          "price": "$12.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Chicken (grilled or pan\u00e9ed)",
+          "price": "$12.95"
+        },
+        {
+          "category": "Poboys",
+          "description": null,
+          "name": "Fried Green Tomato",
+          "price": "$12.95"
+        },
+        {
+          "category": "Poboys",
+          "description": "1/2 Seafood PoBoy with a cup of gumbo or soup. Add Etouffe for 1.",
+          "name": "Seafood Poboy & Gumbo/Soup",
+          "price": "$16.95"
+        },
+        {
+          "category": "Poboys",
+          "description": "1/2 Meat PoBoy with a cup of gumbo or soup. Add Etouffe for 1.",
+          "name": "Meat Poboy & Gumbo/Soup",
+          "price": "$15.95"
+        },
+        {
+          "category": "Plates",
+          "description": null,
+          "name": "Seafood Combo",
+          "price": "MKT"
+        },
+        {
+          "category": "Plates",
+          "description": null,
+          "name": "Grilled Cheese",
+          "price": "$8.95"
+        },
+        {
+          "category": "Plates",
+          "description": null,
+          "name": "Kid's Chicken",
+          "price": "$9.95"
+        },
+        {
+          "category": "Plates",
+          "description": null,
+          "name": "Kid's Shrimp",
+          "price": "$10.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "French Fries",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cole Slaw",
+          "price": "$3"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Potato Salad",
+          "price": "$4"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Garlic Bread",
+          "price": "$3"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Potato Fries",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Caesar Salad",
+          "price": "$5"
+        }
+      ],
+      "key": "liuzzas by the track",
+      "name": "Liuzza's by the Track",
+      "sourceURL": "https://www.liuzzasbtt.com/menu",
+      "verifiedAt": "2026-10-13T12:09:34+00:00"
     }
   ]
 }
