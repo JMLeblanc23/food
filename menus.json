@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T01:38:29+00:00",
-  "itemCount": 262,
+  "generatedAt": "2026-10-13T02:00:01+00:00",
+  "itemCount": 334,
   "schemaVersion": 1,
-  "venueCount": 2,
+  "venueCount": 3,
   "venues": [
     {
       "items": [
@@ -1591,6 +1591,446 @@
       "name": "La Petite Grocery",
       "sourceURL": "https://www.lapetitegrocery.com/menus",
       "verifiedAt": "2026-10-13T01:37:49+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "Crispy golden fries, sprinkled and served with a generous side of ketchup for dipping and feta sauce.",
+          "name": "Crispy golden fries",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Hummus, baba ganuj, labna, tabouleh, falafel & vegetarian grape leaves.",
+          "name": "Hummus, baba ganuj, labna, tabouleh, falafel & vegetarian grape leaves",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Whipped feta, Greek yogurt, Kosher salt, Neufchatel cheese, clove garlic minced, topped with olive oil, lemon juice, jalapenos, and kalamata Olives.",
+          "name": "Whipped feta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A tantalizing blend of ground chickpeas, tahini, garlic & lemon juice.",
+          "name": "Hummus",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Our hummus recipe topped with fried cauliflower and pomegranate sauce.",
+          "name": "Hummus with fried cauliflower and pomegranate sauce",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "It\u2019s made with chickpeas, tahini, garlic, extra-virgin olive oil, lemon juice, and roasted red peppers topped with feta cheese & olives",
+          "name": "Roasted red pepper hummus",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A savory dip of baked eggplant, tahini, garlic, mint and lemon juice.",
+          "name": "Baba ganuj",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A blend of hummus, whole chickpeas & jalape\u00f1o peppers.",
+          "name": "Hummus with whole chickpeas & jalape\u00f1o peppers",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Dry roasted eggplant, bell peppers & onions with sun-dried tomatoes. Served spicy & warm.",
+          "name": "Eggplant dip",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Thick yogurt & mint topped with extra virgin olive oil.",
+          "name": "Yogurt & mint dip",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "This Tzatziki Dip is the perfect accompaniment to any dish! It is cooling, refreshing and has a beautiful herby flavour.",
+          "name": "Tzatziki Dip",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Ground lamb & beef with tomatoes & spices baked on pita bread. Served with a side of Tzatziki Sauce.",
+          "name": "Lamb & beef pita",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Oregano & sesame seeds with olive oil baked on pita bread. Served with a side of Tzatziki Sauce.",
+          "name": "Oregano & sesame pita",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Slices of fried sheep\u2019s milk cheese served with saut\u00e9ed tomatoes, bell peppers & onions.",
+          "name": "Fried sheep\u2019s milk cheese with tomatoes, bell peppers & onions",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Slices of fried sheep\u2019s milk cheese served with olives & Cucumber.",
+          "name": "Fried sheep\u2019s milk cheese with olives & cucumber",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Ground chickpeas, onion, parsley, garlic, special seasonigs fried to perfection.",
+          "name": "Falafel",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A hand-formed shell of cracked wheat stuffed with seasoned ground beef & pine-nuts onions fried to perfection. Served with a side of Tzatziki Sauce.",
+          "name": "Kibbeh",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Greek filo dough stuffed with spinach, feta cheese & ricotta. Served with a side of Tzatziki Sauce.",
+          "name": "Spinach pie",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "minced parsley mixed with tomatoes, onions & cracked wheat in a delicate lemon dressing.",
+          "name": "Tabouleh",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "The creamy, tangy taste of feta pairs perfectly with the salty, briny flavor of olives.",
+          "name": "Feta & olives",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Basmati rice is Lebanese rice that is served as an appetizer. It is cool and refreshing, and makes a great side dish to any meal.",
+          "name": "Basmati rice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Traditional pickles and Kalamata olives.",
+          "name": "Pickles & Kalamata olives",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Cabbage stuffed with basmati rice, ground beef, onion & parsley. Served with a side of Tzatziki Sauce.",
+          "name": "Cabbage rolls",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stuffed with basmati rice, ground beef & vegetables. Served with a side of Tzatziki Sauce.",
+          "name": "Stuffed grape leaves with beef",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "stuffed with basmati rice & vegetables. Served with a side of Tzatziki Sauce.",
+          "name": "Vegetarian grape leaves",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "basmati rice, brown lentils & sauteed onions",
+          "name": "Mujadara",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "served with toasted pita triangles",
+          "name": "Hummus with toasted pita triangles",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Mashed fava beans, garlic, lemon juice & jalape\u00f1os. Served warm",
+          "name": "Fava beans",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Dough stuffed with spinach, sauteed onions, lemon juice & sumac",
+          "name": "Spinach turnovers",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Whipped feta cheese, Greek yogurt, Neufohatel cheese, topped with olive oil, lemonjuice, jalapenos and kalamata olives",
+          "name": "Whipped feta cheese",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Tender boneless chicken breast marinated in garlic & spices.",
+          "name": "Chicken kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Freshly marinated beef seasoned with our unique blend of spices.",
+          "name": "Beef shish kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Freshly ground lamb & beef seasoned with parsley, onions & Lebanese spices.",
+          "name": "Lula kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Freshly marinated seasoned leg of lamb.",
+          "name": "Lamb kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Chicken Kabob, Beef Shish Kabob & Lula Kabob",
+          "name": "Combination kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Marinated chicken breast hand-sliced off a vertical rotisserie. Served with a side of Tzatziki Sauce.",
+          "name": "Chicken shawarma",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Spiced lamb & beef topped with tahini sauce.",
+          "name": "Gyro",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Slices of beef marinated in red vinegar, Worcestershire sauce, garlic and a blend of Middle Eastern spices. Served with a side of Tzatziki Sauce.",
+          "name": "Beef shawarma",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Gyro & Chicken Shawarma. Served with a side of Tzatziki Sauce.",
+          "name": "Gyro & Chicken Shawarma",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Tender chicken shawarma served with your choice of fries or rice, accompanied by garlic, ketchup, and chipotle sauces",
+          "name": "Chicken shawarma with fries or rice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Char grilled choice lamb chops marinated with rosemary, Middle Eastern spices & extra virgin olive oil, served on grilled vegetables.",
+          "name": "Lamb chops",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Seasoned with chef style spices then saut\u00e9ed with onions, tomatoes, green beans, mushrooms & eggplant, served on a generous bed of hummus. Served with a side salad.",
+          "name": "Fish with vegetables",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Beef freshly marinated with our unique blend of spices, served on a generous bed of Hummus, served with a side salad.",
+          "name": "Beef with hummus",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Skinless half chicken marinated in garlic, lemon juice & Mediterranean spices, grilled & baked with saut\u00e9ed vegetables.",
+          "name": "Half chicken",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Tuna steak seasoned & grilled to order over an open flame.",
+          "name": "Tuna steak",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Salmon fillet seasoned and grilled to perfection over an open flame.",
+          "name": "Salmon fillet",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Bamboo skewers of grilled marinated shrimp.",
+          "name": "Shrimp kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Lebanese falafel is a type of fried ball or fritters made from ground chickpeas, onion, parsley, garlic, special seasonigs & fried to perfection.",
+          "name": "Falafel platter",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Saut\u00e9ed eggplant, onion, carrots, tomatoes, zucchini, squash, cauliflower, broccoli, celery, mushrooms, red & green bell peppers topped with feta & mozzarella cheese served over a bed of basmati rice & baked to perfection. Served with a side salad.",
+          "name": "Vegetarian moussaka",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A palate-pleasing selection of hummus, baba ganuj, tabouleh & falafel. Served without side items.",
+          "name": "Vegetarian combo",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "FLOURED, PAN-SEARED AND SAUTEED WITH ONIONS, PEPPERS, CELERY, CARROTS, GARLIC, ROSEMARY, THYME & SUN-DRIED TOMATOES. SERVED WITH BASMATIC RICE AND A SIDE SALAD",
+          "name": "Fish",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Saut\u00e9ed shrimp with spinach, red & green peppers, sun-dried tomatoes, onions, garlic, roman cheese & lemon juice. served with basmati rice & a side salad.",
+          "name": "Shrimp with spinach",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine lettuce topped with feta cheese, kalamata olive, tomatoes, cucumbers and red onions. Dressed with our lemon juice / olive oil dressing, topped with Chicken Shawarma.",
+          "name": "Greek salad with Chicken Shawarma",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine lettuce topped with feta cheese, kalamata olive, tomatoes, cucumbers and red onions. Dressed with our lemon juice / olive oil dressing, topped with Gyro.",
+          "name": "Greek salad with Gyro",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine lettuce topped with feta cheese, kalamata olive, tomatoes, cucumbers and red onions. Dressed with our lemon juice / olive oil dressing, topped with Combination Chicken Shawarma & Gyro.",
+          "name": "Greek salad with Combination Chicken Shawarma & Gyro",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine lettuce topped with feta cheese, kalamata olive, tomatoes, cucumbers and red onions. Dressed with our lemon juice / olive oil dressing, topped with Grilled Shrimp Kabob.",
+          "name": "Greek salad with Grilled Shrimp Kabob",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Fresh spinach, red onion, tomatoes & cucumber topped with feta cheese, raisins & walnuts",
+          "name": "Spinach salad",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine lettuce topped with fresh tomatoes, cucumbers, red onions, kalamata olives & feta cheese.",
+          "name": "Greek salad",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Our homemade vegetarian recipe made with red lentils.",
+          "name": "Lentil soup",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Slices of baked eggplant layered with lettuce, tomatoes & onions topped with feta & mozzarella cheeses. Toasted on home-style French bread.",
+          "name": "Eggplant sandwich",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Pita bread + Hummus, Tahini sauce, lettuce, onions & tomatoes.",
+          "name": "Hummus sandwich",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Butter / Pistachio Nuts / Phyllo Dough / Sugar Syrup / Sugar / Milk / Tree Nuts / Wheat",
+          "name": "Baklava",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": "Baklava / Lady Fingers / Burma",
+          "name": "Baklava / Lady Fingers / Burma",
+          "price": "$5.50"
+        },
+        {
+          "category": null,
+          "description": "hard candy shell",
+          "name": "Hard candy shell",
+          "price": "$6.99"
+        },
+        {
+          "category": null,
+          "description": "candy shell",
+          "name": "Candy shell",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Kataifeh Dough / Pistachio / Sugar Syrup / Milk / Tree Nuts / Wheat",
+          "name": "Kataifeh",
+          "price": "$1.00"
+        },
+        {
+          "category": null,
+          "description": "Phyllo Dough / Cashews / Butter / Sugar Syrup / Sugar / Milk / Tree Nuts / Wheat",
+          "name": "Phyllo dough with cashews",
+          "price": "$2.99"
+        },
+        {
+          "category": null,
+          "description": "Sweet / Unsweet",
+          "name": "Sweet / Unsweet",
+          "price": "$2.75"
+        },
+        {
+          "category": null,
+          "description": "mango / Sweet /",
+          "name": "Mango juice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Coke / Diet Coke / Sprite / Lemonade",
+          "name": "Coke / Diet Coke / Sprite / Lemonade",
+          "price": "$1.50"
+        },
+        {
+          "category": null,
+          "description": "Lebanon's Cafe bottled water",
+          "name": "Lebanon's Cafe bottled water",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Black / Peppermint",
+          "name": "Black / Peppermint",
+          "price": "$3.25"
+        }
+      ],
+      "key": "lebanons",
+      "name": "Lebanon's Cafe",
+      "sourceURL": "https://lebanonscafe.com/our-menu",
+      "verifiedAt": "2026-10-13T01:59:17+00:00"
     }
   ]
 }
