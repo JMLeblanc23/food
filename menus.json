@@ -1,0 +1,682 @@
+{
+  "generatedAt": "2026-10-13T01:26:43+00:00",
+  "itemCount": 111,
+  "schemaVersion": 1,
+  "venueCount": 1,
+  "venues": [
+    {
+      "items": [
+        {
+          "category": "Draught",
+          "description": "Red Ale - Irish, 4.5% ABV, Guinness Saint James' Gate, Leinster",
+          "name": "Smithwick's",
+          "price": "$7.00/20oz"
+        },
+        {
+          "category": "Draught",
+          "description": "Stout - Irish Dry, 4.2% ABV, Guinness Saint James' Gate, Leinster",
+          "name": "Guinness Draught",
+          "price": "$7.00/20oz"
+        },
+        {
+          "category": "Draught",
+          "description": "Lager - Euro Pale, 4.5% ABV, Guinness Saint James' Gate, Leinster",
+          "name": "Harp Premium Lager",
+          "price": "$7.00/20oz"
+        },
+        {
+          "category": "Draught",
+          "description": "IPA - American, 8.2% ABV, Elysian Brewing Company Seattle, WA",
+          "name": "Space Dust IPA",
+          "price": "$6.50/16oz"
+        },
+        {
+          "category": "Draught",
+          "description": "India Pale Ale 6.2 ABV",
+          "name": "Lagunitas IPA",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "Pilsner from Czech Republic. ABV 4.4%",
+          "name": "Pilsner Urquell",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A wonderful Pilsner",
+          "name": "Gnarly Barley Skateraid",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "Belgian style wheat beer",
+          "name": "Blue Moon",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A juicy IPA from Gnarley Barley",
+          "name": "Jucifer",
+          "price": "$6.50"
+        },
+        {
+          "category": "Draught",
+          "description": "-A Juicy Pale Ale",
+          "name": "Parish Envie",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A Double IPA",
+          "name": "Parish Ghost in the machine",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A Dry Cider",
+          "name": "St Arnold Cider",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A Juicy IPA",
+          "name": "Holy roller",
+          "price": null
+        },
+        {
+          "category": "Draught",
+          "description": "A German Style Kolsch Beer",
+          "name": "St Arnold Lawnmower",
+          "price": "$7.00"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American, 5% ABV, Anheuser-Busch St. Louis, MO",
+          "name": "Budweiser",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American Light, 4.2% ABV, Anheuser-Busch St. Louis, MO",
+          "name": "Bud Light",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American, 5% ABV, Coors Brewing Company Golden, CO",
+          "name": "Coors Banquet",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American Light, 4.2% ABV, Coors Brewing Company Golden, CO",
+          "name": "Coors Light",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American Light, 4.2% ABV, Anheuser-Busch St. Louis, MO",
+          "name": "Michelob ULTRA",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American, 4.6% ABV, Miller Brewing Company Milwaukee, WI",
+          "name": "High Life",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American Light, 4.2% ABV, Miller Brewing Company Milwaukee, WI",
+          "name": "Miller Lite",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American, 4.8% ABV, Pabst Brewing Company San Antonio, TX",
+          "name": "Pabst Blue Ribbon",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American, 4.4% ABV, Latrobe Brewing Co. Saint Louis, MO",
+          "name": "Rolling Rock Extra Pale",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Domestics",
+          "description": "Lager - American Amber / Red, 4.5% ABV, Yuengling Brewery Pottsville, PA",
+          "name": "Yuengling Traditional Lager",
+          "price": "$3.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Pilsner - German, 4.9% ABV, Brauerei Beck Neustadt, Bremen",
+          "name": "Beck's",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - Euro Pale, 5% ABV, Carlsberg Group Copenhagen, Region Hovedstaden",
+          "name": "Carlsberg",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - American, 4.6% ABV, Grupo Modelo Nava, Coahuila de Zaragoza",
+          "name": "Corona Extra",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - American Light, 4.1% ABV, Grupo Modelo Nava, Coahuila de Zaragoza",
+          "name": "Corona Light",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - Pale, 5.4% ABV, Grupo Damm Barcelona, Catalunya",
+          "name": "Estrella Damm",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Wheat Beer - Witbier, 4.9% ABV, Brouwerij Hoegaarden Hoegaarden, Vlaanderen",
+          "name": "Hoegaarden Wit / Blanche",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Cider - Traditional, 4.5% ABV, Magners Irish Cider Clonmel, Munster",
+          "name": "Magners Original Irish Cider",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Brown Ale - English, 4.7% ABV, John Smith's Tadcaster, North Yorkshire",
+          "name": "Newcastle Brown Ale",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - American, 4.5% ABV, Grupo Modelo Nava, Coahuila de Zaragoza",
+          "name": "Pac\u00edfico Clara",
+          "price": "$4.50/16oz can"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - Pale, 4.7% ABV, Birra Peroni Roma, Lazio",
+          "name": "Peroni Original",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lager - American, 4.7% ABV, Desnoes & Geddes Kingston, Surrey County",
+          "name": "Red Stripe",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Pilsner - Other, 5% ABV, Stella Artois Leuven, Vlaanderen",
+          "name": "Stella Artois",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Import",
+          "description": "Lite Larger 4% ABV 95 cals",
+          "name": "Heineken Silver",
+          "price": null
+        },
+        {
+          "category": "Bottles and Cans - Non Alcoholic",
+          "description": "Non-Alcoholic Beer, Heineken Zoeterwoude, Zuid-Holland",
+          "name": "Heineken 0.0",
+          "price": "$4.00/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Non Alcoholic",
+          "description": "N/A Irish Stout",
+          "name": "Guinness 0",
+          "price": "$5.00"
+        },
+        {
+          "category": "Bottles and Cans - Non Alcoholic",
+          "description": "N/A IPA",
+          "name": "Lagunitas N/A",
+          "price": "$4.50"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Lager - American Amber / Red, 4.5% ABV, Abita Brewing Company Abita Springs, LA",
+          "name": "Abita Amber",
+          "price": "$4.50/12oz Can"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Wheat Beer - American Pale Wheat, 4.9% ABV, Parish Brewing Co. Broussard, LA",
+          "name": "Canebrake",
+          "price": "$4.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "IPA - Session / India Session Ale, 4% ABV, Lagunitas Brewing Company Petaluma, CA",
+          "name": "DayTime IPA",
+          "price": "$4.50/12oz Can"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Stout - Foreign / Export, 7.5% ABV, Guinness Saint James' Gate, Leinster",
+          "name": "Guinness Foreign Extra Stout",
+          "price": "$5.50/12oz Bottle"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Lager - American, 4.5% ABV, Grupo Modelo Nava, Coahuila de Zaragoza",
+          "name": "Modelo Especial",
+          "price": "$4.50/16oz Can"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Fruit Beer, 4.2% ABV, Abita Brewing Company Abita Springs, LA",
+          "name": "Purple Haze",
+          "price": "$4.50/12oz Can"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Shandy / Radler, 2% ABV, Stieglbrauerei zu Salzburg Salzburg, Salzburg",
+          "name": "Stiegl-Radler Grapefruit Naturtr\u00fcb",
+          "price": "$8.00/19oz Can"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Made with Vodka, Seltzer and fruit juice",
+          "name": "Nutrl",
+          "price": "$4.50"
+        },
+        {
+          "category": "Bottles and Cans - Craft",
+          "description": "Made with Vodka, Seltzer and fruit juice",
+          "name": "High Noon",
+          "price": "$4.50"
+        },
+        {
+          "category": "Seasonal Craft Cans & Bottles",
+          "description": "Sour - Fruited Gose, 4.9% ABV, Dogfish Head Craft Brewery Milton, DE",
+          "name": "SeaQuench Ale",
+          "price": "$5.50/12oz Can"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "Bread n Butter Pinot Noir",
+          "price": "$7.00/glass, $21.00/bottle"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "The Show Malbec",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "Bonanza Cabernet Sauvignon",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "Red",
+          "description": "A full Bodied Red Wine From Spain",
+          "name": "Honoro Vera Garnacha",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Seaglass Pinot Grigio",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Kendall Jackson Sauvignon Blacn",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Decoy Chardonnay",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Oyster Bay Sauvignon Blanc",
+          "price": "$9.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Wycliff Sparkling Wine",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Avissi Prosecco",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": null,
+          "name": "Liquid Light Rose",
+          "price": "$9.00/Glass, $27.00/Bottle"
+        },
+        {
+          "category": "White and Sparkling",
+          "description": "A Lovely White Blend from Spain",
+          "name": "Honoro Vera White Blend",
+          "price": "$7.00/Glass, $21.00/Bottle"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Hot dripped coffee and Irish whiskey with whipped cream on top. Add a splash of Irish cream for 75\u00a2",
+          "name": "Finn\u2019s Traditional Irish Coffee",
+          "price": "$6.00"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Our iced coffee is made with Nola's own Cool Brew iced coffee, milk & is perfected with Irish cream and Irish whiskey",
+          "name": "McCool\u2019s Iced Irish Coffee",
+          "price": "$7.50"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Just like McCool\u2019s Iced Irish Coffee, but instead of milk, we use coffee liqueur. It\u2019s guaranteed to put a spring in your step",
+          "name": "Frozen Irish Coffee",
+          "price": "$7.50/12oz, $9.50/16oz"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Classic Bloody Mary\u2026with a Guinness top! That\u2019s how Finn McCool does Bloody Marys. Ask for extra spicy!",
+          "name": "Bloody McCool",
+          "price": "$6.50"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Champagne, O.J., over ice with Aperol and a splash of soda",
+          "name": "Bittersweet Caroline",
+          "price": "$7.00"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Kick your Guinness into gear with a shot of Cool Brew (local iced coffee)",
+          "name": "Stolzenthaler Stout",
+          "price": "$7.50"
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "A Very Cosmopolitan",
+          "name": "Summer in New Orleans",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Mezcal with Ancho Reyes Chile, berry mix & fresh lime",
+          "name": "I\u2019m Your Huckleberry",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Glendalough Rose gin, St. Germain Elderflower, fresh lemon & orange bitters",
+          "name": "You\u2019re A Daisy If You Do",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Malibu Peach, Barrow\u2019s Ginger, fresh lime, topped with ginger beer",
+          "name": "A Peach of a Hand",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Our rotating frozen wine cocktail, ask your bartender for current offering",
+          "name": "In Vino Veritas",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": "Old Overholt Rye Served up, on the rocks or with ginger, the way the legend himself drank it at the Crystal Palace Saloon",
+          "name": "The Doc Holliday",
+          "price": null
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Jameson",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Jameson Black Barrell",
+          "price": "$7.25"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Jameson 18yr",
+          "price": "$19.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Jameson Cask IPA",
+          "price": "$6.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Jameson Cask Stout",
+          "price": "$6.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew 12 Yr",
+          "price": "$8.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew 14 Yr",
+          "price": "$12.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew 15 Yr",
+          "price": "$15.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew 18 Yr",
+          "price": "$26.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew Cider Cask",
+          "price": "$6.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Tullamore Dew Rum Cask",
+          "price": "$6.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Teeling Single Malt",
+          "price": "$7.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Teeling Small Batch",
+          "price": "$7.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Teeling Single Grain",
+          "price": "$7.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Writers Tears",
+          "price": "$7.25"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Yellowspot",
+          "price": "$18.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redbreast 21yr",
+          "price": "$50.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redbreast 15yr",
+          "price": "$15.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redbreast 12yr",
+          "price": "$12.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Powers",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Sexton",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Irishman Single Malt",
+          "price": "$7.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redbush",
+          "price": "$5.50"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Blackbush",
+          "price": "$6.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Kilbeggan",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Bushmills",
+          "price": "$5.75"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Bushmills 21yr",
+          "price": "$50.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Greenspot",
+          "price": "$14.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redspot",
+          "price": "$24.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Bluespot",
+          "price": "$20.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Redbreast 27yr",
+          "price": "$80.00"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Proper 12",
+          "price": "$5.50"
+        },
+        {
+          "category": "Irish Whiskeys",
+          "description": null,
+          "name": "Bushmills 16yr",
+          "price": "$22.00"
+        },
+        {
+          "category": "Mocktails",
+          "description": "A refreshing Non-Alcoholic twist on the original Cocktail featuring Kentucky 74 spiritless whiskey, fresh lime juice and St Arnold Ginger beer",
+          "name": "Mocktail Mule",
+          "price": null
+        },
+        {
+          "category": "Mocktails",
+          "description": "made with fresh Lime juice, Agave a splash of OJ and topped with tonic water.",
+          "name": "Virgin Margarita",
+          "price": null
+        },
+        {
+          "category": "Mocktails",
+          "description": "Made with Damrak 0.0 Gin, honey syrup, lemon juice, topped with soda and a Lemon slice.",
+          "name": "Virgin Bees knees",
+          "price": null
+        }
+      ],
+      "key": "finn mccools irish pub",
+      "name": "Finn McCool's Irish Pub",
+      "sourceURL": "https://finnmccools.com/new-orleans-finn-mccool-s-irish-pub-drink-menu",
+      "verifiedAt": "2026-10-13T01:26:02+00:00"
+    }
+  ]
+}
