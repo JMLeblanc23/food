@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T12:10:08+00:00",
-  "itemCount": 375,
+  "generatedAt": "2026-10-13T15:11:48+00:00",
+  "itemCount": 385,
   "schemaVersion": 1,
-  "venueCount": 4,
+  "venueCount": 5,
   "venues": [
     {
       "items": [
@@ -2285,6 +2285,74 @@
       "name": "Liuzza's by the Track",
       "sourceURL": "https://www.liuzzasbtt.com/menu",
       "verifiedAt": "2026-10-13T12:09:34+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": null,
+          "name": "Classic Po-boys",
+          "price": "$12 | 18"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "house-pattied beef, American cheese",
+          "name": "Cheeseburger",
+          "price": "$12 | 18"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "Patton's hot sausage patty, American cheese",
+          "name": "Hot Sausage",
+          "price": "$11 | 17"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "cornmeal-fried shrimp",
+          "name": "Fried Shrimp",
+          "price": "$13 | 19"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "cornmeal-fried oyster",
+          "name": "Fried Oyster",
+          "price": "$15 | 25"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "pot roast in gravy. add french fries +1.50",
+          "name": "Mississippi Pot Roast Beef Debris",
+          "price": "$13 | 22"
+        },
+        {
+          "category": "Mahony's Famous Po-Boys",
+          "description": "spicy capicola, mortadella, genoa salami, olive salad, served on a toasted Leidenheimer muffaletta roll",
+          "name": "Muffaletta",
+          "price": "$15 | 20"
+        },
+        {
+          "category": "House Specialty Po-Boys",
+          "description": "fried shrimp & oyster, bacon, cheddar cheese",
+          "name": "The Peacemaker",
+          "price": "$17 | 26"
+        },
+        {
+          "category": "House Specialty Po-Boys",
+          "description": "braised pork, ham, swiss, pickles, roasted pineapple grain mustard",
+          "name": "Cochon de Lait Cubano",
+          "price": "$12 | 19"
+        },
+        {
+          "category": "House Specialty Po-Boys",
+          "description": "crispy chicken thigh, green apple, dill pickle, pepperoncini, cheddar cheese",
+          "name": "Hot Honey Chicken",
+          "price": "$14 | 20"
+        }
+      ],
+      "key": "mahoneys po boy shop",
+      "name": "Mahoney's Po-boy Shop",
+      "sourceURL": "https://mahonyspoboys.com/menu",
+      "verifiedAt": "2026-10-13T15:10:52+00:00"
     }
   ]
 }
