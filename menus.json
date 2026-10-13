@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T01:36:32+00:00",
-  "itemCount": 111,
+  "generatedAt": "2026-10-13T01:38:29+00:00",
+  "itemCount": 262,
   "schemaVersion": 1,
-  "venueCount": 1,
+  "venueCount": 2,
   "venues": [
     {
       "items": [
@@ -677,6 +677,920 @@
       "name": "Finn McCool's Irish Pub",
       "sourceURL": "https://finnmccools.com/new-orleans-finn-mccool-s-irish-pub-drink-menu",
       "verifiedAt": "2026-10-13T01:26:02+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "cornichon, egg yolk, horseradish & sourdough",
+          "name": "Steak Tartare",
+          "price": "$18"
+        },
+        {
+          "category": "Appetizers",
+          "description": "hen of the woods & grana padano",
+          "name": "Ricotta Dumplings",
+          "price": "$16"
+        },
+        {
+          "category": "Appetizers",
+          "description": "blue crab, cucumbers & artichoke yogurt",
+          "name": "Heirloom Tomato Salad",
+          "price": "$23"
+        },
+        {
+          "category": "Appetizers",
+          "description": "remoulade",
+          "name": "Blue Crab Beignets",
+          "price": "$21"
+        },
+        {
+          "category": "Appetizers",
+          "description": "andouille, collard greens & popcorn rice",
+          "name": "Shrimp & Okra Gumbo",
+          "price": "$16"
+        },
+        {
+          "category": "Appetizers",
+          "description": "roasted beets, tarragon dressing, comte & breadcrumbs",
+          "name": "Local Green Salad",
+          "price": "$16"
+        },
+        {
+          "category": "Appetizers",
+          "description": "poached gulf shrimp, tomato conserva & preserved lemon",
+          "name": "White Bean Salad",
+          "price": "$18"
+        },
+        {
+          "category": "Appetizers",
+          "description": "sweet corn, pickled peppers & crispy garlic",
+          "name": "Red Wine Braised Short Rib",
+          "price": "$23"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "pine nuts, sherry & lemon",
+          "name": "Roasted Mushrooms",
+          "price": "$18"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "whipped goat cheese & satsuma gastropub",
+          "name": "Roasted Sweet Potatoes",
+          "price": "$13"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "pecorino pepato & cornbread crumbs",
+          "name": "Baked Macaroni",
+          "price": "$13"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "burrata, country ham & oregano",
+          "name": "Fried Green Tomatoes",
+          "price": "$13"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "butter, sea salt & chives",
+          "name": "Stone Ground Grits",
+          "price": "$7"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "sea salt, chives & dijonnaise",
+          "name": "Hand Cut Fries",
+          "price": "$7"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "daily assortment",
+          "name": "Pickle Jar",
+          "price": "$10"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "whipped herb butter",
+          "name": "Baguette",
+          "price": "$7"
+        },
+        {
+          "category": "Entrees",
+          "description": "house pickles, onion marmalade, arugula, whole grain mustard, a\u00efoli, gruy\u00e8re & hand cut fries",
+          "name": "LPG Cheeseburger",
+          "price": "$24"
+        },
+        {
+          "category": "Entrees",
+          "description": "tagliatelle, sherry, parsley & fried soft boiled egg",
+          "name": "Turtle Bolognese",
+          "price": "$39"
+        },
+        {
+          "category": "Entrees",
+          "description": "gulf shrimp, blue crab, littleneck clams collard greens & ciabatta",
+          "name": "Shellfish Stew",
+          "price": "$39"
+        },
+        {
+          "category": "Entrees",
+          "description": "sauce \u00e0 l'orange, bok choy & orange marmalade",
+          "name": "Roasted Duck Breast",
+          "price": "$46"
+        },
+        {
+          "category": "Entrees",
+          "description": "cornbread dressing, tasso jus & fried sage",
+          "name": "Pan Roasted Chicken Breast",
+          "price": "$43"
+        },
+        {
+          "category": "Entrees",
+          "description": "sp\u00e4tzle, wilted greens, turnip pur\u00e9e & sauce grenobloise",
+          "name": "Pan\u00e9ed Rabbit",
+          "price": "$38"
+        },
+        {
+          "category": "Entrees",
+          "description": "roasted shiitake mushrooms, smoked bacon & thyme",
+          "name": "Gulf Shrimp & Grits",
+          "price": "$33"
+        },
+        {
+          "category": "Entrees",
+          "description": "king trumpet mushrooms & sauce au poivre",
+          "name": "Pan Roasted Filet Mignon",
+          "price": "$60"
+        },
+        {
+          "category": "Entrees",
+          "description": "sauce charcuti\u00e8re, fingerling potatoes & fennel",
+          "name": "Pan Roasted Pork Chop",
+          "price": "$43"
+        },
+        {
+          "category": "Appetizers",
+          "description": "haricots vert, buttermilk dressing, garlic breadcrumbs & pickled shallots",
+          "name": "Poached Gulf Shrimp",
+          "price": "$16"
+        },
+        {
+          "category": "Appetizers",
+          "description": "wilted greens, mustard hollandaise & poached egg",
+          "name": "Crispy Boudin Hash",
+          "price": "$17"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "honey & thyme butter",
+          "name": "Buttermilk Biscuit",
+          "price": "$5"
+        },
+        {
+          "category": "Sides & Such",
+          "description": "smoked redfish & dill",
+          "name": "Potato Hash Brown",
+          "price": "$14"
+        },
+        {
+          "category": "Entrees",
+          "description": "chef\u2019s selection of accompaniments",
+          "name": "Hot Iron Buttermilk Waffle",
+          "price": "$14"
+        },
+        {
+          "category": "Entrees",
+          "description": "lemon mousse, brown butter streusel & steen's cane syrup",
+          "name": "Brioche Pain Perdu",
+          "price": "$18"
+        },
+        {
+          "category": "Entrees",
+          "description": "smoked bacon, arugula, sunny egg & multigrain",
+          "name": "Blue Crab & Brie Melt",
+          "price": "$22"
+        },
+        {
+          "category": "Entrees",
+          "description": "country fried pork loin. add poached egg 4",
+          "name": "Buttermilk Biscuits & Gravy",
+          "price": "$25"
+        },
+        {
+          "category": "Entrees",
+          "description": "fingerling potatoes, local greens & bordelaise",
+          "name": "Steak & Eggs",
+          "price": "$37"
+        },
+        {
+          "category": "Entrees",
+          "description": "cornbread, asparagus, two poaches eggs, sauce choron & green side salad",
+          "name": "Blue Crab Benedict",
+          "price": "$26"
+        },
+        {
+          "category": "By the Glass - Sparkling & Ros\u00e9s",
+          "description": null,
+          "name": "Charles Lafitte Brut Champagne NV",
+          "price": "$19"
+        },
+        {
+          "category": "By the Glass - Sparkling & Ros\u00e9s",
+          "description": null,
+          "name": "Villa Sandi Asolo Prosecco Superiore NV",
+          "price": "$13"
+        },
+        {
+          "category": "By the Glass - Sparkling & Ros\u00e9s",
+          "description": null,
+          "name": "Lucien Albrecht Cr\u00e9mant D'Alsace Brut Ros\u00e9 NV",
+          "price": "$16"
+        },
+        {
+          "category": "By the Glass - Sparkling & Ros\u00e9s",
+          "description": null,
+          "name": "Rose Gold C\u00f4tes de Provence Ros\u00e9 2022",
+          "price": "$12"
+        },
+        {
+          "category": "By the Glass - Sparkling & Ros\u00e9s",
+          "description": null,
+          "name": "Ameztoi \"Rubentis\" Getaraiko Txakolina 2025",
+          "price": "$14"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Scarpetta Friuli Pinot Grigio 2025",
+          "price": "$11"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Saint Clair Marlborough Sauvignon Blanc 2025",
+          "price": "$12"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Hermann Moser Kremstal Gr\u00fcner Veltliner 2024",
+          "price": "$13"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Weingut Seckinger \"Vom Loss\" Pfalz Riesling 2021",
+          "price": "$14"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Patz & Hall Sonoma Coast Chardonnay 2023",
+          "price": "$15"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Casa Balaguer \"Tragolargo\" Alicante Skin Contact 2024n",
+          "price": "$15"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Domaine Gueneau \"Les Terres Blanches\" Sancerre 2025",
+          "price": "$20"
+        },
+        {
+          "category": "By the Glass - White",
+          "description": null,
+          "name": "Domaine Vocoret Chablis 2023",
+          "price": "$24"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Kaiken Estate Mendoza Malbec 2023",
+          "price": "$11"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Jean-Paul Dubost Beaujolais-Latign\u00e9 Gamay 2024",
+          "price": "$13"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Stoller Willamette Valley Pinot Noir 2024",
+          "price": "$14"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "De Boel \"Assi\u00e9g\u00e9s\" C\u00f4tes-du-Rh\u00f4ne 2023",
+          "price": "$15"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Feudo Montoni \"Lagnusa\" Sicily Nero D'Avola 2022",
+          "price": "$15"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Ridge \"Three Valleys\" Zinfandel Blend 2023",
+          "price": "$16"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Jacques Girardin \"Vieilles Vignes\" Bourgogne 2023",
+          "price": "$24"
+        },
+        {
+          "category": "By the Glass - Red",
+          "description": null,
+          "name": "Ch\u00e2teau Simian \"Le Traversier\" Ch\u00e2teauneuf-du-Pape 2022",
+          "price": "$28"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Tenuta Macchiarola \"Tippi\" Pet Nat Ros\u00e9 Puglia 2022n",
+          "price": "$58"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Ravent\u00f3s i Blanc \"Blancs de Blancs\" 2022",
+          "price": "$65"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "B\u00e9n\u00e9dicte et St\u00e9phane Tissot Cr\u00e9mant du Jura NV",
+          "price": "$78"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Brice \"H\u00e9ritage\" Brut Champagne Ros\u00e9 NV",
+          "price": "$100"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Gran Moraine \"Yamhill-Carlton Brut Ros\u00e9 Willamette Valley NV",
+          "price": "$145"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Pommery Brut Royal Champagne NV",
+          "price": "$165"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Pierre Moncuit \"Blanc de Blancs\" Grand Cru Champagne NV",
+          "price": "$170"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Pehu Simonet \"Blanc de Noirs\" Grand Cru Champagne 2015",
+          "price": "$215"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Nicolas Feuillatte Brut Champagne NV 1.5L",
+          "price": "$250"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Vilmart & Cie \"Grand Cellier D'Or\" 1er Cru Champagne 2018",
+          "price": "$300"
+        },
+        {
+          "category": "Wines by the Bottle - Champagne & Sparkling",
+          "description": null,
+          "name": "Gonet-Medeville \"Champ D'Alouette\" Grand Cru Extra Brut Champagne 2006",
+          "price": "$525"
+        },
+        {
+          "category": "Wines by the Bottle - Ros\u00e9",
+          "description": null,
+          "name": "Rose Gold C\u00f4tes de Provence Ros\u00e9 2024",
+          "price": "$48"
+        },
+        {
+          "category": "Wines by the Bottle - Ros\u00e9",
+          "description": null,
+          "name": "Bernard Baudry \"Le Ros\u00e9\" Chinon 2024",
+          "price": "$54"
+        },
+        {
+          "category": "Wines by the Bottle - Ros\u00e9",
+          "description": null,
+          "name": "Dom. du Gros Nor\u00e9 Bandol 2022",
+          "price": "$115"
+        },
+        {
+          "category": "Wines by the Bottle - Sauvignon Blanc",
+          "description": null,
+          "name": "Mary Taylor Bordeaux Blanc 2024",
+          "price": "$38"
+        },
+        {
+          "category": "Wines by the Bottle - Sauvignon Blanc",
+          "description": null,
+          "name": "Saint Clair Marlborough New Zealand 2025",
+          "price": "$48"
+        },
+        {
+          "category": "Wines by the Bottle - Sauvignon Blanc",
+          "description": null,
+          "name": "Rochioli Russian River Valley 2024",
+          "price": "$125"
+        },
+        {
+          "category": "Wines by the Bottle - Sauvignon Blanc",
+          "description": null,
+          "name": "Domaine Denizot \"Les Bouffants\" Sancerre 2023",
+          "price": "$215"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Deux Roches \"Tradition\" Saint-V\u00e9ran 2024",
+          "price": "$60"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Sylvaine & Alain Normand M\u00e2con Laroche Vineuse 2023",
+          "price": "$64"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Clos Des Rocs M\u00e2con-Loch\u00e9 2024",
+          "price": "$85"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Dom. Vocoret Chablis 2023",
+          "price": "$96"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Domaine Gilles-Noblet Pouilly-Fuiss\u00e9 2020",
+          "price": "$105"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Domaine de Villaine C\u00f4te Ch\u00e2lonnaise 2022",
+          "price": "$160"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Florent Garaudet \"Vieilles Vignes\" Meursault 2022",
+          "price": "$270"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Dom. G\u00e9not-Boulanger \"Les Nosroyes\" Puligny-Montrachet 2022",
+          "price": "$360"
+        },
+        {
+          "category": "Wines by the Bottle - White Burgundy",
+          "description": null,
+          "name": "Alex Moreau Chassagne-Montrachet 2023",
+          "price": "$400"
+        },
+        {
+          "category": "Wines by the Bottle - Chardonnay",
+          "description": null,
+          "name": "Lingua Franca \"Avni\" Willamette Valley 2022",
+          "price": "$80"
+        },
+        {
+          "category": "Wines by the Bottle - Chardonnay",
+          "description": null,
+          "name": "Rombauer Vineyards Carneros 2024",
+          "price": "$85"
+        },
+        {
+          "category": "Wines by the Bottle - Chardonnay",
+          "description": null,
+          "name": "Brewer-Clifton \"3D\" Santa Rita Hills 2021",
+          "price": "$215"
+        },
+        {
+          "category": "Wines by the Bottle - Chardonnay",
+          "description": null,
+          "name": "Hyde De Villaine \"Hyde Vineyard\" Napa Valley 2022",
+          "price": "$230"
+        },
+        {
+          "category": "Wines by the Bottle - Riesling",
+          "description": null,
+          "name": "Markus Molitor \"Urziger Wurzgarten\" Kabinett Mosel 2023",
+          "price": "$72"
+        },
+        {
+          "category": "Wines by the Bottle - Riesling",
+          "description": null,
+          "name": "Peter Lauer \"Fass 6 - Senior\" Saar-Mosel 2024",
+          "price": "$82"
+        },
+        {
+          "category": "Wines by the Bottle - Riesling",
+          "description": null,
+          "name": "Joh. Jos. Pr\u00fcm \"Graacher Himmelreich\" Auslese 2023",
+          "price": "$250"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Mokoroa Getariako Txakolina 2024",
+          "price": "$45"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Catina Puiatti Friuli Pinot Grigio 2023",
+          "price": "$30"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Scarpetta Friuili Pinot Grigio 2023",
+          "price": "$42"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Benanti Etna Bianco Carricante 2024",
+          "price": "$85"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Bernard Baudry \"Le Domaine\" Chinon Chenin Blanc 2023",
+          "price": "$92"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Domaine Huet \"Clos du Bourg\" Vouvray Sec Chenin Blanc 2023",
+          "price": "$125"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Charles Hours \"Cuv\u00e9e Marie\" Jurancon Sec 2018n",
+          "price": "$65"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Rudi Pichler Wachau Gr\u00fcner Veltliner 2024",
+          "price": "$90"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Wine Art Estate \"Idisma Drios\" Drama Assyrtiko 2022",
+          "price": "$80"
+        },
+        {
+          "category": "Wines by the Bottle - Assorted Whites",
+          "description": null,
+          "name": "Ch\u00e2teau Simone Palette Blanc 2021n",
+          "price": "$225"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Stoller Willamette Valley 2024",
+          "price": "$56"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Weingut Kopp Baden 2022",
+          "price": "$96"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Hartford Court Russian River Valley 2022",
+          "price": "$105"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Flowers Sonoma Coast 2023",
+          "price": "$110"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Raptor Ridge \"Laurelwood District\" Willamette Valley 2022",
+          "price": "$115"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Evening Land \"Seven Springs\" Eola-Amity Hills Oregon 2022",
+          "price": "$135"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Adelsheim \"Breaking Ground\" Willamette Valley 2021",
+          "price": "$140"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Radio-Coteau \"La Neblina\" Sonoma Coast 2023",
+          "price": "$150"
+        },
+        {
+          "category": "Wines by the Bottle - Pinot Noir",
+          "description": null,
+          "name": "Kosta Browne Sonoma Coast 2023",
+          "price": "$175"
+        },
+        {
+          "category": "Wines by the Bottle - Gamay",
+          "description": null,
+          "name": "Martin Woods \"Tualatin Estate\" Willamette Valley 2021",
+          "price": "$85"
+        },
+        {
+          "category": "Wines by the Bottle - Gamay",
+          "description": null,
+          "name": "Jean-Claude Lapalu Cote de Brouilly 2021",
+          "price": "$96"
+        },
+        {
+          "category": "Wines by the Bottle - Gamay",
+          "description": null,
+          "name": "Jean Paul & Charly Th\u00e9venet \"Vieilles Vignes\" Morgon 2022",
+          "price": "$115"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Jean-Jacques Girard Bourgogne 2023",
+          "price": "$96"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Edmond Cornu \"Vieilles Vignes\" Ladoix 2021",
+          "price": "$150"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Jean-Jacques Girard \"Serpenti\u00e9res\" Savigny-les-Beaune 1er Cru 2023",
+          "price": "$155"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Defaix Freres \"Clos du Chapitre\" Rully 1er Cru 2021",
+          "price": "$160"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Domaine Bertagna \"Les Cras\" Vougeot 1er Cru 2016",
+          "price": "$220"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Moillard \"Les Grands Epenots\" Pommard 1er Cru 2019",
+          "price": "$235"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Alex Moreau \"Vieilles Vignes\" Chassagne-Montrachet 2022",
+          "price": "$240"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Marchand-Tawse \"Cuv\u00e9e Ronde\" Gevrey-Chambertin 2022",
+          "price": "$285"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Dom. Anne et Herve Sigaut \"Les Noirots\" Chambolle-Musigny 1er Cru 2023",
+          "price": "$395"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Domaine De La Roman\u00e9e-Conti \"\u00c9ch\u00e9zeaux\" Grand Cru 2022",
+          "price": "$2400"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Domaine De La Roman\u00e9e-Conti \"Grands \u00c9ch\u00e9zeaux\" Grand Cru 2013",
+          "price": "$3500"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Domaine De La Roman\u00e9e-Conti \"Grands \u00c9ch\u00e9zeaux\" Grand Cru 2021",
+          "price": "$3600"
+        },
+        {
+          "category": "Wines by the Bottle - Red Burgundy",
+          "description": null,
+          "name": "Domaine De La Roman\u00e9e-Conti \"Roman\u00e9e-St-Vivant\" Grand Cru 2021",
+          "price": "$6000"
+        },
+        {
+          "category": "Wines by the Bottle - Bordeaux",
+          "description": null,
+          "name": "Les Cadrans de Lass\u00e8gue Saint-\u00c9milion Grand Cru 2023",
+          "price": "$70"
+        },
+        {
+          "category": "Wines by the Bottle - Bordeaux",
+          "description": null,
+          "name": "Ch\u00e2teau Greysac M\u00e9deoc 2019",
+          "price": "$76"
+        },
+        {
+          "category": "Wines by the Bottle - Bordeaux",
+          "description": null,
+          "name": "Moulin de Duhart Pauillac 2022",
+          "price": "$195"
+        },
+        {
+          "category": "Wines by the Bottle - Bordeaux",
+          "description": null,
+          "name": "S\u00e8gla by Ch\u00e2teau Rausan-S\u00e8gla Margaux 2016",
+          "price": "$240"
+        },
+        {
+          "category": "Wines by the Bottle - Bordeaux",
+          "description": null,
+          "name": "Cos D'Estournel Saint-Est\u00e9phe 2\u00c9me 2011",
+          "price": "$600"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Canvasback \"Red Mountain\" Washington State 2023",
+          "price": "$60"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Martis Alexander Valley 2022",
+          "price": "$70"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Roman Ceremony Santa Ynez Valley 2021",
+          "price": "$72"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Auctioneer Napa Valley 2023",
+          "price": "$80"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Symmetry by Rodney Strong Sonoma County 2018",
+          "price": "$85"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Clos du Val Napa Valley 2022",
+          "price": "$105"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Faust Napa Valley 2023",
+          "price": "$145"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "V\u00e8rit\u00e9 \"La Joie\" Sonoma County Red Blend 2011",
+          "price": "$325"
+        },
+        {
+          "category": "Wines by the Bottle - Cabernet Sauvignon Based",
+          "description": null,
+          "name": "Trailside Vineyard Rutherford 2022",
+          "price": "$325"
+        },
+        {
+          "category": "Wines by the Bottle - Merlot Based",
+          "description": null,
+          "name": "Trefethen \"Oak Knoll District\" Napa Valley 2022",
+          "price": "$70"
+        },
+        {
+          "category": "Wines by the Bottle - Merlot Based",
+          "description": null,
+          "name": "Cotarella \"Sodale\" Lazio Italy 2020",
+          "price": "$72"
+        },
+        {
+          "category": "Wines by the Bottle - Merlot Based",
+          "description": null,
+          "name": "Duckhorn \"Three Palms Vineyard\" Napa Valley 2021",
+          "price": "$280"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "De Boel \"Assi\u00e8g\u00e8s\" C\u00f4tes-du-Rh\u00f4ne 2023",
+          "price": "$60"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Martin Texier \"Le Preyna\" Vin de France 2024n",
+          "price": "$84"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Jean-Francois Jacouton \"Pierres D'Iserand\" Saint-Joseph 2020",
+          "price": "$115"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Dom. du Vieux Lazaret Ch\u00e2teauneuf-du-Pape 2022",
+          "price": "$120"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Ch\u00e2teau de Saint-Cosme Gigondas 2021",
+          "price": "$170"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "J. Denuziere C\u00f4te Rotie 2018",
+          "price": "$265"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Matthieu Barret \"Brise Cailloux\" Cornas 2019",
+          "price": "$215"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Presqu'ile Santa Barbara County Syrah 2021",
+          "price": "$66"
+        },
+        {
+          "category": "Wines by the Bottle - Syrah|Grenache|Mourvedre",
+          "description": null,
+          "name": "Herv\u00e9 Souhaut V.D.P. Syrah 2022",
+          "price": "$110"
+        }
+      ],
+      "key": "la petite grocery",
+      "name": "La Petite Grocery",
+      "sourceURL": "https://www.lapetitegrocery.com/menus",
+      "verifiedAt": "2026-10-13T01:37:49+00:00"
     }
   ]
 }
