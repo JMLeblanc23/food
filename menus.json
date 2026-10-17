@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T01:52:15+00:00",
-  "itemCount": 576,
+  "generatedAt": "2026-10-17T12:58:46+00:00",
+  "itemCount": 646,
   "schemaVersion": 1,
-  "venueCount": 9,
+  "venueCount": 10,
   "venues": [
     {
       "items": [
@@ -3531,6 +3531,434 @@
       "name": "Munch Factory",
       "sourceURL": "https://www.themunchfactory.net/menu/the-munch-factory-6514-congress-dr",
       "verifiedAt": "2026-10-16T17:44:01+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "Capellini (Angel Hair) pasta topped with our Home-made marinara.",
+          "name": "Capellini Marinara",
+          "price": "$5.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "5\" Seeded bun with Mozzarella, Swiss, sliced roma tomatoes, and oregano.",
+          "name": "Snooie Bread Half",
+          "price": "$5.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "5\" Seeded bun with Mozzarella, Swiss, sliced roma tomatoes, and oregano.",
+          "name": "Snooie Bread Whole",
+          "price": "$9.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "6\" - 12\" Seeded Italian Twist Loaf lathered with our home-made Garlic Butter.",
+          "name": "Garlic Bread Half",
+          "price": "$5.45"
+        },
+        {
+          "category": "Appetizers",
+          "description": "6\" - 12\" Seeded Italian Twist Loaf lathered with our home-made Garlic Butter.",
+          "name": "Garlic Bread Half w/ Cheese",
+          "price": "$6.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "6\" - 12\" Seeded Italian Twist Loaf lathered with our home-made Garlic Butter.",
+          "name": "Garlic Bread Whole",
+          "price": "$8.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "6\" - 12\" Seeded Italian Twist Loaf lathered with our home-made Garlic Butter.",
+          "name": "Garlic Bread Whole w/ Cheese",
+          "price": "$10.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "8 wings per order.",
+          "name": "Buffalo Wings",
+          "price": "$13.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Cucumbers, Bacon Bits, Parmesan Cheese, Homemade Croutons with Ranch Dressing.",
+          "name": "Long Island Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Cucumbers, Bacon Bits, Parmesan Cheese, Homemade Croutons with Ranch Dressing.",
+          "name": "Long Island Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Cucumbers, Sliced Roma Tomatoes, Carrots, Homemade Croutons and Homemade Vinaigrette Herbal Dressing.",
+          "name": "House Salad Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Cucumbers, Sliced Roma Tomatoes, Carrots, Homemade Croutons and Homemade Vinaigrette Herbal Dressing.",
+          "name": "House Salad Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Our Homemade Olive Salad served on a bed of Romaine Lettuce",
+          "name": "K&G Salad Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Our Homemade Olive Salad served on a bed of Romaine Lettuce",
+          "name": "K&G Salad Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Parmesan Cheese, Homemade Croutons and Caesar Dressing.",
+          "name": "Caesar Salad Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Parmesan Cheese, Homemade Croutons and Caesar Dressing.",
+          "name": "Caesar Salad Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Spinach, Parmesan Cheese, Boiled Egg, Bacon Bits and your choice of Dressing.",
+          "name": "Spinach Salad Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Spinach, Parmesan Cheese, Boiled Egg, Bacon Bits and your choice of Dressing.",
+          "name": "Spinach Salad Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Black Olives, Fresh Mushrooms, Feta Cheese, Homemade Croutons and Greek Vinaigrette.",
+          "name": "Times Square Salad Large",
+          "price": "$11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine Lettuce, Black Olives, Fresh Mushrooms, Feta Cheese, Homemade Croutons and Greek Vinaigrette.",
+          "name": "Times Square Salad Large w/ Chicken",
+          "price": "$17.40"
+        },
+        {
+          "category": "Calzones",
+          "description": "Tomato Sauce, Genoa Salami, Mozzarella and Ricotta Cheese.",
+          "name": "Traditional Calzone",
+          "price": "$15.35"
+        },
+        {
+          "category": "Calzones",
+          "description": "Tomato Sauce, Mozzarella cheese and any pizza toppings of your choice. $1.95/per topping. All Calzones are served with a small House Salad.",
+          "name": "Build your own Calzone",
+          "price": "$15.35"
+        },
+        {
+          "category": "Pizza by the Slice",
+          "description": "Add up to three toppings of your choice.",
+          "name": "Pizza by the Slice",
+          "price": "$4.39"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Onions, Mushrooms, Black Olives, Green Peppers, Italian Sausage and Minced Garlic. Jalapenos and Anchovies upon request.",
+          "name": "Big Apple 10\"",
+          "price": "$24"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Onions, Mushrooms, Black Olives, Green Peppers, Italian Sausage and Minced Garlic. Jalapenos and Anchovies upon request.",
+          "name": "Big Apple 12\"",
+          "price": "$29.45"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Onions, Mushrooms, Black Olives, Green Peppers, Italian Sausage and Minced Garlic. Jalapenos and Anchovies upon request.",
+          "name": "Big Apple 14\"",
+          "price": "$32.30"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Onions, Mushrooms, Black Olives, Green Peppers, Italian Sausage and Minced Garlic. Jalapenos and Anchovies upon request.",
+          "name": "Big Apple 16\"",
+          "price": "$41.35"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Big Apple plus Spinach and Artichokes.",
+          "name": "Super Big Apple 10\"",
+          "price": "$27.90"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Big Apple plus Spinach and Artichokes.",
+          "name": "Super Big Apple 12\"",
+          "price": "$34.40"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Big Apple plus Spinach and Artichokes.",
+          "name": "Super Big Apple 14\"",
+          "price": "$38.15"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Big Apple plus Spinach and Artichokes.",
+          "name": "Super Big Apple 16\"",
+          "price": "$44.70"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions, Mushrooms, Black Olives, Green Peppers and Minced Garlic. Jalapenos upon request.",
+          "name": "Vegetarian 10\"",
+          "price": "$22.10"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions, Mushrooms, Black Olives, Green Peppers and Minced Garlic. Jalapenos upon request.",
+          "name": "Vegetarian 12\"",
+          "price": "$27"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions, Mushrooms, Black Olives, Green Peppers and Minced Garlic. Jalapenos upon request.",
+          "name": "Vegetarian 14\"",
+          "price": "$29.35"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions, Mushrooms, Black Olives, Green Peppers and Minced Garlic. Jalapenos upon request.",
+          "name": "Vegetarian 16\"",
+          "price": "$34.65"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Vegetarian plus Spinach and Artichokes.",
+          "name": "Super Vegetarian 10\"",
+          "price": "$24"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Vegetarian plus Spinach and Artichokes.",
+          "name": "Super Vegetarian 12\"",
+          "price": "$29.45"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Vegetarian plus Spinach and Artichokes.",
+          "name": "Super Vegetarian 14\"",
+          "price": "$32.30"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Vegetarian plus Spinach and Artichokes.",
+          "name": "Super Vegetarian 16\"",
+          "price": "$41.35"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Canadian Bacon and Pineapple.",
+          "name": "Hawaiian 10\"",
+          "price": "$16.25"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Canadian Bacon and Pineapple.",
+          "name": "Hawaiian 12\"",
+          "price": "$19.60"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Canadian Bacon and Pineapple.",
+          "name": "Hawaiian 14\"",
+          "price": "$20.55"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Canadian Bacon and Pineapple.",
+          "name": "Hawaiian 16\"",
+          "price": "$27.95"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Spinach, Onion and Feta Cheese.",
+          "name": "Spinach Combo 10\"",
+          "price": "$18.20"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Spinach, Onion and Feta Cheese.",
+          "name": "Spinach Combo 12\"",
+          "price": "$22.05"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Spinach, Onion and Feta Cheese.",
+          "name": "Spinach Combo 14\"",
+          "price": "$23.45"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Spinach, Onion and Feta Cheese.",
+          "name": "Spinach Combo 16\"",
+          "price": "$31.30"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Italian Sausage and Meatballs.",
+          "name": "Bronx 10\"",
+          "price": "$20.15"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Italian Sausage and Meatballs.",
+          "name": "Bronx 12\"",
+          "price": "$24.50"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Italian Sausage and Meatballs.",
+          "name": "Bronx 14\"",
+          "price": "$26.40"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Pepperoni, Canadian Bacon, Italian Sausage and Meatballs.",
+          "name": "Bronx 16\"",
+          "price": "$34.65"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions and Boneless chicken marinated in BBQ Sauce.",
+          "name": "Brooklyn BBQ 10\"",
+          "price": "$18.20"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions and Boneless chicken marinated in BBQ Sauce.",
+          "name": "Brooklyn BBQ 12\"",
+          "price": "$22.05"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions and Boneless chicken marinated in BBQ Sauce.",
+          "name": "Brooklyn BBQ 14\"",
+          "price": "$23.45"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Onions and Boneless chicken marinated in BBQ Sauce.",
+          "name": "Brooklyn BBQ 16\"",
+          "price": "$31.30"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Olive oil base topped with Spinach, Mushroom, Artichokes and Feta Cheese",
+          "name": "Queens 10\"",
+          "price": "$22.10"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Olive oil base topped with Spinach, Mushroom, Artichokes and Feta Cheese",
+          "name": "Queens 12\"",
+          "price": "$27"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Olive oil base topped with Spinach, Mushroom, Artichokes and Feta Cheese",
+          "name": "Queens 14\"",
+          "price": "$29.35"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Olive oil base topped with Spinach, Mushroom, Artichokes and Feta Cheese",
+          "name": "Queens 16\"",
+          "price": "$38"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Create your own pizza.",
+          "name": "10\" Personalized Pizza",
+          "price": "$12.40"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Create your own pizza.",
+          "name": "12\" Personalized Pizza",
+          "price": "$17.20"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Create your own pizza.",
+          "name": "14\" Personalized Pizza",
+          "price": "$20.25"
+        },
+        {
+          "category": "Whole Pizzas",
+          "description": "Create your own pizza.",
+          "name": "16\" Personalized Pizza",
+          "price": "$25.20"
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Muffaletta Half",
+          "price": "$11.50"
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Muffaletta Whole",
+          "price": "$19.95"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with a House Salad.",
+          "name": "Meatballs and Pasta",
+          "price": "$16.95"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with a House Salad.",
+          "name": "Lasagna",
+          "price": "$16.95"
+        },
+        {
+          "category": "Beverages",
+          "description": "Coke, Diet Coke, Sprite, Barq's Root Beer, Dr. Pepper",
+          "name": "Canned Soda",
+          "price": "$2.45"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bottled Water",
+          "price": "$1.75"
+        },
+        {
+          "category": "Beverages",
+          "description": "Sweet/Unsweetened",
+          "name": "Half Gallon Home Brewed Tea",
+          "price": "$3.50"
+        }
+      ],
+      "key": "new york pizza",
+      "name": "New York Pizza",
+      "sourceURL": "https://www.newyorkpizzanola.com/menu",
+      "verifiedAt": "2026-10-17T12:58:15+00:00"
     }
   ]
 }
