@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T18:20:34+00:00",
-  "itemCount": 828,
+  "generatedAt": "2026-10-18T22:08:44+00:00",
+  "itemCount": 906,
   "schemaVersion": 1,
-  "venueCount": 12,
+  "venueCount": 13,
   "venues": [
     {
       "items": [
@@ -5067,6 +5067,482 @@
       "name": "Paco's Tacos",
       "sourceURL": "https://pacostacos.la/menu",
       "verifiedAt": "2026-10-18T15:18:46+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Choose Your Protein",
+          "description": "Bold, smoky, spicy kick.",
+          "name": "Papi's Chicken Burrito/Bowl",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Bold, smoky, spicy kick.",
+          "name": "Papi's Chicken 3 Tacos",
+          "price": "$8.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Bold, smoky, spicy kick.",
+          "name": "Papi's Chicken 6 Tacos",
+          "price": "$17.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Bold, smoky, spicy kick.",
+          "name": "Papi's Chicken Quesadilla",
+          "price": "$13.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, marinated, savory.",
+          "name": "Seasoned Chicken Burrito/Bowl",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, marinated, savory.",
+          "name": "Seasoned Chicken 3 Tacos",
+          "price": "$8.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, marinated, savory.",
+          "name": "Seasoned Chicken 6 Tacos",
+          "price": "$17.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, marinated, savory.",
+          "name": "Seasoned Chicken Quesadilla",
+          "price": "$13.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Rich, savory, classic.",
+          "name": "Ground Beef Burrito/Bowl",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Rich, savory, classic.",
+          "name": "Ground Beef 3 Tacos",
+          "price": "$8.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Rich, savory, classic.",
+          "name": "Ground Beef 6 Tacos",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Rich, savory, classic.",
+          "name": "Ground Beef Quesadilla",
+          "price": "$13.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, sliced premium steak.",
+          "name": "Carne Asada Burrito/Bowl",
+          "price": "$17.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, sliced premium steak.",
+          "name": "Carne Asada 3 Tacos",
+          "price": "$10.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, sliced premium steak.",
+          "name": "Carne Asada 6 Tacos",
+          "price": "$21.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Tender, sliced premium steak.",
+          "name": "Carne Asada Quesadilla",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Smoky, juicy, seasoned.",
+          "name": "Smoked Shrimp Burrito/Bowl",
+          "price": "$17.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Smoky, juicy, seasoned.",
+          "name": "Smoked Shrimp 3 Tacos",
+          "price": "$10.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Smoky, juicy, seasoned.",
+          "name": "Smoked Shrimp 6 Tacos",
+          "price": "$20.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Smoky, juicy, seasoned.",
+          "name": "Smoked Shrimp Quesadilla",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Slow-stewed in chiles.",
+          "name": "Birria Beef Burrito/Bowl",
+          "price": "$19.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Slow-stewed in chiles.",
+          "name": "Birria Beef 3 Tacos",
+          "price": "$10.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Slow-stewed in chiles.",
+          "name": "Birria Beef 6 Tacos",
+          "price": "$22.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Slow-stewed in chiles.",
+          "name": "Birria Beef Quesadilla",
+          "price": "$15.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Rice, beans & fresh toppings.",
+          "name": "Veggie Burrito or Bowl",
+          "price": "$10.99"
+        },
+        {
+          "category": "Choose Your Protein",
+          "description": "Cheese Only",
+          "name": "Plain Quesadilla",
+          "price": "$6.99"
+        },
+        {
+          "category": "Donuts",
+          "description": null,
+          "name": "Glazed Donut Single",
+          "price": "$1.59"
+        },
+        {
+          "category": "Donuts",
+          "description": null,
+          "name": "Glazed Donut \u00bd Dozen",
+          "price": "$7.99"
+        },
+        {
+          "category": "Donuts",
+          "description": null,
+          "name": "Glazed Donut Dozen",
+          "price": "$12.99"
+        },
+        {
+          "category": "Donuts",
+          "description": "Boston Cream, Oreo Boston Cream, Dubai, Dubai Chocolate Filled, Banana Split, Birthday Cake, Pistachio, Pistachio Cream, Blueberry, Strawberry, Lotus Cookie, Chocolate with Sprinkles, Oreo, Oreo Cream, Citrus Orange",
+          "name": "Classic Donut Single",
+          "price": "$1.79"
+        },
+        {
+          "category": "Donuts",
+          "description": "Boston Cream, Oreo Boston Cream, Dubai, Dubai Chocolate Filled, Banana Split, Birthday Cake, Pistachio, Pistachio Cream, Blueberry, Strawberry, Lotus Cookie, Chocolate with Sprinkles, Oreo, Oreo Cream, Citrus Orange",
+          "name": "Classic Donut \u00bd Dozen",
+          "price": "$9.99"
+        },
+        {
+          "category": "Donuts",
+          "description": "Boston Cream, Oreo Boston Cream, Dubai, Dubai Chocolate Filled, Banana Split, Birthday Cake, Pistachio, Pistachio Cream, Blueberry, Strawberry, Lotus Cookie, Chocolate with Sprinkles, Oreo, Oreo Cream, Citrus Orange",
+          "name": "Classic Donut Dozen",
+          "price": "$16.99"
+        },
+        {
+          "category": "Donuts",
+          "description": "Jelly Filled, Cinnamon Roll, Apple Fritter",
+          "name": "Deluxe Donut Single",
+          "price": "$2.29"
+        },
+        {
+          "category": "Donuts",
+          "description": "Jelly Filled, Cinnamon Roll, Apple Fritter",
+          "name": "Deluxe Donut \u00bd Dozen",
+          "price": "$11.99"
+        },
+        {
+          "category": "Donuts",
+          "description": "Jelly Filled, Cinnamon Roll, Apple Fritter",
+          "name": "Deluxe Donut Dozen",
+          "price": "$19.99"
+        },
+        {
+          "category": "Donut Holes",
+          "description": "OREO \u2022 PISTACHIO \u2022 LOTUS",
+          "name": "Donut Holes 5 Count",
+          "price": "$2.69"
+        },
+        {
+          "category": "Donut Holes",
+          "description": "OREO \u2022 PISTACHIO \u2022 LOTUS",
+          "name": "Donut Holes 10 Count",
+          "price": "$3.99"
+        },
+        {
+          "category": "Donut Holes",
+          "description": "OREO \u2022 PISTACHIO \u2022 LOTUS",
+          "name": "Donut Holes 15 Count",
+          "price": "$5.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Latte",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Pistachio Latte",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Mocha Latte",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Spanish Latte",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Caramel Latte",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Americano",
+          "price": "$2.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Espresso",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Cortado",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Cappuccino",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Caramel Macchiato",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Caramel Frappuccino",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Mocha Frappuccino",
+          "price": "$4.99"
+        },
+        {
+          "category": "Coffee & Specialty Drinks",
+          "description": null,
+          "name": "Pistachio Frappuccino",
+          "price": "$4.99"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": "Ask about today's flavors.",
+          "name": "Aguas Frescas Medium",
+          "price": "$2.59"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": "Ask about today's flavors.",
+          "name": "Aguas Frescas Large",
+          "price": "$3.09"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Fountain Drink Medium",
+          "price": "$1.99"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Fountain Drink Large",
+          "price": "$2.49"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Glass Drinks",
+          "price": "$2.99"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Jarritos",
+          "price": "$2.59"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Bottled Drinks",
+          "price": "$2.99"
+        },
+        {
+          "category": "Cold Drinks",
+          "description": null,
+          "name": "Water",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Nachos",
+          "price": "$13.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Queso + Chips",
+          "price": "$3.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Guac + Chips",
+          "price": "$4.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Pico + Chips",
+          "price": "$3.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Mexican Corn",
+          "price": "$5.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Tortilla Chips",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Tortilla Chips Medium Bag",
+          "price": "$2.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Tortilla Chips Large Bag",
+          "price": "$4.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Cilantro Lime",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Papi's Sauce",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Adobo Sauce",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Fajita Veggies",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Sour Cream",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Chips",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Salsa Verde",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Salsa Roja",
+          "price": "$0.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Pico de Gallo",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Queso",
+          "price": "$1.99"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Guacamole",
+          "price": "$1.99"
+        }
+      ],
+      "key": "papis",
+      "name": "Papi's",
+      "sourceURL": "https://www.papis504.com/menus",
+      "verifiedAt": "2026-10-18T22:08:03+00:00"
     }
   ]
 }
