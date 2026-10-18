@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T22:55:49+00:00",
-  "itemCount": 646,
+  "generatedAt": "2026-10-18T12:17:59+00:00",
+  "itemCount": 787,
   "schemaVersion": 1,
-  "venueCount": 10,
+  "venueCount": 11,
   "venues": [
     {
       "items": [
@@ -3959,6 +3959,860 @@
       "name": "New York Pizza",
       "sourceURL": "https://www.newyorkpizzanola.com/menu",
       "verifiedAt": "2026-10-17T12:58:15+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Lunch",
+          "description": "Fried crispy rice layered with spicy salmon & spicy tuna topped with fried shallots, green onions, chili sauce & eel sauce",
+          "name": "Rice Crispy (Spicy Salmon & Spicy Tuna)",
+          "price": "$17.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "2 pieces shrimp temp, crunchy, snow crab, cucumber, avocado & masago around the rice",
+          "name": "Rock & Roll",
+          "price": "$13.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Steamed with truffle oil & salt, sea salt, or hot & spicy",
+          "name": "Edamame",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Local Tesvich Oysters, fried oysters swimming in a spicy soy & yuzu sauce with green onions and furikake spices",
+          "name": "Oyster Karaage Style",
+          "price": "$14.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Slices of fresh hamachi swimming in ponzu sauce with jalapeno and sriracha",
+          "name": "Hama Peno",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Classic style in a rich creamy miso pork broth with cha shu pork, shiitakes, scallions, spinach, nori, chili oil, black garlic oil & miso egg",
+          "name": "Tokyo Miso Ramen",
+          "price": "$24.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, avocado, tuna inside & tuna outside made like a sandwich",
+          "name": "Tuna Sandwich Roll",
+          "price": "$17.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Flash-fried crab with avocado, cucumber, masago & yama gobo inside, and seaweed out",
+          "name": "Softshell Crab Maki Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Soy sauce, brown sugar, chili peppers, mirin & fish sauce",
+          "name": "Hot Sour Salty Sweet Cucumbers",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Gyoza in a rich hot, sour, salty & sweet chili sauce topped with scallions & sesame seeds",
+          "name": "Gyoza Yudeta",
+          "price": "$10.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Deep-fried, steamed, or pan-fried with sesame seeds & sauce",
+          "name": "Gyoza",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tempura shrimp (imported) in a creamy honey mayo sauce",
+          "name": "Popcorn Shrimp (imported)",
+          "price": "$13.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "With avo, masago, gr onion, sesame oil & seeds served with fresh fried chips with black lava salt",
+          "name": "Spicy Tuna Tartar",
+          "price": "$17.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Fried eggplant with miso, soy, honey & mirin sauce with sesame seeds & green onions",
+          "name": "Nasu Dengaku Miso Eggplant",
+          "price": "$13.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Dark meat marinated in Japanese spices & spicy mayo dip sauce",
+          "name": "Karaage Japanese Fried Chicken",
+          "price": "$14.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna tataki over cucumbers with our own ginzan avocado sauce",
+          "name": "Tuna Tataki Ginzan",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Lightly seared salmon sashimi set on karashi su miso sauce, a mustard miso, sake, mirin & orange zest sauce topped with pickled wasabi & ikura",
+          "name": "Salmon Sahimi Karashi Su",
+          "price": "$22.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Hokkaido scallops, ikura, yuzu josho, truffle oil & lime zest",
+          "name": "Japanese Scallop Crudo",
+          "price": "$22.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Crushed pistachio, togarashi, scallions, pistachio oil & lime",
+          "name": "Salmon Crudo",
+          "price": "$20.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Cucumbers, red onion, lemon, olive oil, salt & pepper",
+          "name": "Octopus carpaccio",
+          "price": "$20.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "with special ponzu sauce",
+          "name": "Tai Snapper Crudo",
+          "price": "$26.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Lightly tempura fried shiitake mushrooms and tempura sauce",
+          "name": "Shitake Mushroom Tempura",
+          "price": "$11.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Fried and served with ponzu and lemon",
+          "name": "Hamachi Kama",
+          "price": "$15.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Japanese Fries with spices",
+          "name": "Japanese Fries w/ spices Large",
+          "price": "$6.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, cukes & avocado with masago ponzu & green onion",
+          "name": "Crab & Avocado",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna, cucumber, avocado, seaweed, squid, masago & green onions with spicy mayo dressing",
+          "name": "Poke (Tuna)",
+          "price": "$14.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Cucumber Salad",
+          "name": "Cucumber Salad",
+          "price": "$5.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Seaweed Salad",
+          "name": "Seaweed Salad",
+          "price": "$6.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Squid Salad",
+          "name": "Squid Salad",
+          "price": "$6.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Ginger miso dressing",
+          "name": "House Salad",
+          "price": "$5.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Octopus with cucumber, avocado, and red onions in a soy, wasabi, yuzu & black pepper dressing",
+          "name": "Octopus Sunomono Salad",
+          "price": "$12.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "With sesame oil & seeds, green onions, soy & seasoned vinegar sauce",
+          "name": "Cold Soba Noodles",
+          "price": "$11.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Miso Soup",
+          "name": "Miso Soup",
+          "price": "$2.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Beef med rare in a dashi broth, green onions, and fish cake",
+          "name": "Beef Udon Noodle Soup",
+          "price": "$24.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Salmon, scallops, shrimp, green mussels, clams, fish cake, carrot, mushrooms, scallions, spinach & temp shrimp (imported) on top",
+          "name": "Seafood Nabeyaki Udon Soup",
+          "price": "$26.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "thigh meat chicken, beef or veggie in yakisoba noodles and yakisoba sauce",
+          "name": "Yakisoba Chicken, Beef or Veggie",
+          "price": "$16.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Japanese Spicy Miso Soup with Clamm",
+          "price": "$11.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "2 pieces tuna, salmon, yellowtail, octopus, tamago, white fish, albacore, spicy tuna, seaweed & squid salad with masago over rice and a miso soup",
+          "name": "Chirashi (Scattered Fish) Lunch Combo",
+          "price": "$24.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "5 pieces-sushi, 1 piece-tuna, salmon, shrimp (imported), albacore & hamachi 6 pieces-sashimi, 2 pieces-tuna, salmon, 1 piece-hamachi & albacore with miso soup",
+          "name": "Sushi & Sashimi Lunch Combo",
+          "price": "$21.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "5 pieces-sushi tuna, salmon, eel, tamago, and shrimp, with a spicy tuna or snow crab hand roll with avocado with miso soup",
+          "name": "Sushi & Handroll Lunch Combo",
+          "price": "$21.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Pick 3. Cali roll, snow crab roll, tuna roll, veggie roll, spicy tuna roll, fresh salmon avo roll, cucumber roll, avocado roll, or asparagus roll with miso soup",
+          "name": "3 Roll Special Lunch Combo",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "lightly marinated in soy sauce and served over sushi rice &soup",
+          "name": "Donburi- Fresh Salmon or Tuna & quail egg",
+          "price": "$26.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "baked delicious bbq eel over sushi rice & soup",
+          "name": "Donburi Unagi Eel",
+          "price": "$26.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "shrimp (imported), shiitakes, assort veggie over rice, soup & salad",
+          "name": "Donburi Tempura",
+          "price": "$19.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Shrimp tempura, salad with miso ginger dressing, rice, seaweed & squid salad, spicy-sweet cucumbers, orange slices, and miso soup",
+          "name": "Shrimp Tempura Bento Box",
+          "price": "$15.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tempura shrimp in creamy honey mayo, salad with miso ginger dressing, rice, seaweed & squid salad, spicy-sweet cucumbers, orange slices, and miso soup",
+          "name": "Popcorn Shrimp Bento Box",
+          "price": "$15.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Salmon fried & drizzled in teriyaki sauce, salad with miso ginger dressing, rice, seaweed & squid salad, spicy-sweet cucumbers, orange slices, and miso soup",
+          "name": "Salmon Bento Box",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Thigh meat chicken in teriyaki sauce, salad with miso ginger dressing, rice, seaweed & squid salad, spicy-sweet cucumbers, orange slices, and miso soup",
+          "name": "Chicken Teriyaki Bento Box",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "With a Japanese green curry & eel sauce topped with green onion",
+          "name": "Softshell Crab Tempura",
+          "price": "$14.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Shrimp (imported) & Veggies Tempura",
+          "name": "Shrimp & Veggies Tempura",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "5 pieces (imported)",
+          "name": "Shrimp Tempura",
+          "price": "$10.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Mixed Veggies Tempura",
+          "name": "Mixed Veggies Tempura",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Beef med-rare on top of hot udon noodles in a dashi broth",
+          "name": "Kids Beef Udon Noodle Soup",
+          "price": "$15.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Karaage fried chicken over rice with a mayo sauce",
+          "name": "Kids Karaage Fried Chicken Bowl",
+          "price": "$14.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Nuggets of shrimp (imported) over a bed of rice",
+          "name": "Kids Tempura Shrimp Bowl",
+          "price": "$12.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Ask your server for the flavors of the day",
+          "name": "Mochi",
+          "price": "$6.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Banana Tempura & Mochi",
+          "name": "Banana Tempura & Mochi",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "6 pieces. Cucumber, avocado, sesame seed with seaweed outside",
+          "name": "Cucumber Avocado Maki Roll",
+          "price": "$7.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "6 pieces. Cucumber, sesame & seaweed outside",
+          "name": "Cucumber Maki Roll",
+          "price": "$6.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Seaweed, cucumber, asparagus, avocado & sesame seed",
+          "name": "Green Dragon Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Avocado, scallions, sesame seed & seaweed outside",
+          "name": "Mega Avocado Maki Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Fermented soybean, super nutritious with green onions & shiso leaf when in season",
+          "name": "Natto Hand Roll or Maki Roll",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Cucumber, avocado, asparagus, pickled radish, scallions, arugula, sesame & seaweed outside",
+          "name": "Super Veggie Maki Roll",
+          "price": "$10.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Seaweed outside. Tempura sweet potato, avocado, cucumber, gr onions with drizzled spicy mayo",
+          "name": "Sweet Potato Maki Roll",
+          "price": "$12.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Real blue crab baked with spicy mayo, masago & green onions in soy paper",
+          "name": "Baked Blue Crab Hand Roll",
+          "price": "$13.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Spicy tuna & crunchy inside peppered tuna & avocado outside with eel sauce and ponzu with a scallion topping",
+          "name": "Burning Man Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, cucumber, avocado & masago",
+          "name": "California Roll",
+          "price": "$7.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Unagi, cucumber, avocado, sesame seed, eel sauce & masago outside",
+          "name": "Caterpillar Roll",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Baked. Spicy mayo, masago, and scallions in soy paper",
+          "name": "Crawfish LA Hand Roll",
+          "price": "$14.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Spicy tuna or snow crab inside with tuna, salmon, yellowtail & avocado outside",
+          "name": "Rainbow Roll",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Fresh salmon & avocado",
+          "name": "Salmon Avocado Roll",
+          "price": "$7.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "8 pieces. Cucumber, masago & green onions",
+          "name": "Salmon Skin (Baked) Maki Roll",
+          "price": "$10.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Spicy shrimp, avocado, scallions, shrimp & crunchy topping with spicy sauce",
+          "name": "Sara 2.0 Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Shrimp temp with double avocado inside & crunchies all around topped with spicy mayo",
+          "name": "Shrimp Tempura Crunch Roll",
+          "price": "$10.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "8 pieces. White fish snapper maki style with gr onions, shiso leaf (when avail) & yuzu kosho with a special ponzu sauce",
+          "name": "Snapper Roll",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, avocado & asparagus",
+          "name": "Snow Crab Roll",
+          "price": "$7.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Softshell crab, snow crab, avocado, cucumber & crunchy inside with smelt roe outside",
+          "name": "Softshell Crab Roll",
+          "price": "$17.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "8 pieces. Spicy snow crab with sriracha, green onions, avocado & seaweed outside",
+          "name": "Spicy Snow Crab Maki Roll",
+          "price": "$15.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "6 pieces. Spicy tuna and avocado in soy paper with spicy tuna crunch, masago & scallions on top",
+          "name": "Spicy Tuna Crunch Roll",
+          "price": "$12.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Spicy tuna, avocado, masago & scallions with seaweed outside",
+          "name": "Spicy Tuna Maki Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab & crunchy inside, shrimp & avocado out with spicy mayo & eel sauce on top",
+          "name": "Throw Me Somethin Mister Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna, salmon, white fish with spicy sauce inside & tuna, salmon, eel on top, eel sauce, crunchy, masago & onion on top",
+          "name": "Tiger Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Rice outside, tuna & avocado",
+          "name": "Tuna Avocado Roll",
+          "price": "$7.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna maki or tuna & avo are both seaweed outside",
+          "name": "Tuna Maki or Tuna Avocado Maki Roll",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna, salmon, white fish, snow crab, asparagus, crunchy in soy paper wrap with eel sauce",
+          "name": "Ya Momma N'em Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "6 pieces. Yellowtail chopped with green scallions and seaweed outside",
+          "name": "Yellowtail Maki Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Yellowtail, avocado, scallions & masago",
+          "name": "Yellowtail Roll",
+          "price": "$9.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab & avocado inside & eel outside",
+          "name": "Box Eel Roll",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, avocado inside & fresh salmon outside",
+          "name": "Box Fresh Salmon Roll",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Cream cheese, snow crab, avocado inside & smoked salmon outside with capers",
+          "name": "Box Smoked Salmon Roll",
+          "price": "$17.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, avocado inside & shrimp outside",
+          "name": "Box Shrimp Roll",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snow crab, avocado inside & tuna outside",
+          "name": "Box Tuna Roll",
+          "price": "$18.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "2pc. With a spicy crab bould mayo sauce and green onions",
+          "name": "Jumbo Lump Crab Sushi",
+          "price": "$15.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "From Japan. With Yuzu Kosho.",
+          "name": "Kanpachi (Amberjack Japan)",
+          "price": "$8.50+"
+        },
+        {
+          "category": "Lunch",
+          "description": "From Japan- torched smoky w/ uni, bowfin caviar & pickled wasabi (2pc)",
+          "name": "A5 Wagyu Ribeye Cut",
+          "price": "$24.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "Fresh salmon seared, smoky & umami w/ yuzu kosho",
+          "name": "Salmon Aburi",
+          "price": "$8.00+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Albacore",
+          "name": "Albacore",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Hokkigai (Surf Clam)",
+          "name": "Hokkigai (Surf Clam)",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Octopus",
+          "name": "Octopus",
+          "price": "$6.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Red Snapper Local",
+          "name": "Red Snapper Local",
+          "price": "$8.00+"
+        },
+        {
+          "category": "Lunch",
+          "description": "2 pieces",
+          "name": "Quail Egg",
+          "price": "$3.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Salmon (Sake)",
+          "name": "Salmon (Sake)",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Sushi only",
+          "name": "Salmon Roe",
+          "price": "$6.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Scallop (Hokido)",
+          "name": "Scallop (Hokido)",
+          "price": "$7.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Shrimp (Ebi)",
+          "name": "Shrimp (Ebi)",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Sushi only",
+          "name": "Smelt Roe",
+          "price": "$5.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Smoked Salmon",
+          "name": "Smoked Salmon",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Snapper Tai Jpn",
+          "name": "Snapper Tai Jpn",
+          "price": "$9.00+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Spicy Scallop",
+          "name": "Spicy Scallop",
+          "price": "$7.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Striped Bass",
+          "name": "Striped Bass",
+          "price": "$9.00+"
+        },
+        {
+          "category": "Lunch",
+          "description": "1 piece",
+          "name": "Sweet Shrimp",
+          "price": "$7.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tamago (Egg Omelette)",
+          "name": "Tamago (Egg Omelette)",
+          "price": "$5.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna (Maguro)",
+          "name": "Tuna (Maguro)",
+          "price": "$6.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Tuna Tataki",
+          "name": "Tuna Tataki",
+          "price": "$6.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Unagi (Fresh Water)",
+          "name": "Unagi (Fresh Water)",
+          "price": "$6.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "Sushi only",
+          "name": "Wasabi Tobiko",
+          "price": "$5.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "Yellowtail",
+          "name": "Yellowtail",
+          "price": "$6.95+"
+        },
+        {
+          "category": "Lunch",
+          "description": "w/ pickled wasabi",
+          "name": "Salmon Belly",
+          "price": "$8.00+"
+        },
+        {
+          "category": "Lunch",
+          "description": "buttery and refined, brightened by fresh grated ginger & lemon, ponzu & green onions",
+          "name": "Shima Aji",
+          "price": "$8.00"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Sweet chili sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Eel sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Pickled Wasabi",
+          "price": "$3.00"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Ponzu Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Spicy mayo",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Sriracha",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Ginger",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Wasabi",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Yuzu Kosho",
+          "price": "$1.00"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Dengaku Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Happy Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Popcorn Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Salad Dressing",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Soba Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Special Ponzu",
+          "price": "$1.00"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Sunomono Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Udetta Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Crunchies Side",
+          "price": "$0.50"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "White Rice",
+          "price": "$2.00"
+        },
+        {
+          "category": "Lunch",
+          "description": null,
+          "name": "Brown Rice",
+          "price": "$5.00"
+        },
+        {
+          "category": "Lunch",
+          "description": "panko fried thigh meat on a brioche bun w/ spring lettuce, tomato, cucumber and our own special creamy udetta sauce, mayo & spicy house cucumber side. Add Japanese French Fries in the Appetizer Section.",
+          "name": "Chicken Katsu Sando",
+          "price": "$16.95"
+        },
+        {
+          "category": "Lunch",
+          "description": "tempura fried shrimp in japanese spices on a brioche bun w/ spring lettuce, tomato & our special creamy udetta sauce, mayo and spicy cucumber side. Add Japanese French Fries in the Appetizer Section.",
+          "name": "Shrimp Tempura Sando (Sandwich)",
+          "price": "$16.95"
+        }
+      ],
+      "key": "origami",
+      "name": "Origami",
+      "sourceURL": "https://www.origaminola.com/menu",
+      "verifiedAt": "2026-10-18T12:17:32+00:00"
     }
   ]
 }
