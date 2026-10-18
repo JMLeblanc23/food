@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T12:17:59+00:00",
-  "itemCount": 787,
+  "generatedAt": "2026-10-18T15:19:27+00:00",
+  "itemCount": 828,
   "schemaVersion": 1,
-  "venueCount": 11,
+  "venueCount": 12,
   "venues": [
     {
       "items": [
@@ -4813,6 +4813,260 @@
       "name": "Origami",
       "sourceURL": "https://www.origaminola.com/menu",
       "verifiedAt": "2026-10-18T12:17:32+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": null,
+          "name": "Rock Tacos Plate",
+          "price": "$15.00+"
+        },
+        {
+          "category": null,
+          "description": "Order of 5 traditional tacos. Choice of flour or corn tortilla. Served with onions, cilantro, and whole pinto beans (beans on arrachera only)",
+          "name": "Traditional Taco Plate",
+          "price": "$15.00"
+        },
+        {
+          "category": null,
+          "description": "Our popular birria taco. Does NOT include consome.",
+          "name": "Rock Taco Single",
+          "price": "$5.25+"
+        },
+        {
+          "category": null,
+          "description": "We fused a quesadilla with our tradicional tacos for a unique taco experience. We make a quesadilla then top it like we do our tradicional tacos. The plate comes with 3 quesatacos",
+          "name": "Quesataco Plate",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "12 inch flour tortilla filled with rice, beans, choice of meat, fresh onions/cilantro, rolled up and pan toasted, then to top it off we roll it into a crispy cheese costra/scab",
+          "name": "Dog House Burrito",
+          "price": "$13.50+"
+        },
+        {
+          "category": null,
+          "description": "Our take on ramen. Ramen noodles, Birria meat, consome, cheese, fresh onions, cilantro",
+          "name": "Paco Ramen",
+          "price": "$10.25"
+        },
+        {
+          "category": null,
+          "description": "Texas toast filled with melted chihuaha cheese, birria, onions, cilantro, and served with a side of consome and fries. Not your typical grilled cheese!!",
+          "name": "Birria Grilled Cheese",
+          "price": "$15.00+"
+        },
+        {
+          "category": "Catering items",
+          "description": "30 traditional tacos with choice of 3 meats. 10 tacos of each meat. Served with onions, cilantro, and grilled onions. Perfect for your next party.",
+          "name": "30 taco Box",
+          "price": "$90.00+"
+        },
+        {
+          "category": null,
+          "description": "2 flour or handmade corn tortillas, fresh onions, cilantro, sauteed onions, guacamole. Choice of fried or grilled shrimp.",
+          "name": "Shrimp Tacos Plate",
+          "price": "$15.00"
+        },
+        {
+          "category": null,
+          "description": "The name of the dish literally translates to \"drowned tacos\" because the taco are \"Drowned\" in our jitomate salsa. 3 tacos filled with chicken tinga topped with shredded lettuce, sour cream, and sprinkled with queso fresco then drowned with jitomate salsa",
+          "name": "Tacos Ahogados",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Imagine that a sandwich and a taco got married and had a kid. That kid would be named torta. Telera bun, choice of meat, cheese, onions, cilantro, tomato, guacamole, refried beans, and crema",
+          "name": "Torta",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Tostada topped with melted chihuaha cheese dalloped with beans topped with our Deep fried ribeye steak. Topped with sauteed onions and sliceed avocado.",
+          "name": "Ribeye Volcano",
+          "price": "$12.00+"
+        },
+        {
+          "category": null,
+          "description": "Mexican rice, whole pinto beans, shredded lettuce, choice of meat. Topped with guacamole and sour cream",
+          "name": "Paco Bowl",
+          "price": "$13.95"
+        },
+        {
+          "category": null,
+          "description": "A flour tortilla with your choice of meat with cheese, heated on a comal and served with our house grilled onions. The name is either a reference to the white flour used, or its creation, when two women from the united states asked a Mexico City taqueria for a Mexican dish but disliked corn tortillas",
+          "name": "Penny",
+          "price": "$11.50+"
+        },
+        {
+          "category": null,
+          "description": "A typical item you will find in Mexican street food. A thin layer of chihuahua cheese that is wrapped around your choice of meat and grilled onions.",
+          "name": "Costras",
+          "price": "$12.00+"
+        },
+        {
+          "category": null,
+          "description": "Our mexican spin on an italian classic. 10 inch flour tortilla with a cheese crust. Topped with our famous \"Birria\" meat, onions, cilantro, and sour cream.",
+          "name": "Mexican Pizza",
+          "price": "$18.95"
+        },
+        {
+          "category": null,
+          "description": "Plain Penny served with side order of fries.",
+          "name": "Kids Penny",
+          "price": "$9.25"
+        },
+        {
+          "category": null,
+          "description": "Single Street Taco topped with onions and cilantro. Order three or more will be served with grilled onions.",
+          "name": "Traditional Taco",
+          "price": "$3.50"
+        },
+        {
+          "category": null,
+          "description": "A la carte version of our quesataco.",
+          "name": "Quesataco Single",
+          "price": "$4.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Shrimp Taco Single",
+          "price": "$7.75"
+        },
+        {
+          "category": null,
+          "description": "Deliciuos sweet plantains. Served with choice of condensed milk or mexican crema.",
+          "name": "Plantains",
+          "price": "$7.00"
+        },
+        {
+          "category": null,
+          "description": "Our version of Mexico's most popular dessert. Served with a side of lechera.",
+          "name": "Churros",
+          "price": "$7.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Rice",
+          "price": "$2.25+"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Beans",
+          "price": "$2.25+"
+        },
+        {
+          "category": null,
+          "description": "Consome refers to the clarified liquid that results from long cooking process of birria",
+          "name": "Consome",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Order of Grilled Onions",
+          "price": "$1.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "2oz Sour Cream",
+          "price": "$3.25+"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "2oz Shredded Cheese",
+          "price": "$2.75+"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Bottled Water",
+          "price": "$2.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Sprite",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Unsweet Tea",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Sweet Tea",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Jarritos",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Dr. Pepper",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Diet Coke",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Coke",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Barqs Root Beer",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": "Grilled Chicken Paco Bowl Wednesday Special.",
+          "name": "Paco Bowl Special",
+          "price": "$9.00"
+        },
+        {
+          "category": null,
+          "description": "Get 3 Traditional tacos and choice of non-alcoholic drink. Available online and through our app.",
+          "name": "3 Trad Taco Combo 1",
+          "price": "$12.50"
+        },
+        {
+          "category": null,
+          "description": "2 of our signature Birria tacos along with your choice of non alcoholic beverage,",
+          "name": "Rock Taco Combo 2",
+          "price": "$12.50"
+        },
+        {
+          "category": null,
+          "description": "Choice of Penny filling. Aliong with choice of non alcoholic drink.",
+          "name": "Penny Combo 3",
+          "price": "$13.50+"
+        }
+      ],
+      "key": "pacos tacos",
+      "name": "Paco's Tacos",
+      "sourceURL": "https://pacostacos.la/menu",
+      "verifiedAt": "2026-10-18T15:18:46+00:00"
     }
   ]
 }
