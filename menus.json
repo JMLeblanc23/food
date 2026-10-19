@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T19:54:46+00:00",
-  "itemCount": 1080,
+  "generatedAt": "2026-10-19T23:36:38+00:00",
+  "itemCount": 1245,
   "schemaVersion": 1,
-  "venueCount": 16,
+  "venueCount": 18,
   "venues": [
     {
       "items": [
@@ -6611,6 +6611,1012 @@
       "name": "Pepperoni Ray\u2019s",
       "sourceURL": "https://www.pepperonirays.net/",
       "verifiedAt": "2026-10-19T19:54:08+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Breakfast",
+          "description": "3 eggs fried to perfection served over corn tortillas, topped with homemade organic black beans, sour cream, Spanish guacamole, and salsa ranchera.",
+          "name": "Huevos Rancheros",
+          "price": "$15.50+"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Served with a side of our oven-roasted potatoes. Fresh gulf shrimp, green peppers, onions, tomatoes, mozzarella, and cheddar cheese.",
+          "name": "New Orleans Omelette",
+          "price": "$15.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Our best seller. Three eggs, potatoes, bacon, and toast. Please note that no modifications are accommodated.",
+          "name": "Uptowner Breakfast",
+          "price": "$12.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Fresh strawberries, sliced bananas, and blueberries topped with Nutella sauce, wrapped in a homemade cr\u00eape.",
+          "name": "Cr\u00eape",
+          "price": "$12.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Scrambled eggs, VIP ham, and melted cheddar cheese.",
+          "name": "Breakfast Sandwich",
+          "price": "$12.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Scrambled egg, melted cheese, onions, tomatoes, green peppers, cilantro, Italian sausage, ham, and bacon over tortilla chips.",
+          "name": "Masterpiece Breakfast",
+          "price": "$13.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Served with a side of our oven-roasted potatoes. Fancy mushrooms, sun-dried tomatoes, artichoke hearts, fresh baby spinach, and mozzarella cheese",
+          "name": "California Omelette",
+          "price": "$13.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "3 scrambled eggs, VIP ham and cheddar cheese wrapped in a warm whole wheat tortilla. Served with a side of fresh fruit.",
+          "name": "Breakfast Wrap",
+          "price": "$13.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "A rich, puffy crust filled with the fresh taste of our signature homemade Bananas Foster sauce and fresh sliced organic bananas makes our French toast the perfect breakfast choice.",
+          "name": "Bananas Foster French Toast",
+          "price": "$13.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Served with an order of potatoes. 3 eggs fried to perfection, topped with homemade organic black beans, sour cream, Spanish guacamole, and salsa ranchera.",
+          "name": "Breakfast Bowl",
+          "price": "$11.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "All pancakes are served with a side order of homemade grits.",
+          "name": "Buttermilk Pancakes",
+          "price": "$10.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "3 eggs, bacon, fresh fruit, and toast.",
+          "name": "Tulanian Breakfast",
+          "price": "$12.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Build Your Own Omelette",
+          "price": "$15.00+"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Onions, green peppers, tomatoes, cheddar cheese, crawfish, and crabmeat sauce.",
+          "name": "Crawfish Omelette",
+          "price": "$18.00"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Poached eggs and pulled pork.",
+          "name": "Pulled Pork Benedict",
+          "price": "$15.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Strawberry & Nutella Waffle",
+          "price": "$11.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Egg whites, tomatoes, avocado, and organic black beans.",
+          "name": "Yale",
+          "price": "$12.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Made with homemade biscuits, VIP ham, and our delicious hollandaise sauce. Served with a side of oven-roasted potatoes.",
+          "name": "Eggs Benedict",
+          "price": "$14.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "Grits, over medium eggs, onions, bacon, tomatoes, cilantro, and avocado.",
+          "name": "Breakfast Grit Bowl",
+          "price": "$11.50"
+        },
+        {
+          "category": "Breakfast",
+          "description": "All pancakes infused with chocolate chips, served with a side order of homemade grits.",
+          "name": "Chocolate Chip Pancakes",
+          "price": "$11.50"
+        },
+        {
+          "category": "Sides",
+          "description": "Fresh seasonal fruit, carefully selected and arranged in a bowl.",
+          "name": "Bowl of Fresh Fruit",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides",
+          "description": "Crispy bacon strips, a classic breakfast side.",
+          "name": "Bacon",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": "Golden brown toast slices with a crisp bite and soft center.",
+          "name": "Toast",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": "High-quality black beans, perfect for a hearty breakfast side dish.",
+          "name": "Black Beans",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides",
+          "description": "Southern-style ground corn porridge.",
+          "name": "Grits",
+          "price": "$2.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Eggs",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Muffin",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side Belgian Waffle",
+          "price": "$7.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fresh Avocado",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side Parfait",
+          "price": "$7.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sausage Patties",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Oven Roasted Potatoes",
+          "price": "$4.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Baked and served with marinara sauce.",
+          "name": "Breadsticks",
+          "price": "$10.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Baked and served with Parmesan peppercorn ranch and hot sauce.",
+          "name": "Buffalo Wings",
+          "price": "$11.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Served with a side of homemade marinara sauce.",
+          "name": "Mozzarella Sticks",
+          "price": "$10.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Mixed greens, tomatoes, walnuts, feta cheese, red onions, and strawberries.",
+          "name": "Strawberry Field Salad",
+          "price": "$12.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine lettuce, croutons, and Parmesan cheese.",
+          "name": "Caesar Salad",
+          "price": "$10.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Mixed greens, plum tomatoes, mushrooms, and carrots.",
+          "name": "Garden Salad",
+          "price": "$10.50"
+        },
+        {
+          "category": "Soups",
+          "description": "Bowl.",
+          "name": "Cream of Mushroom Soup",
+          "price": "$5.50"
+        },
+        {
+          "category": "Soups",
+          "description": "Bowl.",
+          "name": "Tomato Soup",
+          "price": "$5.50"
+        },
+        {
+          "category": "Paninis",
+          "description": "Grilled chicken breast, spinach, tomatoes, pesto aioli, and mozzarella cheese. Served on our homemade bread. Chips included. Lettuce, and mayo available upon request. Avocado for an additional charge.",
+          "name": "Chicken Caprese Panini",
+          "price": "$12.50"
+        },
+        {
+          "category": "Paninis",
+          "description": "Handmade meatballs with marinara and mozzarella cheese. Served on our homemade bread. Chips included. Lettuce, tomato, and mayo available upon request. Avocado for an additional charge.",
+          "name": "Meatball Panini",
+          "price": "$12.50"
+        },
+        {
+          "category": "Paninis",
+          "description": "Ham, oven-roasted turkey, bacon, cheddar cheese, lettuce, tomato, and mayonnaise. Served on our homemade bread. Chips included. Lettuce, tomato, and mayo available upon request. Avocado for an additional charge.",
+          "name": "Club Panini",
+          "price": "$12.50"
+        },
+        {
+          "category": "Paninis",
+          "description": "Hickory smoked ham plus melted mozzarella cheese. Served on our homemade bread. Chips included. Lettuce, tomato, and mayo available upon request. Avocado for an additional charge.",
+          "name": "Ham and Cheese Panini",
+          "price": "$12.50"
+        },
+        {
+          "category": "Paninis",
+          "description": "Mushrooms, onions, green peppers, black and green olives, marinara sauce, and melted cheese. Served on our homemade bread. Chips included. Lettuce, tomato, and mayo available upon request. Avocado for an additional charge.",
+          "name": "Super Veggie Panini",
+          "price": "$11.50"
+        },
+        {
+          "category": "Wraps",
+          "description": "Oven-roasted turkey, cheddar cheese, lettuce, and tomato. Healthy wrap is served with chips. Avocado for an additional charge.",
+          "name": "Turkey Wrap",
+          "price": "$11.50"
+        },
+        {
+          "category": "Wraps",
+          "description": "Black and green olives, onions, green peppers, mushrooms, mozzarella cheese, marinara sauce, lettuce, and tomato. Healthy wrap is served with chips. Avocado for an additional charge.",
+          "name": "Veggie Wrap",
+          "price": "$11.50"
+        },
+        {
+          "category": "Wraps",
+          "description": "Tender chicken, crispy Romaine lettuce, and Parmesan cheese. Healthy wrap is served with chips. Avocado for an additional charge.",
+          "name": "Caesar Chicken Wrap",
+          "price": "$11.50"
+        },
+        {
+          "category": "Wraps",
+          "description": null,
+          "name": "Chicken Quesadilla",
+          "price": "$13.00"
+        },
+        {
+          "category": "Pasta",
+          "description": "Homemade meatballs and marinara sauce topped with fresh veggies. Served with homemade breadsticks.",
+          "name": "Spaghetti & Meatballs",
+          "price": "$13.50+"
+        },
+        {
+          "category": "Pasta",
+          "description": "Spaghetti with onions, tomatoes, garlic, and peppers. Served with homemade breadsticks.",
+          "name": "Pasta Aioli",
+          "price": "$13.50"
+        },
+        {
+          "category": "Pasta",
+          "description": "Pepperoni Caf\u00e9's meat lasagna. Served with homemade breadsticks.",
+          "name": "Lasagna Neapolitana",
+          "price": "$12.50"
+        },
+        {
+          "category": "Pasta",
+          "description": "Bed of fettuccine plus our signature creamy sauce. Served with homemade breadsticks.",
+          "name": "Pasta Alfredo",
+          "price": "$12.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Pepperoni, ham, green pepper, onion, mushroom, and extra cheese.",
+          "name": "Deluxe Specialty Pizza",
+          "price": "$16.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Pepperoni, ham, Italian sausage, ground beef, mushrooms, black and green olives, onions, green peppers, artichoke hearts, jalape\u00f1os, anchovies, and extra cheese.",
+          "name": "Masterpiece Specialty Pizza",
+          "price": "$18.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Mushrooms, black and green olives, onions, green peppers, artichoke hearts, tomatoes, spinach, jalape\u00f1os, and extra cheese.",
+          "name": "Super Veggie Specialty Pizza",
+          "price": "$18.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Feta cheese, mushrooms, spinach, and tomatoes (canola based).",
+          "name": "Heart Smart Specialty Pizza",
+          "price": "$16.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Gulf shrimp, red onions, fresh basil, and our signature garlic sauce.",
+          "name": "Shrimp Specialty Pizza",
+          "price": "$16.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Classic melted cheese on a hand-tossed crust.",
+          "name": "Cheese Pizza",
+          "price": "$12.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Hand-tossed pizza with your choice of one topping.",
+          "name": "1 Topping Pizza",
+          "price": "$13.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Customizable hand-tossed pizza with your choice of two toppings.",
+          "name": "2 Toppings Pizza",
+          "price": "$14.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Customizable hand-tossed pizza with your choice of three toppings.",
+          "name": "3 Toppings Pizza",
+          "price": "$15.50+"
+        },
+        {
+          "category": "Pizza",
+          "description": "Customizable hand-tossed pizza with your choice of four toppings.",
+          "name": "4 Toppings Pizza",
+          "price": "$15.50+"
+        },
+        {
+          "category": "Calzones",
+          "description": "Design your own delicious calzone!",
+          "name": "Cheese Calzone",
+          "price": "$9.50"
+        },
+        {
+          "category": "Desserts",
+          "description": "Rich, moist chocolate dessert.",
+          "name": "Homemade Chocolate Cake",
+          "price": "$5.50"
+        },
+        {
+          "category": "Desserts",
+          "description": "Assorted muffins: blueberry and crumb-topped with a light sugar dusting.",
+          "name": "Homemade Muffins",
+          "price": "$4.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Freshly squeezed juice from oranges.",
+          "name": "Orange Juice",
+          "price": "$4.50"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Coke Products",
+          "price": "$3.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Refreshing beverage made with brewed tea, served chilled.",
+          "name": "Iced Tea (Unsweet)",
+          "price": "$3.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Refreshing and thirst-quenching juice made from fresh watermelon.",
+          "name": "Fresh Watermelon Juice",
+          "price": "$6.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Refreshing and sweet, a perfect blend of mango flavor.",
+          "name": "Fresh Mango Juice",
+          "price": "$6.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Chilled glass of dairy milk.",
+          "name": "Milk",
+          "price": "$4.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Rich and smooth beverage to start your day.",
+          "name": "Bottomless Coffee",
+          "price": "$3.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "A selection of hot teas to warm your day.",
+          "name": "Assorted Hot Tea Selection",
+          "price": "$3.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Brewed coffee served over ice.",
+          "name": "Iced Coffee",
+          "price": "$6.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Rich and smooth espresso-style coffee drink.",
+          "name": "Latte",
+          "price": "$4.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Rich and smooth coffee drink made with espresso and steamed milk.",
+          "name": "Cappuccino",
+          "price": "$4.50"
+        }
+      ],
+      "key": "pepperonis",
+      "name": "Pepperoni's Cafe",
+      "sourceURL": "https://pepperoniscafe.com/menu",
+      "verifiedAt": "2026-10-19T23:35:56+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Cheesesteaks",
+          "description": "Classic Philly with grilled onions and cheese whiz",
+          "name": "Original Whiz",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Lettuce, tomato, mayo, grilled onions, and your choice of cheese (American, provolone, or whiz)",
+          "name": "Philly Dressed",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Juicy steak topped with saut\u00e9ed shrimp, grilled onions, and your choice of cheese",
+          "name": "Surf & Turf",
+          "price": "$14.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Cajun spice with grilled onions, cheese whiz, Cajun mayo, and cherry peppers",
+          "name": "Spicy Cajun",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Lettuce, tomato, mayo, grilled onions, and all three cheeses - American, provolone, and cheese whiz",
+          "name": "Triple Cheese",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Your choice of steak or chicken, loaded with mushrooms and grilled onions, topped with melted provolone.",
+          "name": "Mushroom Provolone",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": "Crispy chicken tenders with lettuce, tomato, mayo, grilled onions, and your choice of sauce and cheese.",
+          "name": "Chicken Tender Philly",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": null,
+          "name": "Pizza Steak",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": null,
+          "name": "Cooper Sharp Cheesesteak",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteaks",
+          "description": null,
+          "name": "Buffalo Chicken Philly",
+          "price": "$12.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Classic Philly with grilled onions and cheese whiz",
+          "name": "Original Whiz Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Lettuce, tomato, mayo, grilled onions, and your choice of cheese (American, provolone, or whiz)",
+          "name": "Philly Dressed Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Cajun spice with grilled onions, cheese whiz, Cajun mayo, and cherry peppers",
+          "name": "Spicy Cajun Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Lettuce, tomato, mayo, grilled onions, and all three cheeses - American, provolone, and cheese whiz",
+          "name": "Triple Cheese Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Juicy steak topped with saut\u00e9ed shrimp, grilled onions, and your choice of cheese",
+          "name": "Surf & Turf Combo",
+          "price": "$18.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Crispy chicken tenders with lettuce, tomato, mayo, grilled onions, and your choice of cheese",
+          "name": "Chicken Tender Philly Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": "Your choice of steak or chicken, loaded with mushrooms and grilled onions, topped with melted provolone.",
+          "name": "Mushroom Provolone Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": null,
+          "name": "Pizza Steak Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": null,
+          "name": "Cooper Sharp Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Cheesesteak Combos",
+          "description": null,
+          "name": "Buffalo Chicken Combo",
+          "price": "$16.99"
+        },
+        {
+          "category": "Wings",
+          "description": null,
+          "name": "6 Wings",
+          "price": "$8.99"
+        },
+        {
+          "category": "Wings",
+          "description": null,
+          "name": "8 Wings",
+          "price": "$11.99"
+        },
+        {
+          "category": "Wings",
+          "description": null,
+          "name": "10 Wings",
+          "price": "$13.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "6 Wings Combo",
+          "price": "$11.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "8 Wings Combo",
+          "price": "$13.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "10 Wings Combo",
+          "price": "$15.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 20 Wings + Large Fries + 3 Drinks",
+          "price": "$29.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 30 Wings + 2 Large Fries + 5 Drinks",
+          "price": "$44.99"
+        },
+        {
+          "category": "Wing Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 50 Wings + 3 Large Fries + 8 Drinks",
+          "price": "$69.99"
+        },
+        {
+          "category": "Tenders",
+          "description": null,
+          "name": "4 Tenders",
+          "price": "$8.99"
+        },
+        {
+          "category": "Tenders",
+          "description": null,
+          "name": "6 Tenders",
+          "price": "$11.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "4 Tenders Combo",
+          "price": "$11.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "6 Tenders Combo",
+          "price": "$13.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 20 Tenders + Large Fries + 3 Drinks",
+          "price": "$34.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 30 Tenders + 2 Large Fries + 5 Drinks",
+          "price": "$49.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "Family Packs: 50 Tenders + 3 Large Fries + 8 Drinks",
+          "price": "$79.99"
+        },
+        {
+          "category": "Tender Combos & Family Packs",
+          "description": null,
+          "name": "3 Tenders W/ Fries",
+          "price": "$8.99"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Bold, tangy heat",
+          "name": "Boss Buffalo Hot",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": null,
+          "name": "Boss Buffalo Mild",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Sweet & smoky",
+          "name": "Backyard BBQ",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Zesty citrus dry rub",
+          "name": "Lemon Pepper Punch",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Creamy garlic Parmesan",
+          "name": "Garlic Gold",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Smoky cajun dry rub",
+          "name": "Bayou Cajun",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": "Sweet with a touch of heat",
+          "name": "Sweet Chili",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": null,
+          "name": "Bros Sauce",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Sauces",
+          "description": null,
+          "name": "Ranch",
+          "price": "$0.75"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Burger over fries with lettuce, tomato, fresh onions, with cheese whiz",
+          "name": "Whiz Burger Plate",
+          "price": "$14.99"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Five crispy chicken tenders over fries topped with cheese whiz",
+          "name": "Whiz Tenders Plate",
+          "price": "$14.99"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Fries loaded with steak, grilled onions, and topped with cheese whiz",
+          "name": "Philly Cheesesteak Fries",
+          "price": "$14.99"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Cheesesteak (choice of steak or chicken), 5 wings, and fries",
+          "name": "Bro's Combo",
+          "price": "$21.99"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "5 Wings, 3 Tenders W/Fries and your choice of sauce.",
+          "name": "Wings & Tenders",
+          "price": "$14.99"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Mini Philly cheesesteaks done your way on soft toasted slider rolls. Choose any Philly Bros style with chopped steak or chicken, grilled onions, and your choice of cheese. Served with fries.",
+          "name": "Philly Sliders Plate",
+          "price": "$12.99+"
+        },
+        {
+          "category": "Bro's Plates",
+          "description": "Mini Philly cheesesteaks done your way on soft toasted slider rolls. Choose any Philly Bros style with chopped steak or chicken, grilled onions, and your choice of cheese.",
+          "name": "Philly Sliders",
+          "price": "$9.99+"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries",
+          "price": "$3.49+"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Whiz Fries",
+          "price": "$6.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mozzarella Sticks",
+          "price": "$6.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Corn Nuggets",
+          "price": "$5.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheesesteak Eggroll",
+          "price": "$8.99"
+        },
+        {
+          "category": "Sides",
+          "description": "Buffalo sauce, Cheese Whiz, and sweet chili sauce.",
+          "name": "Sweet Heat Fries",
+          "price": "$6.49+"
+        },
+        {
+          "category": "Sides",
+          "description": "Cheese Whiz, BBQ sauce, ranch, and jalapenos.",
+          "name": "Rodeo Fries",
+          "price": "$6.49+"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fried Mushrooms",
+          "price": "$6.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Jalepeno Poppers",
+          "price": "$6.99"
+        },
+        {
+          "category": "Kids Meals",
+          "description": null,
+          "name": "Kid's 2 Tenders",
+          "price": "$7.99"
+        },
+        {
+          "category": "Kids Meals",
+          "description": null,
+          "name": "Kid's 3 Wings",
+          "price": "$7.99"
+        },
+        {
+          "category": "Salads",
+          "description": "Fresh lettuce, tomato, cucumber, onion, choice of dressing",
+          "name": "Salad",
+          "price": "$6.49"
+        },
+        {
+          "category": "Salads",
+          "description": "Fresh lettuce, tomato, cucumber, onion, topped with crispy chicken and choice of dressing",
+          "name": "Bro's Salad",
+          "price": "$9.49"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Red Velvet",
+          "price": "$4.99"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Carrot Cake",
+          "price": "$4.99"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Cheese Cake",
+          "price": "$4.99"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Chocolate",
+          "price": "$4.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Extra Meat",
+          "price": "$3.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Extra Cheese",
+          "price": "$0.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Side Sauce",
+          "price": "$0.50"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Small Whiz",
+          "price": "$0.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Large Whiz",
+          "price": "$2.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Cherry Peppers",
+          "price": "$0.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Mushrooms",
+          "price": "$0.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Bell Peppers",
+          "price": "$0.99"
+        },
+        {
+          "category": "Mixed Family Packs",
+          "description": null,
+          "name": "6 Sliders + 10 Wings + Lrg Fries",
+          "price": "$36.99"
+        },
+        {
+          "category": "Mixed Family Packs",
+          "description": null,
+          "name": "6 Sliders + 10 Tenders + Lrg Fries",
+          "price": "$39.99"
+        },
+        {
+          "category": "Mixed Family Packs",
+          "description": null,
+          "name": "6 Sliders + 10 Wings + 10 Tenders + 2 Lrg Fries",
+          "price": "$59.99"
+        },
+        {
+          "category": "Catering",
+          "description": null,
+          "name": "Cheesesteaks",
+          "price": "$119.99+"
+        },
+        {
+          "category": "Catering",
+          "description": null,
+          "name": "Sliders",
+          "price": "$39.99+"
+        },
+        {
+          "category": "Catering",
+          "description": null,
+          "name": "Cheesesteak Eggrolls",
+          "price": "$29.99+"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Slushies",
+          "price": "$3.99"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Bro's Freeze",
+          "price": "$5.99"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Can Drink",
+          "price": "$1.99"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Fountain Drink",
+          "price": "$1.99"
+        }
+      ],
+      "key": "philly bros",
+      "name": "Philly Bros",
+      "sourceURL": "https://getphillybros.com/menu/philly-bros-2100-airline-drive-suite-b",
+      "verifiedAt": "2026-10-19T23:36:05+00:00"
     }
   ]
 }
