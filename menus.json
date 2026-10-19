@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T01:11:58+00:00",
-  "itemCount": 906,
+  "generatedAt": "2026-10-19T19:54:46+00:00",
+  "itemCount": 1080,
   "schemaVersion": 1,
-  "venueCount": 13,
+  "venueCount": 16,
   "venues": [
     {
       "items": [
@@ -5543,6 +5543,1074 @@
       "name": "Papi's",
       "sourceURL": "https://www.papis504.com/menus",
       "verifiedAt": "2026-10-18T22:08:03+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "LA jumbo lump crab, crab butter, sweet corn, piave cheese",
+          "name": "Gnocchi",
+          "price": "$29.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Lamb, beef, whipped feta, tomato chutney, dill, sumac and za'atar onions",
+          "name": "Kofta Meatballs",
+          "price": "$20.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Seasonal jam, whole grain mustard, housemade pickles, fried saltines",
+          "name": "Chicken Liver Pate",
+          "price": "$19.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Giardiniera aioli, country ham",
+          "name": "Fried Cauliflower",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Wonton, tobiko roe, furikake seasoning",
+          "name": "Deviled Eggs",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fried oysters, celery slaw, blue cheese, buffalo sauce",
+          "name": "Buffalo Fried Oysters",
+          "price": "$23.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Creme fraiche, herbs, fried saltines",
+          "name": "Smoked Fish Dip",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Poblano & bacon creamed corn, crispy okra",
+          "name": "Grilled Gulf Shrimp",
+          "price": "$19.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Fine herbs, vadouvan almonds, farmers\u2019 cheese, banyuls vinaigrette",
+          "name": "Garden Greens",
+          "price": "$12.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Cabbage/carrot/radish/turnip slaw, peach nuoc cham, torn herbs, crispy peanuts and ginger",
+          "name": "Five Spice Duck Confit Leg",
+          "price": "$29.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Little gem lettuce, cherry tomatoes, broadbent bacon, pickled red onion, blue cheese dressing, garlic croutons",
+          "name": "Little Gem Salad",
+          "price": "$18.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Summer squash, burrata, basil, croutons, roasted vidalia onion vinaigrette",
+          "name": "Creole Tomato Salad",
+          "price": "$18.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": null,
+          "name": "Seasonal Gumbo",
+          "price": "$13.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": null,
+          "name": "Soup Du Jour",
+          "price": "Market Price"
+        },
+        {
+          "category": "Entrees",
+          "description": "Mozzarella cheese, basil pistou, spaghetti squash",
+          "name": "Eggplant Parmesan",
+          "price": "$28.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Garlic sweet potatoes, haricot vert, pecans, meuni\u00e8re",
+          "name": "Pecan Crusted Gulf Fish",
+          "price": "$37.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Succotash of farro, corn, and lima beans, orange marmalade, pork reduction",
+          "name": "Smoked Pork Chop",
+          "price": "$38.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Ratatouille of squash, zucchini, eggplant, tomato, vidalia onions, bell peppers, cavatelli pasta, goat cheese, pine nuts & microgreens",
+          "name": "Roasted Airline Chicken Breast",
+          "price": "$33.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Pappardelle pasta, saffron shrimp velout\u00e9, pickled peppers, preserved lemon, cherry tomato, basil, tarragon, garlic bread crumbs",
+          "name": "Gulf Shrimp Pasta",
+          "price": "$32.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Steak fries, sauteed broccolini, romesco sauce, chimichurri sauce",
+          "name": "Grilled Hanger Steak",
+          "price": "$56.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "from Piccola Gelateria",
+          "name": "Gelato du Jour",
+          "price": "$11.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "from Piccola Gelateria",
+          "name": "Sorbet du Jour",
+          "price": "$11.00"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+          "price": "$13.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "White chocolate custard, spiced apple pie filling, graham milk crumble, whiskey caramel sauce",
+          "name": "Apple Pie Bread Pudding",
+          "price": "$12.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "Pumpkin chai cream cheese mouse, candied pepitas, espresso chantilly cream",
+          "name": "Pumpkin Chai Trifle",
+          "price": "$13.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "Dark chocolate fudge brownie, chocolate sauce, amarena cherry gelato, milk chocolate pearls",
+          "name": "Brownie Sundae",
+          "price": "$13.00"
+        },
+        {
+          "category": "Dessert",
+          "description": "A round of drinks for the hard working kitchen staff!",
+          "name": "A Round for the Kitchen",
+          "price": "$10.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Roasted cauliflower, bacon lardons, English peas, carbonara style",
+          "name": "Potato Gnocchi",
+          "price": "$18.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Selection of breads and muffins, seasonal jam",
+          "name": "Brunch Breads",
+          "price": "$10.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Smoked fish dip, creme fraiche, herbs, fried saltines",
+          "name": "Fish Dip",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Black garlic whipped goat cheese, salsa matcha, fried tortilla strips, lime, mint, cilantro",
+          "name": "Grilled Broccoli",
+          "price": "$16.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "LA strawberries, manchego cheese, crispy country ham, sherry & mustard vinaigrette",
+          "name": "Strawberry & Arugula Salad",
+          "price": "$15.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Ham, dijon, smoked pork, gruyere cheese, B&B pickles, manchego custard, sunny side up egg.",
+          "name": "Cuban Madame",
+          "price": "$18.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Baked eggs in tomato sauce with zatar spice, feta cheese, fried chickpeas, grilled focaccia bread",
+          "name": "Shashouka",
+          "price": "$16.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Gulf shrimp, veloute, black garlic, preserved lemon, garlic bread crumbs",
+          "name": "Shrimp & Grits",
+          "price": "$27.00"
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Omelette Du Jour",
+          "price": "MARKET PRICE"
+        },
+        {
+          "category": "Entrees",
+          "description": "Biscuit, Italian sausage gravy, poached egg",
+          "name": "Fried Chicken",
+          "price": "$20.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Iceberg lettuce, caramelized onion, comeback sauce, American cheese, b&b pickles | Add Egg $1.00",
+          "name": "Patois Burger",
+          "price": "$17.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Two sunny side up eggs, two fried corn tortillas, chorizo, black beans, ranchero sauce, cotija cheese, onions, cilantro, herbed ranch",
+          "name": "Huevos Rancheros",
+          "price": "$19.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries",
+          "price": "$6.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Grits",
+          "price": "$6.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Hash Browns",
+          "price": "$6.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Biscuit",
+          "price": "$3.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Applewood Bacon",
+          "price": "$6.00"
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": "2 COURSE PAIRING",
+          "name": "OPTIONAL WINE PAIRING",
+          "price": "$20.00"
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": null,
+          "name": "BUTTERMILK BISCUITS & GRAVY",
+          "price": null
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": null,
+          "name": "SMASHED AVOCADO TOAST",
+          "price": null
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": null,
+          "name": "SEEDED BREAD WITH SMOKED SALMON, RADISHES, SALSA MATCHA, SPROUTS",
+          "price": null
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": null,
+          "name": "GUMBO or SOUP DU JOUR",
+          "price": null
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": "TOASTED ALMONDS",
+          "name": "STUFFED BLUEBERRY & WHIPPED RICOTTA FRENCH TOAST",
+          "price": "$35.00"
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": "TWO PIECES OF CRISPY BOUDIN ON TOP OF BUTTERMILK BISCUITS WITH CRYSTAL HOLLANDAISE AND TWO POACHED EGGS",
+          "name": "BOUDIN & BISCUITS BENEDICT",
+          "price": "$35.00"
+        },
+        {
+          "category": "August, 2026 $35, Three Course Brunch",
+          "description": null,
+          "name": "Gelato or Sorbet Du Jour",
+          "price": null
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "SHISHITO PEPPERS, STRACCIATELLA CHEESE, FOCACCIA",
+          "name": "GRILLED EGGPLANT",
+          "price": null
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "WITH PICKLED RAMP TARTAR, SPROUTS",
+          "name": "CRAB CAKE",
+          "price": null
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "FINE HERBS, VAUDOUVAN ALMONDS, FARMERS\u2019 CHEESE, BANYULS VINAIGRETTE",
+          "name": "MIXED GREEN SALAD",
+          "price": null
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "HUMMUS, BABA GHANOUSH, PITA CHIPS, POMERGRANTE MOLASSES",
+          "name": "GRILLED LAMB CHOPS",
+          "price": "$58.00"
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "ITALIAN SAUSAGE, RICOTTA CHEESE, CALABRIAN CHILIS, CRESTE DI GALLO PASTA",
+          "name": "PASTA ALLA VODKA",
+          "price": "$49.00"
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "WITH CREAMY SPINACH COUS COUS, GRILLED ASPARAGUS, LEMON CAPER BUTTER SAUCE",
+          "name": "ARTICHOKE STUFFED REDFISH",
+          "price": "$54.00"
+        },
+        {
+          "category": "Three course dinner, August 2026",
+          "description": "CARAMELIZED PEACHES, SWEET AND BUTTERY CORNBREAD, VANILLA ICE CREAM",
+          "name": "PEACH UPSIDE DOWN CAKE",
+          "price": null
+        }
+      ],
+      "key": "patois",
+      "name": "Patois",
+      "sourceURL": "https://www.patoisnola.com/new-orleans-uptown-patois-food-menu",
+      "verifiedAt": "2026-10-19T19:53:50+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Pepperoni grande, genoa salami, sweet capocollo, and proscuitto sauteed in butter smothered with provolone and mozzarella cheeses. Topped with arugula, sun dried tomatoes and drilled balsamic of Modena glaze on Cartozzo's braided Italian bread. Add pepperocini and hot giardinera to really spice it up.",
+          "name": "The Italian Stallion 6\"",
+          "price": "$16.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Pepperoni grande, genoa salami, sweet capocollo, and proscuitto sauteed in butter smothered with provolone and mozzarella cheeses. Topped with arugula, sun dried tomatoes and drilled balsamic of Modena glaze on Cartozzo's braided Italian bread. Add pepperocini and hot giardinera to really spice it up.",
+          "name": "The Italian Stallion 12\"",
+          "price": "$21.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Cold layers of genoa salami, pepperoni, capocollo, provolone cheese with arugula, sun dried tomatoes and drizzled balsamic of Modena glaze on Cartozzo's braided Italian bread. Add pepperocini and hot giardiniera to really spice it up.",
+          "name": "The Bronx Bomber 6\"",
+          "price": "$16.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Cold layers of genoa salami, pepperoni, capocollo, provolone cheese with arugula, sun dried tomatoes and drizzled balsamic of Modena glaze on Cartozzo's braided Italian bread. Add pepperocini and hot giardiniera to really spice it up.",
+          "name": "The Bronx Bomber 12\"",
+          "price": "$21.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Chicken Parmigiana Hero 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Chicken Parmigiana Hero 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded Eggplant medallions drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Eggplant Parmigiana Hero 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded Eggplant medallions drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Eggplant Parmigiana Hero 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded veal tenderloin cutlet drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Veal Parmigiana Hero 6\"",
+          "price": "$16.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded veal tenderloin cutlet drenched in Nonna's marinara with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "Veal Parmigiana Hero 12\"",
+          "price": "$23.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Baked Italian meatballs in Nonna's marinara smothered with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "The Godfather 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Baked Italian meatballs in Nonna's marinara smothered with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "The Godfather 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Grilled, hot Italian sausage chopped with sauteed onions and green peppers, dripping with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "The San Gennaro Feast 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Grilled, hot Italian sausage chopped with sauteed onions and green peppers, dripping with melted mozzarella on Cartozzo's braided Italian bread.",
+          "name": "The San Gennaro Feast 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Finely chopped Boar's Head London Broil or EverRoast Chicken with sauteed onions and green bell peppers, dripping with melted provolone cheese on Cartozzo's braided Italian bread.",
+          "name": "Philly Cheesesteak 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Finely chopped Boar's Head London Broil or EverRoast Chicken with sauteed onions and green bell peppers, dripping with melted provolone cheese on Cartozzo's braided Italian bread.",
+          "name": "Philly Cheesesteak 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar's Head London Broil and melted imported Swiss on Cartozzo's braided Italian bread with au jus.",
+          "name": "The Yankee Clipper 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar's Head London Broil and melted imported Swiss on Cartozzo's braided Italian bread with au jus.",
+          "name": "The Yankee Clipper 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Grilled Boar\u2019s Head Ovengold Turkey with melted imported Swiss, Romaine lettuce, Roma tomatoes, and mayo on Cartozzo\u2019s braided Italian bread.",
+          "name": "The Amy 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Grilled Boar\u2019s Head Ovengold Turkey with melted imported Swiss, Romaine lettuce, Roma tomatoes, and mayo on Cartozzo\u2019s braided Italian bread.",
+          "name": "The Amy 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar\u2019s Head Pitcraft Mesquite Smoked Turkey with fried pancetta, provolone cheese and sriracha mayo pressed in 6 or 12\u201d Italian hero bread.",
+          "name": "Turkey-Pancetta Melt 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar\u2019s Head Pitcraft Mesquite Smoked Turkey with fried pancetta, provolone cheese and sriracha mayo pressed in 6 or 12\u201d Italian hero bread.",
+          "name": "Turkey-Pancetta Melt 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "London Broil grilled and covered in melted American cheese, topped with jalape\u00f1os, onion rings, & ranch dressing on Cartozzo\u2019s braided Italian bread.",
+          "name": "The Mason Dixon 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "London Broil grilled and covered in melted American cheese, topped with jalape\u00f1os, onion rings, & ranch dressing on Cartozzo\u2019s braided Italian bread.",
+          "name": "The Mason Dixon 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Imported Italian Roasted Ham, in-house pulled pork, pickle chips, dijon honey mustard, & melted Swiss cheese pressed on hot Cubano bread.",
+          "name": "The Cuban 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Imported Italian Roasted Ham, in-house pulled pork, pickle chips, dijon honey mustard, & melted Swiss cheese pressed on hot Cubano bread.",
+          "name": "The Cuban 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Shredded Boar\u2019s Head Blazin\u2019 Buffalo Chicken Breast with diced celery, buffalo wing sauce, ranch dressing & jalape\u00f1o pepper jack on Cartozzo\u2019s braided Italian bread.",
+          "name": "Buffalo Bill 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Shredded Boar\u2019s Head Blazin\u2019 Buffalo Chicken Breast with diced celery, buffalo wing sauce, ranch dressing & jalape\u00f1o pepper jack on Cartozzo\u2019s braided Italian bread.",
+          "name": "Buffalo Bill 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Braised Brisket grilled with saut\u00e9ed onions & shredded cabbage in signature bbq sauce, topped with a jalape\u00f1o pepper jack on Cartozzo\u2019s braided Italian bread.",
+          "name": "BBQ Brisket Hoagie 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Braised Brisket grilled with saut\u00e9ed onions & shredded cabbage in signature bbq sauce, topped with a jalape\u00f1o pepper jack on Cartozzo\u2019s braided Italian bread.",
+          "name": "BBQ Brisket Hoagie 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar\u2019s Head EverRoast Chicken Breast chopped with onions saut\u00e9ed in a Sicilian olive oil blend, topped with melted American on Cartozzo\u2019s braided Italian bread, served with a side of au jus.",
+          "name": "The All-American 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Boar\u2019s Head EverRoast Chicken Breast chopped with onions saut\u00e9ed in a Sicilian olive oil blend, topped with melted American on Cartozzo\u2019s braided Italian bread, served with a side of au jus.",
+          "name": "The All-American 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Chicken Breast saut\u00e9ed in a Sicilian olive oil blend, smothered in mozzarella and topped with house-made Caesar dressing and romaine lettuce on Cartozzo\u2019s braided Italian bread.",
+          "name": "Chicken Caesar 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Chicken Breast saut\u00e9ed in a Sicilian olive oil blend, smothered in mozzarella and topped with house-made Caesar dressing and romaine lettuce on Cartozzo\u2019s braided Italian bread.",
+          "name": "Chicken Caesar 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet drenched in our signature pesto and \u00e0 la vodka sauces on Cartozzo's braided Italian bread.",
+          "name": "Chicken Pesto \u00e0 la Vodka 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet drenched in our signature pesto and \u00e0 la vodka sauces on Cartozzo's braided Italian bread.",
+          "name": "Chicken Pesto \u00e0 la Vodka 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet topped with fresh mozzarella medallions, roasted red peppers, arugula, and balsamic vinegar glaze on Cartozzo's braided Italian bread.",
+          "name": "Rockaway Beach 6\"",
+          "price": "$14.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Classic fried paneed breaded chicken tenderloin cutlet topped with fresh mozzarella medallions, roasted red peppers, arugula, and balsamic vinegar glaze on Cartozzo's braided Italian bread.",
+          "name": "Rockaway Beach 12\"",
+          "price": "$19.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Boar's Head corned beef, pastrami top round, cabbage, melted imported Swiss cheese and Russian dressing on toasted marble swirl rye.",
+          "name": "The Great Bambino",
+          "price": "$16.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "The classic Reuben: Boar's Head corned beed chopped with sauerkraut, covered in melted Swiss and Russian dressing on grilled marble swirl rye.",
+          "name": "Brooklyn Dodger Reuben",
+          "price": "$16.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "One full pound of Boar's Head pastrami top round grilled with melted Swiss cheese & dressed with yellow mustard on toasted marble swirl rye.",
+          "name": "The Fat Kat",
+          "price": "$28.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Triple-decker club sandwich with Boar's Head Ovengold turkey breast, crisp bacon, romaine lettuce, and roma tomatoes served on your choice of toast.",
+          "name": "The New York Giant",
+          "price": "$16.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Boar's Head honey maple turkey with chipotle gouda on a toasted croissant dressed with romaine, roma tomato, deli mustard, and mayonaise.",
+          "name": "The Hampton",
+          "price": "$15.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Boar's Head London Broil covered in horseradish cheddar cheese, sauteed onions, pickles, romaine lettuce, and roma tomato. Smothered in spicy horseradish mayo on toasted 7-grain bread.",
+          "name": "The Manhattan Project",
+          "price": "$16.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Slow cooked pork shoulder in au jus, BBQ sauce, vinegar, and onions. Served on a hamburger bun with raw onions, pickles, and coleslaw.",
+          "name": "Pulled Pork",
+          "price": "$15.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "The classic: Boar's Head Applewood bacon, romaine lettuce, Roma tomatoes on your choice of toasted bread. Request mayo if you want it but also tell us no mayo if you don't!",
+          "name": "BLT",
+          "price": "$15.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "1/2 lb of 80/20 angus ground beed cooked to temp of choice on a brioche bun.*Be sure to choose your cheese, veggies, and dressings..",
+          "name": "Cooperstown Charred Burger",
+          "price": "$14.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Our in-house recipe patty of brown rice, black beans, molasses herbs and signature spices. *Be sure to choose your cheese, veggies, and dressings..",
+          "name": "The Grateful Veggie Burger",
+          "price": "$14.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Chicken salad made with Boar's Head EverRoast chicken breast, cranberries, diced almonds, walnuts, seasonings, and mayo served on your choice of bread. *Be sure to choose any veggies, and dressings you may want to add.",
+          "name": "Chicken Salad",
+          "price": "$14.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Our signature classic... can be served cold or as a hot tuna melt! Choose your bread and be sure to choose any veggies, and dressings you may want to add.",
+          "name": "Tuna Sammie / Tuna Melt",
+          "price": "$14.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Select your artisan bread, Boar's Head Brand fine delicatessen cold cuts and/or Cheese, Veggies, Condiments, and Extras . Price dependent on choices.",
+          "name": "Build Your Own Sandwich - Veggies and Cheese Starting At",
+          "price": "$10.99"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Select your artisan bread, Boar's Head Brand fine delicatessen cold cuts and/or Cheese, Veggies, Condiments, and Extras . Price dependent on choices.",
+          "name": "Build Your Own Sandwich - High End Meats and Delicacies",
+          "price": "$22.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": null,
+          "name": "Beef & Bean Chili Cup",
+          "price": "$9.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": null,
+          "name": "Beef & Bean Chili Bowl",
+          "price": "$12.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Chopped Romaine with shredded imported parmesan, garlic croutons, & caesar dressing. Add your choice of protein for an upcharge.",
+          "name": "Caesar Salad Small",
+          "price": "$8.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Chopped Romaine with shredded imported parmesan, garlic croutons, & caesar dressing. Add your choice of protein for an upcharge.",
+          "name": "Caesar Salad Large",
+          "price": "$11.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Red onions, roasted red pepper, Kalamata olives, cucumbers & feta cheese on a bed of Romaine lettuce. Add your choice of protein for an upcharge.",
+          "name": "Greek Salad Small",
+          "price": "$9.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Red onions, roasted red pepper, Kalamata olives, cucumbers & feta cheese on a bed of Romaine lettuce. Add your choice of protein for an upcharge.",
+          "name": "Greek Salad Large",
+          "price": "$12.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Boar\u2019s Head black forest ham, ovengold turkey breast, american & swiss cheese with roma tomatoes & a hard boiled egg on a bed of chopped romaine",
+          "name": "Chef Salad",
+          "price": "$15.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Oven roasted chicken breast, sliced avocado, chopped hardboiled egg, Roma tomato, red onion, green bell peppers & crispy bacon on a bed of chopped romaine",
+          "name": "Cobb Salad",
+          "price": "$15.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Hot herb roasted chicken with avocado, roma tomato & red onion on a bed of romaine",
+          "name": "Central Park Salad",
+          "price": "$15.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Boar\u2019s Head Blazin\u2019 Buffalo Chicken breast, parmesan cheese, chopped romaine & Caesar dressing",
+          "name": "Spicy Chicken Caesar Wrap",
+          "price": "$14.99"
+        },
+        {
+          "category": "Soup, Salads, and Wraps",
+          "description": "Boar\u2019s Head mesquite smoked turkey, bacon, lettuce, tomato, avocado & mayo",
+          "name": "Turkey BLT Wrap",
+          "price": "$14.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "All beef 8:1 Boar\u2019s Head hot dog dressed the way you like it with choice of sauerkraut, relish, chili, onions, mustard & cheese.",
+          "name": "Hot Dog 1",
+          "price": "$7.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "All beef 8:1 Boar\u2019s Head hot dog dressed the way you like it with choice of sauerkraut, relish, chili, onions, mustard & cheese.",
+          "name": "Hot Dog 2",
+          "price": "$12.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "Freshly breaded, made in house crispy chicken tenders served with fries, house coleslaw, & your choice of dipping sauce",
+          "name": "Chicken Tenders 1",
+          "price": "$9.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "Freshly breaded, made in house crispy chicken tenders served with fries, house coleslaw, & your choice of dipping sauce",
+          "name": "Chicken Tenders 2",
+          "price": "$11.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "Freshly breaded, made in house crispy chicken tenders served with fries, house coleslaw, & your choice of dipping sauce",
+          "name": "Chicken Tenders 3",
+          "price": "$14.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "Freshly breaded, made in house crispy chicken tenders served with fries, house coleslaw, & your choice of dipping sauce",
+          "name": "Chicken Tenders 4",
+          "price": "$16.99"
+        },
+        {
+          "category": "Lil' Bites",
+          "description": "Freshly breaded, made in house crispy chicken tenders served with fries, house coleslaw, & your choice of dipping sauce",
+          "name": "Chicken Tenders 5",
+          "price": "$17.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "French Fries",
+          "price": "$5.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheese Fries",
+          "price": "$9.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Onion Rings",
+          "price": "$8.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Potato Fries",
+          "price": "$7.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Potato Salad",
+          "price": "$4.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cucumber Salad",
+          "price": "$4.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Coleslaw",
+          "price": "$4.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mozzarella Sticks (5)",
+          "price": "$8.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Zapp's Kettle Chips",
+          "price": "$2.99"
+        },
+        {
+          "category": "Breakfast Bagels & Egg Sandwiches",
+          "description": "Shipped directly from Brooklyn New York! Choice of Everything, Onion, Sesame, Plain, and Cinnamon Raisin. Extra Charge Toppings: Butter | Cream Cheese | Atlantic Salmon | Red Onion | Cucumber |Avocado | Roma Tomato | Capers",
+          "name": "Brooklyn Bagel Company Bagels",
+          "price": "$4.00"
+        },
+        {
+          "category": "Breakfast Bagels & Egg Sandwiches",
+          "description": "Bacon, Sausage, or Italian Ham or Pork Roll Taylor Ham with Cheese on your choice of bread, Brooklyn Bagel, or wrap.",
+          "name": "NYC Classic",
+          "price": "$10.95"
+        },
+        {
+          "category": "Drinks",
+          "description": "Iced Tea, Coca-Cola, Diet Coke",
+          "name": "Fountain Drink",
+          "price": "$4.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "Root Beer, Black Cherry, Cel-Ray",
+          "name": "Dr. Brown's",
+          "price": "$5.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "San Pellegrino Sparkling Water | Aqua Panna | Arizona Green Tea | Gold Peak Sweet Tea | St. Arnold's Ginger Beer",
+          "name": "Bottled Drinks",
+          "price": "$5.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "Coca-Cola, Diet Coke, Coke Zero",
+          "name": "Canned Drinks",
+          "price": "$3.00"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Paulie's Fresh Juice",
+          "price": "$7.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "Caff or Decaf",
+          "name": "Espresso",
+          "price": "$5.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "Caff or Decaf",
+          "name": "Americano",
+          "price": "$5.00"
+        },
+        {
+          "category": "Drinks",
+          "description": "Milk options: Oat $1, Almond $1, Whole",
+          "name": "Latte",
+          "price": "$6.00"
+        }
+      ],
+      "key": "paulies italian deli",
+      "name": "Paulie's Italian Deli",
+      "sourceURL": "https://www.pauliesneworleans.com/menu-1",
+      "verifiedAt": "2026-10-19T19:54:05+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Limited Time Offer",
+          "description": "Large 1-topping pizza and 8 wings; $1.75 each additional topping, $3 for premium topping",
+          "name": "Lg 1 Topping & 8 Wings",
+          "price": "$22.99"
+        },
+        {
+          "category": "Pizza",
+          "description": "$1.75 each additional topping",
+          "name": "Build Your Own Pie - Small",
+          "price": "$10.99"
+        },
+        {
+          "category": "Pizza",
+          "description": "$1.75 each additional topping",
+          "name": "Build Your Own Pie - Large",
+          "price": "$14.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Side Salad",
+          "price": "$6.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Side Caesar",
+          "price": "$6.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Shrimp Salad",
+          "price": "$12.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad",
+          "price": "$8.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Chicken Caesar Salad",
+          "price": "$10.99"
+        },
+        {
+          "category": "Wings",
+          "description": "Hot, BBQ, Sweet Inferno, Lemon Pepper, Honey Mustard, Cajun Ranch, Sweet/Lemon, Hot/Lemon, Garlic Parmesan",
+          "name": "Wings - 6",
+          "price": "$8.39"
+        },
+        {
+          "category": "Wings",
+          "description": "Hot, BBQ, Sweet Inferno, Lemon Pepper, Honey Mustard, Cajun Ranch, Sweet/Lemon, Hot/Lemon, Garlic Parmesan",
+          "name": "Wings - 10",
+          "price": "$14.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Cheesy Bread",
+          "price": "$8.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Ultimate Cheesy Bread",
+          "price": "$10.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Crawfish Bread",
+          "price": "$9.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Side Fry",
+          "price": "$2.99"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Whole Fry",
+          "price": "$4.99"
+        },
+        {
+          "category": "Extras",
+          "description": "Same flavor as wings",
+          "name": "Flavored Fry",
+          "price": "$5.99"
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": null,
+          "name": "Specialty Pizzas - Small",
+          "price": "$15.99"
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": null,
+          "name": "Specialty Pizzas - Large",
+          "price": "$20.99"
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Pepperoni, Ham, Sausage, Beef Bacon",
+          "name": "Meat Lovers",
+          "price": null
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Pesto, Smoked Gouda, Spinach, Bell Peppers, Onion, Chicken and Fetta Cheese",
+          "name": "The Gentilly",
+          "price": "$4 Extra"
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Pepperoni, Ham, Mushrooms, Sausage, Onion, Bell Peppers, Black Olives, Bacon",
+          "name": "The Big Easy",
+          "price": "$4 Extra"
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Bell Peppers, Onion, Hot Sausage",
+          "name": "The Hot Sausage Pizza",
+          "price": null
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Spinach, Mushrooms, Onion, Bell Peppers, Black Olives",
+          "name": "Veggie",
+          "price": null
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Pepperoni, Mushrooms, Sausage, Onion, Bell Peppers",
+          "name": "Deluxe",
+          "price": null
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Bbq Sauce, Bell Peppers, Onion, Chicken",
+          "name": "Bbq Chicken",
+          "price": null
+        },
+        {
+          "category": "Specialty Pizzas",
+          "description": "Bbq Sauce, Ham, Pineapples, Bacon",
+          "name": "Hawiian",
+          "price": null
+        }
+      ],
+      "key": "pepperoni rays",
+      "name": "Pepperoni Ray\u2019s",
+      "sourceURL": "https://www.pepperonirays.net/",
+      "verifiedAt": "2026-10-19T19:54:08+00:00"
     }
   ]
 }
