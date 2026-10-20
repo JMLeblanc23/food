@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20T12:42:09+00:00",
-  "itemCount": 1245,
+  "generatedAt": "2026-10-20T15:43:45+00:00",
+  "itemCount": 1247,
   "schemaVersion": 1,
-  "venueCount": 18,
+  "venueCount": 19,
   "venues": [
     {
       "items": [
@@ -7617,6 +7617,26 @@
       "name": "Philly Bros",
       "sourceURL": "https://getphillybros.com/menu/philly-bros-2100-airline-drive-suite-b",
       "verifiedAt": "2026-10-19T23:36:05+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Sunday Specials",
+          "description": "Made by bartender Will during Mary's & Mimosas on Sundays",
+          "name": "Bloody Mary",
+          "price": "$5"
+        },
+        {
+          "category": "Sunday Specials",
+          "description": "Made by bartender Will during Mary's & Mimosas on Sundays",
+          "name": "Korbel Mimosa",
+          "price": "$4"
+        }
+      ],
+      "key": "phoenix",
+      "name": "Phoenix",
+      "sourceURL": "http://www.phoenixbarnola.com/",
+      "verifiedAt": "2026-10-20T15:43:22+00:00"
     }
   ]
 }
