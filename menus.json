@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21T20:10:19+00:00",
-  "itemCount": 1295,
+  "generatedAt": "2026-10-22T00:49:03+00:00",
+  "itemCount": 1400,
   "schemaVersion": 1,
-  "venueCount": 20,
+  "venueCount": 21,
   "venues": [
     {
       "items": [
@@ -7933,6 +7933,644 @@
       "name": "Pizza Delicious",
       "sourceURL": "https://pizzadelicious.com/",
       "verifiedAt": "2026-10-20T23:20:50+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Soup - Cup",
+          "price": "$8"
+        },
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Soup - Bowl",
+          "price": "$10"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Hearts of baby romaine lettuce, olive oil and sea salt crostini, parmesan cheese",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Jumbo lump crab meat, olive salad, baby ice burg lettuce",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Poached shrimp, creole tomatoes, pepper jelly vinaigrette",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Jumbo lump crab meat, pimento cheese, tortilla chips",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Local crawfish tails with herbs and spices, green onion remoulade",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Idaho potato skins, Roast beef debris, shredded cheddar cheese, green onion, sour cream and horse radish",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Grilled boudin with smoked turkey collard greens",
+          "price": null
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "6oz beef patty, shredded lettuce, tomato, pickles, American cheese",
+          "price": null
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "MAKE IT DOUBLE",
+          "price": "$18"
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "6oz boudin patty, cheddar cheese, shredded lettuce, tomato, red onion, pickles",
+          "price": null
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "MAKE IT A DOUBLE",
+          "price": "$18"
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "Creole country smoked sausage, American cheese, shredded lettuce, tomato and pickle",
+          "price": null
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "Tortilla, Redfish, Pico De Gallo, cilantro, sour cream",
+          "price": null
+        },
+        {
+          "category": "Hand held",
+          "description": null,
+          "name": "Tortilla, Beef short rib, Pico De Gallo, Cilantro, sour cream",
+          "price": null
+        },
+        {
+          "category": "Entree",
+          "description": null,
+          "name": "Confit duck quarter, smoked turkey collard greens, roasted sweet potato, pepper jelly sauce",
+          "price": null
+        },
+        {
+          "category": "Entree",
+          "description": null,
+          "name": "Redfish, corn relish, black pepper and parmesan risotto, asparagus",
+          "price": null
+        },
+        {
+          "category": "Entree",
+          "description": null,
+          "name": "4oz center cut filet, garlic mashed potatoes, roasted baby carrots",
+          "price": null
+        },
+        {
+          "category": "Entree",
+          "description": null,
+          "name": "Shrimp, creole herbs and spices, fried eggplant, corn relish, roasted sweet potato",
+          "price": null
+        },
+        {
+          "category": "Entree",
+          "description": null,
+          "name": "Smoked gouda cheese grits, Pickled radishes, roasted baby carrots",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Pastry cream, bananas, whipped cream, fresh mint, caramel sauce",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Raspberry and chocolate sauce, whipped cream, fresh mint",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Bananas foster sauce, whipped cream, fresh mint",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Whipped cream, fresh mint, chocolate sauce, raspberry sauce",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Two eggs your way, sourdough toast, bacon, pork sausage, or chicken sausage",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "7 grain toast, avocado mousse, creole tomato, pickled red onions",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Add crab meat",
+          "price": "+8"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Traditional pain perdu, bananas foster, fresh berries, applewood bacon",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "brown butter, maple syrup, & powdered sugar",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Add bananas foster sauce",
+          "price": "+4"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Add strawberries & cream",
+          "price": "+4"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Maple syrup & butter",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Add fruit compote",
+          "price": "+4"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "honey butter biscuits, house made country gravy, 2 eggs your way",
+          "price": null
+        },
+        {
+          "category": "Omelets",
+          "description": null,
+          "name": "Smoked ham, tasso, bacon, bell pepper, onions, mixed cheeses, served with breakfast potatoes",
+          "price": null
+        },
+        {
+          "category": "Omelets",
+          "description": null,
+          "name": "Seasonal veggies, mixed cheeses, creole tomatoes, egg whites, served with breakfast potatoes",
+          "price": null
+        },
+        {
+          "category": "Omelets",
+          "description": null,
+          "name": "Andouille sausage, gulf shrimp, bell peppers, onions, served with breakfast potatoes",
+          "price": null
+        },
+        {
+          "category": "Omelets",
+          "description": null,
+          "name": "Crawfish, jumbo lump crab meat, gulf shrimp, bell peppers, onions, served with breakfast potatoes",
+          "price": null
+        },
+        {
+          "category": "Egg Dishes",
+          "description": null,
+          "name": "Poached eggs, artichoke bottoms, creamed spinach, hollandaise",
+          "price": null
+        },
+        {
+          "category": "Egg Dishes",
+          "description": null,
+          "name": "Southern biscuits, grilled ham, poached eggs, spicy hollandaise",
+          "price": null
+        },
+        {
+          "category": "Egg Dishes",
+          "description": null,
+          "name": "Jumbo lump crab cakes, poached eggs, green onion remoulade",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Toast",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Overnight Oats",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Pork Sausage",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Turkey Sausage",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Seasonal Fruit",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Smoked Bacon",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Southern Grits",
+          "price": null
+        },
+        {
+          "category": "Additionals",
+          "description": null,
+          "name": "Breakfast Potatoes",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Slow roasted duck and andouille sausage",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Boudin cakes glazed with house made pepper jelly",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Served on a bed of fresh arugula and roasted garlic aioli",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Chef\u2019s daily soup special made with local ingredients",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Baby ice berg, bacon, tomato, cucumber, blue cheese",
+          "price": null
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Cheddar cheese infused with pimento peppers, fresh Gulf crab meat, house made tortilla chips",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Poached eggs, grilled biscuit, fried green tomato, cochon de lait, crawfish cream sauce, hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Jumbo lump crab, shrimp, crawfish, red onion, bell peppers, smoked gouda, grilled biscuit, hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "pork grillades, smoked gouda cheese grits",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Toasted croissant, poached eggs, sliced avocado, smoked salmon, hollandaise, hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Arugula, mushrooms, red onions, tomatoes, bell pepper, grilled biscuit, hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Smoked gouda cheese grits cakes, shrimp, nola bbq sauce",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Two eggs your way, chicken and apple sausage, applewood smoked bacon, grilled biscuit, hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "Fried, marinated alligator, tangy tomato sauce, white rice",
+          "price": null
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": null,
+          "name": "2 eggs your way, grilled skirt steak, grilled biscuit, fries",
+          "price": null
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Drizzled in bourbon sauce",
+          "price": null
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Housemade banana pudding, vanilla wafers",
+          "price": null
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Shortcake biscuit, fresh Louisiana strawberries, whipped cream",
+          "price": null
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Vanilla ice cream",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Applewood smoked bacon",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Chicken & apple sausage",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Grilled biscuit",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Smoked gouda grits",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Jumbo lump crab",
+          "price": null
+        },
+        {
+          "category": "\u00c0 La Carte / Sides",
+          "description": null,
+          "name": "Hashbrowns",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Your choice of oj, pineapple, or cranberry",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Cognac or gin, lemon, sugar, champagne",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Pimm\u2019s, lemon, orange, mint, cucumber, ginger",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Ketel One vodka, Cynar, St. George coffee, espresso, cacao, brown sugar",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Courvosier, vanilla, almond milk, nutmeg",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Titos Vodka, Filthy bloody mix, a lil of this, a lil of dat, Crystal hot sauce, Tony\u2019s",
+          "price": null
+        },
+        {
+          "category": "Classic Brunch Cocktails",
+          "description": null,
+          "name": "Peach liqueur, sparkling wine",
+          "price": null
+        },
+        {
+          "category": "N/A Beverages",
+          "description": null,
+          "name": "Lemon, ginger, mint, honey, Fre n/a sparkling wine",
+          "price": null
+        },
+        {
+          "category": "N/A Beverages",
+          "description": null,
+          "name": "Cold brew, your choice of milk, a little sweetner",
+          "price": null
+        },
+        {
+          "category": "Sparkling And Ros\u00e9",
+          "description": null,
+          "name": "California",
+          "price": null
+        },
+        {
+          "category": "Sparkling And Ros\u00e9",
+          "description": null,
+          "name": "Prosecco, Italy",
+          "price": null
+        },
+        {
+          "category": "Sparkling And Ros\u00e9",
+          "description": null,
+          "name": "Mousseux, France",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2021, Burgundy, FR",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2022, Monterey, CA",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2022, Marlborough, NZ",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2023, Picpoul de Pinet, FR",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2023, Alsace, FR",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2022, Friuli, Italy",
+          "price": null
+        },
+        {
+          "category": "Wines",
+          "description": null,
+          "name": "2022, Moscato d'Asti, Piedmont, IT",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Cognac Rye Black Tea Fig Lemon",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Bourbon Brown Butter Coffee Orange",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Mezcal Cynar Honey Lemon Chartreuse V\u00e9g\u00e9tal",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Blanco Tequila Mezcal Orgeat Grapefruit Lime Spice",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Aged Rum Pineapple Chipotle Lime Angostura",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Gin Apricot Rose Grapefruit",
+          "price": null
+        },
+        {
+          "category": "Signature Cocktails",
+          "description": null,
+          "name": "Light Rum Yuzu Rhubarb Soda",
+          "price": null
+        },
+        {
+          "category": "After-Dinner",
+          "description": null,
+          "name": "chocolate + raspberry sauce",
+          "price": null
+        },
+        {
+          "category": "After-Dinner",
+          "description": null,
+          "name": "black mission fig sauce",
+          "price": null
+        },
+        {
+          "category": "After-Dinner",
+          "description": null,
+          "name": "pretzel crust, cr\u00e8me au glaze",
+          "price": null
+        },
+        {
+          "category": "After-Dinner",
+          "description": null,
+          "name": "Ponchatoula strawberries, whipped cream, shortcake biscuit",
+          "price": null
+        }
+      ],
+      "key": "public service",
+      "name": "Public Service",
+      "sourceURL": "https://www.publicservicenola.com/",
+      "verifiedAt": "2026-10-22T00:48:31+00:00"
     }
   ]
 }
