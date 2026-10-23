@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T19:42:04+00:00",
-  "itemCount": 1400,
+  "generatedAt": "2026-10-23T01:11:28+00:00",
+  "itemCount": 1535,
   "schemaVersion": 1,
-  "venueCount": 21,
+  "venueCount": 23,
   "venues": [
     {
       "items": [
@@ -8571,6 +8571,832 @@
       "name": "Public Service",
       "sourceURL": "https://www.publicservicenola.com/",
       "verifiedAt": "2026-10-22T00:48:31+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "APPETIZER",
+          "description": "Served with Bread Stix",
+          "name": "Spinach & Artichoke Dip",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": "Served with Marinara Sauce",
+          "name": "Mozzarella Cheese Bread",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": "Served with Marinara Sauce",
+          "name": "Bread Stix",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": "Served with Salsa",
+          "name": "Quesadillas (Beef or Chicken)",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": "Served with Marinara Salsa",
+          "name": "Quesadillas (\u00bd Beef & \u00bd Chicken)",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "Home-made Macaroni & Cheese",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "Beer-battered French Fries",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "Jack Daniels Wings",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "Buffalo Wings",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "New Orleans Wings",
+          "price": null
+        },
+        {
+          "category": "APPETIZER",
+          "description": null,
+          "name": "BBQ Wings",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Tomatoes, Green Peppers, Red Onions, Mushrooms. Topped with Grilled Chicken Breast and Fresh Shredded Mozzarella Cheese & Honey Mustard on the side.",
+          "name": "Grilled Chicken Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Grilled Chicken Breast, Romaine Lettuce, Parmesan Cheese, topped with Croutons with Caesar Dressing on the side.",
+          "name": "Chicken Caesar Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Tomatoes, Green Peppers, Red Onions, Mushrooms. Topped with your choice of Grilled Shrimp or Creamy Crab Mix and Fresh Shredded Mozzarella Cheese & Honey Mustard on the side.",
+          "name": "Seafood Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Egg, Ham, Fresh Shredded Mozzarella cheese, Green Pepper, Tomato, Red Onion & Italian Dressing on the side.",
+          "name": "Chef Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Roast Beef, Pepperoncini Peppers, Green Peppers, Red Onions, Tomatoes & Mozzarella Cheese Served Over a Bed of Romaine Lettuce with Italian Dressing on the Side.",
+          "name": "Roast Beef Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Red Onions, Kalamata Olives, Feta Cheese, Tomatoes, Green Pepper & Artichoke Hearts with Balsamic Vinaigrette on the side.",
+          "name": "Artichoke Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Tomatoes, Red Onions, Kalamata Olives, Green Peppers & Pepperoncini Peppers Over Romaine, Topped with Crumbled Feta Cheese and Greek Dressing.",
+          "name": "Greek Salad Small",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Tomatoes, Red Onions, Kalamata Olives, Green Peppers & Pepperoncini Peppers Over Romaine, Topped with Crumbled Feta Cheese and Greek Dressing.",
+          "name": "Greek Salad Large",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Iceberg Lettuce, Tomatoes, Black Olives, Red Onions, Green Peppers, Mushrooms. Topped with Sliced Pepperoni, Fresh Shredded Mozzarella Cheese & Italian Dressing on the side.",
+          "name": "Italian Salad Small",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Iceberg Lettuce, Tomatoes, Black Olives, Red Onions, Green Peppers, Mushrooms. Topped with Sliced Pepperoni, Fresh Shredded Mozzarella Cheese & Italian Dressing on the side.",
+          "name": "Italian Salad Large",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "A Delicious Olive Muffuleta Mix Served Over a Bed of Romaine Lettuce with Italian Dressing, Thin Slices of Salami.",
+          "name": "Muffuleta Salad",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Tomatoes, Green Peppers, Red Onions, Mushrooms. Topped with Fresh Shredded Mozzarella Cheese & Honey Mustard Dressing on the side",
+          "name": "House Salad Small",
+          "price": null
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine Lettuce, Tomatoes, Green Peppers, Red Onions, Mushrooms. Topped with Fresh Shredded Mozzarella Cheese & Honey Mustard Dressing on the side",
+          "name": "House Salad Large",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Layers of Mozzarella Cheese, Pepperoni, Salami, Canadian Bacon & Ham with Black Olives, Onions & Italian Dressing.",
+          "name": "Roma Special",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": null,
+          "name": "Ham & Cheese",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Brushed with Pesto Sauce, Grilled Chicken Breast, Feta & Mozzarella Cheese.",
+          "name": "Chicken Pesto",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Marinara Sauce, Grilled Chicken Breast, Mozzarella Cheese, Sprinkled with Parmesan Cheese.",
+          "name": "Chicken Parmesan",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Grilled Chicken Breast & Mozzarella Cheese, Topped with our Caesar Dressing.",
+          "name": "Chicken Caesar",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Homemade Meatballs Smothered in Marinara Sauce with Melted Mozzarella Cheese.",
+          "name": "Meatball Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Layers of Mozzarella, Buffalo Sauce, Grilled Chicken Breast, Ranch Dressing, Breakfast Bacon.",
+          "name": "BCBR Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Grilled Chicken Breast, Mozzarella Cheese & Our Mesquite BBQ Sauce.",
+          "name": "BBQ Chicken",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Layers of Genoa Salami, Ham, Muffulata Mix & Mozzarella Cheese.",
+          "name": "Muffuleta Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Mozzarella Cheese, Roast Beef, Onions, Green Peppers & Fresh Sliced Mushrooms.",
+          "name": "Roast Beef Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Grilled Chicken Breast, Onions, Green Peppers with Home Made Alfredo Sauce.",
+          "name": "Chicken Alfredo Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Artichoke Hearts with Fresh Mushrooms, Onions, Feta Cheese, Tomatoes, Garlic Sauce & Melted Mozzarella Cheese.",
+          "name": "Carciofi Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Grilled Portabella Mushrooms with Caramelized Onions & Roasted Red Peppers, Mozzarella Cheese, Garlic Sauce.",
+          "name": "Portabella Mushroom Sub",
+          "price": null
+        },
+        {
+          "category": "OVEN-BAKED SUBS",
+          "description": "Mozzarella Cheese and Feta Cheese Melted Over Grilled Chicken, Kalamata Olives, Red Onions, Tomatoes & Green Peppers.",
+          "name": "Greek Chicken Sub",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Buffalo/Ranch Sauce, Mozzarella Cheese, Grilled Chicken Breast, Breakfast Bacon.",
+          "name": "Buffalo Chicken Bacon Ranch",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "A Spicy Roux with Red and Green Peppers, Spanish Onions, Chicken Breast & Andouille Sausage, with Mozzarella Cheese",
+          "name": "Gumbo",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Mozzarella Cheese, Pepperoni, Italian Sausage, Italian Beef, Mushrooms, Onions, Green Peppers & Black Olives.",
+          "name": "Deluxe",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Mozzarella Cheese, Pepperoni, Canadian Bacon, Italian Sausage, Italian Beef & Breakfast Bacon.",
+          "name": "All Meat",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Garlic Butter, Mozzarella Cheese, Pork Sausage, Canadian Bacon, Breakfast Bacon, Andouille.",
+          "name": "All Meat Pork Nightmares",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Thin and Crispy Crust, Home-made Mayo Sauce, Creamy Crab Mix, Grilled Shrimp & Mozzarella Cheese.",
+          "name": "Redfish Pizza",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Mesquite Sauce, Mozzarella Cheese, Grilled Chicken Breast, Green Peppers & Onions.",
+          "name": "Mesquite",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Garlic Sauce, Mozzarella & Feta Cheese, Mushrooms, Onions, Tomatoes & Fresh Baby Spinach.",
+          "name": "Fresh Spinach",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Mozzarella Cheese, Mushrooms, Tomatoes, Onions, Green Peppers, Black Olives.",
+          "name": "Veggie",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Mozzarella Cheese, Tomatoes, Fresh Basil & Black Pepper.",
+          "name": "Margherita",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Garlic Sauce, Mozzarella Cheese, Artichoke Hearts, Onions, Tomatoes & Mushrooms Topped with Feta Cheese.",
+          "name": "Carcoifi",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Canadian Bacon, Green Peppers & chunks of Sweet Pineapple.",
+          "name": "Hawaiian",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pizza Sauce, Mozzarella Cheese, Ham, Genoa Salami & Muffuletta Mix.",
+          "name": "Muffuletta",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Mexican Sauce, Spicy Taco Beef, Fresh Tomatoes, Mozzarella & Cheddar Cheese & Spanish Onions.",
+          "name": "Mexican",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "House-grilled Eggplant with a Roasted Garlic Butter Sauce, Tomatoes, Onions & Mushrooms, Topped with Mozzarella & Feta Cheese.",
+          "name": "Eggplant",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Pesto Sauce with Artichoke Hearts, Fresh Basil, Red Onions, Kalamata Olives, Ricotta & Mozzarella Cheese.",
+          "name": "Mediterranean",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "House-grilled Portabella Mushrooms, Garlic Sauce, Caramelized Onions & Roasted Red Peppers, Topped with Mozzarella Cheese.",
+          "name": "Portabella Mushroom",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "House-grilled Shrimp, Green Peppers, Onions, Alfredo Sauce with Mozzarella Cheese.",
+          "name": "Seafood Alfredo",
+          "price": null
+        },
+        {
+          "category": "PIZZA",
+          "description": "Customze your own pizza, we will make sure it in right crunchiness and flavor.",
+          "name": "Build Your Own",
+          "price": null
+        },
+        {
+          "category": "CALZONE",
+          "description": null,
+          "name": "Meatball Calzone",
+          "price": null
+        },
+        {
+          "category": "CALZONE",
+          "description": null,
+          "name": "Chicken Calzone",
+          "price": null
+        },
+        {
+          "category": "CALZONE",
+          "description": null,
+          "name": "Shrimp Florentine Calzone",
+          "price": null
+        },
+        {
+          "category": "CALZONE",
+          "description": "Any small specialty pizza can be made as Calzone and priced the same as small pizza",
+          "name": "Build your own Calzone",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": null,
+          "name": "Home-made Lasagna",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": null,
+          "name": "Spaghetti & Meatballs",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Pasta Tubes Stuffed with a Mixture of Mozzarella, Ricotta & Parmesan Cheese, Smothered in Classic Marinara",
+          "name": "Manicotti",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Pasta Tubes Stuffed with a Mixture of Mozzarella, Ricotta & Parmesan Cheese, Smothered in Classic Marinara with Fresh Spinach.",
+          "name": "Spinach Manicotti",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Layers of Pasta, Fresh Spinach, Caramelized Onions, Garlic, Mozzarella & Ricotta Cheese, Baked in a Creamy Sauce.",
+          "name": "Spinach Lasagna",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Grilled Chicken Breast Saut\u00e9ed with Mushrooms, Green Peppers & Onions in a Marinara Sauce Served Over a Bed of Spaghetti",
+          "name": "Chicken Cacciatore",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Shrimp Saut\u00e9ed with Mushrooms, Green Peppers & Onions in a Marinara Sauce Served Over a Bed of Spaghetti",
+          "name": "Shrimp Cacciatore",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Grilled Chicken Breast Saut\u00e9ed with Green Peppers & Onions in a rich Alfredo Sauce Served Over a Bed of Spaghetti",
+          "name": "Chicken Alfredo",
+          "price": null
+        },
+        {
+          "category": "PASTA",
+          "description": "Shrimp Saut\u00e9ed with Green Peppers & Onions in a rich Alfredo Sauce Served Over a Bed of Spaghetti",
+          "name": "Shrimp Alfredo",
+          "price": null
+        },
+        {
+          "category": "KIDS MENU",
+          "description": "Kids Meal Comes with Smiley Fries, for children under 12",
+          "name": "Kids Pizza",
+          "price": null
+        },
+        {
+          "category": "KIDS MENU",
+          "description": "Kids Meal Comes with Smiley Fries, for children under 12",
+          "name": "Kids Spaghetti Meatball",
+          "price": null
+        },
+        {
+          "category": "KIDS MENU",
+          "description": "Kids Meal Comes with Smiley Fries, for children under 12",
+          "name": "Kids Home-made Mac & Cheese",
+          "price": null
+        },
+        {
+          "category": "LUNCH SPECIAL",
+          "description": "Comes w. your choice of French Fries, Side Salad, or a Cheese Bread. Limited for Dine-in or To Go Customers only Mon-Sat 11am-2pm",
+          "name": "8\u201d Mini Specialty Pizza",
+          "price": null
+        },
+        {
+          "category": "LUNCH SPECIAL",
+          "description": "Comes w. your choice of French Fries, Side Salad, or a Cheese Bread. Limited for Dine-in or To Go Customers only Mon-Sat 11am-2pm",
+          "name": "Sub",
+          "price": null
+        },
+        {
+          "category": "LUNCH SPECIAL",
+          "description": "Comes w. your choice of French Fries, Side Salad, or a Cheese Bread. Limited for Dine-in or To Go Customers only Mon-Sat 11am-2pm",
+          "name": "Spaghetti Meatball",
+          "price": null
+        },
+        {
+          "category": "LUNCH SPECIAL",
+          "description": "Comes w. your choice of French Fries, Side Salad, or a Cheese Bread. Limited for Dine-in or To Go Customers only Mon-Sat 11am-2pm",
+          "name": "Lasagna",
+          "price": null
+        }
+      ],
+      "key": "redfish pizza",
+      "name": "Redfish Pizza",
+      "sourceURL": "https://www.redfishpizza.com/houma-menu",
+      "verifiedAt": "2026-10-23T01:10:42+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "Fresh mozzarella topped with a bright tomato and basil mix, served on seeded Italian toast",
+          "name": "TOMATO BASIL BRUSCHETTA",
+          "price": "10.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Served with focaccia crostini",
+          "name": "SOUP OF THE DAY",
+          "price": "7.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Three house-made meatballs featuring classic ingredients - veal, pork & parmesan. Served in marinara & topped with ricotta & fresh basil.",
+          "name": "MEATBALLS AMORE",
+          "price": "10.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "An Italian favorite - roasted eggplant topped with our house caper breadcrumb stuffing and shrimp, finished with spices, parmesan, and fresh parsley",
+          "name": "EGGPLANT OREGANATA",
+          "price": "10.80"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Six crispy baked wings tossed in your choice of specialty sauce, served with ranch or bleu cheese. Sauces: Nashville HOT or Sticky Wings",
+          "name": "CRISPY WINGS",
+          "price": "12.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fresh baked with butter, minced garlic, parmesan & parsley",
+          "name": "GARLIC KNOTS",
+          "price": "7.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "GARLIC KNOTS - Add a side of marinara",
+          "price": "1.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Gulf shrimp simmered in rich New Orleans BBQ shrimp sauce. Served with seeded Italian toast",
+          "name": "BBQ SHRIMP",
+          "price": "13.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "With focaccia crostini",
+          "name": "SPINACH & ARTICHOKE DIP",
+          "price": "11.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A classic aperitivo of meats and cheeses, olives, roasted peppers, honey walnuts, and fruit chutney",
+          "name": "TAGLIERE MISTO \"MIXED BOARD\"",
+          "price": "25.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Savory melted brie wrapped in pastry dough, served with fruit chutney and sliced green apples",
+          "name": "BAKED BRIE CALZONE",
+          "price": "11.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Italian chickpea and white bean hummus with lemon, and garlic. Served with grilled pita",
+          "name": "TUSCAN HUMMUS",
+          "price": "9.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Chopped romaine mixed with crispy bacon, crumbled gorgonzola, cherry tomatoes. Finished with boiled egg, avocado, and white wine vinaigrette",
+          "name": "CHOPPED BACON AND BLUE",
+          "price": "14.25"
+        },
+        {
+          "category": "Salads",
+          "description": "Mixed greens, cherry tomatoes & gorgonzola with balsamic citrus vinaigrette",
+          "name": "GREEN SALAD (Small)",
+          "price": "6.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Mixed greens, cherry tomatoes & gorgonzola with balsamic citrus vinaigrette",
+          "name": "GREEN SALAD (Large)",
+          "price": "11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "With our famous house-made Caesar dressing, parmesan & romano cheeses & house-made croutons",
+          "name": "CAESAR (Small)",
+          "price": "6.95"
+        },
+        {
+          "category": "Salads",
+          "description": "With our famous house-made Caesar dressing, parmesan & romano cheeses & house-made croutons",
+          "name": "CAESAR (Large)",
+          "price": "11.95"
+        },
+        {
+          "category": "Salads",
+          "description": "Our classic Caesar topped with marinated chicken, avocado & cherry tomatoes",
+          "name": "ANCONA CAESAR",
+          "price": "14.75"
+        },
+        {
+          "category": "Salads",
+          "description": "Mixed greens tossed with basil marinated tomatoes, pesto, Parmesan & Romano cheeses, marinated artichokes, sliced salami, and walnuts",
+          "name": "ITALIAN SALAMI SALAD",
+          "price": "14.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Marinated chicken, mixed greens, green apples, cherry tomatoes, gorgonzola & roasted pecans with balsamic citrus vinaigrette",
+          "name": "CHICKEN SALAD",
+          "price": "14.75"
+        },
+        {
+          "category": "Salads",
+          "description": "Tender Boston lettuce with Roma tomatoes, cucumber, marinated artichokes, hearts of palm, toasted walnuts, and avocado, served with Honey Dijon dressing",
+          "name": "BOSTON SALAD",
+          "price": "14.00"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Mortadella, capicola, and salami layered on a seeded Italian bread with provolone, tomato, chopped romaine, oil, vinegar & Calabrian chili aioli",
+          "name": "ITALIAN DELI",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Sliced turkey, melted provolone, avocado, Roma tomatoes, alfalfa sprouts & hot pepper relish on focaccia",
+          "name": "THE UPTOWNER",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "The original Italian deli sandwich of New Orleans. Mortadella, hot capicola, salami, and provolone. Topped with olive salad",
+          "name": "MUFFALETTA",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Pistachio cream, pancetta, roasted eggplant, Roma tomatoes, walnuts, mixed greens & balsamic citrus vinaigrette on focaccia",
+          "name": "DREAM STATE",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Meatballs simmered in marinara, with melted provolone, served hot on a seeded Italian bread",
+          "name": "MEATBALL SANDWICH",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Sliced chicken breast with mozzarella, on pita, dressed with roasted peppers, roasted garlic, and pesto",
+          "name": "CHICKEN PITA",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Thin sliced mortadella with creamy pistachio-ricotta spread, tomato, provolone, and mixed greens on focaccia",
+          "name": "EMILA",
+          "price": "12.50"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Pick 2 of the following: Soup of the Day, Small Green or Caesar Salad, 1/2 Any Sandwich, Slice of Pepperoni or Pepperoni/Sausage Detroit Style Pizza",
+          "name": "PERFECT PAIRINGS",
+          "price": "12.45"
+        },
+        {
+          "category": "Baked Pasta",
+          "description": "Baked tortellini & creamy house-made pesto",
+          "name": "PESTO TORTELLINI",
+          "price": "12.95"
+        },
+        {
+          "category": "Baked Pasta",
+          "description": "Baked rotini, shrimp, pancetta, spicy cream sauce & green onions",
+          "name": "SHRIMPLY IRRESISTIBLE",
+          "price": "15.95"
+        },
+        {
+          "category": "Detroit Style Pizza",
+          "description": "Rectangular pizza with double proofed dough, brick cheese blend, marinara, Bourbon honey, premium Ezzo pepperoni & crispy edges",
+          "name": "Pepperoni Detroit Style Pizza",
+          "price": "24.95"
+        },
+        {
+          "category": "Detroit Style Pizza",
+          "description": "Rectangular pizza with double proofed dough, brick cheese blend, marinara, Bourbon honey, premium Ezzo pepperoni, crumbled sausage & crispy edges",
+          "name": "Pepperoni & Sausage Detroit Style Pizza",
+          "price": "26.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, pepperoni, Italian sausage, onions, mushrooms, green peppers, black olives",
+          "name": "CLASSIC COMBO (Small 10\")",
+          "price": "16.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, pepperoni, Italian sausage, onions, mushrooms, green peppers, black olives",
+          "name": "CLASSIC COMBO (Large 14\")",
+          "price": "24.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Garlic butter, mozzarella, marinated chicken, prosciutto, spinach, capers, squeeze of fresh lemon",
+          "name": "SALTIMBOCCA (Small 10\")",
+          "price": "16.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Garlic butter, mozzarella, marinated chicken, prosciutto, spinach, capers, squeeze of fresh lemon",
+          "name": "SALTIMBOCCA (Large 14\")",
+          "price": "24.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, burrata cheese, fresh basil",
+          "name": "MARGHERITA (Small 10\")",
+          "price": "15.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, burrata cheese, fresh basil",
+          "name": "MARGHERITA (Large 14\")",
+          "price": "23.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Garlic butter, mozzarella, spinach, marinated artichokes, Roma tomatoes, feta",
+          "name": "FRESCONON (Small 10\")",
+          "price": "14.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Garlic butter, mozzarella, spinach, marinated artichokes, Roma tomatoes, feta",
+          "name": "FRESCONON (Large 14\")",
+          "price": "22.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, pepperoni, pancetta, hot capicola, mushrooms, onions, capers",
+          "name": "TONY'S PICK (Small 10\")",
+          "price": "16.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, pepperoni, pancetta, hot capicola, mushrooms, onions, capers",
+          "name": "TONY'S PICK (Large 14\")",
+          "price": "24.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, house-made bacon jam & crumbled house-made meatballs, topped with whipped ricotta.",
+          "name": "BIG JAMBRONI (Small 10\")",
+          "price": "16.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, house-made bacon jam & crumbled house-made meatballs, topped with whipped ricotta.",
+          "name": "BIG JAMBRONI (Large 14\")",
+          "price": "24.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, gorgonzola, fontina, parmesan, green onions",
+          "name": "QUATTRO (Small 10\")",
+          "price": "14.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Marinara, mozzarella, gorgonzola, fontina, parmesan, green onions",
+          "name": "QUATTRO (Large 14\")",
+          "price": "22.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Mozzarella, red onion, roasted peppers, kalamata olives, and feta. Finished with pesto",
+          "name": "THE PESTO (Small 10\")",
+          "price": "14.50"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Mozzarella, red onion, roasted peppers, kalamata olives, and feta. Finished with pesto",
+          "name": "THE PESTO (Large 14\")",
+          "price": "23.75"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "12\" Connecticut style pizza - no mozzarella, let the red sauce take center stage, creating a sweet and spicy pie, topped with whipped ricotta, hot honey, and basil",
+          "name": "RED TOP",
+          "price": "16.95"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Bold flavors - smoked marinara, mozzarella, marinated chicken, pancetta, bbq red onions, sprinkled with green onions and Parmesan and Romano cheese",
+          "name": "SMOKIN' CHICK'N (Small 10\")",
+          "price": "14.50"
+        },
+        {
+          "category": "Hand-Tossed Specialty Pizzas",
+          "description": "Bold flavors - smoked marinara, mozzarella, marinated chicken, pancetta, bbq red onions, sprinkled with green onions and Parmesan and Romano cheese",
+          "name": "SMOKIN' CHICK'N (Large 14\")",
+          "price": "23.75"
+        },
+        {
+          "category": "Custom",
+          "description": "Marinara, mozzarella & ricotta",
+          "name": "CHEESE CALZONE",
+          "price": "11.00"
+        },
+        {
+          "category": "Custom",
+          "description": "Marinara & mozzarella",
+          "name": "CHEESE PIZZA (Small 10\")",
+          "price": "11.00"
+        },
+        {
+          "category": "Custom",
+          "description": "Marinara & mozzarella",
+          "name": "CHEESE PIZZA (Large 14\")",
+          "price": "16.50"
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Rotini noodles in creamy Alfredo sauce",
+          "name": "ALFREDO ROTINI",
+          "price": "7.50"
+        },
+        {
+          "category": "Kids Menu",
+          "description": "House-made meatballs topped with marinara and mozzarella, served with focaccia crostini",
+          "name": "MEATBALLS Y'ALL",
+          "price": "9.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": "We provide the fresh dough, marinara & mozzarella. Build your pizza the way you like it.",
+          "name": "MAKE-YOUR-OWN PIZZA",
+          "price": "11.25"
+        }
+      ],
+      "key": "reginellis",
+      "name": "Reginelli's",
+      "sourceURL": "https://www.reginellis.com/menus/",
+      "verifiedAt": "2026-10-23T01:10:53+00:00"
     }
   ]
 }
