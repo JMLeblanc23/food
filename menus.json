@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T01:11:28+00:00",
-  "itemCount": 1535,
+  "generatedAt": "2026-10-23T16:30:47+00:00",
+  "itemCount": 1605,
   "schemaVersion": 1,
-  "venueCount": 23,
+  "venueCount": 24,
   "venues": [
     {
       "items": [
@@ -9397,6 +9397,434 @@
       "name": "Reginelli's",
       "sourceURL": "https://www.reginellis.com/menus/",
       "verifiedAt": "2026-10-23T01:10:53+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Oysters & Tasters",
+          "description": "Half-Dozen or Dozen",
+          "name": "Chilled Select Louisiana Oysters on the Half Shell",
+          "price": null
+        },
+        {
+          "category": "Oysters & Tasters",
+          "description": "Half-Dozen",
+          "name": "Chargrilled Louisiana Oysters on the Half Shell",
+          "price": "$13.00"
+        },
+        {
+          "category": "Oysters & Tasters",
+          "description": "Boiled fresh seafood served in the traditional New Orleans style \u2013 with the shell on. Time for a bib.",
+          "name": "Shrimp / Half Pound",
+          "price": "$12.50"
+        },
+        {
+          "category": "Tasters",
+          "description": "A bowl of fil\u00e9 gumbo, one crawfish pie and half an order of jambalaya",
+          "name": "A Taste of the Bayou",
+          "price": "$17.50"
+        },
+        {
+          "category": "Tasters",
+          "description": "A bowl of seafood gumbo, half an order of red beans & rice and one New Orleans-style stuffed crab",
+          "name": "A Taste of New Orleans",
+          "price": "$17.50"
+        },
+        {
+          "category": "Tasters",
+          "description": "A bowl of turtle soup, one Natchitoches meat pie and half an order of crawfish \u00e9touff\u00e9e",
+          "name": "A Taste of Louisiana",
+          "price": "$17.50"
+        },
+        {
+          "category": "Starters",
+          "description": "Boiled gulf shrimp marinated in Arnaud's famous Remoulade Sauce. Served over chopped lettuce and sliced tomato",
+          "name": "Shrimp Arnaud",
+          "price": "$9.95"
+        },
+        {
+          "category": "Starters",
+          "description": "A sampler of baked oysters from Arnaud's. One each \u2013 Rockefeller, Bienville, Suzette, Ohan and Kathryn",
+          "name": "Oysters Arnaud",
+          "price": "$12.95"
+        },
+        {
+          "category": "Starters",
+          "description": "A South Louisiana treat. Sausage made with pork, rice, vegetables, herbs and spices",
+          "name": "Smoked Boudin",
+          "price": "$6.50"
+        },
+        {
+          "category": "Starters",
+          "description": "Crispy tortilla chips loaded with red beans, Smoked sausage, diced tomatoes, cheddar cheese, Guacamole, sour cream and jalape\u00f1o peppers",
+          "name": "N'awlins Nachos",
+          "price": "$8.00"
+        },
+        {
+          "category": "Starters",
+          "description": "Our version of the classic egg roll with an added zip",
+          "name": "Cajun Egg Rolls",
+          "price": "$6.00"
+        },
+        {
+          "category": "Starters",
+          "description": "Fried chicken wings basted with our own fiery top-secret sauce and served with blue cheese dip",
+          "name": "Tchoupitoulas-style Buffalo Wings",
+          "price": "$8.50"
+        },
+        {
+          "category": "Starters",
+          "description": "Two large taco shells stuffed with our seasoned ground beef & topped with lettuce, tomatoes, red onions and cheddar cheese",
+          "name": "Wacko Tacos",
+          "price": "$7.25"
+        },
+        {
+          "category": "Starters",
+          "description": "Fried dill pickle slices served with Remoulade Dipping Sauce",
+          "name": "Fried Pickles",
+          "price": "$4.95"
+        },
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Seafood Gumbo",
+          "price": "$6.95"
+        },
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Fil\u00e9 Gumbo",
+          "price": "$6.00"
+        },
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Shrimp Bisque",
+          "price": "$6.00"
+        },
+        {
+          "category": "Soup",
+          "description": null,
+          "name": "Turtle Soup",
+          "price": "$6.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "French Fries",
+          "price": "$3.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheese Fries",
+          "price": "$4.75"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Zesty Garlic Cheese Bread",
+          "price": "$3.75"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Crab-Boiled New Potatoes",
+          "price": "$3.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fried Onion Rings",
+          "price": "$4.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cole Slaw",
+          "price": "$3.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mixed Green Salad",
+          "price": "$3.75"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Small Caesar Salad",
+          "price": "$4.75"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Steamed Broccoli",
+          "price": "$3.75"
+        },
+        {
+          "category": "Entr\u00e9e Salads",
+          "description": null,
+          "name": "Caesar Salad",
+          "price": "$7.75"
+        },
+        {
+          "category": "Entr\u00e9e Salads",
+          "description": "With your choice of grilled lemon-marinated chicken breast or fried shrimp",
+          "name": "Loaded Caesar Salad",
+          "price": "$13.50"
+        },
+        {
+          "category": "Entr\u00e9e Salads",
+          "description": "With your choice of grilled lemon-marinated chicken breast or fried shrimp",
+          "name": "Loaded Mixed Green Salad",
+          "price": "$13.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with Remoulade Sauce",
+          "name": "Remoulade Burger",
+          "price": "$9.75"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with melted blue cheese and fried onion rings",
+          "name": "Bourbon Street Blues Burger",
+          "price": "$10.25"
+        },
+        {
+          "category": "Burgers",
+          "description": "Coated with herbs and spices and seared",
+          "name": "N'awlins Blackened Burger",
+          "price": "$10.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with melted cheddar cheese and sliced bacon",
+          "name": "Eastern Burger",
+          "price": "$10.50"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with melted cheddar cheese",
+          "name": "Good Ole Cheesburger",
+          "price": "$10.25"
+        },
+        {
+          "category": "Burgers",
+          "description": "You guessed it\u2026No toppings",
+          "name": "Plain Jane Burger",
+          "price": "$9.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Grilled andouille and hot sausage, mozzarella and Creole sauce",
+          "name": "Creole Sausage",
+          "price": "$10.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Sundried tomatoes, mozzarella, fresh tomatoes and basil",
+          "name": "Tuscano",
+          "price": "$8.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Blackened chicken breast with mozzarella, tomatoes, mushrooms, red onions and a tangy cream sauce",
+          "name": "Blackened Chicken",
+          "price": "$10.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Ham, artichoke hearts, mozzarella, calamata olives and tomato sauce",
+          "name": "Portofino",
+          "price": "$9.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "Olive salad, mortadella, salami, ham, mozzarella and provolone",
+          "name": "Muffaletta",
+          "price": "$9.50"
+        },
+        {
+          "category": "Franks",
+          "description": "With Remoulade Sauce",
+          "name": "Remoulade Dog",
+          "price": "$7.50"
+        },
+        {
+          "category": "Franks",
+          "description": "With chili, cheddar cheese, onions and jalape\u00f1o peppers",
+          "name": "Mad Dog",
+          "price": "$9.50"
+        },
+        {
+          "category": "Franks",
+          "description": "With melted cheddar cheese and bacon",
+          "name": "Hound Dog",
+          "price": "$9.00"
+        },
+        {
+          "category": "Franks",
+          "description": null,
+          "name": "Plain Dog",
+          "price": "$7.25"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Fried Shrimp",
+          "price": "$10.25"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "BBQ Shrimp",
+          "price": "$15.75"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Fried Oyster",
+          "price": "$14.75"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Fried Catfish",
+          "price": "$13.50"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Cajun Hot Sausage",
+          "price": "$10.95"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Honey-Cured Ham & Swiss Cheese",
+          "price": "$9.95"
+        },
+        {
+          "category": "Po'Boys",
+          "description": null,
+          "name": "Oven Roasted Turkey Breast",
+          "price": "$9.95"
+        },
+        {
+          "category": "Fried Seafood in a Basket",
+          "description": null,
+          "name": "Shrimp",
+          "price": "$15.00"
+        },
+        {
+          "category": "Fried Seafood in a Basket",
+          "description": null,
+          "name": "Catfish",
+          "price": "$15.00"
+        },
+        {
+          "category": "Fried Seafood in a Basket",
+          "description": null,
+          "name": "Oysters",
+          "price": "$17.95"
+        },
+        {
+          "category": "Fried Seafood in a Basket",
+          "description": null,
+          "name": "Combo",
+          "price": "$19.00"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "A most popular local specialty \u2013 gulf shrimp, chicken, honeybaked ham, andouille sausage, rice, vegetables, spices and Creole sauce",
+          "name": "Jambalaya",
+          "price": "$12.50"
+        },
+        {
+          "category": "Local Favorites",
+          "description": null,
+          "name": "Red Beans and Rice with Smoked Sausage",
+          "price": "$10.00"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "A jazz fest favorite of ground beef, ground pork, vegetables and seasonings fried in pastry",
+          "name": "Natchitoches Meat Pies",
+          "price": "$12.50"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Louisiana crawfish tails, jasmine rice, vegetables, herbs and seasonings fried in pastry",
+          "name": "Crawfish Pies",
+          "price": "$12.95"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "A hearty cajun crawfish stew",
+          "name": "Crawfish \u00c9touff\u00e9e",
+          "price": "$12.95"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Bursting with fresh Louisiana lump crabmeat and local seasonings, topped with buttered breadcrumbs then baked to a crispy golden brown in the shell",
+          "name": "New Orleans-Style Stuffed Crabs",
+          "price": "$14.95"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Gulf shrimp simmered in a spicy tomato sauce with Creole vegetables, served over rice",
+          "name": "Shrimp Creole",
+          "price": "$13.50"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Fresh bayou catfish seasoned with herbs and spices and seared to perfection, served with crab-boiled new potatoes",
+          "name": "Blackened Catfish",
+          "price": "$14.25"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Served with crab-boiled new potatoes and steamed broccoli",
+          "name": "Grilled Lemon-Marinated Chicken Breast",
+          "price": "$13.00"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Grilled babyback pork ribs brushed with our tangy BBQ sauce, served with cole slaw and french fries",
+          "name": "BBQ Ribs",
+          "price": "$19.95"
+        },
+        {
+          "category": "Local Favorites",
+          "description": "Fried chicken strips served with a home-made waffle and Maple Syrup",
+          "name": "Chicken and Waffles",
+          "price": "$10.95"
+        },
+        {
+          "category": "Desserts",
+          "description": "Served with french vanilla ice cream and chocolate sauce",
+          "name": "Mom's Pecan Brownie",
+          "price": "$6.75"
+        },
+        {
+          "category": "Desserts",
+          "description": "Served with whipped cream and a sugar cookie",
+          "name": "Homebaked Pecan Pie",
+          "price": "$7.25"
+        },
+        {
+          "category": "Desserts",
+          "description": "Angelo Brocato's french vanilla, chocolate, strawberry, peppermint, pistachio and praline",
+          "name": "Colossal Ice Cream Cones",
+          "price": "$6.00"
+        }
+      ],
+      "key": "remoulade",
+      "name": "Remoulade",
+      "sourceURL": "http://www.remoulade.com/lunch-and-dinner-menu/",
+      "verifiedAt": "2026-10-23T16:29:58+00:00"
     }
   ]
 }
