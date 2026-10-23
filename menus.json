@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T16:30:47+00:00",
-  "itemCount": 1605,
+  "generatedAt": "2026-10-23T19:54:32+00:00",
+  "itemCount": 1651,
   "schemaVersion": 1,
-  "venueCount": 24,
+  "venueCount": 25,
   "venues": [
     {
       "items": [
@@ -9825,6 +9825,290 @@
       "name": "Remoulade",
       "sourceURL": "http://www.remoulade.com/lunch-and-dinner-menu/",
       "verifiedAt": "2026-10-23T16:29:58+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Antipasto Caldi (Appetizers)",
+          "description": null,
+          "name": "Antipasto Caldi",
+          "price": "$13.95"
+        },
+        {
+          "category": "Antipasto Caldi (Appetizers)",
+          "description": "Medallions of eggplant, breaded and fried served with marinara sauce",
+          "name": "Melanzane Fritti",
+          "price": "$13.95"
+        },
+        {
+          "category": "Antipasto Caldi (Appetizers)",
+          "description": "Golden, crispy calamari served with marinara sauce",
+          "name": "Calamari Fritti Con Marinara",
+          "price": "$15.95"
+        },
+        {
+          "category": "Antipasto Caldi (Appetizers)",
+          "description": "Baked and breaded with herbs, garlic and Romano cheese",
+          "name": "Oysters al Oreganate",
+          "price": "$24.95"
+        },
+        {
+          "category": "Antipasto Caldi (Appetizers)",
+          "description": "Baked Shrimp in butter, garlic and herbs",
+          "name": "Gamberi Scampi",
+          "price": "$24.95"
+        },
+        {
+          "category": "Zuppa (Soup)",
+          "description": null,
+          "name": "Zuppa",
+          "price": "$10.95"
+        },
+        {
+          "category": "Zuppa (Soup)",
+          "description": "Shrimp, oysters & crabmeat in a light cream and fish stock",
+          "name": "Zuppa di Fillipa",
+          "price": "$10.95"
+        },
+        {
+          "category": "Zuppa (Soup)",
+          "description": "Chef's daily creation",
+          "name": "Zuppa di la Casa",
+          "price": "$10.95"
+        },
+        {
+          "category": "Insalada (Salad)",
+          "description": null,
+          "name": "Insalada",
+          "price": "$12.95"
+        },
+        {
+          "category": "Insalada (Salad)",
+          "description": "Mixed Greens, tomatoes, artichoke hearts, black olives, pepperoncinis, anchovies and our house dressing",
+          "name": "Insalada Italia",
+          "price": "$12.95"
+        },
+        {
+          "category": "Insalada (Salad)",
+          "description": "Caesar salad with hearts of romaine tossed with anchovies, reggiano parmesan cheese, garlic, olive oil and homemade croutons",
+          "name": "Insalada Caesar",
+          "price": "$12.95"
+        },
+        {
+          "category": "Insalada (Salad)",
+          "description": "Fresh mozzarella cheese and tomatoes served with balsamic vinegar, olive oil, garlic and basil",
+          "name": "Insalada la Caprese",
+          "price": "$14.95"
+        },
+        {
+          "category": "Pasta",
+          "description": null,
+          "name": "Pasta",
+          "price": "$22.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Meatballs served with pasta marinara. (recommended wine pairing, Ruffino Chianti)",
+          "name": "Pasta with Meatballs",
+          "price": "$22.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Grilled Italian sausage served with pasta marinara",
+          "name": "Pasta with Italian Sausage",
+          "price": "$24.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Lasagna pasta layered with ground chuck, saut\u00e9ed eggplant, ricotta and mozzarella cheese with marinara sauce",
+          "name": "Lasagna",
+          "price": "$28.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Pasta with cream, butter, romano cheese and reggiano parmesan cheese. (recommended wine pairing, Kendall Jackson Chardonnay)",
+          "name": "Fettucini Alfredo",
+          "price": "$24.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Eggplant breaded topped with tomato sauce, mozzarella cheese with pasta",
+          "name": "Melanzane Parmegiana",
+          "price": "$24.95"
+        },
+        {
+          "category": "Pasta",
+          "description": "Shrimp sauteed in butter, garlic & herbs over pasta linguine. (recommended wine pairing, Santa Margherita Pinot Grigio)",
+          "name": "Gamberi Gagliano",
+          "price": "$32.95"
+        },
+        {
+          "category": "Ill Pesce Freso (Fish)",
+          "description": "Chef's hand selected fresh fish of the day. Grilled & served with vegetables and pasta",
+          "name": "Pesce Fresco Alla Griglia",
+          "price": "Market"
+        },
+        {
+          "category": "Manzo (Steak)",
+          "description": "USDA ribeye, 12 oz., grilled Steaks served with rosemary roasted potatoes and vegetable",
+          "name": "Ribeye",
+          "price": "Market"
+        },
+        {
+          "category": "Manzo (Steak)",
+          "description": "USDA filet mignon 8 oz., grilled Steaks served with rosemary roasted potatoes and vegetable",
+          "name": "Filetto",
+          "price": "Market"
+        },
+        {
+          "category": "Pollo (Chicken)",
+          "description": "Paneed or grilled chicken breast served with Fettuccini Alfredo",
+          "name": "Pollo Alfredo",
+          "price": "$27.95"
+        },
+        {
+          "category": "Pollo (Chicken)",
+          "description": "Chicken breast breaded with Italian bread crumbs topped with marinara and mozzarella cheese, served with linguine pasta",
+          "name": "Pollo Parmegiana",
+          "price": "$27.95"
+        },
+        {
+          "category": "Pollo (Chicken)",
+          "description": "Sauteed chicken in a butter caper sauce served with linguine pasta. (recommended wine pairing, Santa Margherita Pinot Grigio)",
+          "name": "Pollo Picatta",
+          "price": "$27.95"
+        },
+        {
+          "category": "Pollo (Chicken)",
+          "description": "Grilled chicken served with pasta in a butter & garlic sauce",
+          "name": "Pollo",
+          "price": "$27.95"
+        },
+        {
+          "category": "Pollo (Chicken)",
+          "description": "Sauteed Chicken & mushrooms in marsala wine served with linguine pasta. (recommended wine pairing, La Crema Pinot Noir)",
+          "name": "Pollo Marsala",
+          "price": "$27.95"
+        },
+        {
+          "category": "Vitello (Veal)",
+          "description": "Breaded Veal with Italian bread crumbs topped with marinara and mozzarella cheese, served with pasta. (recommended wine pairing, Coppola Cabernet Sauvignon)",
+          "name": "Vitello Parmegiana",
+          "price": "$30.95"
+        },
+        {
+          "category": "Vitello (Veal)",
+          "description": "Breaded veal with fettuccini alfredo",
+          "name": "Vitello Francesco",
+          "price": "$30.95"
+        },
+        {
+          "category": "Vitello (Veal)",
+          "description": "Sauteed veal & mushrooms in marsala wine served with linguine pasta. (recommended wine pairing, Ruffino Chianti)",
+          "name": "Vitello Marsala",
+          "price": "$30.95"
+        },
+        {
+          "category": "Vitello (Veal)",
+          "description": "Sauteed veal in a lemon caper butter sauce served with linguine pasta",
+          "name": "Vitello Picatta",
+          "price": "$30.95"
+        },
+        {
+          "category": "Vitello (Veal)",
+          "description": "Sauteed veal layered with eggplant, prosciutto and mozzarella cheese served with pasta marinara. (recommended wine pairing, La Crema Pinot Noir)",
+          "name": "Vitello Sorrentina",
+          "price": "$35.95"
+        },
+        {
+          "category": "Dolci (Dessert)",
+          "description": null,
+          "name": "Bread Pudding",
+          "price": "$11.95"
+        },
+        {
+          "category": "Dolci (Dessert)",
+          "description": null,
+          "name": "Cannoli",
+          "price": "$10.95"
+        },
+        {
+          "category": "Dolci (Dessert)",
+          "description": null,
+          "name": "Tiramisu",
+          "price": "$11.95"
+        },
+        {
+          "category": "Dolci (Dessert)",
+          "description": null,
+          "name": "Spumoni Ice Cream",
+          "price": "$10.95"
+        },
+        {
+          "category": "Sides",
+          "description": "(Spaghettini Pasta)",
+          "name": "Pasta Marinara",
+          "price": "$12.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fettuccine Pasta",
+          "price": "$14.95"
+        },
+        {
+          "category": "Sides",
+          "description": "(Garlic Olive Oil)",
+          "name": "Pasta Bordelaise",
+          "price": "$12.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Meatball (2) & Marinara Sauce",
+          "price": "$15.95"
+        },
+        {
+          "category": "Sides",
+          "description": "(2 links grilled)",
+          "name": "Italian Sausage & Marinara Sauce",
+          "price": "$16.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Vegetable Medley",
+          "price": "$11.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sauteed Spinach with Garlic Olive Oil",
+          "price": "$11.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sauteed Mushroom in a White Wine & Garlic Butter Sauce",
+          "price": "$12.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Roasted Rosemary Potatoes",
+          "price": "$10.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Plain Pasta",
+          "price": "$10.95"
+        }
+      ],
+      "key": "ristorante filippo",
+      "name": "Ristorante Filippo",
+      "sourceURL": "https://www.ristorantefilippo.com/menu",
+      "verifiedAt": "2026-10-23T19:53:47+00:00"
     }
   ]
 }
