@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T15:30:00+00:00",
-  "itemCount": 1651,
+  "generatedAt": "2026-10-24T18:31:35+00:00",
+  "itemCount": 1708,
   "schemaVersion": 1,
-  "venueCount": 25,
+  "venueCount": 26,
   "venues": [
     {
       "items": [
@@ -10109,6 +10109,356 @@
       "name": "Ristorante Filippo",
       "sourceURL": "https://www.ristorantefilippo.com/menu",
       "verifiedAt": "2026-10-23T19:53:47+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": null,
+          "name": "mixed greens house salad",
+          "price": "$10"
+        },
+        {
+          "category": "Entrees",
+          "description": "gulf shrimp, calamari, spicy red pepper tomato sauce",
+          "name": "pasta fra diavolo",
+          "price": "$26"
+        },
+        {
+          "category": "Entrees",
+          "description": "6oz flat iron steak topped with salmoriglio sauce, creamy parmesan and mushroom orzo",
+          "name": "steak salmoriglio",
+          "price": "$30"
+        },
+        {
+          "category": "Entrees",
+          "description": "roasted roma tomatoes, basil, fresh mozzarella, lemon caper angel hair",
+          "name": "chicken caprese",
+          "price": "$23"
+        },
+        {
+          "category": "Entrees",
+          "description": "lemon butter, vegetable saut\u00e9",
+          "name": "grilled salmon with gulf shrimp",
+          "price": "$29"
+        },
+        {
+          "category": "Entrees",
+          "description": "tender veal panned in Riccobono breadcrumbs topped with crawfish, mushrooms, garlic and green onions, angel hair bordelaise",
+          "name": "veal pann\u00e9 with crawfish saut\u00e9",
+          "price": "$29"
+        },
+        {
+          "category": "Entrees",
+          "description": "broiled fish of the day topped with a white wine butter sauce, charred broccoli, new potatoes",
+          "name": "gulf fish beurre blanc",
+          "price": "$28"
+        },
+        {
+          "category": "Entrees",
+          "description": "crispy chicken panned in Riccobono breadcrumbs, linguine in rich tomato cream sauce",
+          "name": "chicken pann\u00e9 linguine",
+          "price": "$26"
+        },
+        {
+          "category": "Entrees",
+          "description": "housemade breadcrumbs, our signature red gravy, mozzarella, parmesan, angel hair; a Riccobono favorite",
+          "name": "veal parmesan",
+          "price": "$28"
+        },
+        {
+          "category": "Entrees",
+          "description": "avocado, pico, pickled slaw, sriracha aioli, tortilla chips \u2014 lettuce wraps available upon request",
+          "name": "gulf fish tacos",
+          "price": "$17"
+        },
+        {
+          "category": "Entrees",
+          "description": "1/2 lb. angus and caramelized onions on a dong phuong brioche bun, housecut fries \u2014 extras: white cheddar, gruyere, or bleu cheese 2.50 \u00b7 mushrooms or candied jalape\u00f1os 2 \u00b7 bacon or fried egg 3 \u00b7 bbq 1 \u00b7 truffle fries 4",
+          "name": "sala burger",
+          "price": "$18"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "pasta bordelaise",
+          "price": "$10"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "housecut fries",
+          "price": "$6"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "charred broccoli",
+          "price": "$8"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "vegetable saut\u00e9",
+          "price": "$8"
+        },
+        {
+          "category": "Dessert",
+          "description": "italian donuts with cinnamon cream cheese icing and powdered sugar",
+          "name": "zeppole (five)",
+          "price": "$10"
+        },
+        {
+          "category": "Dessert",
+          "description": "italian donuts with cinnamon cream cheese icing and powdered sugar",
+          "name": "zeppole (dozen)",
+          "price": "$16"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "lemon italian cream cake",
+          "price": "$13"
+        },
+        {
+          "category": "Dessert",
+          "description": "+ blueberry coulis",
+          "name": "cheesecake",
+          "price": "$13"
+        },
+        {
+          "category": "Weekend Brunch - Benedicts",
+          "description": "canadian bacon",
+          "name": "traditional benedict",
+          "price": "$15"
+        },
+        {
+          "category": "Weekend Brunch - Benedicts",
+          "description": "golden-fried crabmeat stuffing (no muffin)",
+          "name": "crabcakes benedict",
+          "price": "$20"
+        },
+        {
+          "category": "Weekend Brunch - Benedicts",
+          "description": "house cured smoked salmon",
+          "name": "smoked salmon benedict",
+          "price": "$18"
+        },
+        {
+          "category": "Weekend Brunch - Benedicts",
+          "description": "creamed spinach and artichoke",
+          "name": "eggs sardou",
+          "price": "$15"
+        },
+        {
+          "category": "Weekend Brunch - Benedicts",
+          "description": "saut\u00e9ed crawfish, mushrooms & green onions",
+          "name": "eggs pontchartrain",
+          "price": "$18"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "saut\u00e9ed crawfish, mushrooms, green onions",
+          "name": "crawfish saut\u00e9 omelette",
+          "price": "$18"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "roasted turkey, avocado, tomatoes, mozzarella",
+          "name": "cali omelette",
+          "price": "$15"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "applewood smoked bacon, tomato, cheddar",
+          "name": "southern omelette",
+          "price": "$14"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "creamy spinach and artichoke, mozzarella",
+          "name": "sonoma omelette",
+          "price": "$14"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "crabmeat, bacon, peppers, onion, gruyere",
+          "name": "crab & bacon omelette",
+          "price": "$19"
+        },
+        {
+          "category": "Weekend Brunch - Omelettes",
+          "description": "bell pepper, tomatoes, onion, mushrooms, spinach, gruyere",
+          "name": "farmer's omelette",
+          "price": "$14"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "with potatoes or grits & toast or a biscuit \u2014 sub: english muffin +1 \u00b7 fruit cup +3",
+          "name": "two eggs any style",
+          "price": "$10"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "bowl of grits topped with two eggs any style, bacon, sliced avocado, tomato and cheddar with toast or biscuit",
+          "name": "west end breakfast bowl",
+          "price": "$16"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "leidenheimer french bread, powdered sugar",
+          "name": "french toast",
+          "price": "$11"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "open faced turkey and bacon sandwich topped with mornay cream sauce, pimentos, diced tomatoes, and a sunny side up egg",
+          "name": "kentucky hot brown",
+          "price": "$16"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "belgian waffle topped with fried chicken tenders and bourbon caramel sauce",
+          "name": "chicken & waffles",
+          "price": "$17"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "applewood smoked bacon, avocado, white cheddar, jalape\u00f1o aioli, lettuce & tomato on wheatberry toast",
+          "name": "lakefront blt",
+          "price": "$16"
+        },
+        {
+          "category": "Weekend Brunch - House Favorites",
+          "description": "bacon, blue cheese, dried cranberries, candied pecans, red onion, raspberry vinaigrette",
+          "name": "grilled shrimp spinach salad",
+          "price": "$18"
+        },
+        {
+          "category": "Weekend Brunch - Pancakes & Belgian Waffles",
+          "description": null,
+          "name": "plain pancakes/waffle",
+          "price": "$10"
+        },
+        {
+          "category": "Weekend Brunch - Pancakes & Belgian Waffles",
+          "description": null,
+          "name": "blueberry pancakes/waffle",
+          "price": "$12"
+        },
+        {
+          "category": "Weekend Brunch - Pancakes & Belgian Waffles",
+          "description": null,
+          "name": "pecan pancakes/waffle",
+          "price": "$12"
+        },
+        {
+          "category": "Weekend Brunch - Pancakes & Belgian Waffles",
+          "description": null,
+          "name": "banana pancakes/waffle",
+          "price": "$12"
+        },
+        {
+          "category": "Weekend Brunch - Pancakes & Belgian Waffles",
+          "description": null,
+          "name": "banana nut pancakes/waffle",
+          "price": "$13"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "applewood smoked bacon or sausage patty",
+          "price": "$4"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "grits",
+          "price": "$3"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "biscuit",
+          "price": "$3"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "white or wheat toast",
+          "price": "$3"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "egg a la carte",
+          "price": "$3"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "potatoes",
+          "price": "$4"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "english muffin",
+          "price": "$4"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "fruit cup",
+          "price": "$6"
+        },
+        {
+          "category": "Weekend Brunch - Sides",
+          "description": null,
+          "name": "herb truffle fries & lemon aioli",
+          "price": "$9"
+        },
+        {
+          "category": "Breakfast - Sides",
+          "description": null,
+          "name": "applewood smoked bacon",
+          "price": "$4"
+        },
+        {
+          "category": "Breakfast - Sides",
+          "description": null,
+          "name": "sausage patty",
+          "price": "$4"
+        },
+        {
+          "category": "STEAK NIGHT",
+          "description": "8oz filet mignon cooked to your liking; house salad with choice of balsamic vinaigrette, ranch, or sesame ginger vinaigrette \u2014 sub for side caesar +4; west end mashed potatoes with bacon, sour cream, green onion",
+          "name": "STEAK NIGHT",
+          "price": "$38 per person"
+        },
+        {
+          "category": "Happy Hour - Cocktails",
+          "description": "gin \u00b7 lemon \u00b7 ginger-infused simple \u00b7 soda",
+          "name": "ginger collins",
+          "price": "$8"
+        },
+        {
+          "category": "Happy Hour - Cocktails",
+          "description": "vodka \u00b7 pimm's \u00b7 peach \u00b7 angostura bitters \u00b7 soda",
+          "name": "peachy pimm's",
+          "price": "$8"
+        },
+        {
+          "category": "Happy Hour - Cocktails",
+          "description": "citron vodka \u00b7 triple sec \u00b7 lime \u00b7 white cranberry",
+          "name": "white cosmo",
+          "price": "$8"
+        }
+      ],
+      "key": "sala nola",
+      "name": "Sala Nola",
+      "sourceURL": "https://salanola.com/menu",
+      "verifiedAt": "2026-10-24T18:30:53+00:00"
     }
   ]
 }
