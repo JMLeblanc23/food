@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T12:09:40+00:00",
-  "itemCount": 1728,
+  "generatedAt": "2026-10-26T15:11:04+00:00",
+  "itemCount": 1763,
   "schemaVersion": 1,
-  "venueCount": 27,
+  "venueCount": 28,
   "venues": [
     {
       "items": [
@@ -10587,6 +10587,224 @@
       "name": "Southerns",
       "sourceURL": "https://southernsfood.com/food-menu",
       "verifiedAt": "2026-10-26T12:09:08+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "with guava honey butter, A fried bread from the virgin islands called johnny cake. It was originally brought by native Americans to the Caribbean in the 1700s and has since then been a staple bread to all of the island. Soft crunch, sweet and savory it is truly a versatile bread. Has gluten.",
+          "name": "Joshi Bread",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": "with Mango, Avocado and Tostada chips",
+          "name": "Shrimp Ceviche",
+          "price": "$28"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Butterflied shrimp breaded and fried to a golden crisp, served with our house made Orange Chili Lime Sauce.",
+          "name": "Coconut Shrimp",
+          "price": "$18"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Twice brushed with jerk butter, topped with herb cotija ranch and tajin.",
+          "name": "Grilled Elote",
+          "price": "$15"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Pulled pork, Chisesi ham, swiss cheese, dressed with Cuban Mustard and pickle, pressed on New Orleans style French bread.",
+          "name": "Nola Cuban",
+          "price": "$24"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Mango Habanero Wings",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "seasonal greens with pickled red onions, radish, fresh pineapple, basil, campari tomatoes, toasted coconut and spiced peanuts, cotija cheese finished with cilantro lime vinaigrette.",
+          "name": "Emerald Green Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "Mango, pineapple, radish microgreens, chamoy sauce finished with tajin. Seasonal fresh sliced Mango, Shaved radish, fresh pineapple in a Chamoy sauce.(Chamoy- (Spanish pronunciation: [t\u0283a\u02c8moj]) is a variety of savory sauces and condiments in Mexican cuisine made from pickled fruit. Chamoy may range from a liquid to a paste consistency, and typically its flavor is salty, sweet, sour, and spiced with chilies.).",
+          "name": "Street fruit salad",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Jerk Burger",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": "Marinated oxtails slow cooked in Caribbean spices, pairs wonderfully with rice and peas and sweet plantains.",
+          "name": "Stewed Oxtails",
+          "price": "$32"
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Island Curry Chicken",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Jerk Lamb Chops",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": "Marinated whole fried snapper garnished with pickled vegetables.",
+          "name": "Escoveitch",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Branzino",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Half Jerk Chicken",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Whole Jerk Chicken",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Jerk Chicken Mac & Cheese:",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Jerk Chicken Sandwich",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Red Bean w/ Ox Tail",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Oxtail Mac & Cheese",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Oxtail Dirty Rice",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Oxtail Melt Sandwich (Happy Hour Only)",
+          "price": null
+        },
+        {
+          "category": "Add on Sauces",
+          "description": null,
+          "name": "Guava Butter",
+          "price": "$5"
+        },
+        {
+          "category": "Add on Sauces",
+          "description": null,
+          "name": "Compound Butter",
+          "price": "$5"
+        },
+        {
+          "category": "Add on Sauces",
+          "description": null,
+          "name": "Jerk Butter",
+          "price": "$5"
+        },
+        {
+          "category": "Add on Sauces",
+          "description": null,
+          "name": "Chimichurri",
+          "price": "$5"
+        },
+        {
+          "category": "Add on Sauces",
+          "description": null,
+          "name": "Mango Salsa",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Plantains",
+          "price": null
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Yucca Fries",
+          "price": null
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Braised Cabbage",
+          "price": null
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Rice & Peas",
+          "price": null
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Steamed White Rice",
+          "price": null
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Rum Cake",
+          "price": null
+        },
+        {
+          "category": "House Sauces",
+          "description": null,
+          "name": "Rude girl Sauce - Jerk BBQ",
+          "price": "$2"
+        },
+        {
+          "category": "House Sauces",
+          "description": null,
+          "name": "Rude boy Sauce - Pepper sauce",
+          "price": "$2"
+        }
+      ],
+      "key": "spicy mango",
+      "name": "Spicy Mango",
+      "sourceURL": "https://www.spicymangonola.com/menu",
+      "verifiedAt": "2026-10-26T15:10:15+00:00"
     }
   ]
 }
