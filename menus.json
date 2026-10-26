@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T00:42:01+00:00",
-  "itemCount": 1708,
+  "generatedAt": "2026-10-26T12:09:40+00:00",
+  "itemCount": 1728,
   "schemaVersion": 1,
-  "venueCount": 26,
+  "venueCount": 27,
   "venues": [
     {
       "items": [
@@ -10459,6 +10459,134 @@
       "name": "Sala Nola",
       "sourceURL": "https://salanola.com/menu",
       "verifiedAt": "2026-10-24T18:30:53+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Entrees",
+          "description": "Choose your spice level. Boneless chicken thigh, Yuzu aioli, slaw, housemade pickle",
+          "name": "Southerns Original Chicken Sandwich",
+          "price": "$11.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Beer battered fish, special slaw, housemade pickle, kewpie sauce",
+          "name": "Southerns Fish Sandwich",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Choose your spice level. 3 jumbo chicken tenders, fries, and tender sauce",
+          "name": "Tender Meal",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "6 oz. beef patty*, crispy onions, American and cheddar cheese, B&B pickle, burger sauce",
+          "name": "Southerns Burger",
+          "price": "$11.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Choose your spice level. 2 jumbo chicken tenders, slaw, Yuzu aioli, house made pickle",
+          "name": "Chicken Tender Sandwich",
+          "price": "$11.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "6 oz. beef patty*, pickled jalape\u00f1o, queso, beer battered onion ring",
+          "name": "Southerns Queso Burger",
+          "price": "$12.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Boneless chicken thigh, sweet heat sauce, slaw, chili crisp, kewpie sauce",
+          "name": "Sweet Prince",
+          "price": "$12.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Adobo or traditional** crispy pork belly, adobo sauce, topped with garlic peanut rub",
+          "name": "Cracklins",
+          "price": "$12.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Boneless Chicken Thigh, Curry Rub, Yuzu Aioli, Curry Aioli, Chili Crisp, Slaw, Pickled Jalape\u00f1o, Cilantro",
+          "name": "Coconut Curry Chicken Sandwich",
+          "price": "$12.99"
+        },
+        {
+          "category": "Sides",
+          "description": "1 Jumbo tender and a small side of fries",
+          "name": "Kid's Tender Meal",
+          "price": "$5.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Single Tender",
+          "price": "$2.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries",
+          "price": "$4.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Phuket Fries",
+          "price": "$5.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Queso Fries",
+          "price": "$6.99"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Tender Sauce",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Burger Sauce",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Phuket Sauce",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Creamy Crystal",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Evan's Honey Mustard",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sauces",
+          "description": null,
+          "name": "Roasted Tomato Aioli",
+          "price": "$1.00"
+        }
+      ],
+      "key": "southerns",
+      "name": "Southerns",
+      "sourceURL": "https://southernsfood.com/food-menu",
+      "verifiedAt": "2026-10-26T12:09:08+00:00"
     }
   ]
 }
