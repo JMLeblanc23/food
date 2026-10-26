@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T18:45:18+00:00",
-  "itemCount": 1763,
+  "generatedAt": "2026-10-26T21:46:55+00:00",
+  "itemCount": 1854,
   "schemaVersion": 1,
-  "venueCount": 28,
+  "venueCount": 30,
   "venues": [
     {
       "items": [
@@ -10805,6 +10805,568 @@
       "name": "Spicy Mango",
       "sourceURL": "https://www.spicymangonola.com/menu",
       "verifiedAt": "2026-10-26T15:10:15+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Starters & Raw",
+          "description": "tortilla chips",
+          "name": "La Crawfish Spinach Dip",
+          "price": "$14.00"
+        },
+        {
+          "category": "Starters & Raw",
+          "description": "pita crisps",
+          "name": "Smoked Fish Dip",
+          "price": "$12.00"
+        },
+        {
+          "category": "Starters & Raw",
+          "description": "malt vinegar tartar",
+          "name": "Wildcatfish N\u2019 Chips",
+          "price": "$14.00"
+        },
+        {
+          "category": "Starters & Raw",
+          "description": "station 6 remoulade",
+          "name": "Jumbo Lump Crab Cake",
+          "price": null
+        },
+        {
+          "category": "Starters & Raw",
+          "description": "sashimi grade tuna tartar, cajun caviar, jicama slaw, avocado, soy glaze, tortilla chips",
+          "name": "Tuna Crackers",
+          "price": "$18.00"
+        },
+        {
+          "category": "Starters & Raw",
+          "description": "capers, lemon, parmesan",
+          "name": "Sizzling Garlic Shrimp",
+          "price": "$14.00"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "sweet corn and black bean salsa, jicama slaw, avocado, lime crema",
+          "name": "Grilled Salmon Tacos",
+          "price": "$18.00"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "cucumber-feta salad, rosemary-jalapeno aioli, lettuce, tomato, fries",
+          "name": "Grilled Lamb Burger",
+          "price": "$21.00"
+        },
+        {
+          "category": "Sandwiches",
+          "description": "spicy glaze, pickles, chunky bleu cheese sauce, fries",
+          "name": "Fried Chicken Sandwich",
+          "price": "$16.00"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Kale Salad",
+          "price": "$8.00"
+        },
+        {
+          "category": "Salads",
+          "description": "romaine, chickpeas, olives, feta cheese, cucumber, red onion, bell pepper, tomato, red wine vinaigrette, pita crisps",
+          "name": "Chop Salad",
+          "price": "$8.00"
+        },
+        {
+          "category": "Salads",
+          "description": "little gems, house smoked bacon, chopped egg, pickled red onion, tomato, bleu cheese dressing, crystal glaze, crispy onion straws",
+          "name": "Ali\u2019s Wedge",
+          "price": "$15.00"
+        },
+        {
+          "category": "Salads",
+          "description": "bibb lettuce, boiled shrimp, heirloom tomatoes, crispy onion straws, green goddess",
+          "name": "Shrimp and Tomato Salad",
+          "price": "$19.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "brabants, sauce delery",
+          "name": "Blackened Gulf Fish",
+          "price": "$27.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "fish of the day, sauce delery, haricot verts",
+          "name": "Gulf Fish",
+          "price": "$27.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "la crawfish pilaf, smoked tomato butter",
+          "name": "American Red Snapper",
+          "price": "$34.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "curried brown butter, toasted cashews, roasted asparagus",
+          "name": "Seared Pompano",
+          "price": "$29.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "haricot verts, parmesan toast",
+          "name": "Charbroiled Redfish on the Half Shell",
+          "price": "$32.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "14 oz duroc pork chop, bourbon sweet mash, bbq pork glaze",
+          "name": "Duroc Pork Chop",
+          "price": "$32.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "gulf shrimp, oysters, blue crab",
+          "name": "Seafood Gumbo",
+          "price": "$25.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "10 oz filet mignon, spinach madeline, steak sauce",
+          "name": "Filet Mignon",
+          "price": "$50.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Shrimp",
+          "price": "$11.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Fried Oysters",
+          "price": "$13.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Fries",
+          "price": "$7.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Bourbon Sweet Mash",
+          "price": "$6.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Brabant Potatoes",
+          "price": "$7.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Vegetable of the Day",
+          "price": "$7.00"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Spinach Madeline",
+          "price": "$7.00"
+        },
+        {
+          "category": "Sweets",
+          "description": "butterscotch sauce",
+          "name": "Bread Pudding",
+          "price": "$11.00"
+        },
+        {
+          "category": "Sweets",
+          "description": "ganache",
+          "name": "Chocolate Peanut Butter Doberge",
+          "price": "$14.00"
+        },
+        {
+          "category": "Sweets",
+          "description": "vanilla ice cream",
+          "name": "Seasonal Fruit Cobbler",
+          "price": "$11.00"
+        },
+        {
+          "category": "Sweets",
+          "description": null,
+          "name": "Seasonal Gelato & Sorbet",
+          "price": "$9.00"
+        }
+      ],
+      "key": "station 6 seafood oyster",
+      "name": "Station 6 Seafood & Oyster Bar",
+      "sourceURL": "https://station6nola.com/metairie-bucktown-station-6-food-menu",
+      "verifiedAt": "2026-10-26T21:45:56+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Savory Beignets",
+          "description": "Onions, Peppers, Mushrooms, Cheese",
+          "name": "Veggie Savory Beignet",
+          "price": "$15.25"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": "Cheese",
+          "name": "Hot Sausage Savory Beignet",
+          "price": "$15.50"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": "Onions, Peppers, Cheese",
+          "name": "Philly Cheese Steak Savory Beignet",
+          "price": "$16.50"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": "Onions, Peppers, Cheese",
+          "name": "Surph & Turph Savory Beignet",
+          "price": "$18.50"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": "Onions, Peppers",
+          "name": "Grilled Shrimp Savory Beignet",
+          "price": "$18.50"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": null,
+          "name": "Creole Crawfish Savory Beignet",
+          "price": "$18.00"
+        },
+        {
+          "category": "Savory Beignets",
+          "description": null,
+          "name": "Creole Queen Savory Beignet",
+          "price": "$20.50"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Build Your Own Beignet",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Onions",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Mushrooms",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Bell Peppers",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Cheese",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Jalape\u00f1o",
+          "price": "$1.00"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Hot Sausage",
+          "price": "$2.50"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Steak",
+          "price": "$3.50"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Shrimp",
+          "price": "$4.50"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Crawfish Sauce",
+          "price": "$4.50"
+        },
+        {
+          "category": "B.Y.O.B",
+          "description": null,
+          "name": "Crabmeat",
+          "price": "$5.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Served with Mayo, Spinach, Tomatoes, Pickles, Fries",
+          "name": "Beeph Burger (Reg)",
+          "price": "$16.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Served with Mayo, Spinach, Tomatoes, Pickles, Fries",
+          "name": "Bacon & Cheese Burger",
+          "price": "$18.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Served with Mayo, Spinach, Tomatoes, Pickles, Fries",
+          "name": "Cheddar & Jalape\u00f1o Burger",
+          "price": "$18.00"
+        },
+        {
+          "category": "Burgers",
+          "description": "Served with Mayo, Spinach, Tomatoes, Pickles, Fries",
+          "name": "Shrimp Burger",
+          "price": "$19.00"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Traditional Sweet Beignets (3)",
+          "price": "$6.00"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Oreo Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Strawberry Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Pecan Pie Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Sweet Potato Pie Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Berry Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Cheese Cake Sweet Beignets",
+          "price": "$13.50"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Oreo Cheese Cake Sweet Beignets",
+          "price": "$14.00"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Berry Cheese Cake Sweet Beignets",
+          "price": "$14.00"
+        },
+        {
+          "category": "Sweet Beignets",
+          "description": null,
+          "name": "Sweet Cheese Sweet Beignets",
+          "price": "$14.50"
+        },
+        {
+          "category": "Wings",
+          "description": "Buffalo, BBQ, Garlic Parmesan, Lemon Pepper, Teriyaki",
+          "name": "Wings (5)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Wings",
+          "description": "With Fries & Hot Sausage Beignet",
+          "name": "Wing Plate",
+          "price": "$15.50"
+        },
+        {
+          "category": "Fries",
+          "description": null,
+          "name": "Regular Fries",
+          "price": "$5.00"
+        },
+        {
+          "category": "Fries",
+          "description": null,
+          "name": "Ranch Fries",
+          "price": "$6.50"
+        },
+        {
+          "category": "Fries",
+          "description": null,
+          "name": "Crawfish Fries",
+          "price": "$11.50"
+        },
+        {
+          "category": "Fries",
+          "description": null,
+          "name": "Queen Fries",
+          "price": "$14.00"
+        },
+        {
+          "category": "Sunday Brunch",
+          "description": null,
+          "name": "Hot Sausage, Egg, & Cheese Beignet",
+          "price": "$16.50"
+        },
+        {
+          "category": "Sunday Brunch",
+          "description": null,
+          "name": "Bacon, Egg, & Cheese Beignet",
+          "price": "$16.50"
+        },
+        {
+          "category": "Sunday Brunch",
+          "description": null,
+          "name": "Steak, Egg, & Cheese Beignet",
+          "price": "$17.50"
+        },
+        {
+          "category": "Sunday Brunch",
+          "description": null,
+          "name": "Crawfish, Egg, & Cheese Beignet",
+          "price": "$17.50"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Stuph'D Cup",
+          "price": "$8.00"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Mimosa",
+          "price": "$10.50"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Poinsettia",
+          "price": "$10.50"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Stuph'D Lemonade",
+          "price": "$11.00"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Stuph'D Strawberry Lemonade",
+          "price": "$12.00"
+        },
+        {
+          "category": "Full Bar + Adult Beverages",
+          "description": null,
+          "name": "Stuph'D Berry Lemonade",
+          "price": "$12.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Refills",
+          "price": "$1.50"
+        },
+        {
+          "category": "Beverages",
+          "description": "Pepsi, 7-up, Pepsi Zero, Dr. Pepper",
+          "name": "12oz Can Drinks",
+          "price": "$3.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Sweet Tea",
+          "price": "$4.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Arnold Palmer",
+          "price": "$4.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Dat Punch",
+          "price": "$4.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Fresh Lemonade",
+          "price": "$4.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Strawberry Lemonade",
+          "price": "$5.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Cucumber Lemonade",
+          "price": "$5.00"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Strawberry Cucumber Lemonade",
+          "price": "$5.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Berry Cucumber Lemonade",
+          "price": "$5.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Berry Lemonade",
+          "price": "$5.50"
+        }
+      ],
+      "key": "stuphd beignets burgers",
+      "name": "Stuph'D Beignets & Burgers",
+      "sourceURL": "https://www.getstuphd.com/menu",
+      "verifiedAt": "2026-10-26T21:46:02+00:00"
     }
   ]
 }
