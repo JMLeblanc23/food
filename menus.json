@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T15:30:58+00:00",
-  "itemCount": 1854,
+  "generatedAt": "2026-10-27T18:42:32+00:00",
+  "itemCount": 2011,
   "schemaVersion": 1,
-  "venueCount": 30,
+  "venueCount": 33,
   "venues": [
     {
       "items": [
@@ -11367,6 +11367,972 @@
       "name": "Stuph'D Beignets & Burgers",
       "sourceURL": "https://www.getstuphd.com/menu",
       "verifiedAt": "2026-10-26T21:46:02+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Monday Food Options",
+          "description": "Sweet Heat Cauliflower|Mac N Cheese|Jambalaya|Okra Gumbo|Collard Greens (GF)|Sweet Potatoes (GF)|Potato Salad (GF)|Bread Pudding|Fried Cauliflower|Mushrooms N' Gravy|Green Beans|Cornbread Dressing",
+          "name": "Pick One",
+          "price": "$5.99"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": "Sweet Heat Cauliflower|Mac N Cheese|Jambalaya|Okra Gumbo|Collard Greens (GF)|Sweet Potatoes (GF)|Potato Salad (GF)|Bread Pudding|Fried Cauliflower|Mushrooms N' Gravy|Green Beans|Cornbread Dressing",
+          "name": "Pick Three",
+          "price": "$14.99"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Cornbread",
+          "price": "$2.50"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Brownie",
+          "price": "$3.50"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": "Comes with Cauliflower, Cashew Mac, Sweet Potatoes, Greens, and a large Bread Pudding",
+          "name": "Family Meal",
+          "price": "$85.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Full Plate Fried Cauliflower",
+          "price": "$20.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Full Plate Cashew Mac",
+          "price": "$20.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Full Plate Collards/Cabbage",
+          "price": "$20.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Full Plate Sweet Potatoes",
+          "price": "$20.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": null,
+          "name": "Full Plate Sweet Heat Cauliflower",
+          "price": "$20.00"
+        },
+        {
+          "category": "Monday Food Options",
+          "description": "Sour Sop & Ginger/ Strawberry Lemonade/ Pineapple Mango/ Green Goodness",
+          "name": "Fruit Juices",
+          "price": "$5.00/24oz"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Barbecue Cauliflower/Fried Cauliflower/Cashew Mac/Loaded Potatoes/Corn Chowder/Baked Beans/Dirty Rice/Jambalaya/Mushrooms N' Gravy|Collard Greens|Sweet Potatoes|Bread Pudding|Potato Salad",
+          "name": "Pick 1",
+          "price": "$5.99/16OZ"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Barbecue Cauliflower/Fried Cauliflower/Cashew Mac/Loaded Potatoes/Corn Chowder/Baked Beans/Dirty Rice/Jambalaya/Mushrooms N' Gravy|Collard Greens|Sweet Potatoes|Bread Pudding|Potato Salad",
+          "name": "Pick 3",
+          "price": "$14.99"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Made with real fruit and aqave",
+          "name": "Sour Sop/Ginger/Lemon",
+          "price": "$5.00/16oz"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Made with real fruit and aqave",
+          "name": "Strawberry Lemonade",
+          "price": "$5.00"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Kale/cucumber/pineapple/mango/lemon",
+          "name": "Green Goodness",
+          "price": "$5.00"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Made with real fruit and aqave",
+          "name": "Pineapple Mango",
+          "price": "$5.00"
+        },
+        {
+          "category": "Wednesday Food Options",
+          "description": "Barbecue Cauliflower/Fried Cauliflower/Cashew Mac/Loaded Potatoes/Dirty Rice/Jambalaya|Collard Greens|Sweet Potatoes",
+          "name": "Large Plate",
+          "price": "$20.00"
+        },
+        {
+          "category": "Thursday Food Options",
+          "description": "Soursop & Ginger-Pineapple Mango-Green Goodness-Strawberry Lemonade",
+          "name": "Juices",
+          "price": "$5.00/24oz"
+        },
+        {
+          "category": "Saturday Food Options",
+          "description": null,
+          "name": "Full Plate Jambalaya",
+          "price": "$20.00"
+        },
+        {
+          "category": "Saturday Food Options",
+          "description": null,
+          "name": "Full Plate of Sweet Potatoes",
+          "price": "$20.00"
+        },
+        {
+          "category": "Saturday Food Options",
+          "description": null,
+          "name": "Fried Mushrooms",
+          "price": "$20.00"
+        }
+      ],
+      "key": "sweet soulfood",
+      "name": "Sweet Soulfood",
+      "sourceURL": "https://www.sweetvegansoulfood.com/new-orleans-sweet-soulfood-food-menu",
+      "verifiedAt": "2026-10-27T18:41:27+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Starters",
+          "description": "spicy steen's cane syrup butter",
+          "name": "Cast Iron Cornbread",
+          "price": "$10"
+        },
+        {
+          "category": "Starters",
+          "description": "fried zucchini fingers, tabasco mash aioli",
+          "name": "Crispy Zucchini",
+          "price": "$14"
+        },
+        {
+          "category": "Starters",
+          "description": "fried green tomatoes, green tomato chow chow",
+          "name": "Shrimp Remoulade",
+          "price": "$18"
+        },
+        {
+          "category": "Starters",
+          "description": "cream cheese, lemon, sat\u00ea",
+          "name": "Spicy Crawfish and Dumplings",
+          "price": "$20"
+        },
+        {
+          "category": "Starters",
+          "description": "house pickles, crispy lavash",
+          "name": "Chicken Liver Pat\u00e9",
+          "price": "$15"
+        },
+        {
+          "category": "Starters",
+          "description": "caper berries, torn basil, redfish tonnato",
+          "name": "Tomato Carpaccio",
+          "price": "$19"
+        },
+        {
+          "category": "Starters",
+          "description": "a classic pairing of French fries and a cold bottle of bubbles",
+          "name": "Champagne & Fries",
+          "price": "$100"
+        },
+        {
+          "category": "Starters",
+          "description": "chardonnay, pinot noir, pinot meunier | champagne, fr mv",
+          "name": "Canard-Duchene Cuv\u00e9e Leonie",
+          "price": "$100"
+        },
+        {
+          "category": "Starters",
+          "description": "six pack of miller high life and fries",
+          "name": "Champagne & Fries Redux",
+          "price": "$30"
+        },
+        {
+          "category": "Salads",
+          "description": "strawberry, celery, dried cranberries, pickled onions, sunflower seeds, strawberry vinaigrette",
+          "name": "Sylvain Market Salad",
+          "price": "$14"
+        },
+        {
+          "category": "Salads",
+          "description": "lime, peanut, cilantro, jalapeno",
+          "name": "Green Cabbage Salad",
+          "price": "$15"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "fried chicken, house hot sauce, dill pickles, fries",
+          "name": "Chicken Sandwich",
+          "price": "$19"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "black angus beef, extra sharp cheddar, dill pickles, fries",
+          "name": "Sylvain Burger",
+          "price": "$20"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Pearl onion, root vegetables, sherry mustard vinaigrette, beet and horseradish puree",
+          "name": "Slow Cooked Short Rib",
+          "price": "$37"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "house-made pappardelle pasta, grana padano",
+          "name": "Pappardelle Bolognese",
+          "price": "$22"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "maque choux, white remoulade, trout roe",
+          "name": "Blackened Redfish",
+          "price": "MKT"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "mushroom conserva, okra, eggplant, heirloom tomato, cauliflower, pepitas",
+          "name": "Harissa White Beans",
+          "price": "$24"
+        },
+        {
+          "category": "Dessert",
+          "description": "compote, mint-lime whipped cream",
+          "name": "Strawberry Shortcake",
+          "price": "$13"
+        },
+        {
+          "category": "Dessert",
+          "description": "dark chocolate, orange, hazelnut, graham cracker, Nutella whip cream",
+          "name": "Nutella Chocolate Tart",
+          "price": "$11"
+        },
+        {
+          "category": "Dessert Cocktails",
+          "description": "galliano, creme de cacao, cream, nutmeg",
+          "name": "Golden Cadillac",
+          "price": "$16"
+        },
+        {
+          "category": "Dessert Cocktails",
+          "description": "tawny port, cognac, whole egg, cinnamon",
+          "name": "Coffee Cocktail",
+          "price": "$16"
+        },
+        {
+          "category": "Dessert Cocktails",
+          "description": "rye, averna, bitters, cherry",
+          "name": "Black Manhattan",
+          "price": "$18"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "cava, lavender, lemon oil",
+          "name": "'Champagne' Cocktail",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "vodka, fresh ginger, citrus, soda",
+          "name": "Mule",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "tequila, lime, pomegranate, habanero",
+          "name": "Firing Squad",
+          "price": "$16"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "rye whiskey, cane sugar, bitters, herbsaint",
+          "name": "Sazerac",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "rye whiskey, bitters, demerara sugar",
+          "name": "House Old Fashioned",
+          "price": "$16"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "gin, lemon, orgeat, angostura bitters",
+          "name": "Army & Navy",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "mezcal, ros\u00e9 vermouth, campari",
+          "name": "Mezcal Negroni",
+          "price": "$16"
+        },
+        {
+          "category": "Classic Cocktails",
+          "description": "vodka, cold brew, borghetti espresso liqueur, orgeat",
+          "name": "Espresso Martini",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "mezcal, mango, urfa, lime",
+          "name": "It's Blitz!",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "rum, cantaloupe, mint, aloe, lime",
+          "name": "Pothole Beach",
+          "price": "$16"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "botanical gin, coconut, seabuckthorn, lime, bitters",
+          "name": "Mellow Gold",
+          "price": "$16"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "bourbon, peach, vanilla, lemon",
+          "name": "Peachfuzz",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "hibiscus-infused vodka, strawberry, rhubarb, basil, lemon",
+          "name": "Just the Hits",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "pisco, dry vermouth, nectarine, gentian",
+          "name": "Moon Safari",
+          "price": "$15"
+        },
+        {
+          "category": "Vintage House Cocktails",
+          "description": "fernet branca, house cola",
+          "name": "Fernet + Cola by Murf Reeves",
+          "price": "$14"
+        },
+        {
+          "category": "Vintage House Cocktails",
+          "description": "st. george botanivore gin, dry vermouth, orange vermouth, gentian, salt",
+          "name": "Take-Back Martini by Ellie Rogers",
+          "price": "$16"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": "lemon, lime, ginger",
+          "name": "Virgin Mule",
+          "price": "$8"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": "shrub made with seasonal fruit, lime, soda",
+          "name": "Seasonal Shrub & Soda",
+          "price": "$8"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": "lyre n/a aperitif, orange, sparkling water",
+          "name": "All Day Spritz",
+          "price": "$9"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": null,
+          "name": "Sylvain Cola",
+          "price": "$6"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": null,
+          "name": "Fancy Shirley",
+          "price": "$6"
+        },
+        {
+          "category": "Zero Proof Cocktails",
+          "description": null,
+          "name": "Fountain Soda",
+          "price": "$3"
+        },
+        {
+          "category": "Beer",
+          "description": "american lager | milwaukee, wi 4.65%",
+          "name": "Miller High Life",
+          "price": "$5"
+        },
+        {
+          "category": "Beer",
+          "description": "european pale lager | vigevano, it 4.7%",
+          "name": "Peroni",
+          "price": "$7"
+        },
+        {
+          "category": "Beer",
+          "description": "mexican lager | tecate, mexico 4.5%",
+          "name": "Tecate",
+          "price": "$6"
+        },
+        {
+          "category": "Beer",
+          "description": "ipa | hammond, la 6%",
+          "name": "Gnarley Barley 'Jucifer'",
+          "price": "$7"
+        },
+        {
+          "category": "Beer",
+          "description": "non-alcoholic pilsner | missouri 0.5%",
+          "name": "Einbecker 'Zero Proof'",
+          "price": "$7"
+        },
+        {
+          "category": "Happy Hour",
+          "description": "red, white, rose, bubbles",
+          "name": "Wine by the Glass",
+          "price": "$8"
+        },
+        {
+          "category": "Sparkling Wine",
+          "description": "cava | barcelona, es mv",
+          "name": "Torre Oria",
+          "price": "$10 / $40"
+        },
+        {
+          "category": "Sparkling Wine",
+          "description": "pinot noir, chardonnay, pinot meunier | champagne, fr",
+          "name": "Canard Duchene",
+          "price": "$25 / $100"
+        },
+        {
+          "category": "Sparkling Wine",
+          "description": "ros\u00e9 - pinot noir, zweigelt | niederosterreich, austria mv",
+          "name": "Huber",
+          "price": "$15 / $60"
+        },
+        {
+          "category": "Sparkling Wine",
+          "description": "ros\u00e9 pet nat \u2013 sangiovese | lombardy, it mv",
+          "name": "Natty Bombo",
+          "price": "$65"
+        },
+        {
+          "category": "Sparkling Wine",
+          "description": "champagne-chardonnay, pinot noir | champagne, fr mv",
+          "name": "Jean Vesselle Brut",
+          "price": "$150"
+        },
+        {
+          "category": "Ros\u00e9",
+          "description": "sangiovese | umbria, it '24",
+          "name": "Montemelino Malpasso Rosato",
+          "price": "$14 / $56"
+        },
+        {
+          "category": "Ros\u00e9",
+          "description": "moschofilero | peleponessos, gr '22",
+          "name": "Pavilou Estate 'Le Vie en Rose'",
+          "price": "$60"
+        },
+        {
+          "category": "Ros\u00e9",
+          "description": "gamay | washington, us '23",
+          "name": "Ouest",
+          "price": "$65"
+        },
+        {
+          "category": "Orange",
+          "description": "a bunch | mendocino, ca '25",
+          "name": "Populis",
+          "price": "$15 / $60"
+        },
+        {
+          "category": "Orange",
+          "description": "trebbianno d'abruzzo | umbria, it '24",
+          "name": "Dinamo",
+          "price": "$60"
+        },
+        {
+          "category": "Orange",
+          "description": "sauvignon blanc | curico valley, chile '22",
+          "name": "No Es Pituko!",
+          "price": "$50"
+        },
+        {
+          "category": "White Wine",
+          "description": "pinot grigio | stajerska, si '24",
+          "name": "Pullus",
+          "price": "$14 / $56"
+        },
+        {
+          "category": "White Wine",
+          "description": "sauvignon blanc | loire valley, fr '23",
+          "name": "La Couer de la Reine",
+          "price": "$15 / $60"
+        },
+        {
+          "category": "White Wine",
+          "description": "picpoul | langeudoc, fr '25",
+          "name": "Domitia Picpoul de Pinet",
+          "price": "$15 / $58"
+        },
+        {
+          "category": "White Wine",
+          "description": "chardonnay | burgundy, fr '21",
+          "name": "Sylvaine & Alain Normand",
+          "price": "$17 / $68"
+        },
+        {
+          "category": "White Wine",
+          "description": "sauvignon blanc | loire valley, fr '22",
+          "name": "Emille Balland Sancerre",
+          "price": "$80"
+        },
+        {
+          "category": "White Wine",
+          "description": "albari\u00f1o | rias baixas, es '24",
+          "name": "Benito Santos 'Igrexario de Saiar'",
+          "price": "$60"
+        },
+        {
+          "category": "White Wine",
+          "description": "chardonnay | burgundy, fr '20",
+          "name": "D. Gilles Noblet, Pouilly-Fuisse",
+          "price": "$95"
+        },
+        {
+          "category": "White Wine",
+          "description": "chardonnay | sonoma, ca '22",
+          "name": "Jonnive",
+          "price": "$110"
+        },
+        {
+          "category": "Red Wine",
+          "description": "pinot noir | loire valley, fr '24",
+          "name": "Gaspard",
+          "price": "$15 / $60"
+        },
+        {
+          "category": "Red Wine",
+          "description": "syrah, grenache | languedoc, fr '20",
+          "name": "Cote Mas",
+          "price": "$13 / $52"
+        },
+        {
+          "category": "Red Wine",
+          "description": "cabernet sauvignon, merlot, malbec | bordeaux, fr '20",
+          "name": "Chateau Bellevue Peycharneau",
+          "price": "$15 / $60"
+        },
+        {
+          "category": "Red Wine",
+          "description": "tempranillo | toledo, sp '25",
+          "name": "Mas Que Vinos 'Los Conejos Malditos'",
+          "price": "$14 / $55"
+        },
+        {
+          "category": "Red Wine",
+          "description": "zweigelt | carnuntum, austria '21",
+          "name": "Christina",
+          "price": "$65"
+        },
+        {
+          "category": "Red Wine",
+          "description": "monica | sardinia, it '22",
+          "name": "Cardedu Monica di Sardegna 'Praja'",
+          "price": "$65"
+        },
+        {
+          "category": "Red Wine",
+          "description": "pinot noir | oregon, us '22",
+          "name": "Division 'Un'",
+          "price": "$79"
+        },
+        {
+          "category": "Red Wine",
+          "description": "gamay | beaujolais, fr '22",
+          "name": "Chateau de la Chaize Brouilly",
+          "price": "$75"
+        },
+        {
+          "category": "Red Wine",
+          "description": "sangiovese | tuscany, it '20",
+          "name": "Il Nero di Casanova",
+          "price": "$60"
+        },
+        {
+          "category": "Red Wine",
+          "description": "malbec | valle de uco, ar '24",
+          "name": "Canopus 'Malbec de Sed'",
+          "price": "$65"
+        },
+        {
+          "category": "Red Wine",
+          "description": "nebbiolo | piedmont, it '20",
+          "name": "G.D. Vajra Langhe",
+          "price": "$70"
+        },
+        {
+          "category": "Red Wine",
+          "description": "cabernet sauvignon | mendoza, ar '20",
+          "name": "Mendel",
+          "price": "$70"
+        },
+        {
+          "category": "Red Wine",
+          "description": "barolo | piedmont, it '21",
+          "name": "Perla Terra Barolo",
+          "price": "$95"
+        },
+        {
+          "category": "Red Wine",
+          "description": "cabernet sauvignon | napa valley, ca '21",
+          "name": "Clos du Val",
+          "price": "$120"
+        },
+        {
+          "category": "Red Wine",
+          "description": "grenache | chateauneuf-du-pape, fr '23",
+          "name": "Famille Perrin 'Les Sinards'",
+          "price": "$150"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "pisco, xila aperitif, orange, lemon, cava, bitters",
+          "name": "Mambo No. 75",
+          "price": "$14"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "house mole liquor, liquor 43, coffee",
+          "name": "Cabildo Carajillo",
+          "price": "$15"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "white rum, brazilian limeade, condensed milk",
+          "name": "This is Capoeira!",
+          "price": "$15"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "cava, pomegranate",
+          "name": "Pomegranate Mimosa",
+          "price": "$13"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "gin, elderflower, aperol, lemon, orange, cava",
+          "name": "Lazarus Spritz",
+          "price": "$16"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "chardonnay, pinot noir, pinot meunier | champagne, fr mv",
+          "name": "Canard-Duchene Cuvee Leonie Brut",
+          "price": "$100"
+        },
+        {
+          "category": "Brunch Cocktails",
+          "description": "six pack of miller high life ponies and fries",
+          "name": "Champagne and Fries Redux",
+          "price": "$30"
+        },
+        {
+          "category": "Brunch Entr\u00e9e",
+          "description": "roasted red peppers, tomato, poached eggs, salsa verde, baguette",
+          "name": "Shakshuka",
+          "price": "$21"
+        },
+        {
+          "category": "Brunch Entr\u00e9e",
+          "description": "bacon, steen's cane syrup, whipped maple walnut butter",
+          "name": "Blueberry Buttermilk Pancakes",
+          "price": "$19"
+        },
+        {
+          "category": "Brunch Entr\u00e9e",
+          "description": "brioche bun, remoulade, bacon, iceberg lettuce, fried green tomatoes",
+          "name": "Fried Green Tomato BLT",
+          "price": "$18"
+        },
+        {
+          "category": "Brunch Entr\u00e9e",
+          "description": "house-made biscuit, chisesi ham, poached eggs, creamed kale, hollandaise",
+          "name": "Eggs Benedict",
+          "price": "$18"
+        },
+        {
+          "category": "Brunch Sides",
+          "description": null,
+          "name": "French Fries or Grits",
+          "price": "8"
+        },
+        {
+          "category": "Brunch Sides",
+          "description": null,
+          "name": "Bacon",
+          "price": "4"
+        },
+        {
+          "category": "Brunch Sides",
+          "description": null,
+          "name": "Eggs (2)",
+          "price": "2"
+        },
+        {
+          "category": "Brunch Sides",
+          "description": null,
+          "name": "House Buttermilk Biscuit",
+          "price": "5"
+        },
+        {
+          "category": "Brunch Dessert",
+          "description": "dark chocolate, orange, hazelnut, graham cracker, Nutella whip cream",
+          "name": "Nutella Chocolate Pie",
+          "price": "$11"
+        }
+      ],
+      "key": "sylvain",
+      "name": "Sylvain",
+      "sourceURL": "https://www.sylvainnola.com/menu",
+      "verifiedAt": "2026-10-27T18:41:41+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "STARTERS",
+          "description": "Gulf crab fingers, chilled truffle vinaigrette, toasted baguette",
+          "name": "TRUFFLED CRAB CLAWS",
+          "price": "$21"
+        },
+        {
+          "category": "STARTERS",
+          "description": "A Palace Cafe signature dish! pecan crust, mushroom saut\u00e9, Creole Meuni\u00e8re sauce, Gulf crab claws",
+          "name": "CRABMEAT CHEESECAKE",
+          "price": "$18"
+        },
+        {
+          "category": "STARTERS",
+          "description": "confit garlic gruy\u00e8re cream, artichoke hearts, chartreuse, crostini",
+          "name": "BLUE CRAB FONDUE",
+          "price": "$22"
+        },
+        {
+          "category": "STARTERS",
+          "description": "sage brown butter, Parmigiano-Reggiano, pecans",
+          "name": "BROWN BUTTER GNOCCHI",
+          "price": "$13"
+        },
+        {
+          "category": "STARTERS",
+          "description": "fried oysters, brie, ciabatta, applewood bacon, honey crisp apples, Herbsaint cream",
+          "name": "FRIED OYSTER PAN ROAST",
+          "price": "$19"
+        },
+        {
+          "category": "STARTERS",
+          "description": "truffle aioli, sauce Bearnaise",
+          "name": "POMMES FRITES",
+          "price": "$11"
+        },
+        {
+          "category": "STARTERS",
+          "description": "truffled crab claws, blue crab fondue, Gulf shrimp salad",
+          "name": "DEMI ROYALE (for the table)",
+          "price": "$48"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": null,
+          "name": "DUCK & ANDOUILLE GUMBO",
+          "price": "$13"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": null,
+          "name": "TURTLE SOUP",
+          "price": "$13"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": null,
+          "name": "CREOLE FRENCH ONION SOUP",
+          "price": "$14"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "bibb & romaine, toasted almonds, grape tomatoes, gruy\u00e8re, red onion, honey-cr\u00e8me fraiche dressing",
+          "name": "MAISON SALAD",
+          "price": "$14"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "add-on",
+          "name": "MAISON SALAD - Grilled Gulf Shrimp",
+          "price": "$10"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "add-on",
+          "name": "MAISON SALAD - Grilled Chicken",
+          "price": "$7"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "add-on",
+          "name": "MAISON SALAD - Fried Gulf Oysters",
+          "price": "$13"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "chopped romaine, Caesar dressing, croutons, white anchovies",
+          "name": "CAESAR SALAD",
+          "price": "$13"
+        },
+        {
+          "category": "ENTREES",
+          "description": "toasted almonds, haricots verts, sauce Meuni\u00e8re",
+          "name": "GULF FISH ALMONDINE",
+          "price": "$35"
+        },
+        {
+          "category": "ENTREES",
+          "description": "Gulf shrimp, andouille sausage, sherry beurre blanc, stone-ground grits, garlic chips",
+          "name": "SHRIMP & GRITS",
+          "price": "$29"
+        },
+        {
+          "category": "ENTREES",
+          "description": "arugula, sliced golden beets, pears, celery, mint, strawberries, citrus tarragon vinaigrette, crispy fried Gulf oysters",
+          "name": "FRIED OYSTER SALAD",
+          "price": "$25"
+        },
+        {
+          "category": "ENTREES",
+          "description": "seared Gulf fish, chopped olives & artichokes, cucumbers & tomatoes, arugula, red onion, Dijon Caesar, Bellegarde brioche bun, pommes frites",
+          "name": "GULF FISH SANDWICH",
+          "price": "$24"
+        },
+        {
+          "category": "ENTREES",
+          "description": "roasted chicken breast, crispy fried thigh, tasso ham potatoes, English peas, mushrooms, sauce Bearnaise",
+          "name": "CHICKEN TABLEAU",
+          "price": "$32"
+        },
+        {
+          "category": "ENTREES",
+          "description": "house-cured tasso ham, pepper jelly, English muffin, asparagus, roasted mushrooms, poached eggs, sauce Hollandaise",
+          "name": "EGGS TABLEAU",
+          "price": "$27"
+        },
+        {
+          "category": "ENTREES",
+          "description": "6 oz. filet, tasso ham potatoes, sauce B\u00e9arnaise",
+          "name": "TABLEAU FILET",
+          "price": "$40"
+        },
+        {
+          "category": "ENTREES",
+          "description": "8 oz. Three Fires Farms beef, white cheddar, bibb, tomato, red onions, pickles, Bellegarde brioche, pommes frites",
+          "name": "TABLEAU CHEESEBURGER",
+          "price": "$23"
+        },
+        {
+          "category": "ENTREES",
+          "description": "add-on",
+          "name": "TABLEAU CHEESEBURGER - Add bacon",
+          "price": "$3"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "fresh bananas, brown sugar, cinnamon, rum flamb\u00e9, vanilla bean ice cream",
+          "name": "BANANAS FOSTER",
+          "price": "$24"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "rustic Cajun sweet dough, vanilla custard, Old New Orleans rum caramel sauce",
+          "name": "TARTE \u00c0 LA BOUILLIE",
+          "price": "$10"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "vanilla bean custard, caramelized sugar",
+          "name": "CR\u00c8ME BR\u00dbLEE",
+          "price": "$10"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "salted chocolate crust, rich chocolate filling, ganache, salted caramel sauce, pecan crunch, Chantilly creme",
+          "name": "CHOCOLATE TORTE",
+          "price": "$11"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "Three Fires Farms blueberries, lemon curd, coconut sorbet, brown butter crunch",
+          "name": "BLUEBERRY UPSIDE-DOWN FINANCIER",
+          "price": "$10"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "vanilla bean or seasonal sorbet",
+          "name": "HOUSE-MADE FROZEN DESSERTS",
+          "price": "$8"
+        },
+        {
+          "category": "SOUPS & SALADS",
+          "description": "add-on",
+          "name": "MAISON SALAD - Gulf Shrimp",
+          "price": "$10"
+        },
+        {
+          "category": "ENTREES",
+          "description": "andouille & cracklin crusted Gulf fish, grilled asparagus, Crystal beurre blanc, chive aioli",
+          "name": "ANDOUILLE CRUSTED FISH",
+          "price": "$36"
+        },
+        {
+          "category": "ENTREES",
+          "description": "risotto with saffron seafood broth & Grana Padano, saut\u00e9ed corn & peas, seared Bay scallops, fried Gulf shrimp",
+          "name": "ROCK SHRIMP & SCALLOP RISOTTO",
+          "price": "$35"
+        },
+        {
+          "category": "ENTREES",
+          "description": "seared Rohan duck breast, crispy purple potatoes with chive aioli, fennel citrus salad, fig demi-glace",
+          "name": "SEARED DUCK BREAST",
+          "price": "$38"
+        },
+        {
+          "category": "ENTREES",
+          "description": "sweet potato pave, saut\u00e9ed arugula, shallot butter, topped with seared foie gras",
+          "name": "PETIT FILET",
+          "price": "$56"
+        }
+      ],
+      "key": "tableau",
+      "name": "Tableau",
+      "sourceURL": "https://www.tableaufrenchquarter.com/menus/",
+      "verifiedAt": "2026-10-27T18:41:50+00:00"
     }
   ]
 }
