@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T01:06:41+00:00",
-  "itemCount": 2011,
+  "generatedAt": "2026-10-28T12:08:00+00:00",
+  "itemCount": 2081,
   "schemaVersion": 1,
-  "venueCount": 33,
+  "venueCount": 35,
   "venues": [
     {
       "items": [
@@ -12333,6 +12333,442 @@
       "name": "Tableau",
       "sourceURL": "https://www.tableaufrenchquarter.com/menus/",
       "verifiedAt": "2026-10-27T18:41:50+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Bacon & Egg Po-Boy",
+          "price": "$8.95"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Bacon & Egg Biscuit",
+          "price": "$3.99"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Bacon & Egg Toast",
+          "price": "$5.95"
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Eggs, Bacon, Pancakes, & Drink",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Scrambled Eggs, Home Fries, Sausage, Roasted Pepper, Cheese & Biscuit",
+          "price": null
+        },
+        {
+          "category": "Breakfast",
+          "description": null,
+          "name": "Scrambled Eggs, Home Fries, Grilled Chicken, Roasted Pepper, Cheese & Biscuit",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "2 Grilled Cheese with Bacon",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Chicken, Bacon, Tomato, Onion & Cheese",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Red Beans & Rice",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Meatloaf & Mashed Potatoes",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Spaghetti & Meatballs",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "White Beans & Rice with choice of fried or grilled chicken, pork chop, or smoked sausage",
+          "price": null
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Crawfish Etouffee Over Rice & Fried Catfish",
+          "price": null
+        },
+        {
+          "category": "Kids",
+          "description": "Served with French Fries, Cold Drink, & Ice Cream",
+          "name": "Jr. Lot-O-Burger",
+          "price": null
+        },
+        {
+          "category": "Kids",
+          "description": "Served with French Fries, Cold Drink, & Ice Cream",
+          "name": "Chicken Tenders",
+          "price": null
+        },
+        {
+          "category": "Kids",
+          "description": "Served with French Fries, Cold Drink, & Ice Cream",
+          "name": "Grilled Cheese",
+          "price": null
+        },
+        {
+          "category": "Kids",
+          "description": "Served with French Fries, Cold Drink, & Ice Cream",
+          "name": "Kid's Hot Dog",
+          "price": null
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "American Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Cheddar Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Blue Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Bacon",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Fried Egg",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Grilled Onions",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Jalapenos",
+          "price": "$1.00"
+        },
+        {
+          "category": "Add-Ons",
+          "description": null,
+          "name": "Fries & Drink Combo",
+          "price": "$4.59"
+        }
+      ],
+      "key": "teds frostop",
+      "name": "Ted's Frostop",
+      "sourceURL": "https://www.tedsfrostop.com/menu",
+      "verifiedAt": "2026-10-28T12:07:28+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "With curry dipping sauce",
+          "name": "Crab Rangoon",
+          "price": "$8.00/2"
+        },
+        {
+          "category": null,
+          "description": "Steamed soybeans in a pod",
+          "name": "Edamame",
+          "price": "$6.00"
+        },
+        {
+          "category": null,
+          "description": "Crab Rangoon stuffed with jalape\u00f1o served w/ sweet chili sauce topped with sriracha",
+          "name": "Jalape\u00f1o Crab Rangoon",
+          "price": "$8.00/4"
+        },
+        {
+          "category": null,
+          "description": "Fried chicken wings saut\u00e9ed with sweet & spicy Thai sauce",
+          "name": "Thai Sweet & Spicy Wings",
+          "price": "$13.00/6"
+        },
+        {
+          "category": null,
+          "description": "Deep fried veggies roll served w/ sweet chili sauce",
+          "name": "Veggie Rolls",
+          "price": "$7.00/4"
+        },
+        {
+          "category": null,
+          "description": "Deep fried tofu crispy outside, tender inside served w/ sweet chili sauce topped with crushed peanuts",
+          "name": "Fried Tofu",
+          "price": "$8.00"
+        },
+        {
+          "category": null,
+          "description": "Mixed fresh veggies wrapped with rice paper served w/ sweet chili and peanut sauce",
+          "name": "Fresh Spring Rolls",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Add Shrimp +$4",
+          "name": "Fresh Spring Rolls with Shrimp",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "House made beef jerky served w/ Jaew dipping sauce",
+          "name": "House Made Beef Jerky",
+          "price": "$15.00"
+        },
+        {
+          "category": null,
+          "description": "Deep fried battered squid with sweet chili sauce topped with crushed peanuts",
+          "name": "Fried Calamari",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Fried shrimp in panko breadcrumbs and coconut flakes served with sweet chili sauce",
+          "name": "Coconut Shrimp",
+          "price": "$10.00/5"
+        },
+        {
+          "category": null,
+          "description": "Grilled, marinated, and skewered chicken served with Peanut Sauce",
+          "name": "Chicken Satay",
+          "price": "$9.00/3"
+        },
+        {
+          "category": null,
+          "description": "Served with Jaew (Dried chili dipping sauce) and Jasmine Rice",
+          "name": "Grilled Beef",
+          "price": "$15"
+        },
+        {
+          "category": null,
+          "description": "Served with Thai homemade seafood sauce",
+          "name": "Grilled Salmon",
+          "price": "$16"
+        },
+        {
+          "category": null,
+          "description": "Shredded green papaya with Thai fish sauce, tomato, lime, carrot and peanut",
+          "name": "Papaya Salad",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Add 2 shrimp +$3",
+          "name": "Papaya Salad with Shrimp",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Chopped Chicken mixed with Thai dressing and roasted rice",
+          "name": "Larb Chicken",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Grill beef mixed with Thai dressing and crushed roasted rice topping",
+          "name": "Larb Beef",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Fried tofu mixed with Thai dressing and crushed roasted rice topping",
+          "name": "Larb Tofu",
+          "price": "$11.00"
+        },
+        {
+          "category": null,
+          "description": "Spicy hot and sour soup with lemongrass, lime leaves, carrots, mushroom and onion",
+          "name": "Tom Yum Soup",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Spicy hot and sour soup with lemongrass, lime leaves, carrots, mushroom, onion, and coconut milk",
+          "name": "Tom Kha Soup",
+          "price": "$7.00"
+        },
+        {
+          "category": null,
+          "description": "Served with Shrimp, Calamari, and Mussel",
+          "name": "Tom Yum Seafood",
+          "price": "$17.00"
+        },
+        {
+          "category": null,
+          "description": "Add Coconut Milk +$1",
+          "name": "Tom Yum Seafood with Coconut Milk",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Coconut milk, bell pepper, onions, carrot, basil, bamboo shoot",
+          "name": "Green Curry",
+          "price": "$14.00"
+        },
+        {
+          "category": null,
+          "description": "Coconut milk, bell pepper, carrot, eggplant, basil, bamboo shoot",
+          "name": "Red Curry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Coconut milk, onion, potato, carrot",
+          "name": "Massaman Curry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried rice noodle with egg, bean sprout, green onion, served with peanut and lime",
+          "name": "Pad Thai",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried flat rice noodle with bell pepper, onion, carrot, basil, and chili sauce",
+          "name": "Pad Kee Mao",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried flat rice noodle, egg, cabbage, broccoli, carrot",
+          "name": "Pad See Ew",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried glass noodle with egg, onions, cabbage, broccoli, carrot",
+          "name": "Pad Woon Sen",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Egg, carrot, peas",
+          "name": "Fried Rice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Egg, bell pepper, onion, carrot, basil, chili sauce",
+          "name": "Basil Fried Rice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Egg, pineapple chunks, cashew nuts, curry powder",
+          "name": "Pineapple Fried Rice",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Bell pepper, onion, basil, chili sauce",
+          "name": "Spicy Basil Stir Fry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Deep fried eggplant, saut\u00e9ed with bell pepper, onion, basil, chili sauce",
+          "name": "Eggplant Stir Fry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried cashew, onion, bell pepper, mushroom, carrot, soybean sauce",
+          "name": "Cashew Stir Fry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried garlic, white pepper on top off steamed mixed veggies",
+          "name": "Garlic Pepper Stir Fry",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Stir fried chopped chicken, onion, basil with a fried egg on top | No choice of protein",
+          "name": "Pad Kra Pao",
+          "price": "$18.00"
+        },
+        {
+          "category": null,
+          "description": "Sweet mango served with house made sweet sticky rice, topped with sweet coconut milk and sesame seeds",
+          "name": "Mango Sticky Rice",
+          "price": "$10.00"
+        },
+        {
+          "category": null,
+          "description": "Roti flatbread filled with condensed milk and nutella",
+          "name": "Nutella Roti",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Crispy roti topped with condensed milk and powdered sugar",
+          "name": "Crispy Roti",
+          "price": "$6.00/4"
+        },
+        {
+          "category": null,
+          "description": "Two pieces of beignets served with a scoop of homemade ice cream",
+          "name": "Beignets",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Sweet sticky rice served with a scoop of homemade ice cream",
+          "name": "Sticky Rice with Ice Cream",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "One piece of roti flatbread",
+          "name": "Roti",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Item",
+          "price": "$2.00"
+        }
+      ],
+      "key": "thaid up",
+      "name": "Thai'd Up",
+      "sourceURL": "https://thaidup.co/menu",
+      "verifiedAt": "2026-10-28T12:07:35+00:00"
     }
   ]
 }
