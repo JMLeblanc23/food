@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T13:14:56+00:00",
-  "itemCount": 2081,
+  "generatedAt": "2026-11-01T16:16:22+00:00",
+  "itemCount": 2183,
   "schemaVersion": 1,
-  "venueCount": 35,
+  "venueCount": 36,
   "venues": [
     {
       "items": [
@@ -12769,6 +12769,626 @@
       "name": "Thai'd Up",
       "sourceURL": "https://thaidup.co/menu",
       "verifiedAt": "2026-10-28T12:07:35+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Oysters on the Half Shell",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Chargrilled Oysters",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Oyster Shooters",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Basin BBQ Shrimp",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Onion Rings",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Blue Crab Cakes",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Blue Crab Dip",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Parmesan Fried Calamari",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Crab Claws",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Buffalo Bites",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Classic Shrimp Cocktail",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Crabmeat Au Gratin",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Chargrilled Crabs",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Eggplant Spears",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Fried Green Tomato Stack",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Gulf Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "West End Cobb Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Wedge Salad",
+          "price": null
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Seafood Gumbo",
+          "price": null
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Chicken & Andouille Gumbo",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Fried Shrimp Platter",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Fried Oyster Platter",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Fried Catfish Platter",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Combo Platter",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Stuffed Crab Platter",
+          "price": null
+        },
+        {
+          "category": "Seafood Platters",
+          "description": "Served with french fries, jalape\u00f1o hush puppies and buttered french bread",
+          "name": "Blue Crab Platter",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": null,
+          "name": "Cheese Pizza",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": null,
+          "name": "Pepperoni Pizza",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": null,
+          "name": "Deluxe Pizza",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": null,
+          "name": "Veggie Pizza",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": null,
+          "name": "The Frank",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": "Make any pizza gluten-free",
+          "name": "Gluten-free crust substitution",
+          "price": null
+        },
+        {
+          "category": "Pizzas",
+          "description": "Sub for cauliflower crust",
+          "name": "Cauliflower crust substitution",
+          "price": "$3"
+        },
+        {
+          "category": "Grilled Plates",
+          "description": null,
+          "name": "Grilled Shrimp Platter",
+          "price": null
+        },
+        {
+          "category": "Grilled Plates",
+          "description": null,
+          "name": "Grilled Catfish Platter",
+          "price": null
+        },
+        {
+          "category": "Grilled Plates",
+          "description": null,
+          "name": "Grilled Chicken Breast",
+          "price": null
+        },
+        {
+          "category": "New Orleans Classics",
+          "description": null,
+          "name": "Basin BBQ Shrimp & Grits",
+          "price": null
+        },
+        {
+          "category": "New Orleans Classics",
+          "description": null,
+          "name": "Whole Stuffed Flounder",
+          "price": null
+        },
+        {
+          "category": "New Orleans Classics",
+          "description": null,
+          "name": "Pontchartrain Pasta",
+          "price": null
+        },
+        {
+          "category": "New Orleans Classics",
+          "description": null,
+          "name": "Blue Crab Pasta",
+          "price": null
+        },
+        {
+          "category": "New Orleans Classics",
+          "description": null,
+          "name": "Fresh Gulf Fish",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Crab Cake Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Downstairs Burger",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Fried Shrimp Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Grilled Shrimp Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Fried Oyster Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Fried Catfish Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sandwiches",
+          "description": "Served dressed on grilled French bread or Brioche bun, with fresh hand-cut fries",
+          "name": "Chicken Breast Sandwich",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Hand-Cut Fries",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Cole Slaw",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Boiled Corn & Potatoes",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Potato Salad",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Jalapeno Hush Puppies",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Baked Macaroni & Cheese",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Grilled Vegetables",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Sweet Potato Fries",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Stone Ground Cheese Grits",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "(3) Cheese Biscuits",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "(3) Brown Sugar Corn Muffins",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Side Salad",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Side Caesar Salad",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Chicken (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Catfish (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Shrimp (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Fried Oysters (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Lump Crab Meat (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Fish Of The Day (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Soft Shell Crab (add to entr\u00e9e)",
+          "price": null
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Shrimp - Boiled Seafood",
+          "price": "MKT price"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Crab - Boiled Seafood",
+          "price": "MKT price"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Crawfish - Boiled Seafood",
+          "price": "MKT price"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Bananas Foster Bread Pudding",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Key Lime Parfait",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Alison's Double Dessert",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Angelo Brocato's (GF)",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Creme Brulee (GF)",
+          "price": null
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Root beer Float (GF)",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Food",
+          "description": null,
+          "name": "Buffalo Chicken",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Food",
+          "description": null,
+          "name": "Fried Pickles",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Food",
+          "description": null,
+          "name": "Fried Calamari",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Food",
+          "description": null,
+          "name": "Fried Eggplant Spears",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Food",
+          "description": null,
+          "name": "Raw Oysters",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Drink",
+          "description": null,
+          "name": "$1 Off Draft Beer",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Drink",
+          "description": null,
+          "name": "House Wine",
+          "price": null
+        },
+        {
+          "category": "Happy Hour Drink",
+          "description": null,
+          "name": "Half Off All Well and Call Brands",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Served with French Fries",
+          "name": "Grilled Cheese",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Kid's Pasta with Alfredo Sauce",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Served with French Fries",
+          "name": "Hamburger",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Served with French Fries",
+          "name": "Fried Chicken Tenders",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Served with French Fries",
+          "name": "Fried Catfish",
+          "price": null
+        },
+        {
+          "category": "Kids Menu",
+          "description": "Served with French Fries",
+          "name": "Fried Shrimp",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Oysters on the Halfshell (Seasonal)",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Chargrilled Oysters (Seasonal)",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Sauteed Crab Claws",
+          "price": null
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Marinated Crab Claws",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "West & Cobb Salad",
+          "price": null
+        },
+        {
+          "category": "Platters",
+          "description": null,
+          "name": "Whole Flounder",
+          "price": null
+        },
+        {
+          "category": "Catering Packages",
+          "description": "Beverages included: Water, Soft Drinks, Iced Tea, Coffee",
+          "name": "Package One \"Landlubber Appetizers\"",
+          "price": "$28 per person"
+        },
+        {
+          "category": "Catering Packages",
+          "description": "Beverages included: Water, Soft Drinks, Iced Tea, Coffee",
+          "name": "Package Two \"Docksider\" Dinner",
+          "price": "$38 per person"
+        },
+        {
+          "category": "Catering Packages",
+          "description": "Beverages included: Water, Soft Drinks, Iced Tea, Coffee",
+          "name": "Package Three \"Mariner\" Dinner Buffet",
+          "price": "$44 per person"
+        },
+        {
+          "category": "Catering Packages",
+          "description": "Beverages included: Water, Soft Drinks, Iced Tea, Coffee",
+          "name": "Package Four \"Admiral\" Dinner Buffet",
+          "price": "$50 per person"
+        }
+      ],
+      "key": "the blue crab",
+      "name": "The Blue Crab",
+      "sourceURL": "https://thebluecrabnola.com/new-orleans-the-blue-crab-restaurant-and-oyster-bar-food-menu",
+      "verifiedAt": "2026-11-01T16:15:45+00:00"
     }
   ]
 }
