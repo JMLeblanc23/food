@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03T01:07:15+00:00",
-  "itemCount": 2183,
+  "generatedAt": "2026-11-03T13:09:59+00:00",
+  "itemCount": 2249,
   "schemaVersion": 1,
-  "venueCount": 36,
+  "venueCount": 38,
   "venues": [
     {
       "items": [
@@ -13389,6 +13389,418 @@
       "name": "The Blue Crab",
       "sourceURL": "https://thebluecrabnola.com/new-orleans-the-blue-crab-restaurant-and-oyster-bar-food-menu",
       "verifiedAt": "2026-11-01T16:15:45+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Happy Hour",
+          "description": "Happy Hour special",
+          "name": "BBQ pistolette sliders",
+          "price": null
+        },
+        {
+          "category": "Happy Hour",
+          "description": "$2 off during Happy Hour",
+          "name": "Draft beer",
+          "price": null
+        },
+        {
+          "category": "Happy Hour",
+          "description": "$2 off during Happy Hour",
+          "name": "Wine",
+          "price": null
+        },
+        {
+          "category": "Happy Hour",
+          "description": "$2 off during Happy Hour",
+          "name": "Cocktails",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": "Home made flour tortillas with brisket, crema, salsa verde + cilantro and onions",
+          "name": "Taco Thursday - brisket taco",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": "Home made flour tortillas with pork, mango salsa + pickled red onions",
+          "name": "Taco Thursday - pork taco",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": "$5 spicy margs all day on Taco Thursday",
+          "name": "Spicy margs",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": "Get it til it's gone",
+          "name": "Pastrami",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": "Best when paired with one of our house made daiquiris",
+          "name": "Pastrami sandwich",
+          "price": null
+        },
+        {
+          "category": "Specials",
+          "description": null,
+          "name": "House made daiquiris",
+          "price": null
+        }
+      ],
+      "key": "the joint",
+      "name": "The Joint",
+      "sourceURL": "http://alwayssmokin.com/new-orleans-the-joint-happy-hours-specials",
+      "verifiedAt": "2026-11-03T13:09:09+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizer",
+          "description": "Crispy Fried Shrimp dusted with Reggiano drizzled w/ Buffalo Sauce and Ranch for Dipping",
+          "name": "Buffalo Shrimp",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Crispy Fried Oysters dusted with Reggiano drizzled w/ Buffalo Sauce and Ranch for Dipping",
+          "name": "Buffalo Oysters",
+          "price": "$17.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Home fried tortilla chips with roast beef debris, onions, jalape\u00f1os, tomatoes, jack & cheddar cheese, topped w/ homemade ranch",
+          "name": "Bayou Nachos",
+          "price": "$16.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Battered, Crispy Fried Chicken Wings served plain or tossed in buffalo or sweet and spicy Asian",
+          "name": "MUNCHIN' WINGS - 6 PIECE",
+          "price": "$13.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Battered, Crispy Fried Chicken Wings served plain or tossed in buffalo or sweet and spicy Asian",
+          "name": "MUNCHIN' WINGS - 9 PIECE",
+          "price": "$18.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Herb infused grits topped with shredded cheese and slow cooked roast beef Debris",
+          "name": "MUNCH BOWL",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "fried shrimp tossed in sweet and spicy chili sauce with sesame seeds",
+          "name": "SWEET AND SPICY SHRIMP",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Thick cut fries topped with pepper jack cheese and crawfish and pepper cream sauce sprlinkled with Reggiano",
+          "name": "LOWER GARDEN DISTRICT FRIES",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Crispy marinated salmon slices lightly bartered with sweet and spicy chili sauce and soy glaze dipping sauce",
+          "name": "SALMON BITES",
+          "price": "$14.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Creamy spinach and artichoke dip with home fried tortilla chips with a side of salsa",
+          "name": "SPINACH AND ARTICHOKE DIP",
+          "price": "$15.00"
+        },
+        {
+          "category": "Appetizer",
+          "description": null,
+          "name": "Buff Chicken Nachos",
+          "price": null
+        },
+        {
+          "category": "Soup",
+          "description": "Cup (8oz) Seafood, Sausage, Hot Sausage, Ham in a dark roux for takeout rice is on the side",
+          "name": "Cup Gumbo",
+          "price": "$9.00"
+        },
+        {
+          "category": "Soup",
+          "description": "Today is Shrimp and Corn Bisque! 8oz",
+          "name": "Cup Soup De Jour",
+          "price": "$9.00"
+        },
+        {
+          "category": "Soup",
+          "description": "Bowl (12oz) Seafood, Sausage, Hot Sausage, Ham in a dark roux for takeout rice is on the side",
+          "name": "Bowl Gumbo",
+          "price": "$13.00"
+        },
+        {
+          "category": "Soup",
+          "description": "Today is Shrimp and Corn Bisque! 12oz",
+          "name": "Bowl Soup De Jour",
+          "price": "$13.00"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, chopped egg, bacon, tomatoes, and croutons, Honey Mustard, Creole Ranch, or Vinaigrette",
+          "name": "SIDE HOUSE SALAD",
+          "price": "$7.00"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, chopped egg, bacon, tomatoes, and croutons, Honey Mustard, Creole Ranch, or Vinaigrette",
+          "name": "HOUSE SALAD",
+          "price": "$11.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine, Reggiano, croutons, homemade Caesar dressing",
+          "name": "SIDE CAESAR SALAD",
+          "price": "$7.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine, Reggiano, croutons, homemade Caesar dressing",
+          "name": "CAESAR SALAD",
+          "price": "$11.00"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, bacon, tomatoes, cheese, roasted corn, honey mustard with crispy chicken",
+          "name": "GENTILLY CHICKEN SALAD",
+          "price": "$16.50"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, bacon, tomatoes, and large fried shrimp with buffalo and ranch dressing",
+          "name": "BUFFALO SHRIMP SALAD",
+          "price": "$17.00"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, bacon, tomatoes, and large fried oysters with buffalo and ranch dressing",
+          "name": "BUFFALO OYSTER SALAD",
+          "price": "$19.00"
+        },
+        {
+          "category": "Salads",
+          "description": "mixed greens, avocado, cilantro, cucumbers, wontons strips with seared mid-rare Tuna w/ Hawaiian Vinaigrette",
+          "name": "AUNT IRMA'S HAWAIIAN SALAD",
+          "price": "$18.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "1/2 pound angus beef, lettuce, tomato, mayo, pickles, onions & American cheese cooked to temperature onn brioche bun w fries",
+          "name": "BACKYARD BURGER",
+          "price": "$16.50"
+        },
+        {
+          "category": "Sandwich",
+          "description": "Chef Jordan's slow cooked pot roast on french bread, lettucek, tomato, pickle, mayo w fries",
+          "name": "ROAST BEEF SANDWICH",
+          "price": "$16.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "crispy chicken with pepper jack, red onions, tomato, lettuce and mayo on brioche bun w fries",
+          "name": "CRISPY CHICKEN SANDWICH",
+          "price": "$15.50"
+        },
+        {
+          "category": "Sandwich",
+          "description": "beef hot sausage pressed on thick toast with american cheese, mayo and onions w fries",
+          "name": "HOT SAUSAGE PATTY MELT",
+          "price": "$16.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "fried shrimp on french with lettuce, tomato, mayo w fries",
+          "name": "SHRIMP BOAT",
+          "price": "$17.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "fried oysters on french with mayo, lettuce, tomatoes",
+          "name": "OYSTER BOAT",
+          "price": "$19.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "classic ham and turkey club with bacon, american, tomatoes, lettuce and mayo on thick toast w fries",
+          "name": "CLUB HOUSE SAMMICH",
+          "price": "$16.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "crispy shrimp, lettuce, tomato, bacon, ranch wrapped in flour tortilla with buffalo dipping sauce on the side w fries",
+          "name": "SHRIMP WRAP",
+          "price": "$17.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "(3) crispy fried catfish tacos in grilled corn tortillas, with jazzy slaw, grilled corn, cilantro and remoulade (no sides)",
+          "name": "FRIED FISH TACOS",
+          "price": "$15.00"
+        },
+        {
+          "category": "Sandwich",
+          "description": "chicken breast marinated in sweet honey and a trio of mustard with lettuce, tomato, honey mayo and pepper jack on brioche bun w fries",
+          "name": "GRILLED CHICKEN SANDWICH",
+          "price": "$15.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "stone ground grits topped with large louisina shrimp sauteed in worcestershire reduction with grilled french bread",
+          "name": "SHRIMP AND GRITS",
+          "price": "$20.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "marinated salmon filet over stone ground grits with sauteed asparagus topped with citrus jus (served to medium temperature)",
+          "name": "OVEN ROASTED SALMON",
+          "price": "$22.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "smoked then crispy fried pork baby back ribs tossed in sweet and spicy chili sauce with fries",
+          "name": "FRIED RIBS",
+          "price": "$19.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "fettuccine tossed in creamy shrimp and sausage sauce topped with pieces of fried chicken tenders",
+          "name": "UNCLE JO'S PASTA",
+          "price": "$23.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Lightly Blackened Louisiana Fish Over Fried Grit Cakes Topped with Crawfish and Pepper Sauce",
+          "name": "Blackened Fish",
+          "price": "$26.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Asparagus",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheese Fries",
+          "price": "$9.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheese Fries w Bacon",
+          "price": "$12.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cheese Grits",
+          "price": "$6.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries",
+          "price": "$5.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Grilled Bread",
+          "price": "$1.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Grits",
+          "price": "$5.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Bleu Cheese",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Buffalo",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "caesar dressing",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Honey Mustard",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Ranch",
+          "price": "$1.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Side of Vinaigrette",
+          "price": "$1.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "classic french bread pudding, raisins and rum sauce",
+          "name": "BREAD PUDDING",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desserts",
+          "description": "homemade pie, graham cracker crust with whipped cream topping",
+          "name": "KEY LIME PIE",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desserts",
+          "description": "chocolate cake, with chocolate mouse and chocolate icing with chocolate sprinkles",
+          "name": "CHOCOLATE ON CHOCOLATE CAKE",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "CheeseCake",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Tres Leche",
+          "price": "$8.50"
+        }
+      ],
+      "key": "the munch factory",
+      "name": "The Munch Factory",
+      "sourceURL": "https://www.themunchfactory.net/menu/the-munch-factory-6514-congress-dr",
+      "verifiedAt": "2026-11-03T13:09:17+00:00"
     }
   ]
 }
