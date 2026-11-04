@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T16:39:39+00:00",
-  "itemCount": 2249,
+  "generatedAt": "2026-11-04T20:15:24+00:00",
+  "itemCount": 2380,
   "schemaVersion": 1,
-  "venueCount": 38,
+  "venueCount": 40,
   "venues": [
     {
       "items": [
@@ -13801,6 +13801,808 @@
       "name": "The Munch Factory",
       "sourceURL": "https://www.themunchfactory.net/menu/the-munch-factory-6514-congress-dr",
       "verifiedAt": "2026-11-03T13:09:17+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Starters",
+          "description": "Made fresh daily with Hass avocados, pico de gallo, lime, cilantro and roasted jalape\u00f1o",
+          "name": "Guacamole",
+          "price": "$11.49"
+        },
+        {
+          "category": "Starters",
+          "description": "A creamy blend of Pinto beans, cream cheese and seasoning",
+          "name": "Bean Dip",
+          "price": "$7.99"
+        },
+        {
+          "category": "Starters",
+          "description": "A creamy blend of cheese, tomatoes, roasted onions, jalapenos and topped with green onions",
+          "name": "Queso Blanco (Small)",
+          "price": "$8.49"
+        },
+        {
+          "category": "Starters",
+          "description": "A creamy blend of cheese, tomatoes, roasted onions, jalapenos and topped with green onions",
+          "name": "Queso Blanco (Large)",
+          "price": "$10.49"
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Queso Blanco - Enhance with seasoned ground beef or Chorizo (Small)",
+          "price": "$1.49"
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Queso Blanco - Enhance with seasoned ground beef or Chorizo (Large)",
+          "price": "$2.49"
+        },
+        {
+          "category": "Starters",
+          "description": "A combination of our refried beans, queso blanco, and guacamole. Sorry, no substitutions.",
+          "name": "Dip Trio",
+          "price": "$15.74"
+        },
+        {
+          "category": "Starters",
+          "description": "It\u2019s our awesome queso topped with Pico de Gallo, guacamole, and seasoned ground beef",
+          "name": "Get Your Freak On Queso",
+          "price": "$14.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Broiled queso loaded with Louisiana crawfish tails, onions, corn, celery, garlic and a spicy Cajun kick",
+          "name": "Crawfish Boil Dip",
+          "price": "$17.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Spice-marinated, seared chicken skewers served with honey lime sour cream",
+          "name": "Island Chicken Skewer",
+          "price": "$12.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Flour tortillas stuffed with seasoned beef, Monterey Jack, cheddar cheeses topped with queso Blanco, Guacamole and Pico de Gallo",
+          "name": "Flautas",
+          "price": "$15.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Two flour tortillas stuffed with our seasoned ground beef and creamy refried beans; topped with Ranchero sauce, Monterrey Jack cheese, Pico de Gallo, black olives, green onions and sour cream",
+          "name": "Mexican Pizza",
+          "price": "$14.99"
+        },
+        {
+          "category": "Starters",
+          "description": "Two pork tamales topped with our robust Ranchero sauce and green onions",
+          "name": "Tamales",
+          "price": "$10.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Two pork tamales topped with our robust Ranchero sauce and smothered with Queso Blanco, Guacamole and Pico de Gallo",
+          "name": "Smothered Tamales",
+          "price": "$13.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Grilled chicken blended with fire-roasted corn, black beans, mixed cheese, and cilantro Served with raspberry-chipotle sauce",
+          "name": "Tex Mex Eggrolls (3)",
+          "price": "$15.49"
+        },
+        {
+          "category": "Starters",
+          "description": "Crisp tortilla chips, fire roasted corn and black bean salsa, queso blanco, Monterrey Jack and cheddar cheese, sour cream, pickled jalape\u00f1os, Pico de Gallo, guacamole and black olives",
+          "name": "Nachos Sencillo",
+          "price": "$16.49"
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Nachos Sencillo - Add Grilled Chicken, seasoned ground Beef, or Pork Pibil",
+          "price": "$5.99"
+        },
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Nachos Sencillo - Add Diced Filet Steak, Smoked Brisket, or Grilled Shrimp",
+          "price": "$8.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": "Fajita steak, fire-roasted corn and black bean salsa, Monterey Jack and cheddar cheese",
+          "name": "Quesadillas - Baja",
+          "price": "$19.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": "Grilled gulf shrimp, Applewood bacon, fire-roasted corn, mango, Monterey Jack and cheddar cheese",
+          "name": "Quesadillas - Cabo",
+          "price": "$19.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": "Grilled or Fried Chicken, Applewood smoked bacon, and Monterrey Jack and cheddar cheese; served with Chipotle Ranch",
+          "name": "Quesadillas - Cowboy",
+          "price": "$17.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": "Monterey Jack and cheddar cheese",
+          "name": "Quesadillas - Cheese",
+          "price": "$10.75"
+        },
+        {
+          "category": "Quesadillas",
+          "description": null,
+          "name": "Quesadillas - Add Grilled chicken, Pork or seasoned ground beef",
+          "price": "$5.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": null,
+          "name": "Quesadillas - Add Diced Filet Steak, Smoked Brisket, or Shrimp",
+          "price": "$8.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": null,
+          "name": "Quesadillas - Add Guacamole",
+          "price": "$1.99"
+        },
+        {
+          "category": "Quesadillas",
+          "description": null,
+          "name": "Quesadillas - Add Pico de Gallo in- or on-side",
+          "price": "$0.75"
+        },
+        {
+          "category": "Quesadillas",
+          "description": null,
+          "name": "Quesadillas - Add a Tamale",
+          "price": "$5.49"
+        },
+        {
+          "category": "Tacos",
+          "description": "2 tacos served on soft flour tortillas with choice of two sides or a cup of tortilla soup",
+          "name": "Taco Combo Plate",
+          "price": "$18.74"
+        },
+        {
+          "category": "Tacos",
+          "description": "Grilled or fried shrimp, Creole slaw, pickled red onion, Pico de Gallo and topped with chipotle aioli",
+          "name": "Corona Shrimp Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Fried chicken strips, diced avocado, Applewood smoked bacon, Monterey Jack & cheddar cheese and topped with Creole Agave Mustard",
+          "name": "Deep South Taco",
+          "price": "$5.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Grilled or fried Swai, Creole slaw, pickled red onion, Pico de Gallo, cilantro and topped with chipotle aioli",
+          "name": "Diego\u2019s Fish Taco",
+          "price": "$5.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Diced Filet Steak, White Onions, Cilantro and a Lime Wedge",
+          "name": "Mexican Street Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Fried Chicken, Creole Slaw topped with VC Secret Hot Sauce",
+          "name": "Nashville Hot Chicken Taco",
+          "price": "$5.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Smoked pulled pork, char-grilled onion & red peppers, cilantro and topped with chipotle aioli",
+          "name": "Pork Pibil Taco",
+          "price": "$5.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Fried Shrimp, lettuce, tomatoes and Remoulade Sauce",
+          "name": "Shrimp Po-Boy Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "House Smoked Brisket, fried onions, horseradish cream sauce and cilantro",
+          "name": "Smoked Brisket Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Seasoned Ground Beef or Grilled Chicken shredded lettuce, Pico de Gallo, black olives, mixed cheese and topped with chipotle aioli",
+          "name": "The Gringo",
+          "price": "$5.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Portobello mushrooms saut\u00e9ed in garlic, Queso Fresco, truffle oil, toasted almonds and topped with salsa and green onions",
+          "name": "Vegetarian Estricto Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Tacos",
+          "description": "Diced Filet Steak, Monterey Jack & cheddar cheese, pickled jalape\u00f1os, cucumber-mango salsa and topped with chipotle aioli",
+          "name": "Velvet Steak Taco",
+          "price": "$6.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": "Grilled onions and bell peppers in a sizzling skillet, Pico de Gallo, sour cream, cheese, romaine lettuce, garlic butter and jalape\u00f1os Served with two sides or a cup of tortilla soup. Served with warm flour tortillas.",
+          "name": "Fajitas - Chicken",
+          "price": "$25.49"
+        },
+        {
+          "category": "Fajitas",
+          "description": "Grilled onions and bell peppers in a sizzling skillet, Pico de Gallo, sour cream, cheese, romaine lettuce, garlic butter and jalape\u00f1os Served with two sides or a cup of tortilla soup. Served with warm flour tortillas.",
+          "name": "Fajitas - Steak",
+          "price": "$39.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": "Grilled onions and bell peppers in a sizzling skillet, Pico de Gallo, sour cream, cheese, romaine lettuce, garlic butter and jalape\u00f1os Served with two sides or a cup of tortilla soup. Served with warm flour tortillas.",
+          "name": "Fajitas - Shrimp",
+          "price": "$31.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": "Grilled onions and bell peppers in a sizzling skillet, Pico de Gallo, sour cream, cheese, romaine lettuce, garlic butter and jalape\u00f1os Served with two sides or a cup of tortilla soup. Served with warm flour tortillas.",
+          "name": "Fajitas - Mixed (Choose Any Two)",
+          "price": "$35.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": null,
+          "name": "Fajitas - Add guacamole",
+          "price": "$1.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": null,
+          "name": "Fajitas - Add a Tamale",
+          "price": "$5.49"
+        },
+        {
+          "category": "Fajitas",
+          "description": "Steak and chicken fajita, jumbo gulf shrimp, smoked jalape\u00f1o and cheese sausage, Pico de Gallo, sour cream, cheese, whipped garlic butter, Creole slaw, grilled pineapple and choice of 4 sides Feeds 3 to 4",
+          "name": "Family Grill Platter",
+          "price": "$69.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": null,
+          "name": "Family Grill Platter - Add guacamole",
+          "price": "$1.99"
+        },
+        {
+          "category": "Fajitas",
+          "description": null,
+          "name": "Family Grill Platter - Add 6 jumbo shrimp",
+          "price": "$10.49"
+        },
+        {
+          "category": "Smoke & Grill",
+          "description": "Deep fried burrito filled with house-smoked brisket, rice, black beans and topped with queso sauce Served with horseradish dipping sauce",
+          "name": "Chimichanga",
+          "price": "$22.99"
+        },
+        {
+          "category": "Burritos",
+          "description": "Mexican yellow rice, Monterey Jack and cheddar cheese, black beans, Pico de Gallo and topped with choice of Ranchero, or jalapeno cream sauce plus sour cream and green onions",
+          "name": "El Big Burrito",
+          "price": "$12.49"
+        },
+        {
+          "category": "Burritos",
+          "description": null,
+          "name": "El Big Burrito - Add Grilled Chicken, Pork or Seasoned Ground Beef",
+          "price": "$5.99"
+        },
+        {
+          "category": "Burritos",
+          "description": null,
+          "name": "El Big Burrito - Add Diced Filet Steak, Smoked Brisket, or Shrimp",
+          "price": "$8.99"
+        },
+        {
+          "category": "Burritos",
+          "description": null,
+          "name": "El Big Burrito - Try it EXPLODED! Drenched with queso",
+          "price": "$2.49"
+        },
+        {
+          "category": "Enchiladas",
+          "description": "Topped with mixed cheese & queso",
+          "name": "Enchiladas - Cheese",
+          "price": "$18.49"
+        },
+        {
+          "category": "Enchiladas",
+          "description": "Topped with mixed cheese and jalapeno cream sauce",
+          "name": "Enchiladas - Chicken",
+          "price": "$18.49"
+        },
+        {
+          "category": "Enchiladas",
+          "description": "Topped with mixed cheese and Ranchero sauce",
+          "name": "Enchiladas - Beef",
+          "price": "$18.99"
+        },
+        {
+          "category": "Enchiladas",
+          "description": "Topped with mixed cheese and jalape\u00f1o cream sauce",
+          "name": "Enchiladas - Smoked Brisket",
+          "price": "$21.49"
+        },
+        {
+          "category": "Enchiladas",
+          "description": "Topped with mixed cheese and jalape\u00f1o cream sauce",
+          "name": "Enchiladas - Shrimp",
+          "price": "$20.49"
+        },
+        {
+          "category": "Enchiladas",
+          "description": null,
+          "name": "Enchiladas - Add a Tamale",
+          "price": "$5.49"
+        },
+        {
+          "category": "Salads",
+          "description": "Crispy tortilla bowl, chopped romaine, tomatoes, fire-roasted corn and black bean salsa, black olives, Monterey Jack and cheddar cheese, guacamole and sour cream",
+          "name": "Taco Salad",
+          "price": "$15.49"
+        },
+        {
+          "category": "Salads",
+          "description": "Spring mix, romaine, sliced avocado, roasted red pepper, applewood bacon, Monterey Jack and cheddar cheese. Served with Cilantro-Lime Vinaigrette and topped with crispy tortilla strips",
+          "name": "Cilantro-Lime Salad",
+          "price": "$14.99"
+        },
+        {
+          "category": "Salads",
+          "description": "Crisp romaine, shaved Manchego cheese, crisp tortilla strips and tossed in grilled Green Onion Caesar",
+          "name": "Manchego Caesar",
+          "price": "$11.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Salads - Add Molida beef, Fajita Chicken or Pork",
+          "price": "$6.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Salads - Add Grilled Shrimp",
+          "price": "$8.49"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Salads - Add Brisket",
+          "price": "$10.49"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Salads - Add Fajita Steak",
+          "price": "$13.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Stewed Black Beans (Vegan)",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mexican Yellow Rice",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Refried Beans",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mexican Street Corn on the Cob",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Plantains",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Creole Slaw",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Watermelon Salad (seasonal)",
+          "price": "$4.59"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Chipotle Cheese Grits",
+          "price": "$4.59"
+        },
+        {
+          "category": "Soups",
+          "description": "Roasted chicken, tomatoes, jalape\u00f1os, cilantro and topped with crisp tortilla strips, Pico de Gallo and sliced avocado",
+          "name": "Chicken Tortilla Soup (Cup)",
+          "price": "$5.49"
+        },
+        {
+          "category": "Soups",
+          "description": "Roasted chicken, tomatoes, jalape\u00f1os, cilantro and topped with crisp tortilla strips, Pico de Gallo and sliced avocado",
+          "name": "Chicken Tortilla Soup (Bowl)",
+          "price": "$8.49"
+        }
+      ],
+      "key": "the velvet cactus",
+      "name": "The Velvet Cactus",
+      "sourceURL": "http://www.thevelvetcactus.com/menus/?e-filter-8916ac6-category=dinner",
+      "verifiedAt": "2026-11-04T20:13:58+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Snacks",
+          "description": "with Spiced Saltines",
+          "name": "House Pickle Plate",
+          "price": "$11"
+        },
+        {
+          "category": "Snacks",
+          "description": "with Korean Spiced Aioli",
+          "name": "Fries",
+          "price": "$9"
+        },
+        {
+          "category": "Snacks",
+          "description": "with Spiced Saltines",
+          "name": "Chicken Liver Pate",
+          "price": "$10"
+        },
+        {
+          "category": "Snacks",
+          "description": "with Spiced Saltines",
+          "name": "House-Made Pimento",
+          "price": "$10"
+        },
+        {
+          "category": "Smalls",
+          "description": "Daily selection of house-sliced meats and cheeses, toasted focaccia, spiced saltines | Feeds 3-4",
+          "name": "Charcuterie + Cheese Board",
+          "price": "$45"
+        },
+        {
+          "category": "Smalls",
+          "description": null,
+          "name": "add house pickles",
+          "price": "$5"
+        },
+        {
+          "category": "Smalls",
+          "description": "Gochujang Peanut Sauce, Lime, Cilantro (three per order)",
+          "name": "Chicken Satay",
+          "price": "$12"
+        },
+        {
+          "category": "Smalls",
+          "description": "Dusted with Salt, Pepper and Ginger, Thin-Shaved Chilis, Thai Basil",
+          "name": "Double-Crunch Salt-n-Peppa Wings",
+          "price": "$15"
+        },
+        {
+          "category": "Smalls",
+          "description": "Kimchi, Beef Bulgogi, Gochujang Aioli, Peanut",
+          "name": "Loaded Korean Hot Fries",
+          "price": "$16"
+        },
+        {
+          "category": "Smalls",
+          "description": "Jalapeno, Pickled Shallot, Marcona Almonds, Manchego, Cilantro",
+          "name": "Crispy Brussel Sprouts",
+          "price": "$15"
+        },
+        {
+          "category": "Smalls",
+          "description": "Gochujang-Marinated Local Strawberries, Pistachio Butter, Young Spring Greens, Manchego",
+          "name": "LA Strawberry Salad",
+          "price": "$15"
+        },
+        {
+          "category": "Smalls",
+          "description": "Roasted Lemon & Garlic Tahini, Fire-Roasted Red Pepper, Olives, Mint",
+          "name": "WTFalafel",
+          "price": "$15"
+        },
+        {
+          "category": "Mains",
+          "description": "Swiss Cheese, Red Wine Foie Gras Butter, Weiss Guys Brioche Bun",
+          "name": "The Will & The Way Burger",
+          "price": "$22"
+        },
+        {
+          "category": "Mains",
+          "description": null,
+          "name": "make it a double",
+          "price": "$7"
+        },
+        {
+          "category": "Mains",
+          "description": "Yellow Corn Grits, Swiss Chard, Ranch",
+          "name": "Louisiana Hot Chicken",
+          "price": "$24"
+        },
+        {
+          "category": "Mains",
+          "description": "Refried Black Bean, Jack Cheese Crisp, Pickled Red Onion, Valentina, Cotija | Three Per Order",
+          "name": "Sweet Potato Al Pastor Tacos",
+          "price": "$18"
+        },
+        {
+          "category": "Mains",
+          "description": "Roasted Cauliflower, Vermicelli Noodles, Peanuts, Torn Herbs",
+          "name": "Panang Cauliflower Curry",
+          "price": "$18"
+        },
+        {
+          "category": "Sweets",
+          "description": "Graham Cracker, Strawberry Jam Swirl, Lemon & Condensed Milk Custard, Lemonheads",
+          "name": "Strawberry Lemonade Icebox Pie",
+          "price": "$10"
+        },
+        {
+          "category": "Sweets",
+          "description": "Chocolate Puddin', Gluten-Free Oreo Crumble, Gummy Worms, Fresh Herbs",
+          "name": "Toulouse Dirt Pie",
+          "price": "$11"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "vodka, blackberry, rosemary & oolong tea-infused vodka, lemon",
+          "name": "Saint George",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "reposado tequila, aveze aperitif, kiwi, arugula, lime",
+          "name": "All Vibes No Polish",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "caravedo quebranta pisco, ginger-lime oleo, creme de peche, lychee, saline",
+          "name": "Clever Girl",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "cheramie blanc, yuzu, orgeat, malort, lemon, jarrito's guava soda",
+          "name": "Match My Freak",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "roku gin, shochu, green apple shrub, bitter vermouth, lime, fee foam, chili oil",
+          "name": "Spirited Away",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "mezcal, elderflower, lime acid, honey, eucalyptus bitters",
+          "name": "Respect Your Elder",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "hennessy VS, cacha\u00e7a, contratto fernet, fig, demerara, caribbean spice bitters",
+          "name": "Figgy Stardust",
+          "price": "$15"
+        },
+        {
+          "category": "House Cocktails",
+          "description": "Japanese whisky, amaro meletti, cacao, angostura",
+          "name": "Words of Encouragement",
+          "price": "$15"
+        },
+        {
+          "category": "The Classics",
+          "description": "rum, lime, simple",
+          "name": "Daiquiri",
+          "price": "$12"
+        },
+        {
+          "category": "The Classics",
+          "description": "bourbon, lemon, honey",
+          "name": "Gold Rush",
+          "price": "$12"
+        },
+        {
+          "category": "The Classics",
+          "description": "gin, contratto bitter, sweet vermouth",
+          "name": "Negroni",
+          "price": "$12"
+        },
+        {
+          "category": "The Classics",
+          "description": "demerara, peychaud's bitters, absinthe",
+          "name": "Armagnac Sazerac",
+          "price": "$12"
+        },
+        {
+          "category": "The Classics",
+          "description": "raw agave, mole & orange bitters",
+          "name": "Mezcal Old Fashioned",
+          "price": "$12"
+        },
+        {
+          "category": "Frozen",
+          "description": "vodka, pampelmousse, lime, peychaud's bitters",
+          "name": "Fancypants Greyhound",
+          "price": "$7"
+        },
+        {
+          "category": "Bubbles",
+          "description": null,
+          "name": "House Bubbles",
+          "price": "$10 / $30"
+        },
+        {
+          "category": "White",
+          "description": null,
+          "name": "House White",
+          "price": "$10 / $30"
+        },
+        {
+          "category": "White",
+          "description": null,
+          "name": "Plouzeau Touraine, Sauvignon Blanc, FR 2022",
+          "price": "$14 / $42"
+        },
+        {
+          "category": "White",
+          "description": null,
+          "name": "Domaine Thevenet Macon-Villages, Chardonnay, FR 2022",
+          "price": "$15 / $45"
+        },
+        {
+          "category": "Ros\u00e9 | Orange | Skin Contact",
+          "description": null,
+          "name": "House Ros\u00e9",
+          "price": "$10 / $30"
+        },
+        {
+          "category": "Ros\u00e9 | Orange | Skin Contact",
+          "description": null,
+          "name": "Dopff & Irion Cremant d'Alsace, Pinot Noir, FR NV",
+          "price": "$14 / $42"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "House Red",
+          "price": "$10 / $30"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "Familia Furlotti, Malbec, Mendoza AR 2018",
+          "price": "$12 / $36"
+        },
+        {
+          "category": "Red",
+          "description": null,
+          "name": "Le Babbler, Bordeaux, FR 2019",
+          "price": "$14 / $42"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Michelob Ultra, Lager",
+          "price": "$6"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "High Life (7 oz), Lager",
+          "price": "$2"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Modelo (16 oz), Lager",
+          "price": "$5"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Urban South Holy Roller, IPA",
+          "price": "$7"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Skater Aid, Pilsner",
+          "price": "$7"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "St. Arnold, Cider",
+          "price": "$6"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Nutrl, Assorted Hard Seltzer",
+          "price": "$9"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Athletic Brewing Co., Assorted N/A",
+          "price": "$7"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Gnarly Barley Jucifer, IPA (DRAUGHT)",
+          "price": "$8"
+        },
+        {
+          "category": "Beer",
+          "description": null,
+          "name": "Paradise Park Light, Lager (DRAUGHT)",
+          "price": "$5"
+        },
+        {
+          "category": "Daily | 3 PM - 7 PM",
+          "description": "any well spirit + any beer",
+          "name": "Shot + Beer",
+          "price": "$8"
+        },
+        {
+          "category": "Daily | 3 PM - 7 PM",
+          "description": "bubbles, white, rose, red",
+          "name": "House Wine",
+          "price": "$7"
+        },
+        {
+          "category": "Daily | 3 PM - 7 PM",
+          "description": "ask about our rotating selection",
+          "name": "Frozen",
+          "price": "$5"
+        }
+      ],
+      "key": "the will the way",
+      "name": "The Will & The Way",
+      "sourceURL": "https://www.thewillandtheway.com/menu",
+      "verifiedAt": "2026-11-04T20:14:06+00:00"
     }
   ]
 }
