@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T20:15:24+00:00",
-  "itemCount": 2380,
+  "generatedAt": "2026-11-05T00:12:48+00:00",
+  "itemCount": 2519,
   "schemaVersion": 1,
-  "venueCount": 40,
+  "venueCount": 42,
   "venues": [
     {
       "items": [
@@ -14603,6 +14603,856 @@
       "name": "The Will & The Way",
       "sourceURL": "https://www.thewillandtheway.com/menu",
       "verifiedAt": "2026-11-04T20:14:06+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "Served with remoulade sauce.",
+          "name": "Gator Kickers",
+          "price": "$18"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Served with ranch.",
+          "name": "Jalape\u00f1o Poppers",
+          "price": "$15"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crawfish mushroom cream sauce, cheddar, ranch.",
+          "name": "Cajun Fries",
+          "price": "$18"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Buffalo, BBQ, garlic parm, or lemon pepper dry rub. Served with ranch.",
+          "name": "Trumpet Wings",
+          "price": "$19"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Spicy! Crispy golden egg rolls filled with Louisiana crawfish, spicy roast hatch chilis, yellow onions, cream cheese, cheddar cheese, & jalape\u00f1o Monterey Jack cheese. Served with sweet chili sauce.",
+          "name": "Louisiana Voodoo Crawfish Egg Rolls",
+          "price": "$22"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crawfish mushroom cream sauce.",
+          "name": "Louisiana Crab Cake",
+          "price": "$14"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Buffalo chicken wings, Louisiana Voodoo Crawfish Egg Rolls, gator kickers.",
+          "name": "Tipsy Taster",
+          "price": "$30"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Chicken & sausage or seafood.",
+          "name": "Gumbo",
+          "price": "$12"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Small House or Caesar Salad",
+          "price": "$8"
+        },
+        {
+          "category": "Hand-Helds",
+          "description": "Served with French fries & dressed with coleslaw, tomatoes, pickles, onions, & remoulade sauce. Make your fries \"Cajun\" +$5.",
+          "name": "Fried Fish Po'Boy",
+          "price": "$23"
+        },
+        {
+          "category": "Hand-Helds",
+          "description": "Served with French fries & dressed with coleslaw, tomatoes, pickles, onions, & remoulade sauce. Make your fries \"Cajun\" +$5.",
+          "name": "Fried Shrimp Po'Boy",
+          "price": "$24"
+        },
+        {
+          "category": "Hand-Helds",
+          "description": "Served with French fries & dressed with coleslaw, tomatoes, pickles, onions, & remoulade sauce. Make your fries \"Cajun\" +$5.",
+          "name": "Fried Chicken Po'Boy",
+          "price": "$22"
+        },
+        {
+          "category": "Hand-Helds",
+          "description": "Served with mustard greens.",
+          "name": "French Fry Po'Boy",
+          "price": "$16"
+        },
+        {
+          "category": "Hand-Helds",
+          "description": "Lemon pepper seasoning or garlic parm sauce. Lettuce, tomatoes, onions, pickles, served with fries.",
+          "name": "Fried Chicken Sandwich",
+          "price": "$20"
+        },
+        {
+          "category": "NOLA Faves",
+          "description": "Served with rice.",
+          "name": "Crawfish \u00c9touff\u00e9e",
+          "price": "$25"
+        },
+        {
+          "category": "NOLA Faves",
+          "description": "Served with fried fish filet.",
+          "name": "Red Beans & Rice",
+          "price": "$26"
+        },
+        {
+          "category": "NOLA Faves",
+          "description": "Jambalaya, crawfish \u00e9touff\u00e9e, red beans & rice, smoked sausage.",
+          "name": "Taste of New Orleans",
+          "price": "$25"
+        },
+        {
+          "category": "NOLA Faves",
+          "description": "Chicken, andouille sausage, mustard greens.",
+          "name": "Jambalaya",
+          "price": "$24"
+        },
+        {
+          "category": "NOLA Faves",
+          "description": "Crab cakes topped with crawfish mushroom cream sauce. Served with jambalaya & mustard greens.",
+          "name": "Crab Cakes Platter",
+          "price": "$30"
+        },
+        {
+          "category": "Salads",
+          "description": "Large Caesar or house salad topped with fried chicken.",
+          "name": "Fried Chicken Salad",
+          "price": "$22"
+        },
+        {
+          "category": "Salads",
+          "description": "Large Caesar or house salad topped with fried fish.",
+          "name": "Fried Fish Salad",
+          "price": "$22"
+        },
+        {
+          "category": "Salads",
+          "description": "Large Caesar or house salad topped with fried shrimp.",
+          "name": "Fried Shrimp Salad",
+          "price": "$23"
+        },
+        {
+          "category": "Fried Platters",
+          "description": "Served with French fries, coleslaw, cocktail sauce, & tartar sauce.",
+          "name": "Fried Fish Platter",
+          "price": "$27"
+        },
+        {
+          "category": "Fried Platters",
+          "description": "Served with French fries, coleslaw, cocktail sauce, & tartar sauce.",
+          "name": "Fried Shrimp Platter",
+          "price": "$29"
+        },
+        {
+          "category": "Fried Platters",
+          "description": "Fried fish & fried shrimp.",
+          "name": "\u00bd & \u00bd Platter",
+          "price": "$29"
+        },
+        {
+          "category": "Fried Platters",
+          "description": "Fish, shrimp, gator kickers.",
+          "name": "Fried Seafood Platter",
+          "price": "$32"
+        },
+        {
+          "category": "Fried Platters",
+          "description": "Shrimp, fish, gator kickers, crab cake.",
+          "name": "Ultimate Fried Seafood Platter",
+          "price": "$39"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "French Fries",
+          "price": "$8"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Mustard Greens",
+          "price": "$8"
+        },
+        {
+          "category": "Desserts",
+          "description": "Served with praline rum sauce.",
+          "name": "New Orleans Bread Pudding",
+          "price": "$12"
+        },
+        {
+          "category": "Desserts",
+          "description": "New York-style cheesecake rests on a graham cracker crust, covered with strawberries.",
+          "name": "Strawberry Cheesecake",
+          "price": "$12"
+        },
+        {
+          "category": "Desserts",
+          "description": "Strawberry sauce, powdered sugar.",
+          "name": "Beignet Fries",
+          "price": "$12"
+        }
+      ],
+      "key": "tipsy trumpet",
+      "name": "Tipsy Trumpet",
+      "sourceURL": "https://www.tipsytrumpet.com/food-menu/",
+      "verifiedAt": "2026-11-05T00:11:51+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Toast",
+          "description": null,
+          "name": "Avocado & sunny egg",
+          "price": "$8.25"
+        },
+        {
+          "category": "Toast",
+          "description": "Cream cheese, capers & scrambled egg.",
+          "name": "Cured salmon toast",
+          "price": "$13"
+        },
+        {
+          "category": "Toast",
+          "description": "Herbed ricotta & sunny egg.",
+          "name": "Ratatouille toast",
+          "price": "$12"
+        },
+        {
+          "category": "Toast",
+          "description": "Mornay, caramelized onions & sunny egg.",
+          "name": "Mushroom & bacon toast",
+          "price": "$13"
+        },
+        {
+          "category": "Toast",
+          "description": "Creamy corn maque choux, avocado, poached eggs & jalape\u00f1o aioli.",
+          "name": "Fried oyster toast",
+          "price": "$19.75"
+        },
+        {
+          "category": "Toast",
+          "description": "Caramelized onions, spinach, roasted peppers, Gruy\u00e8re, sunny eggs & Creole cream sauce.",
+          "name": "Fried crawfish toast",
+          "price": "$16.50"
+        },
+        {
+          "category": "Toast",
+          "description": "Bacon, egg & cheese on toast or biscuit.",
+          "name": "Breakfast sandwich",
+          "price": "$8.50"
+        },
+        {
+          "category": "Eggs",
+          "description": "Goat cheese & spinach.",
+          "name": "Ratatouille omelette",
+          "price": "$14.50"
+        },
+        {
+          "category": "Eggs",
+          "description": "Fine herbs.",
+          "name": "Gruy\u00e8re omelette",
+          "price": "$13.50"
+        },
+        {
+          "category": "Eggs",
+          "description": "Mushrooms & cheddar.",
+          "name": "Ham omelette",
+          "price": "$15.50"
+        },
+        {
+          "category": "Eggs",
+          "description": "Onion, spinach & Gruy\u00e8re.",
+          "name": "Bacon omelette",
+          "price": "$15.50"
+        },
+        {
+          "category": "Eggs",
+          "description": "Creamed spinach & Gruy\u00e8re.",
+          "name": "Crawfish omelette",
+          "price": "$16"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Gruy\u00e8re & herbs",
+          "price": "$14"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Mushroom, onion, peppers, spinach & goat cheese",
+          "price": "$15"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Bacon, onion & Gruy\u00e8re",
+          "price": "$15.50"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Ham, mushroom, spinach & Gruy\u00e8re",
+          "price": "$15.50"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Butter & sugar",
+          "price": "$11"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Banana Nutella",
+          "price": "$12"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Lemon curd",
+          "price": "$12"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Strawberry & chocolate",
+          "price": "$12"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Berries, powdered sugar & maple syrup.",
+          "name": "French toast",
+          "price": "$11.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "2 eggs, bacon, grits, toast or biscuit.",
+          "name": "Classic breakfast",
+          "price": "$14.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Lyonnaise potatoes & tarragon aioli.",
+          "name": "Hanger steak & eggs",
+          "price": "$25"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Grits, eggs & tarragon aioli.",
+          "name": "Fried catfish",
+          "price": "$18.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Maple syrup & cayenne butter.",
+          "name": "Fried chicken & waffles",
+          "price": "$18.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Butter & maple syrup.",
+          "name": "Waffle",
+          "price": "$8.75"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Fried chicken, caramelized onions & sausage gravy on a fluffy buttermilk biscuit, served with grits and 2 eggs.",
+          "name": "Biscuits and gravy",
+          "price": "$17.50"
+        },
+        {
+          "category": "Aebelskivers",
+          "description": null,
+          "name": "Three aebelskivers",
+          "price": "$7.25"
+        },
+        {
+          "category": "Aebelskivers",
+          "description": null,
+          "name": "Seven aebelskivers",
+          "price": "$11.50"
+        },
+        {
+          "category": "Early bird breakfast",
+          "description": null,
+          "name": "Classic breakfast with a cup of coffee",
+          "price": "$9"
+        },
+        {
+          "category": "Kids",
+          "description": null,
+          "name": "Biscuit with eggs & bacon",
+          "price": "$9"
+        },
+        {
+          "category": "Kids",
+          "description": null,
+          "name": "Toast with egg",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Egg",
+          "price": "$2.75"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Bacon",
+          "price": "$4.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Grits",
+          "price": "$4.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Lyonnaise potatoes",
+          "price": "$4.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Toast or biscuit",
+          "price": "$3"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fruit",
+          "price": "$4.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Avocado",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": "Choice of Dijon vinaigrette or bacon ranch.",
+          "name": "Green salad",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Ratatouille",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Regular or hot sausage",
+          "price": "$5.50"
+        },
+        {
+          "category": "Drinks",
+          "description": "Small / large.",
+          "name": "Orange juice",
+          "price": "$4.50 / 6"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Apple juice",
+          "price": "$4.50 / 6"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Cranberry juice",
+          "price": "$4.50 / 6"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Pineapple juice",
+          "price": "$4.50 / 6"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Pomegranate juice",
+          "price": "$7 / 9"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Milk",
+          "price": "$3.25 / 4.25"
+        },
+        {
+          "category": "Drinks",
+          "description": "Regular / large.",
+          "name": "Chocolate milk",
+          "price": "$4.25 / 5.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Hot chocolate",
+          "price": "$4.25"
+        },
+        {
+          "category": "Drinks",
+          "description": "Coke, Diet Coke, Coke Zero, Sprite, lemonade or Powerade.",
+          "name": "Soft drinks",
+          "price": "$3.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Hot tea",
+          "price": "$3.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Iced tea",
+          "price": "$3.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Hibiscus iced tea",
+          "price": "$4.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Coffee",
+          "price": "$3.75"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Iced coffee",
+          "price": "$4.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Caf\u00e9 au lait",
+          "price": "$4.75"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Cappuccino",
+          "price": "$4.75"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Latte",
+          "price": "$4.75"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Chai latte",
+          "price": "$4.75"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Espresso shot",
+          "price": "$3"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Extra shot",
+          "price": "$2"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Mimosa \u2014 hibiscus or pomegranate",
+          "price": "$8.75"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Mimosa \u2014 orange, cranberry or pineapple",
+          "price": "$7.75"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Pomegranate spritz",
+          "price": "$10"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Bloody Mary or Maria",
+          "price": "$10"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Brandy milk punch",
+          "price": "$10"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Margarita",
+          "price": "$10"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Hot or iced.",
+          "name": "Irish coffee",
+          "price": "$10"
+        },
+        {
+          "category": "Toast",
+          "description": null,
+          "name": "Prosciutto, honey & herbed ricotta",
+          "price": "$10.50"
+        },
+        {
+          "category": "Toast",
+          "description": "Mornay, caramelized onions & sunny egg.",
+          "name": "Bacon & mushroom toast",
+          "price": "$13"
+        },
+        {
+          "category": "French toast",
+          "description": "Powdered sugar & maple syrup.",
+          "name": "French toast with berries",
+          "price": "$11.50"
+        },
+        {
+          "category": "French toast",
+          "description": "Br\u00fbl\u00e9ed pineapple, candied macadamia, lemon curd & maple syrup.",
+          "name": "Coconut cream stuffed French toast",
+          "price": "$16"
+        },
+        {
+          "category": "French toast",
+          "description": "Stuffed with cinnamon cream cheese & topped with Mardi Gras sprinkles.",
+          "name": "King cake French toast",
+          "price": "$16"
+        },
+        {
+          "category": "Eggs",
+          "description": null,
+          "name": "Fine herbs & Gruy\u00e8re omelette",
+          "price": "$13.50"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Mushrooms, spinach, onion, peppers & goat cheese",
+          "price": "$15"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Ham, mushroom & Gruy\u00e8re",
+          "price": "$15.50"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": "Spinach, onions, Gruy\u00e8re, prosciutto & Mornay sauce.",
+          "name": "Cr\u00eape Florentine",
+          "price": "$16"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Lemon curd & cream",
+          "price": "$12"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Lyonnaise potatoes & salad.",
+          "name": "Croque madame",
+          "price": "$17"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Grits, eggs & tarragon aioli.",
+          "name": "Catfish",
+          "price": "$18.50"
+        },
+        {
+          "category": "Aebelskivers",
+          "description": null,
+          "name": "Small \u2014 three aebelskivers",
+          "price": "$7.25"
+        },
+        {
+          "category": "Aebelskivers",
+          "description": null,
+          "name": "Regular \u2014 seven aebelskivers",
+          "price": "$11.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Toast",
+          "price": "$2"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Coke, Diet Coke or Sprite",
+          "price": "$3.25"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Lemonade",
+          "price": "$3.25"
+        },
+        {
+          "category": "Toast",
+          "description": "Honey & herbed ricotta.",
+          "name": "Prosciutto toast",
+          "price": "$10"
+        },
+        {
+          "category": "Toast",
+          "description": "Any style egg.",
+          "name": "Avocado toast",
+          "price": "$8"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Ham, tomato & Gruy\u00e8re",
+          "price": "$15"
+        },
+        {
+          "category": "Savory cr\u00eapes",
+          "description": null,
+          "name": "Prosciutto & brie",
+          "price": "$14.50"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Sugar & butter",
+          "price": "$10"
+        },
+        {
+          "category": "Sweet cr\u00eapes",
+          "description": null,
+          "name": "Blueberry sauce & whipped cream",
+          "price": "$11"
+        },
+        {
+          "category": "Waffles",
+          "description": "Maple syrup & powdered sugar.",
+          "name": "Butter waffle",
+          "price": "$8.50"
+        },
+        {
+          "category": "Waffles",
+          "description": "Blueberry sauce & whipped cream.",
+          "name": "Mima\u2019s blueberry waffle",
+          "price": "$11"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Saut\u00e9ed onions, gravy & grits.",
+          "name": "Biscuit with eggs & sausage",
+          "price": "$14.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Tarragon aioli, egg & potato.",
+          "name": "Hanger steak",
+          "price": "$22.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Brisket burger, lettuce, roasted tomato & Dijon\u2019aise, with fries. Add bacon $3; add egg or cheese $2.",
+          "name": "Toast burger",
+          "price": "$14.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Thick-cut bacon, roasted tomato, lettuce, any style egg & Dijon\u2019aise, with choice of side.",
+          "name": "BLT",
+          "price": "$14.50"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "Any style eggs & grits.",
+          "name": "Fried pork chops or shrimp",
+          "price": "$17"
+        },
+        {
+          "category": "Aebelskivers",
+          "description": null,
+          "name": "Aebelskivers",
+          "price": "$11"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Ham",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sausage or hot sausage (beef)",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries with aioli",
+          "price": "$4"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Mimosa flight",
+          "price": "$40"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Espresso martini",
+          "price": "$12"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Irish breakfast shot",
+          "price": "$9"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Add lavender $1.",
+          "name": "French 75",
+          "price": "$12"
+        }
+      ],
+      "key": "toast",
+      "name": "Toast",
+      "sourceURL": "https://www.toastneworleans.com/menus.html",
+      "verifiedAt": "2026-11-05T00:12:11+00:00"
     }
   ]
 }
