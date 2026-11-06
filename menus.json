@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T19:16:38+00:00",
-  "itemCount": 2568,
+  "generatedAt": "2026-11-06T23:40:11+00:00",
+  "itemCount": 2633,
   "schemaVersion": 1,
-  "venueCount": 43,
+  "venueCount": 44,
   "venues": [
     {
       "items": [
@@ -15755,6 +15755,404 @@
       "name": "Tujague's Restaurant",
       "sourceURL": "https://tujaguesrestaurant.com/menus/",
       "verifiedAt": "2026-11-06T13:12:46+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "with a side of red sauce",
+          "name": "Fried Eggplant Sticks",
+          "price": "$12.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "with a side of red sauce",
+          "name": "Fried Calamari",
+          "price": "$14.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "with a side of red sauce",
+          "name": "Fried Mozzarella",
+          "price": "$12.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "with crabmeat and shrimp",
+          "name": "Seafood Stuffed Mushrooms",
+          "price": "$14.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Spinach and Artichoke Dip",
+          "price": "$14.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Baked Artichoke Hearts",
+          "price": "$14.95"
+        },
+        {
+          "category": "Appetizers",
+          "description": "with ricotta",
+          "name": "Baked Meatballs",
+          "price": "$14.95"
+        },
+        {
+          "category": "Hot Breads",
+          "description": null,
+          "name": "Garlic Bread",
+          "price": "$5.50"
+        },
+        {
+          "category": "Hot Breads",
+          "description": null,
+          "name": "Cheese Garlic Bread",
+          "price": "$7.50"
+        },
+        {
+          "category": "Hot Breads",
+          "description": null,
+          "name": "Spinach Bread",
+          "price": "$7.50"
+        },
+        {
+          "category": "Salads",
+          "description": "lettuce, Genoa salami, provolone, tomatoes, artichokes and kalamata olives",
+          "name": "House Special Salad",
+          "price": "$14.95"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad - Chicken",
+          "price": "$20.95"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad - Shrimp",
+          "price": "$20.95"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad - Large",
+          "price": "$12.95"
+        },
+        {
+          "category": "Salads",
+          "description": "only at our Gretna location",
+          "name": "Table Side Caesar - for 2",
+          "price": "$14.95"
+        },
+        {
+          "category": "Salads",
+          "description": "only at our Gretna location",
+          "name": "Table Side Caesar - for 4",
+          "price": "$24.95"
+        },
+        {
+          "category": "Salads",
+          "description": "fresh mozzarella cheese with tomato, basil, balsamic vinegar",
+          "name": "Caprese Salad",
+          "price": "$13.50"
+        },
+        {
+          "category": "Salads",
+          "description": "lettuce, tomato, red onion, pepperoncini peppers, homemade croutons and house Italian dressing",
+          "name": "Italian Green Salad",
+          "price": "$8.95"
+        },
+        {
+          "category": "Salads",
+          "description": "family style salad with assorted cured meats, onions, hard boiled eggs, mushrooms, pepperoncini peppers, artichoke and assorted olives. Serves 4.",
+          "name": "Cold Antipasto",
+          "price": "$23.95"
+        },
+        {
+          "category": "Salads",
+          "description": "with homemade blue cheese dressing, bacon and tomatoes",
+          "name": "Wedge Salad",
+          "price": "$14.95"
+        },
+        {
+          "category": "Pizza",
+          "description": "all of our pizzas are hand tossed, 14 inches, 8 slices",
+          "name": "Cheese Pizza",
+          "price": "$15.95"
+        },
+        {
+          "category": "Pizza",
+          "description": "pepperoni, sausage, mushrooms, onion and artichoke hearts",
+          "name": "House Special Pizza",
+          "price": "$22.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "onions, bell pepper, black olives, mushrooms and artichoke hearts",
+          "name": "Vegetarian House Special Pizza",
+          "price": "$21.50"
+        },
+        {
+          "category": "Pizza",
+          "description": "anchovies, eggplant, black olives, extra cheese, pepperoni, jalape\u00f1os, onions, bleu cheese, sausage, mushrooms, spinach, bacon, Canadian bacon, green pepper, artichoke, feta, meatball, banana peppers, green olives, pineapple, red onion, salami, tomato, sundried tomato",
+          "name": "Extra Toppings",
+          "price": "$3.00"
+        },
+        {
+          "category": "Pizza",
+          "description": "chicken, shrimp, crawfish, or breaded veal",
+          "name": "Premium Toppings",
+          "price": "$6.00"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": null,
+          "name": "Spaghetti with meatballs",
+          "price": "$20.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": null,
+          "name": "Spaghetti with Italian sausage",
+          "price": "$20.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": null,
+          "name": "Spaghetti with meat sauce",
+          "price": "$19.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": "baked in meat sauce with ricotta and mozzarella cheese",
+          "name": "Baked Ziti",
+          "price": "$22.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": "with chicken or shrimp",
+          "name": "Fettuccine Alfredo",
+          "price": "$26.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": "meat and three cheeses",
+          "name": "Lasagna",
+          "price": "$22.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": "ground veal, fresh spinach, baked with both red and white sauce",
+          "name": "Cannelloni",
+          "price": "$22.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": "stuffed with 3 cheeses and baked in red sauce",
+          "name": "Stuffed Shells",
+          "price": "$20.95"
+        },
+        {
+          "category": "Pasta Specials",
+          "description": null,
+          "name": "Pasta Oil and Garlic",
+          "price": "$15.95"
+        },
+        {
+          "category": "Seafood",
+          "description": "fried and topped with toasted almonds and meuni\u00e8re sauce",
+          "name": "Fish Almandine",
+          "price": "$25.95"
+        },
+        {
+          "category": "Seafood",
+          "description": "fried and topped with shrimp and crawfish in a dill cream sauce",
+          "name": "Fish Cynthia",
+          "price": "$29.95"
+        },
+        {
+          "category": "Seafood",
+          "description": "Jumbo gulf shrimp served in a lemon garlic butter sauce over linguine",
+          "name": "Shrimp Scampi",
+          "price": "$26.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "served with pasta and red sauce",
+          "name": "Parmigiana - Chicken",
+          "price": "$23.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "served with pasta and red sauce",
+          "name": "Parmigiana - Veal",
+          "price": "$24.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "served with pasta and red sauce",
+          "name": "Parmigiana - Eggplant",
+          "price": "$20.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "served with fettuccine Alfredo",
+          "name": "Panne - Chicken",
+          "price": "$23.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "served with fettuccine Alfredo",
+          "name": "Panne - Veal",
+          "price": "$24.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "mushroom and onion in a marsala wine sauce served over pasta",
+          "name": "Marsala - Chicken",
+          "price": "$23.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "mushroom and onion in a marsala wine sauce served over pasta",
+          "name": "Marsala - Veal",
+          "price": "$25.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "shrimp and crawfish in a dill cream sauce; served with pasta and red sauce",
+          "name": "Supreme - Chicken",
+          "price": "$25.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "shrimp and crawfish in a dill cream sauce; served with pasta and red sauce",
+          "name": "Supreme - Veal",
+          "price": "$27.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": "panne veal topped with lump crabmeat, mushrooms, artichoke hearts and lemon butter sauce. Served with pasta and red sauce.",
+          "name": "Veal Pontchartrain",
+          "price": "$30.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": null,
+          "name": "Muffaletta - half",
+          "price": "$17.95"
+        },
+        {
+          "category": "House Specialties",
+          "description": null,
+          "name": "Muffaletta - whole",
+          "price": "$24.95"
+        },
+        {
+          "category": "Steak",
+          "description": "served with a choice of pasta, french fries or fresh vegetables",
+          "name": "8 oz Center Cut Filet",
+          "price": "$39.00"
+        },
+        {
+          "category": "Steak",
+          "description": "served with a choice of pasta, french fries or fresh vegetables",
+          "name": "Veal T-Bone",
+          "price": "$37.95"
+        },
+        {
+          "category": "Steak",
+          "description": "served with a choice of pasta, french fries or fresh vegetables",
+          "name": "14oz Prime New York Strip",
+          "price": "$43.95"
+        },
+        {
+          "category": "Steak",
+          "description": "served with a choice of pasta, french fries or fresh vegetables",
+          "name": "18oz Prime Ribeye",
+          "price": "$46.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fresh Vegetables",
+          "price": "$5.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Fries",
+          "price": "$5.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Meatball (1)",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Italian Sausage (2)",
+          "price": "$10.50"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Spaghetti and Meatball",
+          "price": "$8.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Spaghetti and Sauce",
+          "price": "$6.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Spaghetti and Butter",
+          "price": "$6.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Spaghetti and Meat Sauce",
+          "price": "$7.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Fried Shrimp and Fries",
+          "price": "$9.95"
+        },
+        {
+          "category": "Kids Menu",
+          "description": null,
+          "name": "Chicken Tenders and Fries",
+          "price": "$10.95"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Cannoli",
+          "price": "$6.00"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Tiramisu",
+          "price": "$7.00"
+        }
+      ],
+      "key": "venezia",
+      "name": "Venezia",
+      "sourceURL": "https://www.venezianeworleans.com/menus",
+      "verifiedAt": "2026-11-06T23:39:28+00:00"
     }
   ]
 }
