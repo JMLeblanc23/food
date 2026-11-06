@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T00:05:47+00:00",
-  "itemCount": 2519,
+  "generatedAt": "2026-11-06T13:13:21+00:00",
+  "itemCount": 2568,
   "schemaVersion": 1,
-  "venueCount": 42,
+  "venueCount": 43,
   "venues": [
     {
       "items": [
@@ -15453,6 +15453,308 @@
       "name": "Toast",
       "sourceURL": "https://www.toastneworleans.com/menus.html",
       "verifiedAt": "2026-11-05T00:12:11+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Starters",
+          "description": "Louisiana blue crab claws, worcestershire, cracked pepper, lemon, butter",
+          "name": "BBQ Crab Claws",
+          "price": "20"
+        },
+        {
+          "category": "Starters",
+          "description": "lump crab, b\u00e9chamel sauce, herbs, crostini",
+          "name": "Crabmeat Au Gratin",
+          "price": "20"
+        },
+        {
+          "category": "Starters",
+          "description": "with hot honey mustard",
+          "name": "Boudin Balls",
+          "price": "14"
+        },
+        {
+          "category": "Starters",
+          "description": "seasoned breadcrumbs, bernaise sauce",
+          "name": "Fried Eggplant Sticks",
+          "price": "14"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": null,
+          "name": "Gumbo du Jour",
+          "price": "12"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "mixed greens, spicy pecans, apples, dried cherries, sugarcane vinaigrette",
+          "name": "Seasonal Salad",
+          "price": "16"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "iceberg lettuce, cherry tomatoes, blue cheese crumbles, tasso, creole buttermilk dressing",
+          "name": "Tujague's Wedge Salad",
+          "price": "16"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "lump crabmeat, ravigote, capers on bibb lettuce",
+          "name": "Crabmeat Ravigote",
+          "price": "20"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Traditional New Orleans remoulade sauce",
+          "name": "Legacy Dish: Shrimp Remoulade",
+          "price": "16"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "flourless 1/2 chicken, house cut potato chips, persillade",
+          "name": "LEGACY DISH: Chicken Bonne Femme",
+          "price": "28"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "brabant potatoes, bernaise sauce",
+          "name": "8 oz. Filet Mignon",
+          "price": "52"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "braised pork osso bucco, creole white beans, andouille, tasso, ham, creole breadcrumbs",
+          "name": "Pork Osso Bucco",
+          "price": "32"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "grilled balsamic portobello cap, tomato, onions, pepper",
+          "name": "Mushroom Risotto",
+          "price": "22"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "duck leg, dirty rice, braised collard greens, cherry jus",
+          "name": "Duck Confit",
+          "price": "34"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "New Orleans style BBQ sauce over stone-ground Parmesan grits",
+          "name": "New Orleans Style BBQ Shrimp & Grits",
+          "price": "27"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "lemon butter, crabmeat, crimini mushrooms",
+          "name": "Gulf Fish of The Day",
+          "price": "38"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "portobello stuffed ravioli, creole crimini and crab cream sauce",
+          "name": "Portobello Mushroom Ravioli",
+          "price": "26"
+        },
+        {
+          "category": "Drink Specials",
+          "description": "not available during Lundi & Mardi Gras",
+          "name": "Bottomless Mimosas",
+          "price": "22"
+        },
+        {
+          "category": "Starters",
+          "description": "mini biscuits with whipped honey butter, bacon jam, hot honey, country gravy",
+          "name": "Biscuit Board",
+          "price": "14"
+        },
+        {
+          "category": "Starters",
+          "description": "with crostini",
+          "name": "Crab Au Gratin",
+          "price": "21"
+        },
+        {
+          "category": "Starters",
+          "description": "served on bibb lettuce and garnished with capers",
+          "name": "Crab Ravigote",
+          "price": "20"
+        },
+        {
+          "category": "Entree Salads & Poboys",
+          "description": "traditional New Orleans remoulade sauce",
+          "name": "Shrimp Remoulade",
+          "price": "24"
+        },
+        {
+          "category": "Entree Salads & Poboys",
+          "description": "add fried oysters +$4 or chicken $2",
+          "name": "Caesar Salad",
+          "price": "20"
+        },
+        {
+          "category": "Entree Salads & Poboys",
+          "description": "dressed and served with fries",
+          "name": "Fried Shrimp Poboy",
+          "price": "16"
+        },
+        {
+          "category": "Entree Salads & Poboys",
+          "description": "dressed and served with fries",
+          "name": "Brisket Po-Boy",
+          "price": "18"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "fried chicken thigh, crystal hot honey glaze, buttermilk biscuit",
+          "name": "Chicken Biscuit",
+          "price": "18"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "half pound brisket blended burger, brioche bun, dressed and served with fries",
+          "name": "Tujague's Burger",
+          "price": "19"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "braised brisket, trinity, potatoes, savory thyme gravy, poached eggs and bernaise",
+          "name": "Brisket Hash Bowl",
+          "price": "19"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "chicken thigh on our buttermilk biscuit topped with country gravy",
+          "name": "Biscuit with Andouille Country Gravy and Chicken",
+          "price": "18"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "grits, andouille sausage, home fries, sausage gravy, topped with fried eggs",
+          "name": "Decatur Street Bowl",
+          "price": "22"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "New Orleans style BBQ sauce over stone ground parmesan grits",
+          "name": "New Orleans Style BBQ Shrimp and Grits",
+          "price": "24"
+        },
+        {
+          "category": "Entr\u00e9es",
+          "description": "andouille sausage link, bacon, grits, poached eggs, biscuit",
+          "name": "Butchers Breakfast",
+          "price": "22"
+        },
+        {
+          "category": "$18.56 Menu",
+          "description": "Gumbo du Jour or Demi Caesar Salad",
+          "name": "First Course (choice of...)",
+          "price": null
+        },
+        {
+          "category": "$18.56 Menu",
+          "description": "Tujague's Breakfast: bacon, grits, poached egg, bernaise sauce and biscuit",
+          "name": "Second Course",
+          "price": null
+        },
+        {
+          "category": "Drinks",
+          "description": "Tujague's Sparkling, Tujague's Chardonnay, Tujague's Cabernet Sauvignon, Ros\u00e9 of the day",
+          "name": "Wine",
+          "price": "6 / 20"
+        },
+        {
+          "category": "Drinks",
+          "description": "Marigny Mai Tai, Old-Fashioned, Paloma, French 75, Cosmopolitan",
+          "name": "Cocktails",
+          "price": "7"
+        },
+        {
+          "category": "Drinks",
+          "description": "Michelob Ultra, Miller Lite, Bud Lite, Urban South 'Paradise Park', Gnarly Barley 'Jucifer', High Noon Vodka Seltzer",
+          "name": "Beer & Seltzers",
+          "price": "4"
+        },
+        {
+          "category": "Snacks",
+          "description": "Parmesan cheese crust, Creole tomato pur\u00e9e",
+          "name": "Eggplant Pomodoro",
+          "price": "10"
+        },
+        {
+          "category": "Snacks",
+          "description": "Groud Beef, trinity, jalape\u00f1o aioli",
+          "name": "Cajun Meat Pie",
+          "price": "12"
+        },
+        {
+          "category": "Snacks",
+          "description": "Spicy chicken, Creole-honey mayo, Leidenheimer bread",
+          "name": "Mini Chicken Po-boy",
+          "price": "11"
+        },
+        {
+          "category": "Snacks",
+          "description": "Boudin, crawfish, trinity, pepper jelly",
+          "name": "Cajun Wontons",
+          "price": "10"
+        },
+        {
+          "category": "Snacks",
+          "description": "Bacon-wrapped jalape\u00f1o stuffed with local boudin & cream cheese",
+          "name": "Boudin Pepper",
+          "price": "12"
+        },
+        {
+          "category": "Thanksgiving First Course",
+          "description": "mixed greens, spiced pecans, apples, dried cranberries, sugar cane vinaigrette",
+          "name": "Harvest Salad",
+          "price": null
+        },
+        {
+          "category": "Thanksgiving First Course",
+          "description": null,
+          "name": "Corn and Crab Soup",
+          "price": null
+        },
+        {
+          "category": "Thanksgiving Second Course",
+          "description": "roasted turkey, gravy, cornbread stuffing, green beans, mashed potatoes",
+          "name": "Traditional Turkey Dinner",
+          "price": null
+        },
+        {
+          "category": "Thanksgiving Second Course",
+          "description": "braised short rib with bordelaise sauce and cheesy polenta",
+          "name": "Short Rib",
+          "price": null
+        },
+        {
+          "category": "Thanksgiving Second Course",
+          "description": "topped with crabmeat, cremini mushrooms and lemon butter",
+          "name": "Gulf Fish",
+          "price": null
+        },
+        {
+          "category": "Thanksgiving Third Course",
+          "description": "with praline sauce",
+          "name": "Bread Pudding",
+          "price": null
+        },
+        {
+          "category": "Christmas First Course",
+          "description": null,
+          "name": "Corn & Crab Bisque",
+          "price": null
+        }
+      ],
+      "key": "tujagues",
+      "name": "Tujague's Restaurant",
+      "sourceURL": "https://tujaguesrestaurant.com/menus/",
+      "verifiedAt": "2026-11-06T13:12:46+00:00"
     }
   ]
 }
