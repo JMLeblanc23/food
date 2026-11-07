@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T02:42:14+00:00",
-  "itemCount": 2633,
+  "generatedAt": "2026-11-07T13:45:49+00:00",
+  "itemCount": 2672,
   "schemaVersion": 1,
-  "venueCount": 44,
+  "venueCount": 45,
   "venues": [
     {
       "items": [
@@ -16153,6 +16153,248 @@
       "name": "Venezia",
       "sourceURL": "https://www.venezianeworleans.com/menus",
       "verifiedAt": "2026-11-06T23:39:28+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "3 Slices of Smithfield\u00ae Bacon, 2 Patties of Jimmy Dean\u00ae Sausage or Hickory Smoked Ham; 1050 Cal",
+          "name": "Eggs with Toast & Jelly; choice of Grits, Hashbrowns or Sliced Tomatoes; a Waffle and Your Choice of Meat",
+          "price": "$12.85"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "3 Slices of Smithfield\u00ae Bacon, 2 Patties of Jimmy Dean\u00ae Sausage or Hickory Smoked Ham; 920 Cal",
+          "name": "Your Choice of Meat on Grilled Texas Toast with Egg and 2 Slices of American Cheese; with Hashbrowns",
+          "price": "$10.8"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Cheese melted throughout 2 scrambled eggs; served with Raisin Toast and your choice of grits or hashbrowns; 670 Cal",
+          "name": "Signature Cheese N' Eggs",
+          "price": "$8.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "3 Slices of Smithfield\u00ae Bacon, 2 Patties of Jimmy Dean\u00ae Sausage or Hickory Smoked Ham; 1050 Cal",
+          "name": "A Waffle and Your Choice of Meat",
+          "price": "$8.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "520 Cal",
+          "name": "Springer Mountain Farms\u00ae Grilled Chicken Breast on a warm grilled biscuit",
+          "price": "$6.5"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Onions, and Thin-Sliced Chuck Cheesesteak; 625 Cal",
+          "name": "Double Hashbrowns with Chuck Cheesesteak",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Onions, and Springer Mountain Farms\u00ae Grilled Chicken; 635 Cal",
+          "name": "Double Hashbrowns with Grilled Chicken",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs and 2 Patties of Crumbled Jimmy Dean\u00ae Sausage; 920 Cal",
+          "name": "Double Hashbrowns with Sausage",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs and 3 Slices of Crumbled Smithfield\u00ae Bacon; 800 Cal",
+          "name": "Double Hashbrowns with Bacon",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs and 2 Patties of Crumbled Jimmy Dean\u00ae Sausage; 720 Cal",
+          "name": "Large Grits with Sausage",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs Hickory Smoked Ham Chunks; 780 Cal",
+          "name": "Double Hashbrowns with Hickory Smoked Ham Chunks",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs and 3 Slices of Crumbled Smithfield\u00ae Bacon; 600 Cal",
+          "name": "Large Grits with Bacon",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs Hickory Smoked Ham Chunks; 580 Cal",
+          "name": "Large Grits with Hickory Smoked Ham Chunks",
+          "price": "$11.6"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Springer Mountain Farms\u00ae Grilled Chicken, Three Scrambled Eggs, Two Slices of Melted American Cheese, Grilled Onions, Tomatoes & Jalape\u00f1os; 480 Cal",
+          "name": "Grilled Chicken with Three Scrambled Eggs",
+          "price": "$12.1"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Thin-Sliced Chuck Cheesesteak with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield\u00ae Bacon; 645 Cal",
+          "name": "Chuck Cheesesteak on Texas Toast with Bacon",
+          "price": "$9.55"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Angus Beef Quarter Pound Hamburger with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield\u00ae Bacon; 735 Cal",
+          "name": "Angus Beef Quarter Pound Hamburger on Texas Toast with Bacon",
+          "price": "$9.55"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Springer Mountain Farms\u00ae Grilled Chicken with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield\u00ae Bacon; 655 Cal",
+          "name": "Grilled Chicken on Texas Toast with Bacon",
+          "price": "$9.55"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Jimmy Dean\u00ae Sausage Patty with Onions, served on Texas Toast with Two Slices of Melted American Cheese; 775 Cal",
+          "name": "Jimmy Dean\u00ae Sausage Patty on Texas Toast",
+          "price": "$6.5"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Thin-Sliced Chuck Cheesesteak with Onions, served on Texas Toast with Two Slices of Melted American Cheese; 645 Cal",
+          "name": "Chuck Cheesesteak on Texas Toast",
+          "price": "$7"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Angus Beef Quarter Pound Hamburger with Onions, served on Texas Toast with Two Slices of Melted American Cheese; 735 Cal",
+          "name": "Angus Beef Quarter Pound Hamburger on Texas Toast",
+          "price": "$7"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Springer Mountain Farms\u00ae Grilled Chicken with Onions, served on Texas Toast with Two Slices of Melted American Cheese; 655 Cal",
+          "name": "Grilled Chicken on Texas Toast",
+          "price": "$7"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Two Jimmy Dean\u00ae Sausage Patties, One Egg and Two Slices of Melted American Cheese served on Texas Toast",
+          "name": "Sausage, Egg and Cheese on Texas Toast",
+          "price": "$7.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Two Jimmy Dean\u00ae Sausage Patties, One Egg and a Slice of Melted American Cheese served on your choice of Toast",
+          "name": "Sausage, Egg and Cheese on Toast",
+          "price": "$7.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Three Slices of Smithfield\u00ae Bacon, One Egg and a Slice of Melted American Cheese served on your choice of Toast",
+          "name": "Bacon, Egg and Cheese on Toast",
+          "price": "$7.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Three Slices of Smithfield\u00ae Bacon, One Egg and Two Slices of Melted American Cheese served on Texas Toast",
+          "name": "Bacon, Egg and Cheese on Texas Toast",
+          "price": "$7.25"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "On the menu since 1955, our Classic Sweet Cream Waffle with a generous portion of Pecan pieces baked inside; 560 Cal",
+          "name": "Pecan Waffle",
+          "price": "$5.7"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Our Classic Sweet Cream Waffle topped with peanut butter chips; 560 Cal",
+          "name": "Peanut Butter Chip Waffle",
+          "price": "$5.7"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "One Jimmy Dean\u00ae Sausage Patty, One Egg and One Slice of Melted American Cheese, served on a Grilled Biscuit",
+          "name": "Sausage, Egg and Cheese Biscuit",
+          "price": "$4.2"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Two Slices of Smithfield\u00ae Bacon, One Egg and One Slice of Melted American Cheese, served on a Grilled Biscuit",
+          "name": "Bacon, Egg and Cheese Biscuit",
+          "price": "$4.2"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "One of our Grilled Biscuits with a Springer Mountain Farms Chicken Sausage Patty",
+          "name": "Chicken Sausage Biscuit",
+          "price": "$4.2"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "A Fluffy Biscuit fresh off the Grill covered in our Signature Sausage Gravy",
+          "name": "Biscuit with Sausage Gravy",
+          "price": "$4.2"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Angus Beef Quarter Pound Hamburger (4-oz), Onions and Two Slices of Melted American Cheese, served on Grilled Texas Toast; with Hashbrowns; 925 Cal",
+          "name": "Angus Beef Quarter Pound Hamburger on Grilled Texas Toast with Hashbrowns",
+          "price": "$13.1"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Thin-Sliced Chuck Cheesesteak, Onions, Smithfield\u00ae Bacon, and Two Slices of Melted American Cheese, served on Grilled Texas Toast; with Hashbrowns; 835 Cal",
+          "name": "Chuck Cheesesteak on Grilled Texas Toast with Hashbrowns",
+          "price": "$13.1"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Springer Mountain Farms\u00ae Grilled Chicken Breast with Smithfield\u00ae Bacon, served on a Grilled Bun; 480 Cal",
+          "name": "Grilled Chicken Sandwich with Bacon",
+          "price": "$9.05"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Springer Mountain Farms\u00ae Grilled Chicken Breast served on a Grilled Bun; 480 Cal",
+          "name": "Grilled Chicken Sandwich",
+          "price": "$6.5"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Angus Beef Quarter Pound Hamburger (4-oz) with Smithfield\u00ae Bacon, served on a Grilled Bun; 570 Cal",
+          "name": "Angus Beef Quarter Pound Hamburger with Bacon",
+          "price": "$7.5"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "2 Angus Beef Quarter Pound Hamburgers (4-oz each) with Smithfield\u00ae Bacon, served on a Grilled Bun; 790 Cal",
+          "name": "Double Angus Beef Quarter Pound Hamburger with Bacon",
+          "price": "$11.05"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "Angus Beef Quarter Pound Hamburger (4-oz), served on a Grilled Bun; 570 Cal",
+          "name": "Angus Beef Quarter Pound Hamburger",
+          "price": "$4.95"
+        },
+        {
+          "category": "Lunch & Dinner Favorites",
+          "description": "2 Angus Beef Quarter Pound Hamburgers (4-oz each), served on a Grilled Bun; 790 Cal",
+          "name": "Double Angus Beef Quarter Pound Hamburger",
+          "price": "$8.5"
+        }
+      ],
+      "key": "waffle house",
+      "name": "Waffle House",
+      "sourceURL": "https://locations.wafflehouse.com/metairie-la-2039/",
+      "verifiedAt": "2026-11-07T13:45:20+00:00"
     }
   ]
 }
