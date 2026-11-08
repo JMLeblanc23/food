@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T22:51:30+00:00",
-  "itemCount": 2672,
+  "generatedAt": "2026-11-08T01:53:22+00:00",
+  "itemCount": 2834,
   "schemaVersion": 1,
-  "venueCount": 45,
+  "venueCount": 47,
   "venues": [
     {
       "items": [
@@ -16395,6 +16395,994 @@
       "name": "Waffle House",
       "sourceURL": "https://locations.wafflehouse.com/metairie-la-2039/",
       "verifiedAt": "2026-11-07T13:45:20+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Dumplings",
+          "description": "Pork: Soft steamed buns filled with ground pork, carrot, spinach. Beef: Soft steamed buns filled with ground beef, onion, ginger, and scallion.",
+          "name": "D03 Mini Steamed Buns (6 pcs)",
+          "price": "$11.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Spicy Sichuan-style noodles with savory minced pork, rich roasted sesame sauce, chili oil, sesame seeds, and fresh green onions.",
+          "name": "N04 Sichuan Dan Dan Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "House-made hot and sour broth topped with scallion and sesame seeds. Pork Dumplings: Filled with ground pork, carrot, and spinach. Beef Dumplings: Filled with ground beef, onion, and minced ginger.",
+          "name": "N01 Sichuan Hot & Sour Dumpling Soup",
+          "price": "$9.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Shrimp, imitation crab, and springy ramen noodles served in a creamy and spicy beef broth with crisp bean sprouts and scallion. (Contains imported shrimp.)",
+          "name": "N07 Spicy Seafood Soup Noodles",
+          "price": "$11.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "Jasmine fried rice with Chinese sausage, shrimp, corn, carrots, peas, green beans, garlic, and soy sauce. (Contains imported shrimp.)",
+          "name": "C10 Cantonese Fried Rice",
+          "price": "$11.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Chicken (dark meat), cabbage, onion, ginger, and seasonings. Served with roasted sesame dressing.",
+          "name": "A03 Crispy Fried Chicken Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Crispy triangle dumplings filled with ground beef, onion, ginger, and scallion, topped with seaweed powder and sesame seeds.",
+          "name": "D05 Onion Beef Triangle Dumplings (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fusion-style dumplings filled with ground beef, onion, ginger, and scallion, topped with mozzarella cheese and crumbled bacon.",
+          "name": "D07 Cheeseburger Pocket Dumplings (5 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Grilled chicken thighs marinated with garlic powder, onion powder, salt, and other seasonings. Drizzled with teriyaki sauce and sesame seeds.",
+          "name": "A01 Grilled Chicken Skewers",
+          "price": "$8.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Octopus, cabbage, wheat flour, green onion, yam, ginger, and seasonings. Topped with teriyaki sauce, mayonnaise, and dried bonito flakes.",
+          "name": "A02 Roasted Octopus Balls (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Ground pork, carrot, spinach, and seasonings. Served with roasted sesame dressing.",
+          "name": "A04 Fried Pork Dumpling Rolls (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Ground beef, onion, ginger, scallion, and seasonings. Served with roasted sesame dressing.",
+          "name": "A05 Fried Beef Triangle Dumplings (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crispy wontons stuffed with crab and cream cheese. Served with duck sauce.",
+          "name": "A06 Crab Rangoon (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crispy panko-breaded shrimp, golden fried and served with duck sauce. (Contains imported shrimp.)",
+          "name": "A08 Crispy Fried Shrimp (10 pcs)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Steamed young soybeans, lightly salted.",
+          "name": "A09 Edamame",
+          "price": "$5.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Seasoned jellyfish and cucumber tossed in Wishing Town's signature hot and spicy sauce.",
+          "name": "A10 Jellyfish & Cucumber Salad",
+          "price": "$6.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fresh crisp cucumber tossed with vinegar, soy sauce, sesame oil, and Wishing Town's signature hot and spicy sauce.",
+          "name": "A11 Cucumber Salad",
+          "price": "$6.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Sweet potato glass noodles and seaweed tossed with vinegar, soy sauce, sesame oil, and Wishing Town's signature hot and spicy sauce.",
+          "name": "A12 Glass Noodle & Seaweed Salad",
+          "price": "$6.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Crispy dumpling rolls filled with ground pork, carrot, spinach, topped with pork floss and sesame seeds.",
+          "name": "D04 Pork Floss Dumpling Rolls (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fresh shrimp dumplings filled with whole shrimp, ground shrimp, and imitation crab meat, topped with seaweed powder and sesame seeds. (Contains imported shrimp.)",
+          "name": "D06 Dragon Shrimp Dumplings (4 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fried tofu pockets stuffed with ground pork, carrot, spinach, topped with Char Siu (Cantonese BBQ pork) and green onion.",
+          "name": "D08 Char Siu Tofu Pockets (5 pcs)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Pocket dumplings filled with ground shrimp and imitation crab meat, topped with crawfish, celery, and homemade chili sauce. (Contains imported crawfish.)",
+          "name": "D09 Spicy Crawfish Pocket Dumplings (5 pcs)",
+          "price": "$10.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Pocket dumplings filled with ground shrimp and imitation crab meat, topped with scallops and dried bonito flakes.",
+          "name": "D10 Scallop Pocket Dumplings (5 pcs)",
+          "price": "$10.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Vegetable dumplings filled with cabbage, soybean protein, potato, carrot, and sweet potato glass noodles.",
+          "name": "D11 Vegetable Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Chicken dumplings filled with dark meat chicken, cabbage, onion, and ginger, topped with seaweed powder and sesame seeds.",
+          "name": "D12 Seaweed Chicken Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Choose any 2 flavors: Mongolian Beef (ground beef, carrot, glass noodles, and scallion seasoned with Mongolian-style sauce), General Tso's Chicken (ground chicken, bell peppers, onion, and glass noodles tossed in General Tso's sauce), Char Siu Pork (ground pork, onion, carrot, glass noodles, and scallion seasoned with savory Char Siu sauce).",
+          "name": "D13 Baoger (2 pcs)",
+          "price": "$8.99"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Savory crab and pork filling wrapped in a soft, chewy, translucent crystal skin, topped with colorful garden vegetables.",
+          "name": "New! Autumn Flower Crab & Pork Crystal Dumplings (4pcs)",
+          "price": "$12.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Golden crispy pumpkin rice balls filled with creamy coconut lava and sago pearls.",
+          "name": "New! Golden Pumpkin Coconut Lava Balls (5pcs)",
+          "price": "$8.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Stir-fried glass noodles with shrimp in savory garlic sauce, topped with scallion. (Contains imported shrimp.)",
+          "name": "N02 Garlic Shrimp with Glass Noodles",
+          "price": "$13.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Beijing-style wheat noodles with savory pork and rich soybean sauce, topped with fresh cucumber, diced tomatoes, sesame seeds, and green onions.",
+          "name": "N03 Beijing Zhajiang Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Silky rice noodles in a rich slow-simmered beef broth with tender sliced beef, crisp bean sprouts, finished with fresh green onions.",
+          "name": "N05 Cantonese Beef Rice Noodle Soup",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Tender sliced beef and springy ramen noodles served in a rich and savory Taiwanese-style shacha beef broth with crisp bean sprouts and scallion.",
+          "name": "N06 Taiwanese Shacha Beef Soup Noodles",
+          "price": "$11.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Springy ramen noodles tossed with tender sliced beef and sweet onions in a savory soy-based sauce, topped with scallion and sesame seeds.",
+          "name": "N08 Beef & Onion Tossed Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Choose your flavor: Sichuan Spicy or Taiwanese Shacha (Not Spicy). Ramen noodles topped with mesquite-grilled chicken breast, cucumber, scallion, and roasted sesame dressing.",
+          "name": "N09 Grilled Chicken Tossed Noodles",
+          "price": "$11.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Springy ramen noodles tossed with cucumber, sesame dressing, soy sauce, vinegar, and Wishing Town's signature mild spicy sauce.",
+          "name": "N10 Vegetarian Tossed Noodles (Mild Spicy)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Hong Kong-style stir-fried springy ramen noodles with chicken, bell peppers, onions, garlic, and savory soy sauce.",
+          "name": "N11 Chicken Hong Kong Chow Mein",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Extra noodles only.",
+          "name": "N12 Side Noodles",
+          "price": "$2.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender eggplant stir-fried with garlic sauce, bell peppers, and green peppers. Mildly spicy and savory. Served with white rice.",
+          "name": "C01 Chinese Eggplant with Garlic Sauce",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Ribeye beef slices stir-fried with onions and bell peppers in black pepper sauce. Served with white rice.",
+          "name": "C03 Black Pepper Beef",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Shrimp stir-fried in a savory and tangy garlic sauce with bell peppers and onions. (Contains imported shrimp.) Served with white rice.",
+          "name": "C04 Shrimp in Garlic Sauce",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender white meat chicken stir-fried with bell peppers and onions in teriyaki sauce. Served with white rice.",
+          "name": "C05 Teriyaki Chicken",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "White meat chicken stir-fried with bell peppers, onions, cucumber, dried chili peppers, and peanuts in a savory spicy sauce. Served with white rice.",
+          "name": "C06 Kung Pao Chicken",
+          "price": "$14.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Shrimp stir-fried with bell peppers, onions, cucumber, dried chili peppers, and peanuts in a savory spicy sauce. (Contains imported shrimp.) Served with white rice.",
+          "name": "C07 Kung Pao Shrimp",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender ribeye beef slices stir-fried with fresh broccoli in a savory brown sauce. Served with white rice.",
+          "name": "C08 Beef with Broccoli",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Fresh broccoli stir-fried with garlic sauce. Served with white rice.",
+          "name": "C09 Stir-Fried Broccoli",
+          "price": "$11.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Steamed white rice.",
+          "name": "C11 Side Rice",
+          "price": "$2.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Passion Fruit Mousse Cake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Green Tea Mille Crepes",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Chocolate Toffee Mousse Cake",
+          "price": "$7.95"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Blueberry Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Caramel Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Japanese Cheesecake",
+          "price": "$3.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Macarons (4pcs)",
+          "price": "$8.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Chocolate Crepes w/ Hazelnut Cream",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Rainbow Mille Crepes",
+          "price": "$7.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Wishing Cake",
+          "price": "$13.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Tiramisu",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Taro flavored chantilly cream with chiffon cake.",
+          "name": "Taro Chantilly Cake",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Lychee flavor chantilly cream with chiffon cake.",
+          "name": "Lychee chantilly cake",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Oreo chantilly cream with chiffon cake.",
+          "name": "Oreo Chantilly Cake",
+          "price": "$7.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Yuzu Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Mini Cake Combo",
+          "price": "$7.95"
+        },
+        {
+          "category": "Desserts",
+          "description": "Filling: egg, heavy cream, milk, sugar.",
+          "name": "Egg Tart",
+          "price": "$2.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Orders with a pickup time less than 48 hours away may be canceled if we are unable to fulfill them.",
+          "name": "Green Tea Mille Crepes Whole Cake",
+          "price": "$55.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "The whole cake is cut out from 13\" x 9\" cake base (quarter sheet), you can choose to have one number or two numbers. This cake serves 12-18 people depending on what number you need.",
+          "name": "Number Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "6\" round chiffon cake with chantilly cream, topped with a variety of fresh fruit, decorative chocolate, fortune cookies/macarons and syrup tubes (may change slightly).",
+          "name": "6\" Wishing Cake",
+          "price": "$25.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Rainbow Mille Crepes Whole Cake",
+          "price": "$60.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Chocolate Mille Crepes w/ Hazelnut Cream Whole Cake",
+          "price": "$55.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Cross Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. The whole cake is 13\" x 9\", about quarter sheet size, and serves 20-24 people.",
+          "name": "Rectangle Wishing Cake",
+          "price": "$52.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Two Layer Combo Cake",
+          "price": "$88.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "8\" round chiffon cake with chantilly cream, topped with a variety of fresh fruit, decorative chocolate, fortune cookies/macarons and syrup tubes (may change slightly). This cake serves 12-15 people.",
+          "name": "8\" Wishing Cake",
+          "price": "$45.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Tiramisu Whole Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Diamond Ring Cake",
+          "price": "$53.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "The whole cake is cut out from 13\" x 9\" cake base (quarter sheet). This cake serves 12-18 people depending on what letter you need.",
+          "name": "Letter Cake",
+          "price": "$52.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Oreo chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Oreo Chantilly Whole Cake",
+          "price": "$47.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Pandan flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Pandan Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Taro flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Taro Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Lychee flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Lychee Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Heart-Shaped Wishing Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Bubble Tea",
+          "price": "$4.95"
+        }
+      ],
+      "key": "wishing town bakery",
+      "name": "Wishing Town Bakery Cafe",
+      "sourceURL": "https://www.wishingtown.com/menu",
+      "verifiedAt": "2026-11-08T01:52:38+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Dumplings",
+          "description": "Pork: Soft steamed buns filled with ground pork, carrot, spinach. Beef: Soft steamed buns filled with ground beef, onion, ginger, and scallion.",
+          "name": "D03 Mini Steamed Buns (6 pcs)",
+          "price": "$11.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Spicy Sichuan-style noodles with savory minced pork, rich roasted sesame sauce, chili oil, sesame seeds, and fresh green onions.",
+          "name": "N04 Sichuan Dan Dan Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "House-made hot and sour broth topped with scallion and sesame seeds. Pork Dumplings: Filled with ground pork, carrot, and spinach. Beef Dumplings: Filled with ground beef, onion, and minced ginger.",
+          "name": "N01 Sichuan Hot & Sour Dumpling Soup",
+          "price": "$9.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Shrimp, imitation crab, and springy ramen noodles served in a creamy and spicy beef broth with crisp bean sprouts and scallion. (Contains imported shrimp.)",
+          "name": "N07 Spicy Seafood Soup Noodles",
+          "price": "$11.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "Jasmine fried rice with Chinese sausage, shrimp, corn, carrots, peas, green beans, garlic, and soy sauce. (Contains imported shrimp.)",
+          "name": "C10 Cantonese Fried Rice",
+          "price": "$11.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Chicken (dark meat), cabbage, onion, ginger, and seasonings. Served with roasted sesame dressing.",
+          "name": "A03 Crispy Fried Chicken Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Crispy triangle dumplings filled with ground beef, onion, ginger, and scallion, topped with seaweed powder and sesame seeds.",
+          "name": "D05 Onion Beef Triangle Dumplings (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fusion-style dumplings filled with ground beef, onion, ginger, and scallion, topped with mozzarella cheese and crumbled bacon.",
+          "name": "D07 Cheeseburger Pocket Dumplings (5 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Grilled chicken thighs marinated with garlic powder, onion powder, salt, and other seasonings. Drizzled with teriyaki sauce and sesame seeds.",
+          "name": "A01 Grilled Chicken Skewers",
+          "price": "$8.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Octopus, cabbage, wheat flour, green onion, yam, ginger, and seasonings. Topped with teriyaki sauce, mayonnaise, and dried bonito flakes.",
+          "name": "A02 Roasted Octopus Balls (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Ground pork, carrot, spinach, and seasonings. Served with roasted sesame dressing.",
+          "name": "A04 Fried Pork Dumpling Rolls (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Ground beef, onion, ginger, scallion, and seasonings. Served with roasted sesame dressing.",
+          "name": "A05 Fried Beef Triangle Dumplings (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crispy wontons stuffed with crab and cream cheese. Served with duck sauce.",
+          "name": "A06 Crab Rangoon (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Crispy panko-breaded shrimp, golden fried and served with duck sauce. (Contains imported shrimp.)",
+          "name": "A08 Crispy Fried Shrimp (10 pcs)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Steamed young soybeans, lightly salted.",
+          "name": "A09 Edamame",
+          "price": "$5.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Seasoned jellyfish and cucumber tossed in Wishing Town's signature hot and spicy sauce.",
+          "name": "A10 Jellyfish & Cucumber Salad",
+          "price": "$6.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fresh crisp cucumber tossed with vinegar, soy sauce, sesame oil, and Wishing Town's signature hot and spicy sauce.",
+          "name": "A11 Cucumber Salad",
+          "price": "$6.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Sweet potato glass noodles and seaweed tossed with vinegar, soy sauce, sesame oil, and Wishing Town's signature hot and spicy sauce.",
+          "name": "A12 Glass Noodle & Seaweed Salad",
+          "price": "$6.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Crispy dumpling rolls filled with ground pork, carrot, spinach, topped with pork floss and sesame seeds.",
+          "name": "D04 Pork Floss Dumpling Rolls (6 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fresh shrimp dumplings filled with whole shrimp, ground shrimp, and imitation crab meat, topped with seaweed powder and sesame seeds. (Contains imported shrimp.)",
+          "name": "D06 Dragon Shrimp Dumplings (4 pcs)",
+          "price": "$9.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Fried tofu pockets stuffed with ground pork, carrot, spinach, topped with Char Siu (Cantonese BBQ pork) and green onion.",
+          "name": "D08 Char Siu Tofu Pockets (5 pcs)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Pocket dumplings filled with ground shrimp and imitation crab meat, topped with crawfish, celery, and homemade chili sauce. (Contains imported crawfish.)",
+          "name": "D09 Spicy Crawfish Pocket Dumplings (5 pcs)",
+          "price": "$10.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Pocket dumplings filled with ground shrimp and imitation crab meat, topped with scallops and dried bonito flakes.",
+          "name": "D10 Scallop Pocket Dumplings (5 pcs)",
+          "price": "$10.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Vegetable dumplings filled with cabbage, soybean protein, potato, carrot, and sweet potato glass noodles.",
+          "name": "D11 Vegetable Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Chicken dumplings filled with dark meat chicken, cabbage, onion, and ginger, topped with seaweed powder and sesame seeds.",
+          "name": "D12 Seaweed Chicken Dumplings (6 pcs)",
+          "price": "$8.50"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Choose any 2 flavors: Mongolian Beef (ground beef, carrot, glass noodles, and scallion seasoned with Mongolian-style sauce); General Tso's Chicken (ground chicken, bell peppers, onion, and glass noodles tossed in General Tso's sauce); Char Siu Pork (ground pork, onion, carrot, glass noodles, and scallion seasoned with savory Char Siu sauce).",
+          "name": "D13 Baoger (2 pcs)",
+          "price": "$8.99"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Savory crab and pork filling wrapped in a soft, chewy, translucent crystal skin, topped with colorful garden vegetables.",
+          "name": "New! Autumn Flower Crab & Pork Crystal Dumplings (4pcs)",
+          "price": "$12.00"
+        },
+        {
+          "category": "Dumplings",
+          "description": "Golden crispy pumpkin rice balls filled with creamy coconut lava and sago pearls.",
+          "name": "New! Golden Pumpkin Coconut Lava Balls (5pcs)",
+          "price": "$8.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Stir-fried glass noodles with shrimp in savory garlic sauce, topped with scallion. (Contains imported shrimp.)",
+          "name": "N02 Garlic Shrimp with Glass Noodles",
+          "price": "$13.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Beijing-style wheat noodles with savory pork and rich soybean sauce, topped with fresh cucumber, diced tomatoes, sesame seeds, and green onions.",
+          "name": "N03 Beijing Zhajiang Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Silky rice noodles in a rich slow-simmered beef broth with tender sliced beef, crisp bean sprouts, finished with fresh green onions.",
+          "name": "N05 Cantonese Beef Rice Noodle Soup",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Tender sliced beef and springy ramen noodles served in a rich and savory Taiwanese-style shacha beef broth with crisp bean sprouts and scallion.",
+          "name": "N06 Taiwanese Shacha Beef Soup Noodles",
+          "price": "$11.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Springy ramen noodles tossed with tender sliced beef and sweet onions in a savory soy-based sauce, topped with scallion and sesame seeds.",
+          "name": "N08 Beef & Onion Tossed Noodles",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Choose your flavor: Sichuan Spicy or Taiwanese Shacha (Not Spicy). Ramen noodles topped with mesquite-grilled chicken breast, cucumber, scallion, and roasted sesame dressing.",
+          "name": "N09 Grilled Chicken Tossed Noodles",
+          "price": "$11.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Springy ramen noodles tossed with cucumber, sesame dressing, soy sauce, vinegar, and Wishing Town's signature mild spicy sauce.",
+          "name": "N10 Vegetarian Tossed Noodles (Mild Spicy)",
+          "price": "$9.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Hong Kong-style stir-fried springy ramen noodles with chicken, bell peppers, onions, garlic, and savory soy sauce.",
+          "name": "N11 Chicken Hong Kong Chow Mein",
+          "price": "$12.00"
+        },
+        {
+          "category": "Noodles",
+          "description": "Extra noodles only.",
+          "name": "N12 Side Noodles",
+          "price": "$2.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender eggplant stir-fried with garlic sauce, bell peppers, and green peppers. Mildly spicy and savory. Served with white rice.",
+          "name": "C01 Chinese Eggplant with Garlic Sauce",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Ribeye beef slices stir-fried with onions and bell peppers in black pepper sauce. Served with white rice.",
+          "name": "C03 Black Pepper Beef",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Shrimp stir-fried in a savory and tangy garlic sauce with bell peppers and onions. (Contains imported shrimp.) Served with white rice.",
+          "name": "C04 Shrimp in Garlic Sauce",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender white meat chicken stir-fried with bell peppers and onions in teriyaki sauce. Served with white rice.",
+          "name": "C05 Teriyaki Chicken",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "White meat chicken stir-fried with bell peppers, onions, cucumber, dried chili peppers, and peanuts in a savory spicy sauce. Served with white rice.",
+          "name": "C06 Kung Pao Chicken",
+          "price": "$14.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Shrimp stir-fried with bell peppers, onions, cucumber, dried chili peppers, and peanuts in a savory spicy sauce. (Contains imported shrimp.) Served with white rice.",
+          "name": "C07 Kung Pao Shrimp",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Tender ribeye beef slices stir-fried with fresh broccoli in a savory brown sauce. Served with white rice.",
+          "name": "C08 Beef with Broccoli",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Fresh broccoli stir-fried with garlic sauce. Served with white rice.",
+          "name": "C09 Stir-Fried Broccoli",
+          "price": "$11.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Steamed white rice.",
+          "name": "C11 Side Rice",
+          "price": "$2.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Passion Fruit Mousse Cake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Green Tea Mille Crepes",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Chocolate Toffee Mousse Cake",
+          "price": "$7.95"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Blueberry Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Caramel Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Japanese Cheesecake",
+          "price": "$3.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Macarons (4pcs)",
+          "price": "$8.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Chocolate Crepes w/ Hazelnut Cream",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Rainbow Mille Crepes",
+          "price": "$7.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Wishing Cake",
+          "price": "$13.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Tiramisu",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Taro flavored chantilly cream with chiffon cake.",
+          "name": "Taro Chantilly Cake",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Lychee flavor chantilly cream with chiffon cake.",
+          "name": "Lychee chantilly cake",
+          "price": "$6.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "Oreo chantilly cream with chiffon cake.",
+          "name": "Oreo Chantilly Cake",
+          "price": "$7.00"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Yuzu Cheesecake",
+          "price": "$6.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Mini Cake Combo",
+          "price": "$7.95"
+        },
+        {
+          "category": "Desserts",
+          "description": "Filling: egg, heavy cream, milk, sugar.",
+          "name": "Egg Tart",
+          "price": "$2.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Orders with a pickup time less than 48 hours away may be canceled if we are unable to fulfill them.",
+          "name": "Green Tea Mille Crepes Whole Cake",
+          "price": "$55.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "The whole cake is cut out from 13\" x 9\" cake base (quarter sheet), you can choose to have one number or two numbers. This cake serves 12-18 people depending on what number you need.",
+          "name": "Number Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "6\" round chiffon cake with chantilly cream, topped with a variety of fresh fruit, decorative chocolate, fortune cookies/macarons and syrup tubes (may change slightly).",
+          "name": "6\" Wishing Cake",
+          "price": "$25.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Rainbow Mille Crepes Whole Cake",
+          "price": "$60.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Chocolate Mille Crepes w/ Hazelnut Cream Whole Cake",
+          "price": "$55.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Cross Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. The whole cake is 13\" x 9\", about quarter sheet size, and serves 20-24 people.",
+          "name": "Rectangle Wishing Cake",
+          "price": "$52.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Two Layer Combo Cake",
+          "price": "$88.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "8\" round chiffon cake with chantilly cream, topped with a variety of fresh fruit, decorative chocolate, fortune cookies/macarons and syrup tubes (may change slightly). This cake serves 12-15 people with pretty decent size.",
+          "name": "8\" Wishing Cake",
+          "price": "$45.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Tiramisu Whole Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Diamond Ring Cake",
+          "price": "$53.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "The whole cake is cut out from 13\" x 9\" cake base (quarter sheet). This cake serves 12-18 people depending on what letter you need.",
+          "name": "Letter Cake",
+          "price": "$52.00"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Oreo chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Oreo Chantilly Whole Cake",
+          "price": "$47.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Pandan flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Pandan Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Taro flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Taro Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": "Please Note: Whole cakes require at least 48 hours' advance notice. Lychee flavor chantilly cream with chiffon cake. An 8\"x8\" square shape.",
+          "name": "Lychee Chantilly Whole Cake",
+          "price": "$40.00+"
+        },
+        {
+          "category": "Whole Cakes",
+          "description": null,
+          "name": "Heart-Shaped Wishing Cake",
+          "price": "$50.00"
+        },
+        {
+          "category": "Drinks",
+          "description": null,
+          "name": "Bubble Tea",
+          "price": "$4.95"
+        }
+      ],
+      "key": "wishing town restaurant bakery",
+      "name": "Wishing Town Restaurant & Bakery",
+      "sourceURL": "https://www.wishingtown.com/menu",
+      "verifiedAt": "2026-11-08T01:52:54+00:00"
     }
   ]
 }
