@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-08T20:00:50+00:00",
-  "itemCount": 2960,
+  "generatedAt": "2026-11-08T23:02:22+00:00",
+  "itemCount": 2979,
   "schemaVersion": 1,
-  "venueCount": 49,
+  "venueCount": 50,
   "venues": [
     {
       "items": [
@@ -15755,6 +15755,128 @@
       "name": "Tujague's Restaurant",
       "sourceURL": "https://tujaguesrestaurant.com/menus/",
       "verifiedAt": "2026-11-06T13:12:46+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Small Plates",
+          "description": "kale, miso-vinaigrette, radish, soy nuts (contains: soy) [vegetarian]",
+          "name": "Confit Oyster Mushroom Kale Salad",
+          "price": "$17"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Add-on to salad",
+          "name": "Confit Oyster Mushrooms",
+          "price": "$7"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Add-on to salad",
+          "name": "Fried Tofu",
+          "price": "$4"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Add-on to salad",
+          "name": "Blackened Chicken",
+          "price": "$4"
+        },
+        {
+          "category": "Small Plates",
+          "description": "cream cheese filling, crawfish, shrimp, fried with egg roll wrapping and pepper jelly sauce (dairy, shellfish, fish)",
+          "name": "Crawfish + Shrimp Lumpia",
+          "price": "$12"
+        },
+        {
+          "category": "Small Plates",
+          "description": "Fried chicken wings with sweet pepper sauce (contains: fish sauce, wheat)",
+          "name": "Sweet Pepper Wings",
+          "price": "$14"
+        },
+        {
+          "category": "Small Plates",
+          "description": "pimento cheese, red wine reduction, green onion aioli, mushroom chips, blueberries, cilantro (contains: dairy, wheat, soy, egg) - FOR DINE IN ONLY",
+          "name": "Beggar's Purse Dumplings",
+          "price": "$12"
+        },
+        {
+          "category": "Small Plates",
+          "description": "sweet soy glazed pork, house made steam buns w/ spicy green onion aioli, side of Union kimchi (contains: soy, sesame seeds) - FOR DINE IN ONLY",
+          "name": "Union Nikuman (Steamed Bun)",
+          "price": "$14"
+        },
+        {
+          "category": "Small Plates",
+          "description": "firecracker spicy wings topped w/ fried garli and scallions (contains: fish sauce, dairy)",
+          "name": "Hanabi Wings",
+          "price": "$15"
+        },
+        {
+          "category": "Ramen",
+          "description": "pork-based broth, pork belly, scallions, fried garli, black garlic oil, seasoned egg, ramen noodles (contains: egg, soy, wheat) *limited availibility daily!",
+          "name": "Tonkotsu Ramen",
+          "price": "$20"
+        },
+        {
+          "category": "Ramen",
+          "description": "Union's poultry-based broth, in-house roasted pork, bamboo shoots, scallions, seasoned egg and fried garlic and ramen noodles (egg, soy, wheat)",
+          "name": "Original Tori Ramen",
+          "price": "$18"
+        },
+        {
+          "category": "Ramen",
+          "description": "Union's plant-based broth, confit oyster mushrooms, roasted tomato, spinach, wakame, black garlic oil, poached egg and ramen noodles. (contains: egg, soy, wheat) [vegetarian OR omit egg for vegan]",
+          "name": "Miso Ramen",
+          "price": "$19"
+        },
+        {
+          "category": "Ramen",
+          "description": "Brothless, blackened chicken, spinach, union kimchi, poached egg, nori flakes, cilantro, and ramen noodles (egg, soy, wheat, fish)",
+          "name": "Slap-Ya-Kimchi Mazemen",
+          "price": "$17.75"
+        },
+        {
+          "category": "Ramen",
+          "description": "Like dirty rice with a Union twist! BROTHLESS, ground beef and tasso, roasted sweet pepper, scallion, poached egg, nori flakes, ramen noodles, and Union's mazemen sauce.",
+          "name": "Dirty Mazemen",
+          "price": "$17.75"
+        },
+        {
+          "category": "Ramen",
+          "description": "Union's poultry-based broth, ramen noodles (*added blackened chicken in photo +$3)",
+          "name": "Kid's Ramen",
+          "price": "$11"
+        },
+        {
+          "category": "Ramen",
+          "description": "brothless, japanese curry sauce, crispy sweet musubi tofu, pickled carrots, cilantro, spinach, nori flakes, poached egg, mazemen noodles (contains: soy, wheat, egg) [remove egg for vegan]",
+          "name": "Crispy Tofu Curry Mazemen",
+          "price": "$17.50"
+        },
+        {
+          "category": "Ramen",
+          "description": "gochujang miso ramen w/ pork belly, blackened chicken, beef+tasso, wakame, scallions, cilantro, sweet pepper, black garlic oil, 2 seasoned eggs (contains: egg, soy, wheat)",
+          "name": "Super Saiyan Ramen",
+          "price": "$28"
+        },
+        {
+          "category": "Ramen",
+          "description": "Additional protein",
+          "name": "Roasted Pork",
+          "price": "$3"
+        },
+        {
+          "category": "Ramen",
+          "description": "Additional protein",
+          "name": "Ground Beef & Tasso",
+          "price": "$3"
+        }
+      ],
+      "key": "union ramen",
+      "name": "union ramen",
+      "sourceURL": "https://www.unionramen.com/menus",
+      "verifiedAt": "2026-11-08T23:01:34+00:00"
     },
     {
       "items": [
