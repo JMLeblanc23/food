@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-08T23:02:22+00:00",
-  "itemCount": 2979,
+  "generatedAt": "2026-11-09T02:04:49+00:00",
+  "itemCount": 3037,
   "schemaVersion": 1,
-  "venueCount": 50,
+  "venueCount": 51,
   "venues": [
     {
       "items": [
@@ -11005,6 +11005,362 @@
       "name": "Station 6 Seafood & Oyster Bar",
       "sourceURL": "https://station6nola.com/metairie-bucktown-station-6-food-menu",
       "verifiedAt": "2026-10-26T21:45:56+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "A creamy blend of artichoke hearts, spinach, garlic & a mixture of parmesan and mozzarella. Served with homemade chips.",
+          "name": "Spinach and Artichoke Dip",
+          "price": "13.99"
+        },
+        {
+          "category": null,
+          "description": "Choice of Naked wings, Buffalo, or Sweet Thai Chili - served with your choice of Blue Cheese or Ranch.",
+          "name": "Wings (6)",
+          "price": "11.99"
+        },
+        {
+          "category": null,
+          "description": "Choice of Naked wings, Buffalo, or Sweet Thai Chili - served with your choice of Blue Cheese or Ranch.",
+          "name": "Wings (12)",
+          "price": "20.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh calamari, golden fried and served with our very own cocktail sauce and lemon wedges.",
+          "name": "Fried Calamari",
+          "price": "11.99"
+        },
+        {
+          "category": null,
+          "description": "A fried pastry shell filled with fried imported crawfish tails, topped with a spicy creamy crawfish sauce.",
+          "name": "Crawfish Pie",
+          "price": "14.99"
+        },
+        {
+          "category": null,
+          "description": "Imported artichoke hearts, battered with Italian bread crumbs and deep fried to a golden brown and topped with fresh grated Italian cheese and imported olive oil, served with homemade marinara sauce.",
+          "name": "Fried Artichoke Hearts",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Rounds of eggplant battered in bread crumbs, deep fried and topped with olive oil and Italian cheese, served with our homemade marinara sauce.",
+          "name": "Eggplant Sticks",
+          "price": "10.99"
+        },
+        {
+          "category": null,
+          "description": "Our version of the onion mum, served with swamp sauce.",
+          "name": "Onion Mum",
+          "price": "12.99"
+        },
+        {
+          "category": null,
+          "description": "Crabmeat stuffed with jalapeno pieces battered & fried, served with homemade ranch dressing.",
+          "name": "Crabmeat Stuffed Jalapenos",
+          "price": "16.99"
+        },
+        {
+          "category": null,
+          "description": "1/2 Dozen fresh Louisiana oysters grilled with Italian bread crumbs, olive oil, garlic sauce, and topped with parmesan cheese, butter garlic marinade served with French bread.",
+          "name": "Chargrilled Oysters (1/2 Dozen)",
+          "price": "MP"
+        },
+        {
+          "category": null,
+          "description": "Dozen fresh Louisiana oysters grilled with Italian bread crumbs, olive oil, garlic sauce, and topped with parmesan cheese, butter garlic marinade served with French bread.",
+          "name": "Chargrilled Oysters (Dozen)",
+          "price": "MP"
+        },
+        {
+          "category": null,
+          "description": "(2) Crab cakes battered and deep fried then topped with our spicy shrimp cream sauce. Served with jalapeno ranch.",
+          "name": "Fried Crab Cakes (2)",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Thin sliced dill pickles lightly battered and deep fried served with your choice of ranch or swamp sauce.",
+          "name": "Fried Pickles",
+          "price": "8.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh cut onions, battered and deep fried to a golden brown served with our swamp sauce.",
+          "name": "Onion Rings",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Deep fried served with marinara sauce.",
+          "name": "Fried Mushrooms",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Our crispy fries topped with shredded cheddar, homemade brown gravy & pickled jalapenos.",
+          "name": "Loaded Fries",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Crab claws battered in our own seasoning served with a side of corn maque choux.",
+          "name": "Fried Crab Claws",
+          "price": "18.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh fillet of fish butterflied & stuffed with crab meat dressing and deep fried, topped with our spicy shrimp cream sauce.",
+          "name": "Stuffed Fish",
+          "price": "24.99"
+        },
+        {
+          "category": null,
+          "description": "Farm raised fish battered and deep fried to a golden brown.",
+          "name": "Fried Fish",
+          "price": "19.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh gulf shrimp, battered and deep fried to a golden brown.",
+          "name": "Fried Shrimp",
+          "price": "20.99"
+        },
+        {
+          "category": null,
+          "description": "Four stuffed shrimp with crab meat dressing, battered and deep fried, topped with our spicy shrimp cream sauce.",
+          "name": "Stuffed Shrimp",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A combination of grilled shrimp, fish & oysters. All 3 battered with our garlic butter marinade and grilled to perfection.",
+          "name": "Grilled Shrimp, Fish & Oysters",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A 10-12 ounce piece of redfish basted with our garlic butter marinade then grilled to perfection.",
+          "name": "Grilled Redfish",
+          "price": "26.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh Louisiana oysters, battered and deep fried.",
+          "name": "Fried Oysters",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "One or two soft shell crabs battered and deep fried.",
+          "name": "Soft Shell Crab",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Includes deep fried shrimp, oysters, fish and a stuffed crab.",
+          "name": "Seafood Platter",
+          "price": "28.99"
+        },
+        {
+          "category": null,
+          "description": "A mix of fried shrimp & fish served with hushpuppies. (Can be grilled by request)",
+          "name": "Shrimp & Fish Platter",
+          "price": "22.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh fish fillets basted with our buttery garlic marinade and then grilled to perfection.",
+          "name": "Grilled Fish",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "One dozen grilled shrimp basted with our buttery garlic marinade and grilled to perfection.",
+          "name": "Grilled Shrimp (Dozen)",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Fried shrimp, fish, oysters, crab cake, hushpuppies, onion rings, French fries, and garlic bread. (Add a soft shell crab- MP)",
+          "name": "Seafood Feast",
+          "price": "59.99"
+        },
+        {
+          "category": null,
+          "description": "A boneless chicken breast stuffed with a crawfish dressing, rolled, battered and deep fried. Topped with a spicy crawfish cream sauce.",
+          "name": "Crawfish Stuffed Chicken",
+          "price": "23.99"
+        },
+        {
+          "category": null,
+          "description": "All white chicken fillets battered and deep fried.",
+          "name": "Fried Chicken Tenders",
+          "price": "17.99"
+        },
+        {
+          "category": null,
+          "description": "Two boneless chicken breasts served by your choice of either grilled or battered and deep fried.",
+          "name": "Grilled or Fried Chicken Breasts",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "8 oz. Strip served with your choice of grilled or fried shrimp.",
+          "name": "8 oz. Strip",
+          "price": "25.99"
+        },
+        {
+          "category": null,
+          "description": "A 12 oz. Ribeye served with your choice of grilled or fried shrimp.",
+          "name": "12 oz. Ribeye",
+          "price": "39.99"
+        },
+        {
+          "category": null,
+          "description": "1 lb. of choice ground meat chargrilled to order and smothered with grilled onions and rich brown gravy. Please note that our patties are hand blended in house and seasoned with onions & bell peppers, plain ground meat is available on request.",
+          "name": "Hamburger Steak",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Two center cut pork chops breaded in Italian bread crumbs and deep fried, or have them grilled with our homemade butter garlic marinade.",
+          "name": "Pork Chops",
+          "price": "21.99"
+        },
+        {
+          "category": null,
+          "description": "A spicy cream sauce prepared with shrimp, diced mushrooms, parmesan cheese, fresh garlic, and green onions. Topped with golden fried popcorn shrimp add $4.00",
+          "name": "Shrimp & Mushroom Pasta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Boneless chicken breast breaded and fried with Italian bread crumbs and topped with mozzarella cheese and our homemade red gravy.",
+          "name": "Chicken Parmesan",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Our family red gravy recipe over angel hair pasta served with 2 Italian meatballs.",
+          "name": "Spaghetti & Meatballs",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A spicy cream sauce prepared with imported crawfish tails, diced mushrooms, parmesan cheese, fresh garlic and green onions.",
+          "name": "Crawfish & Mushroom Pasta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A New Orleans favorite served with smoke sausage over rice. Add a fried or grilled pork chop for an additional $7.00",
+          "name": "Jambalaya",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Grilled chicken breast cut into strips served over angel hair pasta and topped with our homemade spicy cream sauce made with parmesan cheese, fresh garlic and green onions.",
+          "name": "Chicken & Angel Hair Pasta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "2 Fried crab cakes served on a bed of pasta topped with our creamy shrimp Nicole sauce.",
+          "name": "Crab Cakes & Pasta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Large tail on gulf shrimp sauteed in our buttery garlic marinade and tossed in with sliced red, yellow and green bell peppers served on top of angel hair pasta.",
+          "name": "Shrimp & Angel Hair Pasta",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Add Cheese",
+          "name": "Cheese",
+          "price": "1.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "French Bread",
+          "price": "13.99"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Bun",
+          "price": "14.99"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Soup (Cup)",
+          "price": "8.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Soup (Bowl)",
+          "price": "10.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Side Salad",
+          "price": "15.99"
+        },
+        {
+          "category": null,
+          "description": "Fresh green leaf lettuce, tomatoes, shredded cheese, cucumbers and croutons.",
+          "name": "Garden Salad",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Classic Caesar salad topped with fresh baked croutons and freshly grated parmesan cheese.",
+          "name": "Caesar Salad",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "A traditional house salad topped with a blackened redfish filet and blackened popcorn shrimp.",
+          "name": "Blackened Redfish Salad",
+          "price": "29.99"
+        },
+        {
+          "category": null,
+          "description": "10 & Under",
+          "name": "Kids Meal",
+          "price": "9.99"
+        },
+        {
+          "category": null,
+          "description": "House Made with New Orleans Leidenheimer Bread",
+          "name": "Bread Pudding",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "House Made with Fresh Lime Juice",
+          "name": "Key Lime Pie",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Plain, Strawberry or Salted Caramel",
+          "name": "Cheesecake",
+          "price": null
+        }
+      ],
+      "key": "stingrays",
+      "name": "Stingray's Restaurant",
+      "sourceURL": "http://stingraysseafoodrestaurant.com/",
+      "verifiedAt": "2026-11-09T02:04:07+00:00"
     },
     {
       "items": [
