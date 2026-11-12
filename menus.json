@@ -1,9 +1,709 @@
 {
-  "generatedAt": "2026-11-09T22:31:04+00:00",
-  "itemCount": 3037,
+  "generatedAt": "2026-11-12T13:13:25+00:00",
+  "itemCount": 3151,
   "schemaVersion": 1,
-  "venueCount": 51,
+  "venueCount": 53,
   "venues": [
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "North indian dish of grilled chicken or lamb served in a tomato based gravy.",
+          "name": "Tikka Masala Chicken / Lamb",
+          "price": "$18.99+"
+        },
+        {
+          "category": null,
+          "description": "Rich and creamy curry made with chicken, spices, onions, tomatoes, cashews and butter",
+          "name": "Butter Chicken",
+          "price": "$18.99"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Butter Garlic Naan",
+          "price": "$5.00"
+        },
+        {
+          "category": null,
+          "description": "An Indian style fresh cheese with a spiced creamy spinach sauce",
+          "name": "Saag Paneer",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Fried pastry with a savory filing of potatoes, onions and peas",
+          "name": "Samosa",
+          "price": "$8.50"
+        },
+        {
+          "category": null,
+          "description": "Spicy and tangy curry made with marinated chicken or lamb, vinegar and a blend of spices.",
+          "name": "Vindaloo Chicken / Lamb",
+          "price": "$18.00+"
+        },
+        {
+          "category": null,
+          "description": "Aromatic rice dish made with lamb, basmati rice and blend of spices.",
+          "name": "Lamb Biryani",
+          "price": "$21.50"
+        },
+        {
+          "category": null,
+          "description": "North Indian dish made with black lentils, spices, cream and butter",
+          "name": "Dal Makhani",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Fried cauliflower, onions, and bell pepper tossed in a spicy chili sauce.",
+          "name": "Chili Gobi",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Fried cauliflower, onions, and bell pepper tossed in a spicy Manchurian sauce",
+          "name": "Gobi Manchurian",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Assorted vegetables dipped in a spiced chickpea flour batter and deep-fried",
+          "name": "Vegetable Pakoda",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Fried corn kernels seasoned with ground spices and herbs",
+          "name": "Crispy Corn",
+          "price": "$11.50"
+        },
+        {
+          "category": null,
+          "description": "Fried paneer, onions, and bell pepper tossed in a spicy chilli sauce",
+          "name": "Chili Paneer",
+          "price": "$12.50"
+        },
+        {
+          "category": null,
+          "description": "Spicy chickpeas served with samosa, yogurt, mint chutney and tamarind",
+          "name": "Samosa Chaat",
+          "price": "$12.00"
+        },
+        {
+          "category": null,
+          "description": "Fried chicken, onions, and bell pepper tossed in a spicy chilli sauce",
+          "name": "Chili Chicken",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Deep fried tilapia fish fillets marinated in a blend of traditional spices",
+          "name": "Apollo Fish",
+          "price": "$14.50"
+        },
+        {
+          "category": null,
+          "description": "Deep fried chicken marinated in a flavorful blend of spices, yogurt",
+          "name": "Chicken 65",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Coconut coated fried shrimp served with Szechwan sauce",
+          "name": "Crispy Coconut Shrimp",
+          "price": "$14.00"
+        },
+        {
+          "category": null,
+          "description": "Indian style shrimp sauteed with onions, bell papers and house spices",
+          "name": "Spicy Shrimp Roast",
+          "price": "$14.00"
+        },
+        {
+          "category": null,
+          "description": "Fried chicken, onions, and bell pepper tossed in a spicy Manchurian sauce",
+          "name": "Chicken Manchurian",
+          "price": "$13.00"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Tangy from tamarind spicy from black pepper and chiles, and aromatic with herbs and spices",
+          "name": "Rasam",
+          "price": "$7.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Spiced lentils finished with a tempering of mustard seeds and cumin seeds",
+          "name": "Dal Tadka",
+          "price": "$15.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Potatoes and cauliflower cooked with onions, and tomatoes",
+          "name": "Aloo Gobi",
+          "price": "$15.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Punjabi dish made with chickpeas, spices, and herbs",
+          "name": "Chole Masala",
+          "price": "$15.50"
+        },
+        {
+          "category": null,
+          "description": "Delicious dish of potato and paneer in a rich and mild gravy",
+          "name": "Malai Kofta",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Paneer and bell peppers cooked in a spicy masala",
+          "name": "Kadai Paneer",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Medley of vegetables simmered in a rich, creamy sauce made with cashew paste, and aromatic spices.",
+          "name": "Veg Korma",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Marinated and grilled paneer cubes simmered in a creamy, spiced tomato-based curry",
+          "name": "Paneer Tikka Masala",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Curry made with mushroom, peas, onions, tomatoes, spices and herbs.",
+          "name": "Mushroom Muttter Masala",
+          "price": "$16.00"
+        },
+        {
+          "category": null,
+          "description": "Curry made with paneer, peas, onions, tomatoes, spices and herbs.",
+          "name": "Mutter Paneer",
+          "price": "$15.50"
+        },
+        {
+          "category": null,
+          "description": "Creamy spinach sauce with chick peas .",
+          "name": "Saag Chana",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Vegan. Spiced lentils finished with a tempering of mustard seeds, cumin seeds and spinach",
+          "name": "Dal Palak",
+          "price": "$16.50"
+        },
+        {
+          "category": null,
+          "description": "Chicken or lamb or goat cooked in a sauce with onions, tomatoes and blend of spices",
+          "name": "Classic Curry",
+          "price": "$18.00+"
+        },
+        {
+          "category": null,
+          "description": "A delicious dish made with salmon fish served in a tomato based gravy",
+          "name": "Salmon Tikka Masala",
+          "price": "$19.99"
+        },
+        {
+          "category": null,
+          "description": "A delicious dish made with succulent shrimp cooked in a creamy coconut based curry sauce.",
+          "name": "Coconut Shrimp Curry",
+          "price": "$19.99"
+        },
+        {
+          "category": null,
+          "description": "Red-hued gravy and tender lamb, seasoned with a blend of warm spices like garam masala, cumin, coriander, and Kashmiri chili powder.",
+          "name": "Rogan Josh Lamb",
+          "price": "$21.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Rogan Josh Mutton",
+          "price": "$21.00"
+        },
+        {
+          "category": null,
+          "description": "Delicious dish made with chicken or lamb and spinach",
+          "name": "Saag Chicken / Lamb",
+          "price": "$18.00+"
+        },
+        {
+          "category": null,
+          "description": "Indian dish made with tender chicken or lamb cooked in a creamy, flavorful sauce",
+          "name": "Korma Chicken",
+          "price": "$18.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Korma Lamb",
+          "price": "$21.50"
+        },
+        {
+          "category": null,
+          "description": "Aromatic rice dish made with chicken, basmati rice and blend of spices.",
+          "name": "Chicken Biryani",
+          "price": "$18.99"
+        },
+        {
+          "category": null,
+          "description": "Aromatic rice dish made with goat meat, basmati rice and blend of spices",
+          "name": "Goat Biryani",
+          "price": "$21.50"
+        },
+        {
+          "category": null,
+          "description": "Rice dish made with cauliflower, potatoes, peas, carrots, basmati rice, and blend of spices",
+          "name": "Veg Biryani",
+          "price": "$17.50"
+        },
+        {
+          "category": null,
+          "description": "Flavorful and aromatic rice dish made with chunks of fried chicken, basmati rice and blend of spices",
+          "name": "Chicken 65 Biryani",
+          "price": "$19.50"
+        },
+        {
+          "category": null,
+          "description": "Meat is marinated and cooked along with fine rice on a slow fire and aromatic flavor",
+          "name": "Hyderabadi Chicken Dum Biryani",
+          "price": "$20.00"
+        },
+        {
+          "category": null,
+          "description": "2 people",
+          "name": "Chicken Mandi Biryani (2 people)",
+          "price": "$31.99"
+        },
+        {
+          "category": null,
+          "description": "2 people",
+          "name": "Fry Fish Mandi Biryani (2 people)",
+          "price": "$35.99"
+        },
+        {
+          "category": null,
+          "description": "3 people",
+          "name": "Chicken Mandi Biryani (3 people)",
+          "price": "$39.99"
+        },
+        {
+          "category": null,
+          "description": "3 people",
+          "name": "Fry Fish Mandi Biryani (3 people)",
+          "price": "$42.99"
+        },
+        {
+          "category": null,
+          "description": "Add chicken, shrimp for an extra charge.",
+          "name": "Veg Fried Noodles / Rice",
+          "price": "$17.00"
+        },
+        {
+          "category": null,
+          "description": "Add chicken, shrimp for an extra charge.",
+          "name": "Schezwan Veg Noodles / Rice",
+          "price": "$17.50"
+        },
+        {
+          "category": null,
+          "description": "Chicken marinated in yogurt and spices, cooked in a tandoor oven for a smoky and flavorful taste",
+          "name": "Tandoori Chicken",
+          "price": "$19.50"
+        },
+        {
+          "category": null,
+          "description": "Boneless chicken marinated in yogurt and spices, coconut cooked in a tandoor oven for a smoky and flavorful taste",
+          "name": "Coconut Chicken Tikka",
+          "price": "$19.00"
+        },
+        {
+          "category": null,
+          "description": "Boneless chicken marinated in yogurt and spices, cooked in a tandoor oven for a smoky and flavorful taste",
+          "name": "Chicken Tikka",
+          "price": "$19.00"
+        },
+        {
+          "category": null,
+          "description": "Red snapper marinated in a blend of aromatic spices and yogurt, then cooked in a tandoor oven",
+          "name": "Tandoori Fish",
+          "price": "$24.99"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Butter Naan",
+          "price": "$4.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Chili Naan",
+          "price": "$5.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Cheese Naan",
+          "price": "$6.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Onion Kulcha",
+          "price": "$5.00"
+        },
+        {
+          "category": null,
+          "description": "Vegan.",
+          "name": "Roti",
+          "price": "$4.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Butter Roti",
+          "price": "$4.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Cheese Garlic Naan",
+          "price": "$6.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Methi Naan",
+          "price": "$4.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Jeera Rice",
+          "price": "$6.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Plain RIce",
+          "price": "$3.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Mint Chutney",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Raita",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Plain Yogurt",
+          "price": "$3.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Onion Salad",
+          "price": "$3.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Mango Pickle",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Schezwan Sauce",
+          "price": "$3.00"
+        },
+        {
+          "category": null,
+          "description": "A creamy, spiced indian-style pudding made with quinoa and nuts.",
+          "name": "Mango Quinoa Kheer",
+          "price": "$7.50"
+        },
+        {
+          "category": null,
+          "description": "Sweet milk balls, fried and soaked in rose syrup.",
+          "name": "Gulab Jamun",
+          "price": "$7.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Mango Lassi",
+          "price": "$6.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Salted Lassi",
+          "price": "$5.00"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Indian Chai",
+          "price": "$3.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Coke",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Coke Zero",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Diet Coke",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Sprite",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Dr. Pepper",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Barq's Root Beer",
+          "price": "$2.50"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Bottle Water",
+          "price": "$2.00"
+        }
+      ],
+      "key": "aroma indian cuisine",
+      "name": "Aroma Indian Cuisine",
+      "sourceURL": "https://aromanolaindiancuisine.com/menu",
+      "verifiedAt": "2026-11-12T13:12:40+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L1. Chicken Lo Mein",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L1. Pork Lo Mein",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L2. Beef Lo Mein",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L2. Shrimp Lo Mein",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L3. Chicken W. Broccoli",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L4. Moo Goo Gai Pan",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L5. Boneless Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L6. Mandarin Chicken",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L7. *Chicken W. Garlic Sauce",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L8. *Szechuan Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L9. Sweet & Sour Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L10. Chicken W. Cashew Nuts",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L11. Bourbon Chicken",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L12. Beef W. Broccoli",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L13. Pepper Steak",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L14. Beef W. Mixed Vegetable",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L15. *Hunan Beef",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L16. *Mongolian Beef",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L17. Shrimp W. Broccoli",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L18. Shrimp W. Lobster Sauce",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L19. *Kung Pao Shrimp",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L20. *Shrimp W. Garlic Sauce",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L21. *Kung Pao Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L22. *General Tso'S Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L23. *Sesame Chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L24. Mixed Vegetable W. Brown Sauce",
+          "price": "$8.85"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L25. *Shrimp W. Mixed Vegetables",
+          "price": "$9.15"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L26. *Broccoli W. Garlic Sauce",
+          "price": "$8.85"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L27. Boneless Spare Ribs",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L.28 Black Pepper chicken",
+          "price": "$8.95"
+        },
+        {
+          "category": "Lunch Special",
+          "description": "Served with Pork Fried Rice (Substitute to other fried rice or lomein upcharge accordingly)",
+          "name": "L28. Triple Delight",
+          "price": "$9.15"
+        }
+      ],
+      "key": "asian panda",
+      "name": "Asian Panda",
+      "sourceURL": "https://asianpandanola.kwickmenu.com/",
+      "verifiedAt": "2026-11-12T13:12:46+00:00"
+    },
     {
       "items": [
         {
