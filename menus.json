@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T19:41:48+00:00",
-  "itemCount": 3218,
+  "generatedAt": "2026-11-13T02:11:30+00:00",
+  "itemCount": 3394,
   "schemaVersion": 1,
-  "venueCount": 55,
+  "venueCount": 58,
   "venues": [
     {
       "items": [
@@ -1121,6 +1121,1086 @@
       "name": "Barracuda",
       "sourceURL": "https://www.eatbarracuda.com/menu/",
       "verifiedAt": "2026-11-12T16:14:52+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Dinner",
+          "description": "Charred poblano butter, fried goat cheese grit cake, arugula pesto",
+          "name": "Caramelized Sea Scallops",
+          "price": "24"
+        },
+        {
+          "category": "Dinner",
+          "description": "Corn macque choux and arugula pesto",
+          "name": "Crab Napoleon",
+          "price": "24"
+        },
+        {
+          "category": "Dinner",
+          "description": "Herbsaint, creamed spinach, arugula topped with fried oysters and hollandaise sauce",
+          "name": "Oysters Rockefeller",
+          "price": "24"
+        },
+        {
+          "category": "Dinner",
+          "description": "Shrimp, pork belly, and mushroom dressing, topped with Kenwood Chardonnay butter",
+          "name": "Oysters Bienville en Casserole",
+          "price": "22"
+        },
+        {
+          "category": "Dinner",
+          "description": "Mon Frere Chardonnay cream, pommes frites, Dijon aioli",
+          "name": "Steamed Prince Edward Mussels",
+          "price": "26"
+        },
+        {
+          "category": "Dinner",
+          "description": "Avocado, cucumber, seaweed salad, ginger ponzu sauce, sticky rice served in a crispy wonton bowl",
+          "name": "Ahi Tuna Poke",
+          "price": "20"
+        },
+        {
+          "category": "Dinner",
+          "description": "Topped with a Cakebread Chardonnay creole cream sauce",
+          "name": "Crawfish and Goat Cheese Cr\u00eapes",
+          "price": "20"
+        },
+        {
+          "category": "Dinner",
+          "description": "Assorted artisan breads and butter",
+          "name": "Bread Service",
+          "price": "10"
+        },
+        {
+          "category": "Dinner",
+          "description": null,
+          "name": "Creole Seafood Gumbo",
+          "price": "12"
+        },
+        {
+          "category": "Dinner",
+          "description": null,
+          "name": "Gumbo Ya Ya",
+          "price": "12"
+        },
+        {
+          "category": "Dinner",
+          "description": null,
+          "name": "Lump crab bisque, Louisiana mirliton, Gibson Sherry finish, roe garnish",
+          "price": "15"
+        },
+        {
+          "category": "Dinner",
+          "description": "Baby market greens, eggplant caviar, fresh goat cheese, grape tomatoes",
+          "name": "Briquette Salad",
+          "price": "12"
+        },
+        {
+          "category": "Dinner",
+          "description": "Living Bibb lettuce, smoked Bleu cheese, candied Louisiana pecans, Creole mustard vinaigrette",
+          "name": "Kurubuta Pork Belly Salad",
+          "price": "15"
+        },
+        {
+          "category": "Dinner",
+          "description": "Wild arugula, shaved fennel, pork belly, dill cr\u00e8me vinaigrette",
+          "name": "House: Hendricks Gin-cured Salmon Salad",
+          "price": "17"
+        },
+        {
+          "category": "Dinner",
+          "description": "Baby market greens, grape tomatoes, chilled shrimp remoulade, chilled Crab Maison, crawfish relish",
+          "name": "Seafood Salad",
+          "price": "28"
+        },
+        {
+          "category": "Dinner",
+          "description": "Charred poblano butter or a la puttanesca, heirloom potatoes, fennel slaw",
+          "name": "Visiting Whole Fish",
+          "price": "MKT"
+        },
+        {
+          "category": "Dinner",
+          "description": "Heirloom potatoes, dijonnaise brussels sprouts, La Chevalier Chardonnay butter sauce",
+          "name": "Alaskan Halibut Fillet",
+          "price": "42"
+        },
+        {
+          "category": "Dinner",
+          "description": "Charred lemon butter, Belle River crawfish relish, heirloom potatoes",
+          "name": "Louisiana Redfish on the Half Shell",
+          "price": "50"
+        },
+        {
+          "category": "Dinner",
+          "description": "Fennel slaw, lemon garlic aioli, olive and caper tapenade",
+          "name": "Whole Branzino",
+          "price": "55"
+        },
+        {
+          "category": "Dinner",
+          "description": "Dauphinoise potatoes, and dijonnaise brussels sprouts",
+          "name": "Garlic and Rosemary Crusted Prime Ribeye",
+          "price": "65"
+        },
+        {
+          "category": "Dinner",
+          "description": "Bleu cheese crust, fig demi glace, baby green beans, pork belly plantain mash",
+          "name": "Pork Porterhouse",
+          "price": "40"
+        },
+        {
+          "category": "Dinner",
+          "description": "Maitre D' Butter, dauphinoise potatoes, dijonnaise brussels sprouts",
+          "name": "Filet Mignon",
+          "price": "60"
+        },
+        {
+          "category": "Dinner",
+          "description": "Veal shank simmered with pancetta, onions, carrots, celery, garlic, and Rocca delle Macie Chianti. Topped with gremolata. Served with pasta",
+          "name": "Veal Osso Bucco",
+          "price": "65"
+        },
+        {
+          "category": "Dinner",
+          "description": "Bone-in veal chop breaded and pan fried. Served with arugula and grape tomatoes",
+          "name": "Veal Chop Milanese",
+          "price": "65"
+        },
+        {
+          "category": "Dinner",
+          "description": "Topped with crawfish etoufee and served with heirloom potatoes",
+          "name": "Blackened Redfish",
+          "price": "37"
+        },
+        {
+          "category": "Dinner",
+          "description": "Gulf shrimp, crab and seaweed salad, sweet chili glazed butter, local jasmine rice",
+          "name": "Crispy Skin Faroe Island Salmon",
+          "price": "38"
+        },
+        {
+          "category": "Dinner",
+          "description": "Topped with toasted almonds and Creole meuni\u00e9re, served with heirloom potatoes and baby green beans",
+          "name": "Speckled Gulf Trout Almandine",
+          "price": "36"
+        },
+        {
+          "category": "Dinner",
+          "description": "Lump crab meat, hollandaise, heirloom potatoes, baby green beans",
+          "name": "Snapper Ponchartrain",
+          "price": "40"
+        },
+        {
+          "category": "Dinner",
+          "description": "Pan seared filet medallions and sea scallops, Creole bordelaise sauce, griddled French bread, baby green beans",
+          "name": "District Tournedos",
+          "price": "50"
+        },
+        {
+          "category": "Dinner",
+          "description": "Traditional Sicilian tomato sauce, angel hair pasta, olive and caper tapenade",
+          "name": "Lamb Shank Puttanesca",
+          "price": "39"
+        },
+        {
+          "category": "Dinner",
+          "description": "Tomatoes, arugula, pimentos, cream sauce",
+          "name": "Shrimp Pasta Briquette",
+          "price": "30"
+        },
+        {
+          "category": "Dinner",
+          "description": "Crispy breaded chicken breast, Torresella Pinot Grigio lemon caper sauce, capellini pasta",
+          "name": "Chicken Panee Limone",
+          "price": "29"
+        },
+        {
+          "category": "Dinner",
+          "description": "Crispy fried Des Allemands catfish, seasoned fries, fennel slaw, house tartar sauce",
+          "name": "New Orleans Catfish Platter",
+          "price": "28"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "NV Henriot, Blanc de Blancs, Champagne, France",
+          "price": "150"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "NV Taittinger, \"La Francaise\" Brut, Champagne, France",
+          "price": "145"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "NV Perrier-Jou\u00ebt Grand Brut, Champagne, France",
+          "price": "35"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "NV J. M. S\u00e9l\u00e8que, \"Solessence\" Ros\u00e9, \"7 Villages,\" Champagne, France",
+          "price": "35"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Schramsberg, Brut Vintage Blanc de Blancs, North Coast, California",
+          "price": "85"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2017 Domaine Carneros, Brut Vintage, Carneros, Napa Valley, California",
+          "price": "25"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "NV G. H. Mumm, \"Grand Cordon\" Brut, Champagne, France",
+          "price": "75"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "NV Piper-Heidsieck Brut, Champagne, France (HALF BOTTLE)",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "NV Mumm Napa, Brut Rose, Napa Valley, California",
+          "price": "12"
+        },
+        {
+          "category": "Wine List",
+          "description": "Bottle",
+          "name": "NV Luc Beliare Rare Rose, Napa Valley, California",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "NV Poema, Brut, DO Cava, Spain",
+          "price": "10"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "NV Avissi, Prosecco DOC, Italy",
+          "price": "10"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2021 Santa Margherita Pinot Grigio, Valdadige DOC, Italy",
+          "price": "58"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Boucaner Pinot Gris, Washington, USA",
+          "price": "44"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Borgo Conventi, Pinot Grigio, Collio DOC, Friuli-Venezia-Giulia, Italy",
+          "price": "40"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "2021 Torresella Pinot Grigio, Venezia, Italy",
+          "price": "12"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Louis Jadot Chassagne-Montrachet, Burgundy, France",
+          "price": "200"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Louis Jadot Beaune Bressandes 1er Cru Blanc, Domaine Gagey, Burgundy, France",
+          "price": "153"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Domaine Dubuet-Month\u00e9lie, Meursault, Burgundy, France",
+          "price": "140"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Domaine Serene, \"Evanstad Reserve\" Chardonnay, Dundee Hills, Willamette Valley, Oregon",
+          "price": "138"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Cakebread Cellars, Chardonnay, Napa Valley, California",
+          "price": "95"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2017 Charles Smith, Sixto Uncovered Chardonnay, Washington",
+          "price": "80"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Kumeu River, \"Villages\" Chardonnay, Kumeu River, New Zealand",
+          "price": "75"
+        },
+        {
+          "category": "Wine List",
+          "description": "Bottle",
+          "name": "2019 Migration, Running Creek Vineyard Chardonnay, Sonoma Coast, California",
+          "price": "75"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2021 Diatom Bar-M Chardonnay, Santa Barbara, California",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "2020 Bouchard P\u00e8re et Fils, Pouilly-Fuiss\u00e9, M\u00e2connais, France",
+          "price": "18"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "2018 Robert Mondavi Winery, Napa Valley, California",
+          "price": "14"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2018 Mas la Chevaliere, Chardonnay, Pays d'Oc, France",
+          "price": "13"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2020 Au Contraire Chardonnay, Russian River Valley, California",
+          "price": "14"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2016 Borgo Maragliano, \"Crevoglio\" Chardonnay, Piedmont, Italy",
+          "price": "36"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2021 Rombauer Vineyards Sauvignon Blanc, Napa Valley, California",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Ch\u00e2teau de Raven Vigneau, 'Le Sec de Rayne Vigneau' Bordeaux, France",
+          "price": "54"
+        },
+        {
+          "category": "Wine List",
+          "description": "Bottle",
+          "name": "2020 Henry Natter Sancerre, Loire, France",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2021 Capitello Sauvignon Blanc, Croft Vineyard, Willamette Valley, Washington",
+          "price": "50"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2021 Decoy, Sauvignon Blanc, Sonoma Valley, California",
+          "price": "16"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2020 Brancott Estate Sauvignon Blanc, Marlborough, New Zealand",
+          "price": "16"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Famille Ch\u00e2teaneuf-du-Pape les Sinards, Ch\u00e2teaneuf-du-Pape, Rhone, France",
+          "price": "100"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Cristom Vineyards, Estate Viognier, Willamette Valley, Oregon",
+          "price": "50"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Jean-Luc Colombo \"Les Abeilles,\" Cote du Rhone, Rhone, France",
+          "price": "42"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Michel Chapoutier, \"Belleruche\", Cotes-du-Rh\u00f4ne Blanc, Rh\u00f4ne, France",
+          "price": "36"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Jadix Picpoul de Pinot, Languedoc, France",
+          "price": "30"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Domine Weinbach Pinot Blanc, Alsace, France",
+          "price": "63"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Empire Estate, Dry Riesling Reserve, Finger Lakes, New York",
+          "price": "45"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Bassermann-Jordan, Riesling Trocken, Pfalz, Germany",
+          "price": "45"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Trimbach, Pinot Blanc, Alsace, France",
+          "price": "42"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Chateau de Montfort Vouvray, Loire, France",
+          "price": "42"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Batasolio Corestese di Gavi, Piedmont, Italy",
+          "price": "39"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2017 Pierre Sparr, Riesling, Alsace, France",
+          "price": "38"
+        },
+        {
+          "category": "Wine List",
+          "description": "Bottle",
+          "name": "2015 Iomazzucato Breganze, Vespaiolo, Veneto, Italy",
+          "price": "36"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "NV Montinore Estate, \"Borealis\" White Blend, Willamette Valley, Oregon",
+          "price": "12"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2020 Seaglass, Riesling, Monterey County, California",
+          "price": "10"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2017 ViNO by CasaSmith, Moscato, Washington",
+          "price": "10"
+        },
+        {
+          "category": "Wine List",
+          "description": "Glass",
+          "name": "2019 Lagar da Condesa, Albari\u00f1o, DO Rias Baixas, Spain",
+          "price": "10"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "NV Domaine Serene, Ros\u00e9 \"Version X,\" Willamette Valley, Oregon",
+          "price": "85"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2019 Flambeaux Ros\u00e9, Sonoma County, California",
+          "price": "60"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2021 Ch\u00e2teau Miraval C\u00f4te-du-Provence, Ros\u00e9, France",
+          "price": "52"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2020 Copain \"Tous Ensemble\" Rose North Mendocino County, CA",
+          "price": "45"
+        },
+        {
+          "category": "Wine List",
+          "description": "glass",
+          "name": "2021 Bieler P\u00e8re et Fils, \"Sabine\" Ros\u00e9, Aix-en-Provence, France",
+          "price": "12"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2018 Ch\u00e2teau du Moulin-\u00e0-Vent, Couvent des Thorins, Moulin-\u00e0-Vent, Beaujolais, France",
+          "price": "85"
+        },
+        {
+          "category": "Wine List",
+          "description": "bottle",
+          "name": "2016 Ch\u00e2teau de Poncie, Le Pre Roi, Fleurie, Beaujolais, France",
+          "price": "60"
+        }
+      ],
+      "key": "briquette",
+      "name": "Briquette",
+      "sourceURL": "https://briquette-nola.com/menu/",
+      "verifiedAt": "2026-11-13T02:10:29+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Street Food Appetizers",
+          "description": "A Thai bar favorite. Tender and juicy strips of pork served with a special northeastern Thai chili sauce that defies all flavor conventions--- sweet, spicy, salty and sour at once. A great share dish.",
+          "name": "Grilled Pork Shoulder",
+          "price": "$12"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": "Budsi\u2019s handmade pork dumplings come with a soy-based sauce. They\u2019re topped with fried garlic and fresh cilantro. Available steamed of fried.",
+          "name": "Pork Dumplings",
+          "price": "$7"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": "Minced fish with red chili paste fried and served with a sweet, spicy, sour sauce which is topped with peanuts and cucumbers",
+          "name": "Fried Fish Cakes",
+          "price": "$10"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": "A perfect Thai Dessert.",
+          "name": "Mango and Sticky Rice",
+          "price": "$9"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": "Marinated and skewered chicken served with peanutsacue.",
+          "name": "Chicken Satay",
+          "price": "$10"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Moo Ping Marinated and Skewered Pork",
+          "price": "$10"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Dumpling Soup",
+          "price": "$8"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Dumpling Noodle Soup",
+          "price": "$11"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Spicy Flank Steak \"Salad\"",
+          "price": "$14"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Spicy Shrimp Salad",
+          "price": "$12"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Thai Fried Chicken Wings",
+          "price": "$10"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Roti w/ Red Curry Dipping Sauce",
+          "price": "$8"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Spicy Somtam Papaya Salad",
+          "price": "$10"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Vegetarian Spring Rolls",
+          "price": "$8"
+        },
+        {
+          "category": "Street Food Appetizers",
+          "description": null,
+          "name": "Stir-Fried Baby Bok Choy",
+          "price": "$8"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "If you ever happen to be invited to granny\u2019s house in upcountry Thailand, this is what she\u2019ll serve you. Grilled pork sliced fine and saut\u00e9ed with rice roasted and crushed, red onions, cilantro, scallions, mint and lime juice served over jasmine rice.",
+          "name": "Waterfall Pork (Moo Nam Tok)",
+          "price": "$14"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "A medley of seasonal mushrooms and tofu infused with fresh Issan region flavors: fresh squeezed lime juice, cilantro, cilantro, mint, roasted and crushed rice, green onions, and red onions served over jasmine rice",
+          "name": "Mushroom Larb",
+          "price": "$14"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "Minced chicken cooked with fresh cilantro, culantro, red onions, green onions, and mint over jasmine rice.",
+          "name": "Chicken Larb",
+          "price": "$14"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "Somtam is the epitome of Issan flavor: spicy, cool, and fresh. This dish is served in two styles--- Issan and Bangkok. Upcountry style: an adventurous option w/ fermented fish sauce and crab in brine crushed with a mortar and pestle. Bangkok style with dried shrimp and peanuts",
+          "name": "Spicy Somtam Papaya Salad Set w/ grilled pork shoulder and sticky rice",
+          "price": "$15"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "Issan village stew w/ chicken, Chinese wintermelon, green onions, lime basil.",
+          "name": "Gaeng Om Soup",
+          "price": "$14"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": "Similar to the Somtam, but made with bamboo. It is made fermented fish sauce for a full and distinct flavor",
+          "name": "Bamboo Salad",
+          "price": "$10"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": null,
+          "name": "Waterfall Beef",
+          "price": "$15"
+        },
+        {
+          "category": "Issan Dishes",
+          "description": null,
+          "name": "Gaeng Om Nho Mai Soup",
+          "price": "$14"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Fat noodles stir-fried in a sweet and savory sauce with Thai kale and egg. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Pad See Ew w/ Chicken, Beef, Crispy Pork, Shrimp or Tofu",
+          "price": "$14"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Fried ramen-style noodles with broccoli, bell peppers, carrots, cabbage, Kaffir lime leaves, egg, and Thai kale with chicken or tofu. Perfect to soak up all your vices. $4 upcharge for cripsy pork, beef, or shrimp.",
+          "name": "Drunken Noodles (Pad Kee Mao!)",
+          "price": "$13"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Budsi puts her own spin on this familiar dish, infusing it with flavors of Thailand\u2019s Issan region. Topped with crushed roasted peanuts, a wedge of lime, dried shrimp, with crushed red peppers served on the side. Choice of shrimp, chicken, tofu, or crispy pork.",
+          "name": "Budsi's Royal Pad Thai",
+          "price": "$15"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Served over jasmine rice with a fried egg on top. (made w/ soybean paste)",
+          "name": "Stir-fried Crispy Pork and Thai Kale",
+          "price": "$13"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "This fat noodle dish is best described as a fusion between Pad Gra Pow (stir-fried Thai basil) and Pad See Ew. It\u2019s flavored with Thai basil and chili oil, and stir-fried with red bell peppers, bamboo, mushrooms and green beans. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Budsi's Noodles with Chicken, Beef, Crispy Pork, Shrimp, or Tofu",
+          "price": "$14"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Made with carrots, green onions, white onions, Thai Kale. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Thai Fried Rice w/ chicken, beef, crispy pork, tofu, or shrimp",
+          "price": "$13"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Classic Thai street food, late night, Bangkok, drink in hand. Served with choice of chicken, beef, crispy pork, shrimp or tofu. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Spicy Stir-fry with Holy Basil and topped with a Fried Egg",
+          "price": "$13"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Served with choice of chicken, tofu, beef, shrimp, or crispy pork.",
+          "name": "Sukiyaki Glass Noodles",
+          "price": "$14"
+        },
+        {
+          "category": "Noodles and Street Food",
+          "description": "Served with choice of chicken, tofu, beef, shrimp or crispy pork.",
+          "name": "Pad Cha Stir Fry",
+          "price": "$15"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "Served with chicken, bamboo, eggplant, and red bell peppers over jasmine rice. With chicken, beef, tofu, crispy pork or shrimp. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Green Curry with Chicken",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "A Thai classic cooked with chicken, tofu, or shrimp. With oyster mushrooms, cherry tomatoes, red onions, galanga, lemongrass and kaffir lime leaves, served over jasmine rice. $2 upcharge for shrimp.",
+          "name": "Creamy Tom Yum Soup",
+          "price": "$13"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "Served with either chicken or tofu, this rich and savory soup is topped with crispy fried noodles, pickled mustard greens, and homemade chili oil.",
+          "name": "Khao Soi Noodle Soup",
+          "price": "$15"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "Stewed with either chicken, tofu, or shrimp. With oyster mushrooms, cabbage, red onions, galanga, lemongrass and kaffir lime leaves. $2 upcharge for crispy pork or shrimp.",
+          "name": "Tom Kha Coconut Milk Soup",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "A slightly spicy curry served with chicken, beef, tofu, crispy pork, or shrimp. With bamboo, red bell peppers, cherry eggplant, and kaffir lime leaf over jasmine rice.$2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Red Curry",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "Served with a choice of chicken, tofu, beef, crispy pork, or shrimp. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Pumpkin Curry",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": "A sweet and spicy curry served with chicken, tofu, beef, crispy pork, or shrimp. $2 upcharge for crispy pork, beef, or shrimp.",
+          "name": "Pineapple Curry",
+          "price": "$14"
+        },
+        {
+          "category": "Classic Soups and Curries",
+          "description": null,
+          "name": "Any Curry with Soft Shell Crab",
+          "price": "$25"
+        }
+      ],
+      "key": "budsis authentic thai",
+      "name": "Budsi\u2019s Authentic Thai",
+      "sourceURL": "https://www.budsisthai.com/menus",
+      "verifiedAt": "2026-11-13T02:10:37+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "APPETIZERS",
+          "description": "chickpea pure\u00e9, tahini (sesame paste), lemon juice, garlic",
+          "name": "HUMMUS",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "smoked eggplant,tahini, extra virgin olive oil, lemon juice, garlic",
+          "name": "BABA GHANOUJ",
+          "price": "8.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "thick yogurt, extra virgin olive oil, olives, dried mint",
+          "name": "LABNEH",
+          "price": "8.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "chopped parsley, cracked wheat, tomatoes, onions, cucumbers, radishes, fresh mint, extra virgin extra virgin olive oil, lemon juice, sumac",
+          "name": "TABBOULEH",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "garbanzo beans,herbs, exotic spices, vegetables, taratour",
+          "name": "FALAFEL (4)",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "lean beef, bulgur wheat, stuffed with (beef, lamb, onions, pine nuts)",
+          "name": "KIBBEH",
+          "price": "5.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "mixture of Mediterranean cheeses",
+          "name": "CHEESE FINGERS",
+          "price": "4.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "ROASTED POTATOES",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "SAUTEED VEGETABLES",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "rice, vegetables, extra virgin olive oil, lemon juice",
+          "name": "MEATLESS GRAPE LEAVES (4)",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "rice, ground beef, onions, tomatoes",
+          "name": "GRAPE LEAVES W/ MEAT (4)",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "spinach, onion, feta cheese, baked in philo",
+          "name": "SPANIKOPITA",
+          "price": "4.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "ground beef and spices",
+          "name": "MEAT PIES",
+          "price": "4.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "CRAWFISH PIES",
+          "price": "5.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "spiced rice and beef",
+          "name": "CABBAGE ROLLS (3)",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "green lentils, rice, onions, tomatoes, cucumbers",
+          "name": "MUJADRAH \u201cLENTIL STEW\u201d",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "eggplant, onions, chick peas, stewed tomatoes",
+          "name": "MOUSAKA \u201cEGGPLANT STEW\u201d",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "LENTIL SOUP",
+          "price": "6.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "FRIED CAULIFLOWER",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "FRIED EGGPLANT",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "BRUSSEL SPROUTS",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "FRENCH FRIES",
+          "price": "4.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": "garlic dip",
+          "name": "TOUME",
+          "price": "7.99"
+        },
+        {
+          "category": "APPETIZERS",
+          "description": null,
+          "name": "TZATZIKI",
+          "price": "7.99"
+        },
+        {
+          "category": "SALADS",
+          "description": "lettuce, tomatoes, cucumbers, feta cheese house balsamic vinaigrette (sml)",
+          "name": "GREEK SALAD",
+          "price": "9.99"
+        },
+        {
+          "category": "SALADS",
+          "description": "sml",
+          "name": "ADD Chicken Shawarma",
+          "price": "13.99"
+        },
+        {
+          "category": "SALADS",
+          "description": "sml",
+          "name": "ADD beef & lamb Gyro",
+          "price": "13.99"
+        },
+        {
+          "category": "SALADS",
+          "description": "sml",
+          "name": "FALAFEL SALAD",
+          "price": "12.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "CHICKEN SHAWARMA",
+          "price": "13.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "BEEF & LAMB GYRO",
+          "price": "13.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "FALAFEL",
+          "price": "12.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "HALLOUMI",
+          "price": "12.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "VEGETARIAN",
+          "price": "12.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "KAFTA KABOB",
+          "price": "12.99"
+        },
+        {
+          "category": "WRAPS",
+          "description": "all wraps served with hummus, Greek salad and pita",
+          "name": "SHRIMP",
+          "price": "14.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "combination",
+          "name": "SHAWARMA & GYRO",
+          "price": "17.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "chicken breast, marinated, grilled",
+          "name": "CHICKEN KABOB",
+          "price": "16.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "beef tenderloin, marinated, grilled",
+          "name": "BEEF KABOB",
+          "price": "21.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "choose two of your favorite kabobs",
+          "name": "COMBINATION KABOB",
+          "price": "21.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": null,
+          "name": "GRILLED ATLANTIC SALMON",
+          "price": "23.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "marinated and grilled",
+          "name": "LAMB CHOPS",
+          "price": "28.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": null,
+          "name": "GRILLED SHRIMP KABOB",
+          "price": "21.99"
+        },
+        {
+          "category": "PLATTERS",
+          "description": "hummus, baba ghanouj, tabbouleh, grape leaves, Greek salad, rice pilaf, fried eggplant, fried cauliflower, spanakopita, stewed okra, roasted potatoes, eggplant stew, mujadra",
+          "name": "VEGETARIAN PLATTER (your choice of four items)",
+          "price": "15.99"
+        }
+      ],
+      "key": "byblos market",
+      "name": "Byblos Market",
+      "sourceURL": "https://www.byblosrestaurants.com/menumarket",
+      "verifiedAt": "2026-11-13T02:10:44+00:00"
     },
     {
       "items": [
