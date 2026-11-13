@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T16:20:25+00:00",
-  "itemCount": 3518,
+  "generatedAt": "2026-11-13T19:38:51+00:00",
+  "itemCount": 3592,
   "schemaVersion": 1,
-  "venueCount": 60,
+  "venueCount": 61,
   "venues": [
     {
       "items": [
@@ -2961,6 +2961,458 @@
       "name": "Causeway Bar & Grill",
       "sourceURL": "https://causewaybarandgrill.com/metairie-causeway-bar-and-grill-food-menu",
       "verifiedAt": "2026-11-13T16:19:44+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Jambalaya Cheese Fries",
+          "price": "$14.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Crawfish Rangoons",
+          "price": "$13.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "W/ chips or pork rinds",
+          "name": "Crawfish Queso",
+          "price": "$14.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "W/ chips or pork rinds",
+          "name": "Spinach & Artichoke Dip",
+          "price": "$13.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Stuffed Crab",
+          "price": "$11.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Buffalo, BBQ, garlic, parmesan, red pepper jelly, lemon pepper, naked",
+          "name": "Chicken Wings",
+          "price": "$13.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Shrimp Cocktail",
+          "price": "$10.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Boudin Balls",
+          "price": "$14.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "W/ marinara dipping sauce",
+          "name": "Mozzarella Bites",
+          "price": "$11.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fried or blackened",
+          "name": "Gator Bites",
+          "price": "$14.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Chicken/Sausage",
+          "name": "Jambalaya Plate",
+          "price": "$14.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Seafood",
+          "name": "Gumbo",
+          "price": "$12.00/$17.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Garlic, tomato parmesan cream sauce.",
+          "name": "Thibodaux Pasta - Catfish",
+          "price": "$16"
+        },
+        {
+          "category": "Entrees",
+          "description": "Garlic, tomato parmesan cream sauce.",
+          "name": "Thibodaux Pasta - Shrimp",
+          "price": "$16"
+        },
+        {
+          "category": "Entrees",
+          "description": "Garlic, tomato parmesan cream sauce.",
+          "name": "Thibodaux Pasta - Chicken",
+          "price": "$16"
+        },
+        {
+          "category": "Entrees",
+          "description": "Garlic, tomato parmesan cream sauce.",
+          "name": "Thibodaux Pasta - Vegetable",
+          "price": "$14"
+        },
+        {
+          "category": "Entrees",
+          "description": "W/ garlic butter over crawfish dirty rice",
+          "name": "Blackened Redfish",
+          "price": "$27.00"
+        },
+        {
+          "category": "Entrees",
+          "description": null,
+          "name": "Crawfish Etouffee",
+          "price": "$18.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "W/ grilled vegetables topped w/ gulf shrimp & crabmeat and lemon, garlic butter sauce.",
+          "name": "Blackened Redfish Pontchartrain",
+          "price": "$32.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served w/ fries or substitute for $3. *Award winning",
+          "name": "Fried Seafood Platter - Catfish",
+          "price": "$17.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served w/ fries or substitute for $3",
+          "name": "Fried Seafood Platter - Shrimp",
+          "price": "$18.00"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served w/ fries or substitute for $3",
+          "name": "Fried Seafood Platter - Oysters",
+          "price": "$19.95"
+        },
+        {
+          "category": "Entrees",
+          "description": "Catfish, shrimp, & oysters",
+          "name": "Fried Seafood Combo Platter w/ Fries",
+          "price": "$32.00"
+        },
+        {
+          "category": "Specialty Menu Items",
+          "description": "Jambalaya, crawfish etouffee, gumbo",
+          "name": "Conflict Resolution Sampler",
+          "price": "$19.00"
+        },
+        {
+          "category": "Specialty Menu Items",
+          "description": "Crawfish etouffee over crawfish dirty rice (JAZZ FEST favorite)",
+          "name": "The 'MESSY CLESI'",
+          "price": "$18.00"
+        },
+        {
+          "category": "Specialty Menu Items",
+          "description": "Over crawfish dirty rice w/ crawfish cream sauce",
+          "name": "Boudin Stuffed Gulf Shrimp",
+          "price": "$20.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Fried Seafood Po-Boy - Catfish",
+          "price": "$11"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Fried Seafood Po-Boy - Shrimp",
+          "price": "$13"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Fried Seafood Po-Boy - Oyster",
+          "price": "$17"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Hot Sausage Po-Boy",
+          "price": "$12.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "Fried or grilled w/ house chipotle mayo",
+          "name": "Alligator Po-Boy",
+          "price": "$14.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "W/ chips",
+          "name": "Muffuletta",
+          "price": "$10.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "2 - \u00bc lb ground beef patties",
+          "name": "Clesi Burger",
+          "price": "$13.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "Hot sausage patty & \u00bc lb beef patty, pepper jack cheese, candied jalapenos, fried onion rings & house chipotle mayo",
+          "name": "Bienville Burger",
+          "price": "$14.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "2 - \u00bc lb ground beef patties, crawfish mac & cheese, & house barbecue sauce",
+          "name": "Crawfish Mac & Cheese Burger",
+          "price": "$14.00"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "Fried or grilled w/ house chipotle mayo, red pepper jelly or mayo",
+          "name": "Chicken Sandwich",
+          "price": "$12.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Iceberg lettuce, red cabbage, cherry tomatoes, cucumbers, cheddar cheese",
+          "name": "House Salad",
+          "price": "$11.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Iceberg lettuce, cherry tomatoes, fresh bacon bits, blue cheese crumbles, drizzled w/ blue cheese dressing",
+          "name": "Wedge Salad",
+          "price": "$14.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Iceberg lettuce, boiled shrimp, boiled egg, croutons, & remoulade dressing",
+          "name": "Shrimp Remoulade Salad",
+          "price": "$15.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine lettuce, croutons, caesar dressing, & parmesan cheese",
+          "name": "Caesar Salad",
+          "price": "$13.00"
+        },
+        {
+          "category": "Oysters",
+          "description": null,
+          "name": "Raw Oysters - Half Dozen",
+          "price": "$14"
+        },
+        {
+          "category": "Oysters",
+          "description": null,
+          "name": "Raw Oysters - Dozen",
+          "price": "$24"
+        },
+        {
+          "category": "Oysters",
+          "description": null,
+          "name": "Charbroiled Oysters - Garlic Parmesan",
+          "price": "$17/$28"
+        },
+        {
+          "category": "Oysters",
+          "description": null,
+          "name": "Charbroiled Oysters - Florentine",
+          "price": "$19/$30"
+        },
+        {
+          "category": "Oysters",
+          "description": null,
+          "name": "Charbroiled Oysters - Candied Jalapeno & Bacon",
+          "price": "$17/$28"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Crawfish",
+          "price": "MKT"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Blue Crab",
+          "price": "$4.50"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Gulf Shrimp",
+          "price": "$8.50/\u00bd lb"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "1/2 lb Snow Crab",
+          "price": "$16.95"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "1 lb Snow Crab & medley",
+          "price": "$39.00"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": "1 lb. shrimp, 2 lb crawfish, 4 corn, 2 sausage, 6 potatoes",
+          "name": "Boil Pot",
+          "price": "$46.00"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": "\u00bd lb. shrimp, 1 lb crawfish, 2 corn, 1 sausage, 4 potatoes",
+          "name": "Boil Platter",
+          "price": "$26.00"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Boil a La Carte - Sausage",
+          "price": "$2.75"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Boil a La Carte - Corn",
+          "price": "$1.25"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Boil a La Carte - Potato",
+          "price": "$0.75"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Boil a La Carte - Garlic",
+          "price": "$1.50"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": null,
+          "name": "Boil a La Carte - Mushrooms",
+          "price": "$2.75"
+        },
+        {
+          "category": "Boiled Seafood",
+          "description": "1 sausage, 2 corn, 3 potatoes",
+          "name": "Boil a La Carte - Medley",
+          "price": "$6.95"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "French Fries",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Onion Rings",
+          "price": "$6.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Jambalaya",
+          "price": "$7.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Crawfish Dirty Rice",
+          "price": "$7.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Crawfish Mac & Cheese",
+          "price": "$8.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": "House or Caesar",
+          "name": "Side Salad",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Pork Rinds",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides & Extras",
+          "description": null,
+          "name": "Grilled Vegetables",
+          "price": "$6.50"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Buttered Noodles",
+          "price": "$9.95"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Chicken Strips",
+          "price": "$9.95"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Clesi Jr. Burger",
+          "price": "$9.95"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Grilled Cheese Sandwich",
+          "price": "$9.95"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Popcorn Shrimp",
+          "price": "$9.95"
+        },
+        {
+          "category": "Clesi's Kids",
+          "description": "W/ fries",
+          "name": "Catfish Nuggets",
+          "price": "$9.95"
+        },
+        {
+          "category": "Desserts",
+          "description": "House toffee sauce, powdered sugar, & whipped cream. *made fresh to order* *add on ice cream $3",
+          "name": "Waffle Iron Bread Pudding",
+          "price": "$10.00"
+        },
+        {
+          "category": "Desserts",
+          "description": "W/ chocolate syrup & whipped cream",
+          "name": "Vanilla Ice Cream",
+          "price": "$6.00"
+        }
+      ],
+      "key": "clesis crawfish catering",
+      "name": "Clesi's Crawfish & Catering",
+      "sourceURL": "https://clesicatering.com/new-orleans-mid-city-clesi-s-seafood-restaurant-and-catering-food-menu",
+      "verifiedAt": "2026-11-13T19:38:11+00:00"
     },
     {
       "items": [
