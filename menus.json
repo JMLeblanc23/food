@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T13:18:15+00:00",
-  "itemCount": 3394,
+  "generatedAt": "2026-11-13T16:20:25+00:00",
+  "itemCount": 3518,
   "schemaVersion": 1,
-  "venueCount": 58,
+  "venueCount": 60,
   "venues": [
     {
       "items": [
@@ -2201,6 +2201,766 @@
       "name": "Byblos Market",
       "sourceURL": "https://www.byblosrestaurants.com/menumarket",
       "verifiedAt": "2026-11-13T02:10:44+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Aperitivos",
+          "description": "Perfectly marinated grilled chicken diced and tossed with our special spices and served in fresh lettuce cups.",
+          "name": "Garcia's Chicken Lettuce Wraps",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "A large, crisp flour tortilla is the base for this exciting start to your meal. Topped with ground beef, cheese, chile ancho sauce, green onions, tomatoes, black olives, jalape\u00f1os, and guacamole. Drizzled with sour cream.",
+          "name": "Deluxe Mexican Pizza",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "From the streets of Cabo comes this delightful mixture of Gulf shrimp and pico de gallo tossed with our very own secret sauce. Served in a tortilla bowl and topped with a slice of avocado.",
+          "name": "Mexican Shrimp Cocktail",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Fresh fish marinated with our special spices and lime juice. Combined with pico de gallo and served in a tortilla bowl, topped with a slice of avocado.",
+          "name": "Ceviche Acapulco-Style",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": null,
+          "name": "Nachos - Cheese & Jalape\u00f1os",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": null,
+          "name": "Nachos - Bean, Cheese & Jalape\u00f1os",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": null,
+          "name": "Nachos - Lump Crabmeat, Shrimp, Cheese & Jalape\u00f1os",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "A mound of \"Casa\"-made corn tortilla chips topped with beans, our own spiced-to-perfection ground beef, Chile ancho sauce, cheese, guacamole, and sour cream. Garnished with tomatoes, green onions, black olives, and sliced jalape\u00f1os.",
+          "name": "Nachos Garcia",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Our famous cheese blended to perfection. Served with fresh \"Casa\"-made tortillas.",
+          "name": "Queso Garcia - Gringo",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Ground beef spiced to perfection. Served with fresh \"Casa\"-made tortillas.",
+          "name": "Queso Garcia - Ranchero",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Spinach and artichokes meet in this intriguing combination. A Garcia family recipe. Served with fresh \"Casa\"-made tortillas.",
+          "name": "Queso Garcia - Iguana",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Marinated fajita-style chicken or beef with caramelized onions. Served with fresh \"Casa\"-made tortillas.",
+          "name": "Queso Garcia - Presidente",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Delivered on a bed of fresh mixed greens with sour cream drizzled on top and served with guacamole.",
+          "name": "Quesadillas - Cheese",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Delivered on a bed of fresh mixed greens with sour cream drizzled on top and served with guacamole.",
+          "name": "Quesadillas - Spinach & Artichoke",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Delivered on a bed of fresh mixed greens with sour cream drizzled on top and served with guacamole.",
+          "name": "Quesadillas - Beef or Chicken Fajita",
+          "price": null
+        },
+        {
+          "category": "Aperitivos",
+          "description": "Delivered on a bed of fresh mixed greens with sour cream drizzled on top and served with guacamole.",
+          "name": "Quesadillas - Lump Crabmeat & Shrimp",
+          "price": null
+        },
+        {
+          "category": "Soups",
+          "description": "This traditional Mexican favorite is sure to please.",
+          "name": "Garcia's Tortilla Soup",
+          "price": null
+        },
+        {
+          "category": "Soups",
+          "description": "Our promise is always fresh and always \"Casa\"-made.",
+          "name": "Sopa del Dia",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "Simple house salad featuring romaine lettuce.",
+          "name": "Tossed Romaine Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "Avocado salad available in small or large.",
+          "name": "Guacamole Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "A giant tortilla bowl filled with our own specially seasoned ground beef or shredded chicken, lettuce, and cheese. Topped with green onions, tomatoes, black olives, and guacamole. Drizzled with sour cream. Choose fajita-style beef or chicken for +$1.00 more.",
+          "name": "Taco Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "A bed of fresh mixed greens with crispy bacon, roasted pecans, and sliced avocados. Topped with slices of perfectly grilled chicken breast. All surrounded by a ring of fresh mandarin slices.",
+          "name": "Dorita's Famous Chicken Mandarin Salad",
+          "price": null
+        },
+        {
+          "category": "Salads",
+          "description": "A bed of fresh mixed greens with grilled chicken, sliced avocados, tomatoes, corn, and black bean relish. Topped with your choice of our \"Casa\"-made dressing and fiesta chips. Choose beer-battered shrimp for +$1.00 more.",
+          "name": "Garcia's Cobb Salad",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "Also known as Taquitos. Three large, rolled corn tortillas filled with choice of shredded beef or chicken, lightly fried and topped with guacamole and sour cream. A great finger food.",
+          "name": "Flautas",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "Also known as Tostadas. Two large, crisp, corn open-faced tortillas topped with beans, ground beef, lettuce, diced tomatoes, grated cheese, guacamole, sour cream, and green onions. An all-time favorite!",
+          "name": "Chalupas",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "A giant flour tortilla filled with beans, cheese, and your choice of ground beef, shredded chicken, or shredded beef. Served plain or enchilada style. Choose fajita-style chicken or beef. Grandioso!",
+          "name": "Burrito Gigante",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "This recipe has been in the family for countless generations. Stuffed with shredded pork, topped with chile ancho sauce, and sprinkled with cheese. The ultimate \"Casa\"-made tamal.",
+          "name": "Mama Sarita's \"Casa\"-Made Tamales",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "Three \"Casa\"-made tacos filled with your choice of shredded beef, ground beef, or chicken. Garnished with lettuce, tomatoes, and cheese.",
+          "name": "Tacos",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "Large flour tortilla filled with our own special seasoned shredded beef (Machaca) or shredded chicken. Lightly fried and covered with our chile ancho sauce or chile con queso sauce and topped with sour cream and guacamole. A specialty from the state of Sonora, Mexico. Choose fajita-style chicken, beef, or pork.",
+          "name": "Chimichanga",
+          "price": null
+        },
+        {
+          "category": "Antojitos",
+          "description": "Three enchiladas prepared with your choice of filling and sauce. Shredded beef in chile ancho sauce; Suizas with tomatillo green sauce; Spinach and artichokes with choice of chile ancho sauce, chile con queso sauce, or Suiza sauce; Shredded chicken with chile con queso cheese and onions with chile ancho sauce. Choose fajita-style chicken, beef, or pork.",
+          "name": "Enchiladas",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Your choice of beef, chicken, or pork tenderloin marinated in our own special blend of select spices and caramelized onion. Delivered to your table on a sizzling hot skillet. Served with guacamole salad, grated cheese, sour cream, pico de gallo, rice, beans, and hot flour tortillas.",
+          "name": "Fajitas Originales - For One",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Your choice of beef, chicken, or pork tenderloin marinated in our own special blend of select spices and caramelized onion. Delivered to your table on a sizzling hot skillet. Served with guacamole salad, grated cheese, sour cream, pico de gallo, rice, beans, and hot flour tortillas.",
+          "name": "Fajitas Originales - For Two",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Tender jumbo shrimp magnificently tossed with caramelized onions. Served with all the trimmings of Fajitas Originales. Fantastico!",
+          "name": "Fajitas del Mar - For One",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Tender jumbo shrimp magnificently tossed with caramelized onions. Served with all the trimmings of Fajitas Originales. Fantastico!",
+          "name": "Fajitas del Mar - For Two",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "12 oz. of chicken breast perfectly marinated and grilled to seal in all the flavors. Topped with caramelized onions and bell peppers. Served on a bed of romaine lettuce with rice, sliced tomatoes, and avocados.",
+          "name": "El Numero Uno",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Butterflied tenderloin steak topped with caramelized onions. Served with one cheese enchilada topped with chile ancho sauce, rice, beans, and choice of soup or salad.",
+          "name": "Steak a la Tampiquena",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "A falling-off-the-plate rack of Danish baby back ribs seasoned to perfection. Slowly cooked, then basted with our special chipotle-based BBQ sauce. Served with rice or French fries.",
+          "name": "Costillas de Monterrey - Half Rack",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "A falling-off-the-plate rack of Danish baby back ribs seasoned to perfection. Slowly cooked, then basted with our special chipotle-based BBQ sauce. Served with rice or French fries.",
+          "name": "Costillas de Monterrey - Full Rack",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Two \"Casa\"-made flour tortillas filled with chunks of marinated tenderloin steak seasoned to perfection. Served with pico de gallo, guacamole salad, sour cream, and black beans.",
+          "name": "Tacos al Carbon Mexico City-Style",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "Large \"Casa\"-made hamburger steak patty topped with cheese. Served with choice of rice or French fries. Sure to please the burger lover.",
+          "name": "Garcia Burger",
+          "price": null
+        },
+        {
+          "category": "La Parrilla",
+          "description": "14 oz. pork chop grilled to perfection with a Jack Daniel's brown sugar sauce. Served on a bed of grilled onions and bell peppers. Served with sweet potato fries and sauteed vegetables.",
+          "name": "Grilled Pork Chop",
+          "price": null
+        },
+        {
+          "category": "Wraps & Tortas",
+          "description": "Your choice of beef, chicken, or pork tenderloin layered in a garlic herb tortilla with lettuce, tomatoes, and caramelized onions. Served with a choice of rice, French fries, or sweet potato fries.",
+          "name": "Sonoran Fajita Wrap",
+          "price": null
+        },
+        {
+          "category": "Wraps & Tortas",
+          "description": "Mexico's version of the Po-Boy. Your choice of beef, chicken, or pork tenderloin stuffed inside a baked roll combined with lettuce, tomatoes, and caramelized onions. Served with a choice of rice, French fries, or sweet potato fries.",
+          "name": "La Torta Loca",
+          "price": null
+        },
+        {
+          "category": "\"Casa\"-Made Specialties",
+          "description": "A delightful combination of mini flautas with guacamole, miniature chimichangas with sour cream, one shredded beef taco, one miniature chalupa, and one \"Casa\"-made tamal with chile ancho sauce, all surrounding a bowl of our unique charro beans.",
+          "name": "The Mexican Sampler",
+          "price": null
+        },
+        {
+          "category": "\"Casa\"-Made Specialties",
+          "description": "One cheese and onion enchilada, one shredded beef enchilada, one \"Casa\"-made beef taco and guacamole salad.",
+          "name": "Combination Selecta",
+          "price": null
+        },
+        {
+          "category": "\"Casa\"-Made Specialties",
+          "description": "One cheese chile relleno, one beef enchilada, one soft chicken fajita taco, and a \"Casa\"-made beef taco. Served with guacamole, sour cream, and pico de gallo.",
+          "name": "El Zacatecas",
+          "price": null
+        },
+        {
+          "category": "\"Casa\"-Made Specialties",
+          "description": "Two large fresh stuffed poblano peppers, dipped in egg batter and lightly fried. One filled with cheese and covered with chile con queso. The other filled with specially seasoned beef and covered with rich Spanish sauce. Both topped with sour cream.",
+          "name": "Chiles Rellenos",
+          "price": null
+        },
+        {
+          "category": "\"Casa\"-Made Specialties",
+          "description": "One chicken enchilada, one cheese and onion enchilada, one beef taco, one \"Casa\"-made tamal, one tostada, and guacamole salad.",
+          "name": "Combination Suprema",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Two enchiladas made with flour tortillas, filled with delicately seasoned lump crabmeat and shrimp, topped with chile con queso sauce, and garnished with sour cream and slices of avocado. Served with two choices: Rice, beans, sauteed vegetables, or Mexican corn.",
+          "name": "Seafood Enchiladas",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Tender jumbo shrimp, marinated in fresh garlic, white wine, olive oil, mushrooms, green onions, and fresh jalape\u00f1o. Then broiled to perfection and served over linguine pasta.",
+          "name": "Pasta Ma\u00f1ana",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Tender jumbo shrimp dancing in a bath of chile ancho sauce, white wine, butter, and fresh cilantro. Served with rice.",
+          "name": "Garcia's Shrimp a la Diabla",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Tender jumbo shrimp marinated in fresh garlic, butter, mushrooms, and green onions, then broiled to perfection. Served with rice.",
+          "name": "Camarones al Mojo de Ajo",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Delicious crispy chimichanga filled with delicately seasoned lump crabmeat and shrimp, topped with chile con queso sauce and garnished with sour cream and slices of avocado. Served with two choices: Rice, beans, sauteed vegetables, or Mexican corn.",
+          "name": "Seafood Chimichanga",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Crab and shrimp enchilada, crispy corn tortilla filled with cheese and shrimp, ceviche tostada, fish fillet, and grilled shrimp with peppers and onions. Served with your choice of two sides: Rice, refried beans, Mexican corn, or grilled vegetables.",
+          "name": "Seafood Sampler",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Three soft corn tortillas filled with grilled fillet of white fish, cooked with wine, onions, cilantro, and other spices. Served with your choice of two sides: Rice, refried beans, Mexican corn, or grilled vegetables.",
+          "name": "Grilled Fish Tacos",
+          "price": null
+        },
+        {
+          "category": "Banquets Del Mar",
+          "description": "Three soft corn tortillas filled with grilled tender shrimp, cooked with wine, onions, cilantro, and other spices. Served with your choice of two sides: Rice, beans, Mexican corn, grilled vegetables, or black beans.",
+          "name": "Grilled Shrimp Tacos",
+          "price": null
+        },
+        {
+          "category": "Para Los Chiquitos",
+          "description": "Choice of one beef taco, one cheese enchilada, one beef burrito, or one tostada. Served with rice and beans.",
+          "name": "El Pepito",
+          "price": null
+        },
+        {
+          "category": "Para Los Chiquitos",
+          "description": "American-style hamburger patty on a toasted bun. Served with French fries.",
+          "name": "El Gringito",
+          "price": null
+        },
+        {
+          "category": "Para Los Chiquitos",
+          "description": "Grilled cheese sandwich served with French fries.",
+          "name": "A la Taylor",
+          "price": null
+        },
+        {
+          "category": "Para Los Chiquitos",
+          "description": "One small cheese quesadilla served with French fries.",
+          "name": "El Tavo",
+          "price": null
+        },
+        {
+          "category": "Para Los Chiquitos",
+          "description": "Served with French fries.",
+          "name": "Chicken Nuggets",
+          "price": null
+        },
+        {
+          "category": "Postres",
+          "description": "Delicious vanilla ice cream, lightly fried. Topped with honey-Kahlua sauce. Served on an apple-cinnamon flavored tortilla.",
+          "name": "Fried Ice Cream",
+          "price": null
+        },
+        {
+          "category": "Postres",
+          "description": "Grandma Garcia's rich caramel custard topped with whipped cream and slivered almonds.",
+          "name": "Sarita's \"Casa\"-Made Flan",
+          "price": null
+        },
+        {
+          "category": "Postres",
+          "description": "A giant flour tortilla stuffed with sliced bananas and a chocolate bar with almonds, then lightly fried to a golden brown and topped with cinnamon powdered sugar. Served with a scoop of vanilla ice cream.",
+          "name": "Chocolate Chimichanga",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "1. One Beef Taco, One Cheese Enchilada, & One Beef Flauta",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "2. Three Beef or Chicken Tacos",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "3. Three Chicken or Beef Flautas",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "4. One Beef Enchilada, One Beef Tamal & One Beef Taco",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "5. One Chicken Enchilada, One Green Corn Tamal & One Chicken Taco",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "6. Two Chalupas",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Plain or Enchilada-style.",
+          "name": "7. Burrito Gigante",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Choice of ground beef, shredded beef, or shredded chicken.",
+          "name": "8. Taco Salad",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Choice of three pork or green corn and served with rice and beans.",
+          "name": "9. Mama Sarita's \"Casa\"-Made Tamales",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Choice of three beef, chicken, cheese, or spinach and artichokes.",
+          "name": "10. Enchiladas",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with french fries or sweet potato fries. Add Cheese +50\u00a2.",
+          "name": "11. \"Casa\"-Made Burger",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Choice of shredded beef or shredded chicken. Served with rice and beans.",
+          "name": "12. One Chimichanga",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Choice of beef, chicken, or pork.",
+          "name": "13. Fajitas Originales",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "14. One Cheese Chile Relleno, One Green Corn Tamal & One Chicken Fajita Taco",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Served with rice and beans.",
+          "name": "15. One Seafood Enchilada & One Chicken Enchilada Suiza (With Green Sauce)",
+          "price": null
+        }
+      ],
+      "key": "casa garcia",
+      "name": "Casa Garcia",
+      "sourceURL": "https://casagarcianola.com/metairie-casa-garcia-food-menu",
+      "verifiedAt": "2026-11-13T16:19:38+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Starters",
+          "description": null,
+          "name": "Chips & Queso",
+          "price": "$6.00"
+        },
+        {
+          "category": "Starters",
+          "description": "Choice of slow roasted Pulled Pork, Chicken: Grilled, Fried or Shredded, or Homemade Chili served with Sour Cream, Queso, and Homemade Pico De Gallo. Add Shrimp for $5.00",
+          "name": "Nachos",
+          "price": "$11.50"
+        },
+        {
+          "category": "Starters",
+          "description": "Made with Homemade Chili",
+          "name": "Chili Cheese Fries",
+          "price": "$10.00"
+        },
+        {
+          "category": "Starters",
+          "description": "Homemade Meatballs, Red Gravy and Mozzarella served with Garlic Bread",
+          "name": "Meatballs (2)",
+          "price": "$11.50"
+        },
+        {
+          "category": "Starters",
+          "description": "Choice of Naked or Tossed with BBQ, Buffalo, Lemon Pepper, or Cajun Seasoning, Served with Ranch, Blue Cheese or mikes Hot honey Dressing.",
+          "name": "CBG Jumbo Wings (8)",
+          "price": "$13.00"
+        },
+        {
+          "category": "Starters",
+          "description": "Served with Mike\u2019s Hot Honey or Ranch",
+          "name": "Boudin Egg Rolls (3)",
+          "price": "$11.00"
+        },
+        {
+          "category": "Starters",
+          "description": "14 inch Mozzarella & pepperoni Pizza",
+          "name": "Happy Italian Pepperoni",
+          "price": "$16.00"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Includes a Side",
+          "name": "Causeway Burger",
+          "price": "$15.00"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Includes a Side",
+          "name": "Bacon Cheddar Burger",
+          "price": "$17.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Patton\u2019s Hot Sausage and Swiss Cheese, includes aside",
+          "name": "Who Dat Burger",
+          "price": "$18.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Homemade Pulled Pork and Ham With mustard & Pickles Pressed. Includes A side",
+          "name": "Cuban Sandwich",
+          "price": "$17.00"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": null,
+          "name": "Patton\u2019s Hot Sausage Poboy",
+          "price": "$15.00"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Homemade Meatballs served with Homemade Gravy and Mozzarella",
+          "name": "Metball Poboy",
+          "price": "$16.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Chicken breast served Grilled or Fried on a Brioche Bun",
+          "name": "Chicken Sandwich",
+          "price": "$15.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Served topped with Homemade Cajun Coleslaw",
+          "name": "BBQ Pulled Pork Sandwich",
+          "price": "$15.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": null,
+          "name": "Fried Shrimp Poboy",
+          "price": "$18.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": null,
+          "name": "Shrimp Basket with Fries",
+          "price": "$18.50"
+        },
+        {
+          "category": "Burgers + Sandwichs",
+          "description": "Served Hot Pressed or Cold. Includes a side",
+          "name": "Ham Poboy.",
+          "price": "$13.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Fried or Grilled",
+          "name": "Chicken Salad",
+          "price": "$12.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Fried or Grilled",
+          "name": "Shrimp Salad",
+          "price": "$15.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Served over a bed of Cajun Coleslaw",
+          "name": "BBQ Pulled Pork Salad",
+          "price": "$15.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Choice of Chicken, Pork or Chili served with Queso, Pico de Gallo and Sour Cream",
+          "name": "Taco Salad",
+          "price": "$12.50"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Shrimp Taco Salad",
+          "price": "$15.50"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "CBG Italian Salad",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Homemade Potato Salad",
+          "price": "$4.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Homemade Coleslaw",
+          "price": "$4.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Homemade Chili",
+          "price": "$5.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "French Fries",
+          "price": "$4.00"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Potato Fries",
+          "price": "$4.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Bacon",
+          "price": "$2.00"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Fried Egg",
+          "price": "$2.00"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "American Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Swiss Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Cheddar Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Mozzarella Cheese",
+          "price": "$1.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Onions",
+          "price": "$0.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Mushrooms",
+          "price": "$0.50"
+        },
+        {
+          "category": "Add On",
+          "description": null,
+          "name": "Jalapenos",
+          "price": "$0.50"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Choice of Hot or Smoked Sausage or Pork Chop, with a House Salad",
+          "name": "Monday \u2022 Red Beans & Rice",
+          "price": "$12.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "3 Street Taco's Choice of Chicken: Grilled, Fried, or Shredded. Slow Roasted Pulled pork , Homemade Chili or for an additional charge of $3 you can add grilled or fried Shrimp.",
+          "name": "Tuesday \u2022 Tacos",
+          "price": "$12.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Choice of Potato Salad, Coleslaw, Fries, or sweet potato Fries.",
+          "name": "Wednesday \u2022 Cuban Sandwich",
+          "price": "$12.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Choose between Spaghetti & Meatballs with Garlic Bread or a Meatball Poboy with side",
+          "name": "Thursday \u2022 Meatball Madness.",
+          "price": "$12.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Made with a Beurre Blanc Wine Sauce, served with Garlic Bread and a House Salad You may also Request a BBQ Shrimp Poboy for the same price including a side.",
+          "name": "Friday \u2022 Shrimp & Grits or BBQ Shrimp Poboy",
+          "price": "$15.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Choice of slow roasted Pulled Pork, Chicken: Grilled, Fried or Shredded, or Homemade Chili served with Sour Cream, Queso, and Homemade Pico De Gallo.",
+          "name": "Saturday \u2022 Nachos",
+          "price": "$10.00"
+        },
+        {
+          "category": "Daily Specials",
+          "description": "Fried Or Grilled on a Brioche Bun with Your choice of side",
+          "name": "Sunday \u2022 Chicken Sandwich",
+          "price": "$12.00"
+        }
+      ],
+      "key": "causeway",
+      "name": "Causeway Bar & Grill",
+      "sourceURL": "https://causewaybarandgrill.com/metairie-causeway-bar-and-grill-food-menu",
+      "verifiedAt": "2026-11-13T16:19:44+00:00"
     },
     {
       "items": [
