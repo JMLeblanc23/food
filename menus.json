@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T16:40:46+00:00",
-  "itemCount": 4074,
+  "generatedAt": "2026-11-14T21:13:15+00:00",
+  "itemCount": 4176,
   "schemaVersion": 1,
-  "venueCount": 67,
+  "venueCount": 68,
   "venues": [
     {
       "items": [
@@ -6353,6 +6353,626 @@
       "name": "Domenica",
       "sourceURL": "https://www.domenicarestaurant.com/menus",
       "verifiedAt": "2026-11-14T16:40:05+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Antojitos Botanas",
+          "description": "our homemade tamale of the day - rotating selection",
+          "name": "Tamales",
+          "price": "$3.50"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "fried corn chips with 2 salsas",
+          "name": "Chips and Salsa",
+          "price": "$5"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "ripe avocado mashed with fresh lime, onion, jalape\u00f1o, cilantro",
+          "name": "Guacamole",
+          "price": "$9"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "roasted poblano strips, caramelized onion and fresh corn in a creamy, cheesy dip served with tortilla chips",
+          "name": "Rajas con Queso",
+          "price": "$9"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": null,
+          "name": "Rajas con Queso - Add Chorizo",
+          "price": "$3"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": null,
+          "name": "Rajas con Queso - Add Seasonal Crabmeat",
+          "price": "$5"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "refried pinto beans topped with chorizo and cotija cheese served with fresh corn chips",
+          "name": "Refritos with Chorizo",
+          "price": "$9"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "fresh gulf fish, baby octopus, and shrimp in a tangy tomato/lime marinade",
+          "name": "Ceviche",
+          "price": "$14"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "3 pork picadillo stuffed hand pies",
+          "name": "Empanadas",
+          "price": "$10"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "romaine, radish, grape tomato, tomatillo, queso fresco, pepitas, chipotle lime vinaigrette",
+          "name": "Ensalada de la Casa",
+          "price": "$9"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": null,
+          "name": "Ensalada de la Casa - Add Grilled Shrimp",
+          "price": "$6"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": null,
+          "name": "Ensalada de la Casa - Add Avocado",
+          "price": "$3"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": null,
+          "name": "Ensalada de la Casa - Add Chicken",
+          "price": "$4"
+        },
+        {
+          "category": "Antojitos Botanas",
+          "description": "garnished with crema, green onion, tortilla strips",
+          "name": "Black Bean Soup",
+          "price": "$6"
+        },
+        {
+          "category": "Desayuno",
+          "description": "two fried eggs over fresh tortillas with black beans, salsa ranchera, queso fresco, pico, cilantro",
+          "name": "Huevos Rancheros",
+          "price": "$10"
+        },
+        {
+          "category": "Desayuno",
+          "description": "casserole of tortillas strips, queso chihuahua, crema, diced poblano, salsa verde, two poached eggs",
+          "name": "Chilaquilles",
+          "price": "$10"
+        },
+        {
+          "category": "Desayuno",
+          "description": "two eggs any style with chorizo potato/poblano hash, and fresh tortillas",
+          "name": "Dos Huevos",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desayuno",
+          "description": "carnitas, potato, egg, pintos, cheese, salsa ranchera, crema and pico",
+          "name": "Breakfast Burrito",
+          "price": "$14"
+        },
+        {
+          "category": "Desayuno",
+          "description": "serranos, chorizo, tomato, and onion with refried bean and corn tortillas",
+          "name": "Huevos a La Mexicana",
+          "price": "$12"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Black Beans",
+          "price": "$4"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Pintos",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Potato/Poblano Hash",
+          "price": "$6"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Cilantro Rice",
+          "price": "$3"
+        },
+        {
+          "category": "Sides",
+          "description": "caramelized plantains with mole sauce",
+          "name": "Platanos",
+          "price": "$5"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Red Rice",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Roasted Veggies",
+          "price": "$6"
+        },
+        {
+          "category": "Platos",
+          "description": "pork shoulder rubbed with achiote and chile paste, braised until perfectly tender with pintos and red rice",
+          "name": "Carnitas",
+          "price": "$20"
+        },
+        {
+          "category": "Platos",
+          "description": "fresh gulf fish pan and smothered with a sauce of tomato, onion, capers, and olives with cilantro/green onion rice and green beans",
+          "name": "Pescado Vera Cruz",
+          "price": "$23"
+        },
+        {
+          "category": "Platos",
+          "description": "gulf shrimp and mixed vegetables saut\u00e9ed in a smoky chipotle and coconut milk sauce with cilantro rice and plantains",
+          "name": "Chipotle Coconut Shrimp",
+          "price": "$21"
+        },
+        {
+          "category": "Platos",
+          "description": "tureen of chile-infused chicken broth with chicken pieces, carrot, potato, chayote, green beans, served with fresh tortillas, cilantro, onion, jalape\u00f1o, and lime on the side - can be prepared vegan",
+          "name": "Caldo de Pollo",
+          "price": "$15"
+        },
+        {
+          "category": "Platos",
+          "description": "10 oz grilled sirloin flap served with spicy sauce, beans, rice, guacamole, and pico",
+          "name": "Carne Asada",
+          "price": "$32"
+        },
+        {
+          "category": "Platos",
+          "description": "roasted pepper stuffed with corn, black beans, squash and pumpkin with red rice and poblano/peanut sauce",
+          "name": "Chiles Rellenos Verduras",
+          "price": "$17"
+        },
+        {
+          "category": "Platos",
+          "description": null,
+          "name": "Chiles Rellenos Verduras - Add Cheese",
+          "price": "$2"
+        },
+        {
+          "category": "Platos",
+          "description": "roasted chicken in housemade mole sauce with tangy slaw and fresh tortillas",
+          "name": "Mole Poblano",
+          "price": "$20"
+        },
+        {
+          "category": "Tacos",
+          "description": null,
+          "name": "Add rice and beans to any plate",
+          "price": "$3"
+        },
+        {
+          "category": "Tacos",
+          "description": "tomatillo/avocado salsa, cilantro, lime onion, queso fresco, jalape\u00f1o",
+          "name": "Chicken Tinga (2)",
+          "price": "$9"
+        },
+        {
+          "category": "Tacos",
+          "description": "chipotle mayo, cabbage slaw, lime, pickled onion, jalape\u00f1o",
+          "name": "Pescado Frito (2)",
+          "price": "$10"
+        },
+        {
+          "category": "Tacos",
+          "description": "grilled chipotle rubbed sirloin with tomatillo/avocado salsa, lime, cilantro, queso fresco, jalape\u00f1o",
+          "name": "Steak (2)",
+          "price": "$12"
+        },
+        {
+          "category": "Tacos",
+          "description": "achiote marinated pork grilled with pineapple cilantro salsa",
+          "name": "Al Pastor (2)",
+          "price": "$9"
+        },
+        {
+          "category": "Tacos",
+          "description": "roasted veggies, black beans, and cheese",
+          "name": "Veggie (2)",
+          "price": "$7"
+        },
+        {
+          "category": "Tacos",
+          "description": "fried shrimp with tamarind and chipotle glaze and carrot mirliton slaw",
+          "name": "Shrimp (2)",
+          "price": "$10"
+        },
+        {
+          "category": "Enchiladas & Quesadillas",
+          "description": "chicken smothered in guajillo sauce and baked with chihuahua cheese",
+          "name": "Chicken and Cheese Enchiladas (3)",
+          "price": "$15"
+        },
+        {
+          "category": "Enchiladas & Quesadillas",
+          "description": "poblano smothered in guajillo sauce and baked with chihuahua cheese",
+          "name": "Cheese and Poblano Enchiladas (3)",
+          "price": "$13"
+        },
+        {
+          "category": "Enchiladas & Quesadillas",
+          "description": "cheese, veggie, side of black bean soup",
+          "name": "Veggie Quesadilla",
+          "price": "$14"
+        },
+        {
+          "category": "Enchiladas & Quesadillas",
+          "description": "with side salad",
+          "name": "Crab and Avocado Quesadilla",
+          "price": "$19"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Eggs (Any Style) & Black Beans",
+          "price": "$4"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Cheese Quesadilla",
+          "price": "$5"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Cheese Quesadilla - Add Chicken",
+          "price": "$1"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Fried Shrimp and Rice",
+          "price": "$7"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Bean, Cheese and Rice Burrito",
+          "price": "$6"
+        },
+        {
+          "category": "Kid's Menu",
+          "description": null,
+          "name": "Bean, Cheese and Rice Burrito - Add Chicken",
+          "price": "$1"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Coffee Flan",
+          "price": "$6.50"
+        },
+        {
+          "category": "Dessert",
+          "description": "with churros",
+          "name": "Mexican Chocolate Mousse",
+          "price": "$9"
+        },
+        {
+          "category": "Dessert",
+          "description": null,
+          "name": "Rum Cake",
+          "price": "$7"
+        },
+        {
+          "category": "Dessert",
+          "description": "3 churros",
+          "name": "Churros",
+          "price": "$5"
+        },
+        {
+          "category": "Happy Hour",
+          "description": "half-priced",
+          "name": "Half off house margaritas",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Beet infused Tequila, fresh lime & rosemary simple syrup",
+          "name": "Bayona's Beetnik",
+          "price": "$12"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Agavales Anejo, D'Aristi Xtabent\u00fan, Lemon & Bitters",
+          "name": "Yucatan Sazerac",
+          "price": "$14"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Lavender infused tequila with homemade lemonade",
+          "name": "Lavender Lemonade",
+          "price": "$12"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Housemade Horchata with Spiced Rum",
+          "name": "Garceta",
+          "price": "$10"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Mezcal, Agua de Jamaica, lime juice & ginger beer",
+          "name": "El Diablo",
+          "price": "$12"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Reposado Tequila, fresh grapefruit juice, fresh lime juice, topped with cava",
+          "name": "Paloma Jarana",
+          "price": "$12"
+        },
+        {
+          "category": "Cocktails",
+          "description": "Sotol, Tepache, Lime, Ginger Ale & Mint",
+          "name": "Phoenix Spicy Pineapple",
+          "price": "$11"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Sangria Glass",
+          "price": "$9"
+        },
+        {
+          "category": "Cocktails",
+          "description": null,
+          "name": "Sangria Pitcher",
+          "price": "$32"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Cafayete Chardonnay Glass",
+          "price": "$9"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Cafayete Chardonnay Bottle",
+          "price": "$30"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Cafayete Cabernet Sauvignon Glass",
+          "price": "$9"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Cafayete Cabernet Sauvignon Bottle",
+          "price": "$32"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Sparkling Brut Glass",
+          "price": "$8"
+        },
+        {
+          "category": "Wine",
+          "description": null,
+          "name": "Yucatecan Spritz Glass",
+          "price": "$11"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Corona",
+          "price": "$6"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Pacifico",
+          "price": "$7"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Negra Modelo",
+          "price": "$6"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Modelo Especial",
+          "price": "$6"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Tecate",
+          "price": "$5"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "High Life",
+          "price": "$4"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Dos Equis",
+          "price": "$6"
+        },
+        {
+          "category": "Beers",
+          "description": null,
+          "name": "Bohemia",
+          "price": "$6"
+        },
+        {
+          "category": "Margaritas",
+          "description": "Jarana Silver Tequila, Housemade Limeade",
+          "name": "House Margarita (Rocks or Frozen) Glass",
+          "price": "$10"
+        },
+        {
+          "category": "Margaritas",
+          "description": "Jarana Silver Tequila, Housemade Limeade",
+          "name": "House Margarita (Rocks or Frozen) Pitcher",
+          "price": "$35"
+        },
+        {
+          "category": "Margaritas",
+          "description": "El Luchador Silver Tequila, Housemade Limeade",
+          "name": "Call Margarita Glass",
+          "price": "$12"
+        },
+        {
+          "category": "Margaritas",
+          "description": "El Luchador Silver Tequila, Housemade Limeade",
+          "name": "Call Margarita Pitcher",
+          "price": "$45"
+        },
+        {
+          "category": "Margaritas",
+          "description": "123 Blanco Premium Organic Tequila, Fresh Lime Juice, Orang'Ville Liqueur",
+          "name": "Top Shelf Margarita Glass",
+          "price": "$15"
+        },
+        {
+          "category": "Margaritas",
+          "description": "123 Blanco Premium Organic Tequila, Fresh Lime Juice, Orang'Ville Liqueur",
+          "name": "Top Shelf Margarita Pitcher",
+          "price": "$50"
+        },
+        {
+          "category": "Margaritas",
+          "description": null,
+          "name": "Frozen Watermelon Margarita",
+          "price": "$10"
+        },
+        {
+          "category": "Eye Openers",
+          "description": null,
+          "name": "Bloody Mary or Maria",
+          "price": "$9"
+        },
+        {
+          "category": "Eye Openers",
+          "description": null,
+          "name": "Mimosa",
+          "price": "$9"
+        },
+        {
+          "category": "Eye Openers",
+          "description": null,
+          "name": "Tepache",
+          "price": "$8"
+        },
+        {
+          "category": "Eye Openers",
+          "description": null,
+          "name": "Michelada",
+          "price": "$8"
+        },
+        {
+          "category": "Beverages",
+          "description": "Mexican Coke, Sprite, Fanta, Jarritos, Barq's Root Beer",
+          "name": "Mexican Sodas",
+          "price": "$3"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Topo Chico",
+          "price": "$3"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "French Truck Coffee",
+          "price": "$2.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "French Truck Cold Brew",
+          "price": "$3.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Horchata Latte",
+          "price": "$4"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Iced Tea",
+          "price": "$2"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Hot Tea",
+          "price": "$2"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Orange Limeade",
+          "price": "$3"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Horchata",
+          "price": "$4"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Agua De Jamaica",
+          "price": "$4"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Arnoldo Palmer",
+          "price": "$3"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Fresh OJ",
+          "price": "$3"
+        }
+      ],
+      "key": "el pavo real",
+      "name": "El Pavo Real",
+      "sourceURL": "https://www.elpavorealnola.com/menus/",
+      "verifiedAt": "2026-11-14T21:12:27+00:00"
     },
     {
       "items": [
