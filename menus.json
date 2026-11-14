@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T01:28:59+00:00",
-  "itemCount": 3800,
+  "generatedAt": "2026-11-14T13:38:29+00:00",
+  "itemCount": 3986,
   "schemaVersion": 1,
-  "venueCount": 64,
+  "venueCount": 66,
   "venues": [
     {
       "items": [
@@ -4685,6 +4685,1138 @@
       "name": "Crescent City Steak House",
       "sourceURL": "https://crescentcitysteaks.com/menu/",
       "verifiedAt": "2026-11-14T01:28:40+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Cocktails",
+          "description": "Organic Agave, Pineapple, Fresh Lime, St. Elderflower, Lime Oil & Jalape\u00f1o-infused house Tequila",
+          "name": "Bad Mama-San",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Cantaloupe, Mint, Fresh Lime, Oleo Saccharin syrup, Midori, Bacardi, & Soda",
+          "name": "Can't-Elope Mojito",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Demerara Gomme, Japanese Chili-Lime bitters, Kamiki Cedar Whisky",
+          "name": "Cedar Old-Fashioned",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Blackcurrant, Oleu Saccharin, Fresh Lemon Juice, Lychee Sake, Skyy Pear",
+          "name": "Dragonberry",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "House Ginger Syrup, Strawberries, Cucumber, Mint, Fresh Lime, Haku Vodka, Fever Tree Ginger Beer",
+          "name": "Haku Rainforest",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Calpico, House Raspberry Syrup, Fresh Lemon, Elderflower, Iwai Whisky",
+          "name": "Kawaii Lwai",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Butterfly Pea, Mizu Lemongrass Shochu, Ki No Bi: Kyoto Dry Gin, Fresh Lemon Juice",
+          "name": "Kyoto Galaxy",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Aperol, Punt E Mes, House Orange bitters-blend, Suntory Toki Whisky",
+          "name": "Men From 1923",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Matcha, Honey, Fresh Lemon Juice, Suntory Roku Gin, Egg White",
+          "name": "Roku Tea Garden",
+          "price": null
+        },
+        {
+          "category": "Cocktails",
+          "description": "Joto Yuzu, Lychee Syrup, Zonin Cuvee 1821 Prosecco",
+          "name": "Yuzu 75",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "a sweet, Plum whisky made with Rock Sugar",
+          "name": "Akashi Ume Japanese Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Toffee, Tobacco, Cinnamon notes w. balanced aftertaste",
+          "name": "Akashi White Oak Japanese Blended Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Summer Fruits, Oak Malt, & Smoky notes w. Lemon Zest flavor spiral",
+          "name": "Hakushu Single Malt 12yr Japanese Malt Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Custard, Autumn Fruits, & Honey notes w.a tender finish",
+          "name": "Hibiki Harmony Japanese Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Bourbon-inspired- Nutty with Red Fruit notes & a sweet finish",
+          "name": "Iwai Mars Japanese Malt Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Toffee, Honey, Cherry, & Ginger spiced notes w. a crisp finish",
+          "name": "Iwai Tradition Japanese Malt Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "Mizunara Oak Cast- Bananas & Agave Syrup notes w. sweet finish",
+          "name": "Kaiyo Japanese Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "finished in Cedar flasks- Frankincense, Cloves, Wood notes",
+          "name": "Kamiki Japanese Malt Whisky",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "London Dry Gin~ Cypress, Ginger, Green Tea, Juniper, Yuzu flavor notes",
+          "name": "Ki No Bi: Kyoto Dry Gin",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "natural floral sweetness of Rice, Dried Fruits, and Ginger Notes",
+          "name": "Suntory Haku Vodka",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "pepper, botanicals, bitter and cherry flavor notes",
+          "name": "Suntory Roku Classic Gin",
+          "price": null
+        },
+        {
+          "category": "Japanese Liquor",
+          "description": "sweet, rounded blend w. citrus notes & a spicy finish",
+          "name": "Suntory Toki Japanese Blended Whisky",
+          "price": null
+        },
+        {
+          "category": "Hot Sake",
+          "description": null,
+          "name": "Hot Sake (Sm or Lg)",
+          "price": null
+        },
+        {
+          "category": "Hot Sake",
+          "description": "Raspberry-flavored Hot Sake",
+          "name": "Purple Haze Sake (Sm or Lg)",
+          "price": null
+        },
+        {
+          "category": "Hot Sake",
+          "description": "Elderflower-flavored Hot Sake",
+          "name": "Sake Blossom (Sm or Lg)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "750ml, 15.6% alc",
+          "name": "Gekkeikan Black and Gold (Premium)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "Fruit, 13% alc",
+          "name": "Gekkeikan Imported Plum Wine (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "300ml, 14.7% alc",
+          "name": "Hakushika Snow Beauty Nigori (Unfiltered Junmai)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "Fruit, 8% alc",
+          "name": "Hana Lychee (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "Fruit, 8% alc",
+          "name": "Hana Peach White (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "300ml, 5% alc",
+          "name": "Kotsuzumi Shower of Blossom (Premium)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "300ml, 5% alc",
+          "name": "Marumoto Hana Hou Hou Shu (Sparkling Rose)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "Undiluted, 18% alc, 300ml Bottle",
+          "name": "Momokawa G Joy Premium (Sm or Lg)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "720ml, 15% alc",
+          "name": "Nakao Maboroshi (Junmai Ginjo Sake)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "250ml, 7% alc",
+          "name": "Ozeki Hana Fuga Peach Sparkling (Fruit Sparkling)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "250ml, 7% alc",
+          "name": "Ozeki Hana Fuga Yuzu Sparkling (Sparkling)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "375ml, 14.5% alc",
+          "name": "Ozeki Nigori (Unfiltered Junmai)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "720ml, 16% alc",
+          "name": "Ozeki Osakaya Chobei (Junmai Daiginjo)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "750ml, 15.8% alc",
+          "name": "Ozeki Rai (Junmai)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": "237ml, 16% alc",
+          "name": "Proper Sake The Diplomat Craft Nigori (Unfiltered Junmai)",
+          "price": null
+        },
+        {
+          "category": "Cold Sake",
+          "description": null,
+          "name": "Shimizo-No-Mai Pure Dusk (Junmai Daiginjo)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Napa Valley, CA",
+          "name": "Caymus Vineyards Cabernet Sauvignon (Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "California",
+          "name": "Josh Cellars, Legacy Blend (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Sonoma Country, CA",
+          "name": "Kunde Estate Zinfandel (Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Sonoma Country, CA",
+          "name": "Louis M. Martini Napa Valley Cabernet Sauvignon (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Sonoma Country, CA",
+          "name": "Macmurray Pinot Noir (Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Napa Valley, CA",
+          "name": "Rickshaw Pinot Noir (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Sonoma Country, CA",
+          "name": "Sebastiani Cabernet Sauvignon (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "Napa Valley, CA",
+          "name": "Stags Leap Petite Sirah (Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - Red",
+          "description": "California",
+          "name": "The Prisoner (Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "Napa Valley, CA",
+          "name": "Conundrum California White (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "Central Coast/Monterey, CA",
+          "name": "Firestone Riesling 2012 (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "Sonoma Country, CA",
+          "name": "Kendall Jackson Chardonnay (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "Sonoma Country, CA",
+          "name": "La Crema Monterey Pinot Gris (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "Napa Valley, CA",
+          "name": "Sterling Vintner's Collection Pinot Grigio (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": null,
+          "name": "The Crossings Sauvignon Blanc (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Wine - White",
+          "description": "California",
+          "name": "The Snitch (Bt)",
+          "price": null
+        },
+        {
+          "category": "Ros\u00e9",
+          "description": "Provence",
+          "name": "Chateau d'Eslans Whispering Angel Rose (Gl or Bt)",
+          "price": null
+        },
+        {
+          "category": "Sparkling",
+          "description": null,
+          "name": "Cavicchioli Prosecco (Bt)",
+          "price": null
+        },
+        {
+          "category": "Sparkling",
+          "description": "Champagne",
+          "name": "Moet & Chandon Champagne Brut Imperial 1995 (Bt)",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Asahi Super Dry",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Elysian Space Dust",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Kirin Ichiban",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Michelob Ultra",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Parish Canebrake",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Sapporo Premium",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Stella Artois Lager",
+          "price": null
+        },
+        {
+          "category": "Draft Beer",
+          "description": null,
+          "name": "Yuengling Lager",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Abita Purple Haze",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Angry Orchard Crisp Apple Cider",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Blue Moon Belgian White",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Bud Light",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Coors Light",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Corona Extra",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Dos Equis Lager",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Heineken",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Kirin Ichiban 22oz",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Leinenkugel's Grapefruit Shandy",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Miller Lite",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Modelo Especial",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Sapporo Premium 20oz",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Sapporo Premium Light",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Sapporo Reserve",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Tiger Beer",
+          "price": null
+        },
+        {
+          "category": "Bottled Beer",
+          "description": null,
+          "name": "Tsingtao",
+          "price": null
+        },
+        {
+          "category": "Soup",
+          "description": "Tofu, Seaweed, and Scallions in a Soy Bean Broth",
+          "name": "Miso Soup",
+          "price": "3.85"
+        },
+        {
+          "category": "Soup",
+          "description": "Clear Broth w. Mushrooms, Noodles, and Scallions",
+          "name": "Clear Soup",
+          "price": "3.85"
+        },
+        {
+          "category": "Soup",
+          "description": "Clear Broth w. Shrimp or Pork (Choose 1) Dumplings and Scallions",
+          "name": "Gyoza Soup",
+          "price": "6.50"
+        },
+        {
+          "category": "Soup",
+          "description": "Assorted Seafood and Vegtables in Fish Stock",
+          "name": "Seafood Soup (For Two)",
+          "price": "12.95"
+        },
+        {
+          "category": "Soup",
+          "description": "Clams, and Scallions cooked w. Sake in Miso Soup",
+          "name": "Clam Soup (For Two)",
+          "price": "12.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Octopus mixed w. Korean Spicy Kimchee Sauce, Spring Mix, Cucumbers, topped w. Sesame Seeds and Green Onions",
+          "name": "Kimchee Octopus Salad",
+          "price": "10.25"
+        },
+        {
+          "category": "Salad",
+          "description": "Fresh Cubed Salmon mixed w. Avo, House Salad, Sweet Wasabi Mayo, topped w. Smelt Roe and Sesame Seeds",
+          "name": "Poke Salmon Salad",
+          "price": "10.25"
+        },
+        {
+          "category": "Salad",
+          "description": "Shredded Crab Meat mixed w. Cucumbers, Smelt Roe, and Mayo",
+          "name": "Smelt Roe Crab Meat Salad",
+          "price": "7.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Assorted Sashimi mixed w. Spring Mix, Cucumbers, Cilantro, Spicy Ponzu Dressing, and Smelt Roe on top",
+          "name": "Ceviche Salad",
+          "price": "14.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Assorted Sashimi mixed w. Cucumbers, Japanese Wasabi Yuzu Dressing, and Smelt Roe on top",
+          "name": "Cucumber Seafood Salad",
+          "price": "14.75"
+        },
+        {
+          "category": "Salad",
+          "description": "BBQ Eel, Cucumber, and Avocado, w. Eel Sauce, Smelt Roe, Sesame Seeds on top",
+          "name": "BBQ Eel Salad",
+          "price": "12.50"
+        },
+        {
+          "category": "Salad",
+          "description": "Seared Tuna w. House Salad, Spicy Ponzu Dressing, Smelt Roe, Sesame Seeds, and Green Onions on top",
+          "name": "Tuna Tataki Salad",
+          "price": "15.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Cucumber mixed with Ponzu Sauce, topped with Dried Japanese Fish Flakes, Smelt Roe, and Sesame Seeds",
+          "name": "Cucumber Salad",
+          "price": "6"
+        },
+        {
+          "category": "Salad",
+          "description": "Snow Crab w. Avocado and Smelt Roe on top",
+          "name": "Snow Crab Salad",
+          "price": "7.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Cubed Tuna mixed w. Spring Mix, Cucumber, Eel Sauce, Sesame Oil, topped w. Smelt Roe, Sesame Seeds",
+          "name": "Poke Tuna Salad",
+          "price": "10.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Japanese Pickled Seaweed w. House Salad and Sesame Seed",
+          "name": "Seaweed Salad",
+          "price": "7.25"
+        },
+        {
+          "category": "Salad",
+          "description": "Japanese marinated seasoned Squid w. House Salad and Sesame Seeds",
+          "name": "Squid Salad",
+          "price": "7.25"
+        },
+        {
+          "category": "Salad",
+          "description": "Romaine Lettuce mixed w. Red Onions, Carrots, and House Champagne Dressing",
+          "name": "House Salad",
+          "price": "3.95"
+        },
+        {
+          "category": "Salad",
+          "description": "Crispy Salmon Skin mixed w. Cucumbers, Smelt Roe, topped w. Dried Japanese Fish Flakes, and Ponzu Sauce",
+          "name": "Salmon Skin Salad",
+          "price": "8.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Sashimi assortment of Salmon, Tuna, White Fish, and Crab Stick (2 pcs of each)",
+          "name": "Sashimi Appetizer",
+          "price": "12.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "3 pcs of Shrimp Tempura and 4 pcs of Vegetable Tempura served w. Tempura Sauce",
+          "name": "Shrimp Tempura Appetizer",
+          "price": "10.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "10 pc Assortment of Broccoli Tempura, Sweet Potato Tempura, and Zucchini Tempura",
+          "name": "Vegetable Tempura Appetizer",
+          "price": "9.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "4 pcs of deep fried Smoked Salmon and Cream Cheese wrapped w. Seaweed, served w. Tempura Sauce",
+          "name": "Smoked Salmon Cream Cheese Tempura",
+          "price": "10.95"
+        },
+        {
+          "category": "Appetizer",
+          "description": "10 pcs of deep fried Crab Stick served w. Tempura Sauce",
+          "name": "Crab Stick Tempura",
+          "price": "8.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "4 pcs of deep fried Snow Crab Balls served with Sweet Chili Sauce",
+          "name": "Snow Crab Tempura",
+          "price": "9.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Deep fried Squid w. House Special Pineapple Sauce",
+          "name": "Calamari",
+          "price": "10.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Whole piece of Squid pan seared w. Teriyaki Sauce",
+          "name": "Squid Steak",
+          "price": "15.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Deep fried crispy, Japanese Hiroshima Oysters",
+          "name": "Hiroshima Oyster Appetizer",
+          "price": "10.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "1 pc of Baked Salmon and Snow Crab w. Eel Sauce",
+          "name": "Baked Salmon",
+          "price": "12.75"
+        },
+        {
+          "category": "Appetizer",
+          "description": "4 pcs of Baked Green Mussels w. Smelt Roe and Mayo",
+          "name": "Baked Green Mussels",
+          "price": "8.95"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Broiled Yellow Tail Neck w. Ponzu Sauce",
+          "name": "Hamachi Kama",
+          "price": "16.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Pan seared Shrimp or Pork Dumpling (Choose 1) w. Ponzu Sauce",
+          "name": "Gyoza",
+          "price": "8.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Grilled sliced Medium-Well Beef, rolled w. Scallions, in Teriyaki Sauce",
+          "name": "Beef Negimaki (Medium Well)",
+          "price": "12.75"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Grilled thinly sliced Medium-Well Beef, w. Spicy Ponzu Sauce, Red Onions, Cilantro, and Sesame Seeds on top",
+          "name": "Beef Tataki (Medium Rare)",
+          "price": "10.95"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Deep Fried boneless Chicken marinated in Sesame Sauce, topped w. Sesame Seeds",
+          "name": "Sesame Seed Chicken",
+          "price": "9.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "4 pcs of fried Spring Rolls w. Pork and Vegetables inside",
+          "name": "Spring Roll",
+          "price": "8.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Boiled Green Soy Beans",
+          "name": "Edamame (Non-Spicy)",
+          "price": "6.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Boiled Green Soy Beans",
+          "name": "Edamame (Spicy)",
+          "price": "7.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "breaded Tofu garnished w. Dried Japanese Fish Flakes, Green Onions, served w. Tempura Sauce",
+          "name": "Age Dashi Tofu",
+          "price": "8.75"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Bay Scallop baked w. Needle Mushroom by Garlic Butter Sauce",
+          "name": "Baked Scallop w. Garlic Butter Sauce",
+          "price": "16.25"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Baked Tortilla topped w. Snow Crab, Tuna, Salmon, Avo, Smelt Roe, w. Eel Sauce, Spicy Mayo, and Wasabi Mayo",
+          "name": "Japanese Sashimi Pizza",
+          "price": "11.95"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Chopped Salmon mixed w. Smelt Roe and Scallion, topped w. Champagne Sauce, Salmon Roe, Lemon Slices",
+          "name": "King Salmon Tartare",
+          "price": "11.75"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Boneless Chicken deep fried w. Japanese Spicy Nanami Seasoning till golden crispy",
+          "name": "Nanami Chicken Nuggets",
+          "price": "9.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Select Well-Done Beef rolled w. Japanese Needle Mushroom in Teriyaki Sauce",
+          "name": "Needle M. Beef Negimaki",
+          "price": "12.50"
+        },
+        {
+          "category": "Appetizer",
+          "description": "Jumbo Shrimp Tempura topped w. Wasabi Mayo and Almond Crumbs",
+          "name": "Wasabi Almond Shrimp",
+          "price": "10.75"
+        },
+        {
+          "category": "Noodles",
+          "description": "Japanese thick Udon Noodles pan fried w. Beef, Seafood, or Chicken (Choose 1), and Vegetables",
+          "name": "Yaki Udon",
+          "price": "15.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Japanese thin Egg Noodles pan fried w. Beef, Seafood, or Chicken (Choose 1), with Cabbages & Scallions",
+          "name": "Yaki Soba",
+          "price": "15.50"
+        },
+        {
+          "category": "Noodles",
+          "description": "Japanese thick Udon Noodles Soup w. 3 pc Shrimp Tempura, 4 pc Vegetable Tempura, and Scallions",
+          "name": "Tempura Udon Soup",
+          "price": "14.75"
+        },
+        {
+          "category": "Noodles",
+          "description": "Japanese thick Udon Noodles pan fried w. Beef, Seafood, or Chicken (Choose 1), and Cabbage in a Korean Spicy Kimchee Sauce, w. Cabbages and Scallions",
+          "name": "Kimchee Yaki Udon",
+          "price": "15.95"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, Vegetables, and BBQ Eel",
+          "name": "BBQ Eel Hibachi Rice",
+          "price": "11.50"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, Vegetables, and Shrimp",
+          "name": "Shrimp Hibachi Rice",
+          "price": "10.50"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, Vegetables, and Scallop",
+          "name": "Scallop Hibachi Rice",
+          "price": "11.75"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, Vegetables, and Chicken",
+          "name": "Chicken Hibachi Rice",
+          "price": "9.75"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, Vegetables, and Beef",
+          "name": "Beef Hibachi Rice",
+          "price": "11.50"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Japanese style fried Rice w. Egg, and Vegetables",
+          "name": "Egg & Veg Hibachi Rice",
+          "price": "8"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Tuna, Salmon, Yellow Tail, White Fish, Shrimp, Crab Stick, Octopus, Mackeral, Egg, Salmon Roe, and Smelt Roe served over Sushi Rice",
+          "name": "Chirashi Don",
+          "price": "25.75"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Tuna, Salmon, White Fish, Japanese Scallop, Sweet Shrimp, Smelt Roe over Sushi Rice",
+          "name": "Hokkaido Chirashi",
+          "price": "18.95"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Poke Tuna, Salmon, Yellow Tail, BBQ Eel, Egg Tamago, Avo, Smelt Roe, Salmon Roe, Wasabi Tobiko, Fresh Wasabi, Sesame Seeds, on top of Sushi Rice w. Eel Sauce and Wasabi Mayo",
+          "name": "Super Poke Bowl",
+          "price": "23.95"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "Fried Breaded Chicken w. Egg and Onion Sauce, served over Rice w. Scallions",
+          "name": "Chicken Katsu Don",
+          "price": "12.95"
+        },
+        {
+          "category": "Rice & Bowls",
+          "description": "BBQ Eel, Cucumber, Smelt Roe served over Rice w. Furikake and Eel Sauce",
+          "name": "Unagi Don",
+          "price": "23"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Tuna Sashimi",
+          "price": "16.25"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Salmon Sashimi",
+          "price": "15.95"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Yellow Tail Sashimi",
+          "price": "16.75"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "White Tuna/Escolar Sashimi",
+          "price": "15.95"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "White Fish/Tilapia Sashimi",
+          "price": "14"
+        },
+        {
+          "category": "Sashimi",
+          "description": "Tuna, Salmon, and Yellow Tail",
+          "name": "Triple Color Sashimi",
+          "price": "17.75"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Tuna Tataki Sashimi",
+          "price": "16.95"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Octopus Sashimi",
+          "price": "15.75"
+        },
+        {
+          "category": "Sashimi",
+          "description": "7-10 pcs",
+          "name": "Mackerel Sashimi",
+          "price": "14.50"
+        },
+        {
+          "category": "Sashimi",
+          "description": "White Fish Sashimi served w. Japanese Wasabi Yuzu Dressing, Sea Salt, Black Pepper, Smelt Roe, and Green Onions",
+          "name": "Sea Salt White Fish Sashimi",
+          "price": "15.95"
+        },
+        {
+          "category": "Sashimi",
+          "description": "Pepper Tuna Sashimi w. Fresh Wasabi on Top",
+          "name": "Pepper Tuna w. Fresh Wasabi",
+          "price": "17.50"
+        },
+        {
+          "category": "Sashimi",
+          "description": "Seared Salmon, White Fish, Japanese Scallop, Sweet Shrimp Sushi",
+          "name": "Grilled Sushi Imperial",
+          "price": "16.95"
+        },
+        {
+          "category": "Sashimi",
+          "description": "Jumbo Japanese Scallop w. Smelt Roe and Green Onions on Top",
+          "name": "Seared Japanese Scallop Sushi",
+          "price": "10.75"
+        },
+        {
+          "category": "Sashimi",
+          "description": "Chopped Yellow Tail Mixed w. Fresh Wasabi, Wasabi Tobiko on Top",
+          "name": "Special Yellow Tail Sushi",
+          "price": "8.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Tuna Sushi",
+          "price": "7.50"
+        },
+        {
+          "category": "Sushi",
+          "description": "wrapped in Seaweed",
+          "name": "Spicy Tuna Sushi",
+          "price": "6.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Tuna Tataki Sushi",
+          "price": "7.75"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Salmon Sushi",
+          "price": "6.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "wrapped in Seaweed",
+          "name": "Spicy Salmon Sushi",
+          "price": "6.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Smoked Salmon Sushi",
+          "price": "6.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Yellow Tail (Hamachi) Sushi",
+          "price": "7.25"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "White Tuna/Escolar Sushi",
+          "price": "6.25"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "White Fish/Tilapia Sushi",
+          "price": "5.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Mackeral Sushi",
+          "price": "5"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Shrimp (Ebi) Sushi",
+          "price": "5.95"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Sweet Shrimp (Ama Ebi) Sushi",
+          "price": "9.50"
+        },
+        {
+          "category": "Sushi",
+          "description": "2 pc",
+          "name": "Shrimp Tempura Sushi",
+          "price": "7"
+        },
+        {
+          "category": "Sushi",
+          "description": "wrapped in Seaweed",
+          "name": "Squid Sushi",
+          "price": "6.75"
+        },
+        {
+          "category": "Sushi",
+          "description": "wrapped in Seaweed",
+          "name": "Octopus Sushi",
+          "price": "6.75"
+        },
+        {
+          "category": "Sushi",
+          "description": "wrapped in",
+          "name": "Crab Stick Sushi",
+          "price": null
+        }
+      ],
+      "key": "daiwa",
+      "name": "Daiwa",
+      "sourceURL": "https://www.daiwasushi.com/metaire/menus/",
+      "verifiedAt": "2026-11-14T13:37:43+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Menu",
+          "description": "A seasonal multi-course pescatarian tasting menu features rich, bold and aromatic flavors of Senegalese food and tells the story of the deep cultural connection between Senegambia and New Orleans through food.",
+          "name": "Tasting Menu",
+          "price": "$195 USD per person"
+        },
+        {
+          "category": "Menu",
+          "description": "Enhance your dining experience with a sommelier-curated wine pairing thoughtfully selected to complement each course. Available to add when making your reservation or during your visit.",
+          "name": "Wine Pairing",
+          "price": "$130 USD per person"
+        },
+        {
+          "category": "Menu",
+          "description": "Enjoy a zero-proof pairing featuring seasonal ingredients, designed to complement each course. Available to add when making your reservation or during your visit.",
+          "name": "Non-Alcoholic Pairing",
+          "price": "$75 USD per person"
+        },
+        {
+          "category": "Menu",
+          "description": "Select both to enjoy throughout your meal. Available to add when making your reservation or during your visit.",
+          "name": "Wine and Non-Alcoholic Pairing",
+          "price": "$180 USD per person"
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Welcome Tea",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Bread Course",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Bounty of the Gulf: Shrimp Course",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Farmers\u2019 Market Salad",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Bounty of the Gulf: Fish Course",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Louisiana Rice Course",
+          "price": null
+        },
+        {
+          "category": "Example Tasting Menu",
+          "description": null,
+          "name": "Dessert",
+          "price": null
+        }
+      ],
+      "key": "dakar nola",
+      "name": "Dakar NOLA",
+      "sourceURL": "https://www.dakarnola.com/tasting-menu",
+      "verifiedAt": "2026-11-14T13:37:45+00:00"
     },
     {
       "items": [
