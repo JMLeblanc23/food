@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T13:38:29+00:00",
-  "itemCount": 3986,
+  "generatedAt": "2026-11-14T16:40:46+00:00",
+  "itemCount": 4074,
   "schemaVersion": 1,
-  "venueCount": 66,
+  "venueCount": 67,
   "venues": [
     {
       "items": [
@@ -5817,6 +5817,542 @@
       "name": "Dakar NOLA",
       "sourceURL": "https://www.dakarnola.com/tasting-menu",
       "verifiedAt": "2026-11-14T13:37:45+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Salumi",
+          "description": null,
+          "name": "Salumi (one)",
+          "price": "18"
+        },
+        {
+          "category": "Salumi",
+          "description": null,
+          "name": "Salumi (three)",
+          "price": "30"
+        },
+        {
+          "category": "Salumi",
+          "description": null,
+          "name": "Salumi (five)",
+          "price": "40"
+        },
+        {
+          "category": "Salumi",
+          "description": "La Torre, 24 months, Parma",
+          "name": "Prosciutto di Parma",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "Golfera Chiara, pistachio, Emilia Romagna",
+          "name": "Mortadella",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "Fra' Mani, black pepper, Berkeley CA",
+          "name": "Salame Salametto",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "Fra' Mani, clove, Berkeley CA",
+          "name": "Salame Soppressata",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "Giorgios, spicy, spreadable, Chicago IL",
+          "name": "Salame 'Nduja",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "creamy, rich, Domenica",
+          "name": "Chicken Liver Pat\u00e9",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "River Bear Meats, pork shoulder, Denver CO",
+          "name": "Coppa",
+          "price": null
+        },
+        {
+          "category": "Salumi",
+          "description": "River Bear Meats, beef eye round, Denver CO",
+          "name": "Bresaola",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": null,
+          "name": "Formaggi (one)",
+          "price": "18"
+        },
+        {
+          "category": "Formaggi",
+          "description": null,
+          "name": "Formaggi (three)",
+          "price": "30"
+        },
+        {
+          "category": "Formaggi",
+          "description": null,
+          "name": "Formaggi (five)",
+          "price": "40"
+        },
+        {
+          "category": "Formaggi",
+          "description": "sweet cream notes, pasteurized cow and goat milk",
+          "name": "Bocconcino di Langa - soft",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "woodsy and sweet, pasteurized cow's milk",
+          "name": "Harbison - soft",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "aromatic, mild, fruity, and tangy, cow's milk",
+          "name": "Taleggio - soft",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "nutty, raw cow's milk from Parma",
+          "name": "Parmigiano Reggiano - hard",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "warm vanilla and lemon, pasteurized sheep's milk",
+          "name": "Pecorino Ma-Tru - hard",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "peppery, anise, grassy, raw cow's milk",
+          "name": "Bayley Hazen Blue - blue",
+          "price": null
+        },
+        {
+          "category": "Formaggi",
+          "description": "chef's selection of house-cured salumi and imported cheeses with seasonal accompaniments & torta fritta bread",
+          "name": "Affettati Misti",
+          "price": "65"
+        },
+        {
+          "category": "Antipasti",
+          "description": "calabrian chili butter, extra virgin olive oil",
+          "name": "House Made Ciabatta",
+          "price": "5"
+        },
+        {
+          "category": "Antipasti",
+          "description": "sea salt & whipped feta",
+          "name": "Roasted Cauliflower",
+          "price": "19"
+        },
+        {
+          "category": "Antipasti",
+          "description": "Louisiana Gulf shrimp, calabrian chili butter",
+          "name": "Wood Roasted Shrimp",
+          "price": "18"
+        },
+        {
+          "category": "Antipasti",
+          "description": "butternut squash, honey herb vinaigrette, hazelnuts",
+          "name": "Roasted Beets",
+          "price": "16"
+        },
+        {
+          "category": "Antipasti",
+          "description": "polenta, oyster mushrooms, focaccia",
+          "name": "Duck Confit",
+          "price": "19"
+        },
+        {
+          "category": "Antipasti",
+          "description": "little gem & crostini",
+          "name": "Caesar Salad",
+          "price": "10"
+        },
+        {
+          "category": "Antipasti",
+          "description": "lemon vinaigrette, stracciatelle, grapes, spiced pecans",
+          "name": "Bitter Greens",
+          "price": "10"
+        },
+        {
+          "category": "Pizze",
+          "description": "tomato, fresh mozzarella, basil",
+          "name": "Margherita",
+          "price": "19"
+        },
+        {
+          "category": "Pizze",
+          "description": "tomato, mozzarella, spicy salami, capers, olives",
+          "name": "Calabrese",
+          "price": "21"
+        },
+        {
+          "category": "Pizze",
+          "description": "ricotta, mozzarella, roasted garlic, basil",
+          "name": "White",
+          "price": "19"
+        },
+        {
+          "category": "Pizze",
+          "description": "tomato, mozzarella, spicy salami, bacon, fennel sausage",
+          "name": "Tutto Carne",
+          "price": "23"
+        },
+        {
+          "category": "Pizze",
+          "description": "Prosciutto di Parma, pears, honey, onion",
+          "name": "Gorgonzola",
+          "price": "24"
+        },
+        {
+          "category": "Primi",
+          "description": "blue crab, fresh tomato, shellfish reduction",
+          "name": "Squid Ink Tagliolini",
+          "price": "28"
+        },
+        {
+          "category": "Primi",
+          "description": "wild boar ragu, orange gremolata, grana padano",
+          "name": "Pappardelle",
+          "price": "26"
+        },
+        {
+          "category": "Primi",
+          "description": "crema al tartufo, black truffle, Parmigiano Reggiano",
+          "name": "Tagliatelle",
+          "price": "36"
+        },
+        {
+          "category": "Primi",
+          "description": "arrabbiata, basil, parmigiano reggiano",
+          "name": "Rigatoni",
+          "price": "19"
+        },
+        {
+          "category": "Primi",
+          "description": "pear ricotta, brown butter, hazelnut",
+          "name": "Ravioli",
+          "price": "29"
+        },
+        {
+          "category": "Primi",
+          "description": "pasta verde, bechamel, mozzarella, pork ragu",
+          "name": "Lasagne",
+          "price": "27"
+        },
+        {
+          "category": "Secondi",
+          "description": "broccolini, tonnato, muddica",
+          "name": "Pan-Seared Red Snapper",
+          "price": "42"
+        },
+        {
+          "category": "Secondi",
+          "description": "radicchio, arugula, heirloom tomatoes, creamy fonduta",
+          "name": "Veal Milanese",
+          "price": "32"
+        },
+        {
+          "category": "Secondi",
+          "description": "crispy herbed potatoes & calabrian chili garlic butter",
+          "name": "16 oz Prime Ribeye",
+          "price": "75"
+        },
+        {
+          "category": "Secondi",
+          "description": "brussel sprouts, pancetta, lentil vinaigrette",
+          "name": "Roasted Duck Breast",
+          "price": "36"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "lady fingers, espresso, mascarpone",
+          "name": "Tiramisu",
+          "price": "14"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "banana cake, caramel, peanut brittle",
+          "name": "Banana Zuppa Inglese",
+          "price": "13"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "vanilla gelato, espresso shot, biscotti",
+          "name": "Affogato",
+          "price": "13"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "amaretto cherry, orange, walnut",
+          "name": "Fennel Panna Cotta",
+          "price": "14"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "coconut cream & chocolate bark",
+          "name": "Gianduja Budino",
+          "price": "13"
+        },
+        {
+          "category": "Il Dolce",
+          "description": "apricot coulis, whipped mascarpone",
+          "name": "Almond Olive Oil Cake",
+          "price": "13"
+        },
+        {
+          "category": "Il Dolce",
+          "description": null,
+          "name": "Seasonal Gelato e Sorbetto",
+          "price": "12"
+        },
+        {
+          "category": "Della Casa",
+          "description": "choice of: peach | strawberry | blackberry",
+          "name": "Bellini",
+          "price": "12"
+        },
+        {
+          "category": "Della Casa",
+          "description": "brandy, rye, amaretto, rum, cream, eggs, warm spices*",
+          "name": "Domenica Eggnog",
+          "price": "14"
+        },
+        {
+          "category": "Della Casa",
+          "description": "prosecco, sarti rosa aperitivo, rosemary",
+          "name": "Sarti Spritz",
+          "price": "15"
+        },
+        {
+          "category": "Della Casa",
+          "description": "cathead vodka, yellow chartreuse, lemon, pear",
+          "name": "Dolomiti Pera",
+          "price": "17"
+        },
+        {
+          "category": "Della Casa",
+          "description": "another hendrick's, falernum, cranberry, orange",
+          "name": "La Befana",
+          "price": "16"
+        },
+        {
+          "category": "Della Casa",
+          "description": "reposado, cinnamon honey, apple cider",
+          "name": "Far From the Tree",
+          "price": "15"
+        },
+        {
+          "category": "Della Casa",
+          "description": "sazerac rye, amaro nonino, coffee liqueur, orange",
+          "name": "Al Banco",
+          "price": "16"
+        },
+        {
+          "category": "Della Casa",
+          "description": "diplomatico planas, appleton estate, cherry, cacao",
+          "name": "Mon Ch\u00e9ri",
+          "price": "16"
+        },
+        {
+          "category": "Birra",
+          "description": "american lager",
+          "name": "Paradise Park",
+          "price": "7"
+        },
+        {
+          "category": "Birra",
+          "description": "lager",
+          "name": "Abita Amber",
+          "price": "7"
+        },
+        {
+          "category": "Birra",
+          "description": "pale lager",
+          "name": "Peroni",
+          "price": "7"
+        },
+        {
+          "category": "Birra",
+          "description": "pilsner",
+          "name": "Manarola",
+          "price": "8"
+        },
+        {
+          "category": "Birra",
+          "description": "IPA",
+          "name": "Gnarly Barley 'Jucifer'",
+          "price": "7"
+        },
+        {
+          "category": "Birra",
+          "description": "belgian pale ale",
+          "name": "Baladin Nazionale",
+          "price": "9"
+        },
+        {
+          "category": "Birra",
+          "description": "IPA",
+          "name": "Testarossa",
+          "price": "9"
+        },
+        {
+          "category": "Birra",
+          "description": "non alcoholic",
+          "name": "Baladin Botanic",
+          "price": "9"
+        },
+        {
+          "category": "Vino - Spumante",
+          "description": "Veneto NV",
+          "name": "Sommariva Prosecco Superiore Brut",
+          "price": "15 | 60"
+        },
+        {
+          "category": "Vino - Spumante",
+          "description": "Emilia-Romagna NV",
+          "name": "Cleto Chiarli 'Vecchia Modena' Lambrusco",
+          "price": "13 | 52"
+        },
+        {
+          "category": "Vino - Spumante",
+          "description": "Veneto NV",
+          "name": "Le Vigne di Alice Prosecco Brut Ros\u00e9",
+          "price": "18 | 72"
+        },
+        {
+          "category": "Vino - Rosato",
+          "description": "Sangiovese/Prugnolo Gentile Toscana 2023",
+          "name": "Spinetta Ros\u00e9 di Casanova",
+          "price": "14 | 56"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Trentino 2024",
+          "name": "Domenica Pinot Grigio",
+          "price": "14 | 56"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Cortese, Piemonte 2023",
+          "name": "Fontanassa 'Ca Adua Gavi'",
+          "price": "13 | 52"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Toscana 2024",
+          "name": "Nozzole 'Le Bruniche' Chardonnay",
+          "price": "14 | 56"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Vermentino, Langhe 2024",
+          "name": "Angelo Negro 'Onorata' Favorita",
+          "price": "15 | 60"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Friuli 2024",
+          "name": "Pighin Sauvignon Blanc",
+          "price": "13 | 52"
+        },
+        {
+          "category": "Vino - Bianco",
+          "description": "Alto Adige 2021",
+          "name": "Kurtatsch M\u00fcller Thurgau",
+          "price": "16 | 64"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Toscana 2024",
+          "name": "Collazzi 'Bastioni' Chianti Classico",
+          "price": "15 | 60"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Piemonte 2023",
+          "name": "Famiglia Rivetti Langhe Nebbiolo",
+          "price": "15 | 60"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Abruzzo 2021",
+          "name": "Marso Montepulciano",
+          "price": "16 | 64"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Merlot/Cabernet Franc/Cabernet Sauvignon Toscana 2023",
+          "name": "Collazzi Libert\u00e0",
+          "price": "19 | 76"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Toscana 2022",
+          "name": "Brancatelli 'Valle delle Stelle' Cabernet Sauvignon",
+          "price": "18 | 72"
+        },
+        {
+          "category": "Vino - Rosso",
+          "description": "Lombardia 2023",
+          "name": "Frecciarossa 'Carillo' Oltrep\u00f2 Pavese Pinot Nero",
+          "price": "18 | 72"
+        },
+        {
+          "category": "Cocktails",
+          "description": "prosecco, elderflower, dragonfruit, lime",
+          "name": "Drago Hugo Spritz",
+          "price": "7"
+        },
+        {
+          "category": "Cocktails",
+          "description": "prosecco, hendrick's gin, violette",
+          "name": "Sparkling Aviation",
+          "price": "7"
+        },
+        {
+          "category": "Cocktails",
+          "description": "prosecco, aperol, soda",
+          "name": "Aperol Spritz",
+          "price": "7"
+        },
+        {
+          "category": "Vino",
+          "description": "Trentino 2023",
+          "name": "Gaierhof Pinot Noir",
+          "price": "8"
+        },
+        {
+          "category": "Vino",
+          "description": "Sicilia 2025",
+          "name": "Villarini Cabernet Sauvignon",
+          "price": "8"
+        },
+        {
+          "category": "Vino",
+          "description": "Morellino di Scansano, 2024",
+          "name": "Fattoria Le Pupille Sangiovese",
+          "price": "8"
+        }
+      ],
+      "key": "domenica",
+      "name": "Domenica",
+      "sourceURL": "https://www.domenicarestaurant.com/menus",
+      "verifiedAt": "2026-11-14T16:40:05+00:00"
     },
     {
       "items": [
