@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T19:38:51+00:00",
-  "itemCount": 3592,
+  "generatedAt": "2026-11-14T01:28:59+00:00",
+  "itemCount": 3800,
   "schemaVersion": 1,
-  "venueCount": 61,
+  "venueCount": 64,
   "venues": [
     {
       "items": [
@@ -3413,6 +3413,1278 @@
       "name": "Clesi's Crawfish & Catering",
       "sourceURL": "https://clesicatering.com/new-orleans-mid-city-clesi-s-seafood-restaurant-and-catering-food-menu",
       "verifiedAt": "2026-11-13T19:38:11+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Shareables",
+          "description": "Chef selection of meats and cheeses, honeycomb, seasonal jam, toast",
+          "name": "Charcuterie Board",
+          "price": "$21.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "Crispy potato cake, smoked salmon, crispy capers, chive creme",
+          "name": "Smoked Salmon Rosti",
+          "price": "$18.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "Crispy wontons, lump crab, sweet chili sauce",
+          "name": "Blue Crab Rangoons",
+          "price": "$16.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "House specialty lacquered duck bacon",
+          "name": "Bacon Tower",
+          "price": "$15.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "Warm muffins, croissants, biscuits, seasonal jams, whipped butter",
+          "name": "Just Bring Us The Basket",
+          "price": "$13.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "2 Fried crabcakes served on a bed of arugula with a side of sweet chili glaze",
+          "name": "Signature Crab Cakes",
+          "price": "$16.00"
+        },
+        {
+          "category": "Shareables",
+          "description": "Warm gooey salted caramel, cinnamon, topped wih powdered sugar",
+          "name": "Monkey Bread",
+          "price": "$15.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Crowley popcorn rice, toasted French bread",
+          "name": "100% Seafood Gumbo",
+          "price": "$13.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Honey mustard vinaigrette, poached shrimp, avocado, boiled egg, green beans, turkey bacon, blue cheese",
+          "name": "Shrimp Cobb",
+          "price": "$19.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Heirloom tomatoes, house croutons, cucumber, arugula, white cheddar, red onions",
+          "name": "House Salad",
+          "price": "$12.00"
+        },
+        {
+          "category": "Soups & Salads",
+          "description": "Romaine lettuce, house croutons, red onion, cotija cheese, tossed in caesar dressing.",
+          "name": "Crack'd Caesar",
+          "price": "$15.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "Stuffed with crab and shrimp, fresh herbs, mushrooms, fondue of gruyere cheese",
+          "name": "Signature Seafood Omelet",
+          "price": "$18.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "Spiced tomato sauce, baked eggs, goat cheese, toasted sourdough",
+          "name": "Shakshuka",
+          "price": "$18.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "3 crispy up eggs atop hash browns, merguez breakfast sausage, duck bacon",
+          "name": "Farmer Platter",
+          "price": "$15.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "Hash browns, strip steak, sunny side up eggs",
+          "name": "Steak And Eggs",
+          "price": "$21.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "Arugula, mushrooms, red onions, tomatoes",
+          "name": "Veggie Omelet",
+          "price": "$15.00"
+        },
+        {
+          "category": "Crack'd Eggs",
+          "description": "**Coming Soon** 3 Tacos with Eggs, White Cheddar Cheese, and your choice of Lamb Sausage, Duck Bacon, or Veggie",
+          "name": "Breakfast Tacos",
+          "price": "$16.00"
+        },
+        {
+          "category": "Stack'd",
+          "description": "Lemon infused buttermilk pancakes topped with Raspberry amaretto jam and lemon creme'",
+          "name": "Lemon Ricotta Pancakes",
+          "price": "$17.00"
+        },
+        {
+          "category": "Stack'd",
+          "description": "Buttermilk texas toast soaked in custard-like creme and fried to perfection, topped with vanilla gelato, and warm banana fosters sauce",
+          "name": "Banana Fosters Pain Perdu",
+          "price": "$17.00"
+        },
+        {
+          "category": "Stack'd",
+          "description": "Thick, fluffy and ready to be topped! Try Classic, Banana Fosters, Caramel, Chocolate, or any of our assorted fresh fruits.",
+          "name": "Belgian Waffle or Tall Stack Pancakes",
+          "price": "$15.00"
+        },
+        {
+          "category": "Meet the Benedict's",
+          "description": "Poached eggs, lump crab cakes, hollandaise, warm creole corn salsa",
+          "name": "Crab Cake Benedict",
+          "price": "$19.00"
+        },
+        {
+          "category": "Meet the Benedict's",
+          "description": "Poached eggs, toasted croissant, avocado, smoked salmon and lemon hollandaise",
+          "name": "Crack'd Royale",
+          "price": "$17.00"
+        },
+        {
+          "category": "Meet the Benedict's",
+          "description": "Poached eggs, grilled biscuits, fried green tomato, smoked brisket, crawfish cream sauce",
+          "name": "Acadian Assets",
+          "price": "$20.00"
+        },
+        {
+          "category": "Meet the Benedict's",
+          "description": "Poached eggs, crawfish cream sauce, fried chicken COMING SOON",
+          "name": "Chicken Benny",
+          "price": "$17.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Avocado crema, Sliced radish, cotija, poblano crema, ancient grains toast, fried egg",
+          "name": "Avocado Toast",
+          "price": "$16.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Turkey, pastrami, herb aioli, wheatberry bread, runny egg, lettuce, tomato",
+          "name": "Crack'd Club",
+          "price": "$18.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Buttermilk Waffle, Crunchy fried chicken, praline whipped goat cheese, hot sauce maple glaze",
+          "name": "Fried Chicken + Waffle Cone",
+          "price": "$18.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Griddled patties, grilled onions, martins potato roll, bread & butter pickles, American cheese, walk of shame \u2014 add sunny up egg 2",
+          "name": "Double Down Burger",
+          "price": "$19.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Buttermilk fried chicken tossed in hot honey glaze, fried green tomato, aioli, and brioche bun served with fries",
+          "name": "Hot Honey Chicken Sandwich",
+          "price": "$17.00"
+        },
+        {
+          "category": "Bread Lovers",
+          "description": "Fried catfish fillet, lettuce, tomato, herb aioli, on texas toast served with fries",
+          "name": "Cajun Catfish Sandwich",
+          "price": "$17.00"
+        },
+        {
+          "category": "It's Brunch Time",
+          "description": "Corn maque choux, traditional bbq shrimp stock, cheddar grits, gulf shrimp",
+          "name": "Shrimp + Grits",
+          "price": "$21.00"
+        },
+        {
+          "category": "It's Brunch Time",
+          "description": "Choice of toppings : crispy brussels, crystal fried crawfish, smoked brisket.. Try all 3!",
+          "name": "Mac Daddy Mac + Cheese",
+          "price": "$18.00"
+        },
+        {
+          "category": "It's Brunch Time",
+          "description": "Crunchy buttermilk fried chicken, fluffy waffle and cone, praline-whipped goat cheese, topped with a hot maple glaze",
+          "name": "Chicken & Waffle",
+          "price": "$18.00"
+        },
+        {
+          "category": "It's Brunch Time",
+          "description": "Vegetarian classic red beans served over rice. Try with one of our proteins!",
+          "name": "Red Beans & Rice",
+          "price": "$13.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Toast, Croissant, Biscuit, Assorted Muffins",
+          "price": "$3.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Crispy Griddled Hashbrowns",
+          "price": "$8.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Mac And Cheese Side",
+          "price": "$10.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Duck Bacon or Merguez Breakfast Sausage",
+          "price": "$8.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Glazed Crispy Brussels",
+          "price": "$9.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Fresh Berries",
+          "price": "$8.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": "Try with our white cheddar",
+          "name": "Grits",
+          "price": "$7.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Grilled or Fried Chicken side",
+          "price": "$7.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Sautee'd Shrimp",
+          "price": "$7.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Seared Steak",
+          "price": "$11.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": "Fried to perfection",
+          "name": "Catfish Fillet",
+          "price": "$12.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Best Fries",
+          "price": "$5.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Smoked Salmon Side",
+          "price": "$9.00"
+        },
+        {
+          "category": "A La Carte",
+          "description": null,
+          "name": "Fried Crawfish",
+          "price": "$9.00"
+        }
+      ],
+      "key": "crackd brunch",
+      "name": "Crack'D Brunch",
+      "sourceURL": "https://crackdbrunch.com/new-orleans-crack-d-brunch-food-menu",
+      "verifiedAt": "2026-11-14T01:28:20+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "Just $20 with the purchase of an entree from 8am - 12pm",
+          "name": "Bottomless Mimosas",
+          "price": "$20"
+        },
+        {
+          "category": null,
+          "description": "A New Orleans favorite - 5 Beignets dusted with powdered sugar",
+          "name": "New Orleans Beignets",
+          "price": "$10"
+        },
+        {
+          "category": "Classics",
+          "description": "Three eggs cooked your way, with Applewood smoked bacon, a pork sausage patty, shaved ham, and a buttermilk biscuit",
+          "name": "Morning After Breakfast",
+          "price": "19"
+        },
+        {
+          "category": "Classics",
+          "description": "Two eggs cooked your way, served with multigrain toast and your choice of Applewood smoked bacon, pork sausage patties, chicken sausage patties, or shaved ham",
+          "name": "Canal Street Sunrise",
+          "price": "16"
+        },
+        {
+          "category": "Classics",
+          "description": "6-ounce ribeye steak, served with two eggs your way, and multigrain toast",
+          "name": "Ribeye Steak & Eggs",
+          "price": "26"
+        },
+        {
+          "category": "Rise & Shine Specialties",
+          "description": "Two eggs your way, served over fried crawfish cakes and Cajun potatoes and topped with a crawfish cream sauce and green onions",
+          "name": "Bayou Bowl",
+          "price": "22"
+        },
+        {
+          "category": "Rise & Shine Specialties",
+          "description": "Gulf shrimp lightly saut\u00e9ed in white wine and butter with cherry tomatoes, shallots, fresh herbs, and garlic served over our creamy Gouda cheese grits",
+          "name": "Gulf Shrimp And Grits",
+          "price": "22"
+        },
+        {
+          "category": "Rise & Shine Specialties",
+          "description": "Powdered sugar dusted beignets, two eggs any style with your choice of one side and your choice of Applewood smoked bacon. pork sausage patties, or shaved ham",
+          "name": "Beignet Breakfast",
+          "price": "18"
+        },
+        {
+          "category": "Rise & Shine Specialties",
+          "description": "Two waffle sandwiches filled with fried chicken tossed in Mike\u2019s Hot Honey, dusted with powdered sugar, served with maple syrup and your choice of Cajun potatoes, creamy Gouda cheese grits, or fresh berry cup",
+          "name": "Chicken & Waffles",
+          "price": "22"
+        },
+        {
+          "category": "Rise & Shine Specialties",
+          "description": "Three slices of custard-soaked French bread, fried golden brown and served with maple syrup, two eggs your way, and your choice of Applewood-smoked bacon, pork sausage patties, chicken sausage patties, or shaved ham",
+          "name": "French Toast & Eggs",
+          "price": "21"
+        },
+        {
+          "category": "Omelets",
+          "description": "Sauteed Gulf shrimp, jalape\u00f1o, pepper medley, and Applewood-smoked bacon, topped with cheddar cheese",
+          "name": "Creole House",
+          "price": "20"
+        },
+        {
+          "category": "Omelets",
+          "description": "Sauteed Gulf shrimp, lump crabmeat, onions and a pepper medley, topped with Swiss cheese",
+          "name": "Gulf Coast",
+          "price": "21"
+        },
+        {
+          "category": "Omelets",
+          "description": "Sauteed onions, pepper medley, spinach, mushrooms and heirloom tomatoes, topped with fresh sliced avocado",
+          "name": "Garden",
+          "price": "18"
+        },
+        {
+          "category": "Omelets",
+          "description": "Applewood-smoked bacon, sausage, onions, pepper medley, and cheddar cheese, topped with creamy sausage gravy",
+          "name": "Country",
+          "price": "20"
+        },
+        {
+          "category": "Mimosas",
+          "description": "Orange juice & sparkling",
+          "name": "The Standard",
+          "price": "7"
+        },
+        {
+          "category": "Mimosas",
+          "description": "Malibu Coconut Rum, sparkling, pineapple juice",
+          "name": "Pina Colada Mimosa",
+          "price": "8"
+        },
+        {
+          "category": "Mimosas",
+          "description": "Altos Olmeca Tequila, sparkling, orange juice, grenadine",
+          "name": "Mimosa Sunrise",
+          "price": "9"
+        },
+        {
+          "category": "Mimosas",
+          "description": "St Roch Cucumber Vodka, sparkling, pineapple juice",
+          "name": "Cucumber Cooler",
+          "price": "8"
+        },
+        {
+          "category": "Bloody Marys",
+          "description": "House-infused vodka, George\u2019s Craft Bloody Mary Mix, and our homemade spice mix",
+          "name": "Cajun Bloody Mary",
+          "price": "12"
+        },
+        {
+          "category": "Bloody Marys",
+          "description": "Absolut Pepper Vodka, George\u2019s Craft Bloody Mary Mix, spice mix, Tabasco, and a seasoned rim",
+          "name": "Blackened Bloody Mary",
+          "price": "12"
+        },
+        {
+          "category": "Bloody Marys",
+          "description": "Bacon-infused vodka, George\u2019s Craft Bloody Mary Mix, spice mix, and a slice of Applewood-smoked bacon",
+          "name": "Bacon Bloody Mary",
+          "price": "12"
+        },
+        {
+          "category": "Bloody Marys",
+          "description": "Jalape\u00f1o-infused tequila, George\u2019s Craft Bloody Mary Mix",
+          "name": "Creole House Maria",
+          "price": "12"
+        },
+        {
+          "category": "Quarter Favorites",
+          "description": "Jameson, Irish Cream Liqueur, coffee, whipped cream, Cr\u00e8me De Menthe",
+          "name": "Irish Coffee",
+          "price": "11"
+        },
+        {
+          "category": "Quarter Favorites",
+          "description": "Pimm\u2019s No. 1, brandy, champagne, lemonade, cucumber slices, and Peychaud\u2019s Bitters",
+          "name": "Pimm's Cup Royale",
+          "price": "12"
+        },
+        {
+          "category": "Quarter Favorites",
+          "description": "St Roch Cucumber Vodka, peach schnapps, orange juice",
+          "name": "Cucumber Crush",
+          "price": "12"
+        },
+        {
+          "category": "Quarter Favorites",
+          "description": "Bacon-infused vodka and Red Bull Blueberry",
+          "name": "Rise & Shine",
+          "price": "11"
+        }
+      ],
+      "key": "creole house restaurant oyster",
+      "name": "Creole House Restaurant & Oyster Bar",
+      "sourceURL": "https://creolehouserestaurant.com/menu/",
+      "verifiedAt": "2026-11-14T01:28:25+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "SALADS",
+          "description": "Fresh iceberg lettuce with tomatoes.",
+          "name": "House Salad Small",
+          "price": "5"
+        },
+        {
+          "category": "SALADS",
+          "description": "Fresh iceberg lettuce with tomatoes.",
+          "name": "House Salad Large",
+          "price": "9"
+        },
+        {
+          "category": "SALADS",
+          "description": "Chopped iceberg lettuce with black olives, tomatoes and shredded carrots.",
+          "name": "Grilled Shrimp Salad",
+          "price": "15"
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine lettuce with our house-made croutons and Caesar dressing.",
+          "name": "Caesar Salad Small",
+          "price": "6"
+        },
+        {
+          "category": "SALADS",
+          "description": "Romaine lettuce with our house-made croutons and Caesar dressing.",
+          "name": "Caesar Salad Large",
+          "price": "9"
+        },
+        {
+          "category": "SALADS",
+          "description": null,
+          "name": "Caesar with Steak Tenders",
+          "price": "18.5"
+        },
+        {
+          "category": "SALADS",
+          "description": null,
+          "name": "Asparagus Salad",
+          "price": "6.5"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "Au Gratin",
+          "price": "6"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "French Fries",
+          "price": "5"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "Lyonnaise",
+          "price": "6"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "Brabant",
+          "price": "5"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "Cottage Fries",
+          "price": "5"
+        },
+        {
+          "category": "POTATOES",
+          "description": null,
+          "name": "Shoestring",
+          "price": "6"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Saut\u00e9ed Spinach",
+          "price": "5"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Saut\u00e9ed Asparagus",
+          "price": "7"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Broccoli",
+          "price": "5"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Peas",
+          "price": "5"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Mushrooms",
+          "price": "5"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Broccoli au Gratin",
+          "price": "6"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "Spinach au Gratin",
+          "price": "6"
+        },
+        {
+          "category": "VEGETABLES",
+          "description": null,
+          "name": "New Orleans Bordelaise Sauce",
+          "price": "4.5"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Rib Eye",
+          "price": "35"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Filet (Wrapped in Bacon)",
+          "price": "36"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Strip Sirloin",
+          "price": "35"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "T-Bone",
+          "price": "37"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Cowboy Rib Eye",
+          "price": "57"
+        },
+        {
+          "category": "STEAKS",
+          "description": "(22 oz Filet) Served with steamed broccoli, saut\u00e9ed asparagus, and Brabant potatoes. Marchand de Vin sauce and B\u00e9arnaise sauce.",
+          "name": "Chateaubriand Dinner for Two",
+          "price": "80"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Porterhouse for Two",
+          "price": "74"
+        },
+        {
+          "category": "STEAKS",
+          "description": null,
+          "name": "Porterhouse for Three",
+          "price": "97"
+        },
+        {
+          "category": "SEAFOOD",
+          "description": "(8-9oz)",
+          "name": "Broiled Lobster Tail",
+          "price": "45"
+        },
+        {
+          "category": "SEAFOOD",
+          "description": "Lemon butter sauce",
+          "name": "Broiled Salmon",
+          "price": "18"
+        },
+        {
+          "category": "SEAFOOD",
+          "description": "Bacon wrapped filet and a Lobster Tail",
+          "name": "Surf (8-9oz) And Turf (6oz)",
+          "price": "65"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "With brandy sauce. Our take on a New Orleans classic with raisins and peaches.",
+          "name": "Bread Pudding",
+          "price": "6"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "A Crescent City classic. Decadently sweet and rich, topped with fresh fruit in season.",
+          "name": "Krasna's Creole Cream Cheesecake",
+          "price": "9"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "A slice of ice cream heaven: chocolate cookie crust with vanilla ice cream, caramel sauce and topped with whipped cream and chocolate sauce",
+          "name": "Z Pie",
+          "price": "6.5"
+        },
+        {
+          "category": "DESSERTS",
+          "description": "This classic dessert has a rich filling and is served warm with a scoop of vanilla ice cream.",
+          "name": "Pecan Pie",
+          "price": "7"
+        },
+        {
+          "category": "BEVERAGES",
+          "description": "Barq\u2019s, Coca-Cola, Diet Coke, Fruit Juice, Sprite",
+          "name": "Soft Drinks",
+          "price": "3.25"
+        },
+        {
+          "category": "BEVERAGES",
+          "description": null,
+          "name": "Coffee",
+          "price": "3.5"
+        },
+        {
+          "category": "BEVERAGES",
+          "description": null,
+          "name": "Hot Green Tea",
+          "price": "3.25"
+        },
+        {
+          "category": "BEVERAGES",
+          "description": null,
+          "name": "Ice Tea",
+          "price": "3"
+        },
+        {
+          "category": "BEER",
+          "description": "Budweiser, Bud Light, Coors Light, O'Doul's, Miller Lite and Yuengling Lager",
+          "name": "Domestic",
+          "price": "4"
+        },
+        {
+          "category": "BEER",
+          "description": null,
+          "name": "Heineken, Michelob Ultra",
+          "price": "5"
+        },
+        {
+          "category": "BEER",
+          "description": null,
+          "name": "Abita Amber, Stella Artois, Heineken Zero",
+          "price": "5.5"
+        },
+        {
+          "category": "BEER",
+          "description": null,
+          "name": "Second Line IPA",
+          "price": "6"
+        },
+        {
+          "category": "BEER",
+          "description": null,
+          "name": "Chimay Blue Trappist Ale",
+          "price": "13"
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": "Moet & Chandon",
+          "name": "Dom Perignon Champagne, France",
+          "price": null
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": "Moet & Chandon",
+          "name": "Brut Imperial N.V. Champagne, France",
+          "price": null
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": "J. Lasalle",
+          "name": "Brut Premier Cru N.V. Champagne, France",
+          "price": null
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": "Mumm Napa",
+          "name": "Brut N.V. Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": "Moillard Cremant de Bourgogne",
+          "name": "Brut Ros\u00e9, N.V. Burgundy, France",
+          "price": null
+        },
+        {
+          "category": "CHAMPAGNE & SPARKLING",
+          "description": null,
+          "name": "Zonin Prosecco Veneto, Italy",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - CHARDONNAY",
+          "description": null,
+          "name": "Chateau Montelena Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - CHARDONNAY",
+          "description": null,
+          "name": "Sonoma-Cutrer Russian River Valley, Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - CHARDONNAY",
+          "description": null,
+          "name": "Wente Livermore Valley, CA",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - SAUVIGNON BLANC",
+          "description": null,
+          "name": "Oyster Bay Marlborough, New Zealand",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - SAUVIGNON BLANC",
+          "description": null,
+          "name": "R\u00e9gis Minet Pouilly-Fum\u00e9 Pouilly-sur-Loire, France",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - ROS\u00c9",
+          "description": null,
+          "name": "Beringer, N.V. White Zinfandel California",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - ROS\u00c9",
+          "description": null,
+          "name": "Elouan Oregon",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - ROS\u00c9",
+          "description": null,
+          "name": "Meomi Oregon",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - PINOT GRIGIO",
+          "description": null,
+          "name": "Santa Margherita Alto Adige, Italy",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - PINOT GRIGIO",
+          "description": null,
+          "name": "Benvolio Friuli Grave, Italy",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - RIESLING",
+          "description": null,
+          "name": "Pierre Sparr Alsace, France",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - OTHER WINES",
+          "description": null,
+          "name": "Ch\u00e2teau de Montfort Vouvray, Loire, France",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - OTHER WINES",
+          "description": null,
+          "name": "Allegro Moscato California",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - OTHER WINES",
+          "description": null,
+          "name": "Chan de Rosas Albari\u00f1o Rias Baixas, Spain",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - OTHER WINES",
+          "description": null,
+          "name": "\u017dlatan Po\u0161ip Hvar, Croatia",
+          "price": null
+        },
+        {
+          "category": "WHITE WINES - OTHER WINES",
+          "description": null,
+          "name": "Roscato Italy",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MERLOT",
+          "description": null,
+          "name": "Duckhorn Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MERLOT",
+          "description": null,
+          "name": "Josh Cellars California",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MERLOT",
+          "description": null,
+          "name": "Marilyn Monroe Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MERLOT",
+          "description": null,
+          "name": "Trig Point Alexander Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - ZINFANDEL",
+          "description": null,
+          "name": "Earthquake Lodi, Central Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - ZINFANDEL",
+          "description": null,
+          "name": "Francis Ford Coppola Director's Cut Dry Creek Valley, Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - ZINFANDEL",
+          "description": null,
+          "name": "Grgich Hills Estate Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - ZINFANDEL",
+          "description": null,
+          "name": "Four Vines Lodi, Central Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - ZINFANDEL",
+          "description": null,
+          "name": "Seghesio Sonoma County, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - SYRAH, SHIRAZ, & PETITE SIRAH",
+          "description": null,
+          "name": "J. Lohr Tower Road Paso Robles, San Luis Obispo, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - SYRAH, SHIRAZ, & PETITE SIRAH",
+          "description": null,
+          "name": "K. Vinters, MCK Wahluke Slope, Columbia Valley, WA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MALBEC",
+          "description": null,
+          "name": "Alamos Selecci\u00f3n Mendoza, Argentina",
+          "price": null
+        },
+        {
+          "category": "RED WINES - MALBEC",
+          "description": null,
+          "name": "Trivento Golden Reserve Mendoza, Argentia",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "Cain 5 Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "Dry Creek Meritage Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "Ferrari-Carano, Tresor Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "Mollydooker, Two Left Feet McLaren Vale, SA, Australia",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "Opus One Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - RED BLENDS",
+          "description": null,
+          "name": "The Prisoner Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Andrew Geoffrey Diamond Mountain, Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Caymus Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Concha y Toro Don Melchor Puente Alto, Chile",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Edge Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Faust Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Francis Ford Coppola Director's Cut Alexander Valley, Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Frog's Leap Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Stag's Leap Artemis Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Groth Oakville, Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Heitz Cellar Martha's Vineyard, Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Jordan Alexander Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Justin Paso Robles, San Luis Obispo,CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Highlands Paso Robles, San Luis Obispo,CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Line 39 California",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Silver Oak Alexander Valley, Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Alexander Valley Vineyards Sonoma County, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Daou Paso Robles, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - CABERNET SAUVIGNON",
+          "description": null,
+          "name": "Educated Guess Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Anne Amie Two Estates Willamette Valley, Oregon",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Decoy Sonoma, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Emeritus Russian River Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Etude Carneros, Napa Valley, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Golden Eye Anderson Valley, Mondocino, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Dobbes Willamette Valley, Oregon",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "La Crema Sonoma Coast, CA",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "King Estate Williamette Valley, Oregon",
+          "price": null
+        },
+        {
+          "category": "RED WINES - PINOT NOIR",
+          "description": null,
+          "name": "Mer Soleil Santa Lucia Highlands, CA",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Castello di Volpaia DOCG Tuscany",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Bruno Giacosa Barbera D\u2019Alba Piedmont",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Banfi Brunello di Montalcino Tuscany",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Ruffino Riserva Ducale Chianti Classico, Tuscany",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Cesari Amarone Della Vapolicella, Veneto",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Vietti Perbacco Piedmont",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - ITALIAN",
+          "description": null,
+          "name": "Vietti Barolo DOCG Piedmont",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - SPANISH",
+          "description": null,
+          "name": "Garmon Ribera del Duero",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - SPANISH",
+          "description": null,
+          "name": "Biga de Luberri Crianza Rioja",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Babic Sibenik, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Bura Pelje\u0161ac, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Skaramu\u010da Plavac Mali Pelje\u0161ac, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Basina Pelje\u0161ac, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Tomac Marany Ple\u0161ivica, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Zlatan Plavac Sibinek, Croatia",
+          "price": null
+        },
+        {
+          "category": "INTERNATIONAL WINES - CROATIAN",
+          "description": null,
+          "name": "Bibich Sibinek, Croatia",
+          "price": null
+        },
+        {
+          "category": "DESSERT WINES, PORTS & SHERRIES",
+          "description": null,
+          "name": "Dry Sack Sherry, N.V. Jerez, Spain",
+          "price": null
+        },
+        {
+          "category": "DESSERT WINES, PORTS & SHERRIES",
+          "description": null,
+          "name": "Fonseca Bin 27 Port, N.V. Oporto, Douro, Portugal",
+          "price": null
+        },
+        {
+          "category": "DESSERT WINES, PORTS & SHERRIES",
+          "description": null,
+          "name": "Grahams 10 year Tawny Port, N.V. Oporto, Douro, Portugal",
+          "price": null
+        },
+        {
+          "category": "DESSERT WINES, PORTS & SHERRIES",
+          "description": null,
+          "name": "Grahams 20 year Tawny Port, N.V. Oporto, Douro, Portugal",
+          "price": null
+        },
+        {
+          "category": "DESSERT WINES, PORTS & SHERRIES",
+          "description": null,
+          "name": "Harveys Bristol Cream Sherry, N.V. Jerez, Spain",
+          "price": null
+        }
+      ],
+      "key": "crescent city steak house",
+      "name": "Crescent City Steak House",
+      "sourceURL": "https://crescentcitysteaks.com/menu/",
+      "verifiedAt": "2026-11-14T01:28:40+00:00"
     },
     {
       "items": [
