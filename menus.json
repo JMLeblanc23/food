@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T21:13:15+00:00",
-  "itemCount": 4176,
+  "generatedAt": "2026-11-15T00:23:40+00:00",
+  "itemCount": 4189,
   "schemaVersion": 1,
-  "venueCount": 68,
+  "venueCount": 69,
   "venues": [
     {
       "items": [
@@ -7647,6 +7647,92 @@
       "name": "Finn McCool's Irish Pub",
       "sourceURL": "https://finnmccools.com/new-orleans-finn-mccool-s-irish-pub-drink-menu",
       "verifiedAt": "2026-10-13T01:26:02+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Saturday - Bottled Beers",
+          "description": null,
+          "name": "Bud",
+          "price": "$4.00"
+        },
+        {
+          "category": "Saturday - Bottled Beers",
+          "description": null,
+          "name": "Bud Lite",
+          "price": "$4.00"
+        },
+        {
+          "category": "Saturday - Bottled Beers",
+          "description": null,
+          "name": "Corona",
+          "price": "$5.00"
+        },
+        {
+          "category": "Saturday - Bottled Beers",
+          "description": null,
+          "name": "Heineken",
+          "price": "$5.00"
+        },
+        {
+          "category": "Saturday - Pint Draft Beers",
+          "description": null,
+          "name": "Blue Moon",
+          "price": "$5.50"
+        },
+        {
+          "category": "Saturday - Pint Draft Beers",
+          "description": null,
+          "name": "Abita Amber",
+          "price": "$5.50"
+        },
+        {
+          "category": "Saturday - Pint Draft Beers",
+          "description": null,
+          "name": "Miller Lite",
+          "price": "$4.50"
+        },
+        {
+          "category": "Saturday",
+          "description": null,
+          "name": "Mimosa",
+          "price": "$5.00"
+        },
+        {
+          "category": "Saturday",
+          "description": null,
+          "name": "Bloody Mary",
+          "price": "$5.00"
+        },
+        {
+          "category": "Monday",
+          "description": null,
+          "name": "Half Price Beer Pitchers",
+          "price": null
+        },
+        {
+          "category": "Monday",
+          "description": null,
+          "name": "Bottle House Wine",
+          "price": "$13.00"
+        },
+        {
+          "category": "Wednesday",
+          "description": null,
+          "name": "Wine Down Wednesday - All Bottles Half Off",
+          "price": null
+        },
+        {
+          "category": "Friday",
+          "description": null,
+          "name": "Margarita Pitchers",
+          "price": "$9.00"
+        }
+      ],
+      "key": "fresco caf",
+      "name": "Fresco Caf\u00e9",
+      "sourceURL": "https://www.frescocafe.us/specials",
+      "verifiedAt": "2026-11-15T00:22:59+00:00"
     },
     {
       "items": [
