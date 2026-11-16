@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T18:10:26+00:00",
-  "itemCount": 4257,
+  "generatedAt": "2026-11-16T21:11:50+00:00",
+  "itemCount": 4268,
   "schemaVersion": 1,
-  "venueCount": 70,
+  "venueCount": 71,
   "venues": [
     {
       "items": [
@@ -8149,6 +8149,80 @@
       "name": "Fulton Alley",
       "sourceURL": "https://www.fultonalley.com/menus/",
       "verifiedAt": "2026-11-15T13:49:38+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": "A combination of hummus, babaghanouge, falafel, tabouleh, and stuffed grape leaves.",
+          "name": "Veggie Plate",
+          "price": "$17.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A savory spread, made from cooked, mashed chickpeas blended with tahini sauce, lemon juice and garlic.",
+          "name": "Hummus (Plain)",
+          "price": "$6.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A savory spread, made from cooked, mashed chickpeas blended with tahini sauce, lemon juice and garlic.",
+          "name": "Hummus with Chicken",
+          "price": "$10.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A savory spread, made from cooked, mashed chickpeas blended with tahini sauce, lemon juice and garlic.",
+          "name": "Hummus with Beef",
+          "price": "$11.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A stew of mashed fava beans with spices and a drizzle of olive oil.",
+          "name": "Foul Mudamas Stew",
+          "price": "$5.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Homemade yogurt made from salted strained whey.",
+          "name": "Labneh",
+          "price": "$5.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A delicious spread made chiefly of eggplant, tahini, garlic, olive oil, and lemon.",
+          "name": "Babaghanouge",
+          "price": "$6.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fried spiced balls of ground chickpeas.",
+          "name": "Falafel",
+          "price": "$6.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "The stuffed tasty rice mixture seasoned with spices and lemon.",
+          "name": "Grape Leaves",
+          "price": "$7.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Fried spiced meat in bulgur wheat balls.",
+          "name": "Kibbeh (3pc)",
+          "price": "$9.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Halloumi Cheese",
+          "price": "$6.99"
+        }
+      ],
+      "key": "gyro",
+      "name": "Gyro Grill",
+      "sourceURL": "https://gyrogrillla.com/menu",
+      "verifiedAt": "2026-11-16T21:11:11+00:00"
     },
     {
       "items": [
