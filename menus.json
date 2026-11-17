@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T02:35:43+00:00",
-  "itemCount": 4312,
+  "generatedAt": "2026-11-17T13:37:13+00:00",
+  "itemCount": 4405,
   "schemaVersion": 1,
-  "venueCount": 72,
+  "venueCount": 73,
   "venues": [
     {
       "items": [
@@ -8495,6 +8495,572 @@
       "name": "High Hat Cafe",
       "sourceURL": "https://www.highhatcafe.com/menu",
       "verifiedAt": "2026-11-17T02:35:09+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Fried Onion Rings",
+          "price": "$10.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Eggplant Sticks with Marinara",
+          "price": "$11.50"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Crawfish Nachos",
+          "price": "$14.99"
+        },
+        {
+          "category": "Appetizers",
+          "description": null,
+          "name": "Mozzarella Sticks with Marinara",
+          "price": "$8.99"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Soup of the Day Cup",
+          "price": "$3.25"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Soup of the Day Bowl",
+          "price": "$5.25"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Crawfish & Corn Bisque Cup",
+          "price": "$4.75"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Crawfish & Corn Bisque Bowl",
+          "price": "$6.75"
+        },
+        {
+          "category": "Soups",
+          "description": "Friday only",
+          "name": "Seafood Gumbo Cup",
+          "price": "$4.99"
+        },
+        {
+          "category": "Soups",
+          "description": "Friday only",
+          "name": "Seafood Gumbo Bowl",
+          "price": "$6.99"
+        },
+        {
+          "category": "Salads",
+          "description": "Lettuce, tomato, cheddar cheese, egg, bacon, croutons",
+          "name": "Fried or Grilled Chicken Club",
+          "price": "$14.50"
+        },
+        {
+          "category": "Salads",
+          "description": "Lettuce, tomato, cheddar cheese, egg, bacon, croutons",
+          "name": "Fried or Grilled Shrimp Club",
+          "price": "$15.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Chunky Chicken Salad",
+          "price": "$10.99"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Caesar Salad",
+          "price": "$8.50"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Fried or Grilled Chicken Caesar",
+          "price": "$13.50"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Fried or Grilled Shrimp Caesar",
+          "price": "$15.50"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Dinner Salad",
+          "price": "$5.95"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Meatballs & Spaghetti",
+          "price": "$13.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Eggplant Parmesan over Pasta",
+          "price": "$14.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Panne Eggplant w/Creamy Crawfish Sauce over Pasta",
+          "price": "$16.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Chicken Parmesan over Pasta",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Boneless Fried Chicken with Baked Macaroni",
+          "price": "$15.50"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Catfish Filet with Creamy Crawfish Sauce over Pasta",
+          "price": "$16.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Shrimp Platter with french fries or potato salad",
+          "price": "$16.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Catfish Platter with french fries or potato salad",
+          "price": "$15.99"
+        },
+        {
+          "category": "Entrees",
+          "description": "Served with salad and bread",
+          "name": "Combo Platter (Catfish and Shrimp) with french fries or potato salad",
+          "price": "$18.99"
+        },
+        {
+          "category": "Off the Grill",
+          "description": null,
+          "name": "Grilled Chicken Breast, Grilled Tomatoes and Broccoli, Salad, Bread",
+          "price": "$14.99"
+        },
+        {
+          "category": "Off the Grill",
+          "description": null,
+          "name": "Grilled Catfish, Grilled Tomatoes and Broccoli, Salad, Bread",
+          "price": "$15.99"
+        },
+        {
+          "category": "Off the Grill",
+          "description": null,
+          "name": "Grilled Tuna Steak, Grilled Tomatoes and Broccoli, Salad, Bread",
+          "price": "$17.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Crispy Battered Fries",
+          "price": "$4.25"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Sweet Potato Fries",
+          "price": "$4.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Grilled Broccoli & Tomato",
+          "price": "$6.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Pasta w/Crawfish Sauce",
+          "price": "$10.99"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Pasta & Marinara",
+          "price": "$6.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Potato Salad",
+          "price": "$3.50"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Baked Macaroni",
+          "price": "$4.95"
+        },
+        {
+          "category": "Sides",
+          "description": null,
+          "name": "Assorted Chips",
+          "price": "$1.75"
+        },
+        {
+          "category": "Kids",
+          "description": "All kid\u2019s meals include drink",
+          "name": "Meatball & Spaghetti",
+          "price": "$8.50"
+        },
+        {
+          "category": "Kids",
+          "description": "All kid\u2019s meals include drink",
+          "name": "Shrimp with Fries",
+          "price": "$9.99"
+        },
+        {
+          "category": "Kids",
+          "description": "All kid\u2019s meals include drink",
+          "name": "Chicken Nuggets",
+          "price": "$8.50"
+        },
+        {
+          "category": "Kids",
+          "description": "All kid\u2019s meals include drink",
+          "name": "Catfish with Fries",
+          "price": "$9.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Ham 4\" Small",
+          "price": "$5.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Ham 8\" Regular",
+          "price": "$9.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Ham 11\" Large",
+          "price": "$11.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Roast Beef 4\" Small",
+          "price": "$8.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Roast Beef 8\" Regular",
+          "price": "$12.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Roast Beef 11\" Large",
+          "price": "$14.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Hot roast beef, ham, swiss cheese",
+          "name": "Hobnobber 4\" Small",
+          "price": "$9.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Hot roast beef, ham, swiss cheese",
+          "name": "Hobnobber 8\" Regular",
+          "price": "$13.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Hot roast beef, ham, swiss cheese",
+          "name": "Hobnobber 11\" Large",
+          "price": "$15.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Meatball 4\" Small",
+          "price": "$5.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Meatball 8\" Regular",
+          "price": "$8.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Meatball 11\" Large",
+          "price": "$10.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hamburger 4\" Small",
+          "price": "$6.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hamburger 8\" Regular",
+          "price": "$11.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hamburger 11\" Large",
+          "price": "$14.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Cheeseburger 4\" Small",
+          "price": "$6.75"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Cheeseburger 8\" Regular",
+          "price": "$12.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Cheeseburger 11\" Large",
+          "price": "$15.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hot Sausage Patty 4\" Small",
+          "price": "$6.00"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hot Sausage Patty 8\" Regular",
+          "price": "$9.75"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Hot Sausage Patty 11\" Large",
+          "price": "$11.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Panne Chicken 4\" Small",
+          "price": "$6.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Panne Chicken 8\" Regular",
+          "price": "$10.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Panne Chicken 11\" Large",
+          "price": "$12.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Grilled Chicken 4\" Small",
+          "price": "$6.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Grilled Chicken 8\" Regular",
+          "price": "$10.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Grilled Chicken 11\" Large",
+          "price": "$12.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Smoked Turkey Breast 4\" Small",
+          "price": "$6.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Smoked Turkey Breast 8\" Regular",
+          "price": "$10.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Smoked Turkey Breast 11\" Large",
+          "price": "$12.25"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Shrimp 4\" Small",
+          "price": "$8.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Shrimp 8\" Regular",
+          "price": "$12.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Shrimp 11\" Large",
+          "price": "$14.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Catfish 4\" Small",
+          "price": "$8.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Catfish 8\" Regular",
+          "price": "$12.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Fried Catfish 11\" Large",
+          "price": "$14.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Chicken Salad 4\" Small",
+          "price": "$6.00"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Chicken Salad 8\" Regular",
+          "price": "$9.75"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Chicken Salad 11\" Large",
+          "price": "$11.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "French Fry 4\" Small",
+          "price": "$8.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "French Fry 8\" Regular",
+          "price": "$11.99"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Turkey Bacon Club with Fries",
+          "price": "$13.95"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Includes French Fries and Drink",
+          "name": "Hamburger Special",
+          "price": "$11.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Includes French Fries and Drink",
+          "name": "Cheeseburger Special",
+          "price": "$12.99"
+        },
+        {
+          "category": "Specialty Sandwiches",
+          "description": "Includes French Fries and Drink",
+          "name": "Bacon Cheeseburger Special",
+          "price": "$13.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Tea/Soft Drink",
+          "price": "$2.75"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bottled Drinks",
+          "price": "$3.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bottled Water",
+          "price": "$2.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Coffee",
+          "price": "$1.75"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bottled Domestic Beer",
+          "price": "$3.99"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bottled Beer Import",
+          "price": "$4.50"
+        },
+        {
+          "category": "Beverages",
+          "description": null,
+          "name": "Bucket of Beer Domestic",
+          "price": "$20.00"
+        }
+      ],
+      "key": "hobnobber",
+      "name": "Hobnobber Cafe",
+      "sourceURL": "https://www.hobnobbercafe.com/menu",
+      "verifiedAt": "2026-11-17T13:36:43+00:00"
     },
     {
       "items": [
