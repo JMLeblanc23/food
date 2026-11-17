@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T16:38:35+00:00",
-  "itemCount": 4405,
+  "generatedAt": "2026-11-17T20:08:42+00:00",
+  "itemCount": 4543,
   "schemaVersion": 1,
-  "venueCount": 73,
+  "venueCount": 74,
   "venues": [
     {
       "items": [
@@ -9061,6 +9061,842 @@
       "name": "Hobnobber Cafe",
       "sourceURL": "https://www.hobnobbercafe.com/menu",
       "verifiedAt": "2026-11-17T13:36:43+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Sea Salt Edamame",
+          "price": "$7.23"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Spicy Kimchee Edamame",
+          "price": "$7.23"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Garlic Butter Edamame",
+          "price": "$7.23"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Shrimp and Vegetable Tempura",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Chicken and Vegetable Tempura",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Crabstick and Vegetable Tempura",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Vegetable Tempura Only",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Choice of shrimp, beef, or pork dumplings",
+          "name": "6 Piece Pan Fried Gyoza",
+          "price": "$8.27"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "5 Seafood Spring Rolls",
+          "price": "$8.27"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "4 Vegetable Spring Rolls",
+          "price": "$8.27"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": null,
+          "name": "Pork Sticky Ribs",
+          "price": "$14.51"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Fried octopus ball. Glazed with Japanese mayo and bonito flakes",
+          "name": "Tako Yaki",
+          "price": "$10.35"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Steamed jumbo shrimp shumai. Served with ponzu sauce",
+          "name": "Shrimp Shumai",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Deep-fried wonton with shrimp and cream cheese inside. Served over sweet chili sauce",
+          "name": "4 Shrimp Mermaid",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Snow crab rolled with salmon and baked. Served with cucumber, sesame seeds, and eel sauce. Requires more time to cook",
+          "name": "Baked Salmon",
+          "price": "$17.63"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "The mixture of snow crab, spicy tuna, and crunchy flakes. Deep-fried and served with eel sauce and spicy mayo",
+          "name": "Stuffed Jalapeno",
+          "price": "$10.35"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Breaded and deep-fried sea scallops. Served with sweet chili sauce",
+          "name": "Kamikaze Scallops",
+          "price": "$13.47"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Deep-fried calamari. Served with sweet chili mayo sauce",
+          "name": "Calamari Fritter",
+          "price": "$13.47"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Deep-fried shrimp in coconut batter. Served with sweet chili mango sauce",
+          "name": "6 Hawaiian Coconut Shrimp",
+          "price": "$11.39"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Lightly battered, deep-fried asparagus. Drizzled with spicy mayo and eel sauce",
+          "name": "Asparagus Twister",
+          "price": "$10.35"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Lightly battered, deep-fried tofu blocks. Served with tempura sauce, bonito flakes, and Sriracha",
+          "name": "Agedashi Tofu",
+          "price": "$10.35"
+        },
+        {
+          "category": "Hot Appetizers",
+          "description": "Salmon, crawfish, scallop, mushroom and onion baked with our homemade, creamy mayonnaise based sauce",
+          "name": "Baked Seafood",
+          "price": "$15.55"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Mango slices wrapped with fresh salmon. Served with sweet chili sauce and ponzu",
+          "name": "Mango Salmon Wrap",
+          "price": "$16.59"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Seared tuna on a bed of lettuce. Served with ponzu sauce and Sriracha",
+          "name": "Tuna Tataki",
+          "price": "$14.51"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Beef on a bed of lettuce. Served with ponzu sauce and Sriracha",
+          "name": "Beef Tataki",
+          "price": "$14.51"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Sliced yellowtail with jalapeno on top and ponzu sauce",
+          "name": "Yellowtail Jalapeno",
+          "price": "$15.55"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Spicy tuna on a bed of snow crab. Served with chips and tartar sauce",
+          "name": "Tuna Tartar",
+          "price": "$15.55"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Spicy salmon on a bed of snow crab. Served with chips and tartar sauce",
+          "name": "Salmon Tartar",
+          "price": "$15.55"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Sushi rice cakes topped with spicy crawfish, king carb and tuna tataki with fried onions",
+          "name": "Sushi Rice Krispy",
+          "price": "$14.51"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "1 each of tuna, salmon, escolar and crabstick with 3 pieces of California roll",
+          "name": "Sushi Appetizer",
+          "price": "$14.51"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Fresh assortment of tuna, salmon, escolar, mackerel, and crabstick. No rice",
+          "name": "Sashimi Appetizer",
+          "price": "$16.59"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "Escolar slightly torched. Topped with garlic and served with sesame dressing",
+          "name": "Torched Garlic Escolar",
+          "price": "$14.51"
+        },
+        {
+          "category": "Cold Appetizers",
+          "description": "In-house pepper seasoned tuna. Served with fresh wasabi on top",
+          "name": "8 Peppered Tuna Sashimi",
+          "price": "$15.55"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Clear Soup",
+          "price": "$3.12"
+        },
+        {
+          "category": "Soups",
+          "description": null,
+          "name": "Miso Soup",
+          "price": "$3.12"
+        },
+        {
+          "category": "Soups",
+          "description": "Clear fish broth soup with choice of shrimp, beef or pork",
+          "name": "Gyoza Soup",
+          "price": "$6.24"
+        },
+        {
+          "category": "Soups",
+          "description": "Vegetables only",
+          "name": "Vegetable Soup",
+          "price": "$9.36"
+        },
+        {
+          "category": "Soups",
+          "description": "Seafood including tuna, scallop and crawfish in clear fish broth",
+          "name": "Seafood Vegetable Soup",
+          "price": "$12.48"
+        },
+        {
+          "category": "Soups",
+          "description": "Shrimp, calamari and scallop with vegetables",
+          "name": "Seafood Tom Yum Soup",
+          "price": "$12.48"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "House Salad",
+          "price": "$5.20"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Seaweed Salad",
+          "price": "$8.32"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Squid Salad",
+          "price": "$10.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Seaweed and squid house salad",
+          "name": "1/2 and 1/2 House Salad",
+          "price": "$10.40"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Cucumber Salad",
+          "price": "$6.24"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Cucumber Salad with Tuna",
+          "price": "$11.44"
+        },
+        {
+          "category": "Salads",
+          "description": null,
+          "name": "Cucumber Salad with Crabstick",
+          "price": "$11.44"
+        },
+        {
+          "category": "Salads",
+          "description": "Snow crab, avocado and asparagus",
+          "name": "Snowcrab Avocado Salad",
+          "price": "$10.40"
+        },
+        {
+          "category": "Salads",
+          "description": "Seared tuna and avocado with smelt roe. Includes spicy mayo and ponzu sauce",
+          "name": "Seared Tuna Avocado Salad",
+          "price": "$14.51"
+        },
+        {
+          "category": "Salads",
+          "description": "Cubed tuna with cucumber and avocado. Served with spicy ponzu dressing",
+          "name": "Spicy Tuna Salad",
+          "price": "$14.51"
+        },
+        {
+          "category": "Salads",
+          "description": "Cubed tuna, seaweed, and squid salad on a bed of cucumber with citrus ponzu dressing",
+          "name": "Tuna Poke Salad",
+          "price": "$15.55"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine lettuce with combination of fresh sashimi cut into cubes, boiled shrimp, crabstick, seaweed and squid salad with chef's special dressing",
+          "name": "Chef's Salad",
+          "price": "$17.63"
+        },
+        {
+          "category": "Salads",
+          "description": "Fresh salmon with mango, cucumber and smelt roe in kimchee dressing",
+          "name": "Salmon Mango Kimchee Salad",
+          "price": "$14.51"
+        },
+        {
+          "category": "Salads",
+          "description": "Crispy Smoked salon skin with cucumber, smelt roe, bonito flake and ponzu dressing",
+          "name": "Smoked Salmon Skin Salad",
+          "price": "$11.39"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Crawfish, fried shrimp, fried softshell crab and lettuce inside. Drizzled with eel sauce and spicy mayo. Wrapped in soy paper",
+          "name": "Seafood Po' Boy Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Spicy tuna and cucumber inside. Albacore and jalapeno on top with ponzu, wasabi mayo, and Sriracha",
+          "name": "White Ninja Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab inside. Fresh salmon, tuna, yellowtail, and avocado on the outside",
+          "name": "Rainbow Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp, snow crab, cream cheese inside. Crabstick on top. Drizzled with eel sauce and spicy mayo",
+          "name": "Tulane Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Crawfish, snow crab, and jalapeno inside. Wrapped with soy paper then panko deep-fried. Drizzled with eel sauce, spicy mayo, and green onion",
+          "name": "Bourbon Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried softshell crab, cucumber, and asparagus inside. 3 kinds of smelt roe on the outside. Drizzled with eel sauce",
+          "name": "Tarantula Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fresh salmon, tuna, yellowtail, snow crab, avocado, and smelt roe inside. Wrapped in peeled cucumber. No rice",
+          "name": "Sashimi Naruto Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab inside. Whole barbeque eel and avocado on top. Drizzled with eel sauce",
+          "name": "Dragon Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp, crawfish, and cream cheese inside. Avocado, snow crab, and crunchy on top. Drizzled with eel sauce and spicy mayo",
+          "name": "Ikura Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Spicy tuna, snow crab, and avocado inside. Seared tuna and crunchy on top. Drizzled with eel sauce and spicy mayo. Wrapped in soy paper",
+          "name": "Chocolate Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab and avocado inside. Wrapped in peeled cucumber. Served with spicy mayo on the side. No rice",
+          "name": "Snow Crab Naruto Roll",
+          "price": "$12.43"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Shrimp tempura, spicy tuna, and cream cheese inside, topped with fresh salmon, mango, and avocado. Drizzled with mango sauce and sweet chili. Soy wrapped",
+          "name": "Gustav Roll",
+          "price": "$16.59"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab, asparagus, and crunchy inside. Boiled shrimp and avocado on top. Drizzled with eel sauce and spicy mayo",
+          "name": "Mystery Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fresh salmon, tuna, and avocado inside. Snow crab, spicy tuna, and mango on the outside. Drizzled with eel sauce",
+          "name": "21 Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp and cream cheese inside. Fresh tuna, snow crab, and avocado on top. Drizzled with eel sauce",
+          "name": "Utah Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp and snow crab inside. Fresh tuna and mango on top. Drizzled with eel sauce",
+          "name": "LSU Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Crawfish, snow crab, crabstick, cream cheese, and avocado inside. Soy paper wrapped then deep-fried. Drizzled with eel sauce and spicy mayo",
+          "name": "Giant Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fresh salmon, tuna, yellowtail, snow crab, asparagus and crunchy inside. Wrapped with soy paper and drizzled with eel sauce",
+          "name": "Big N Easy Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab, fresh salmon, tuna, and cream cheese inside. Drizzled with honey coffee sauce. Soy wrapped",
+          "name": "Lady Rock Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Coconut shrimp, mango, and cream cheese inside. Fresh salmon and tuna on top. Drizzled with sweet chili and mango sauce",
+          "name": "Tropical Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab, crawfish, and fried shrimp inside. Soy wrapped and deep-fried. Drizzled with eel sauce, spicy mayo, and honey wasabi sauce. No rice",
+          "name": "Kitty Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab inside. Pepper tuna, avocado, and scallions on the top. Drizzled with eel sauce, ponzu sauce, and Sriracha",
+          "name": "Burning Woman Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Tuna, salmon, escolar, snow crab, and asparagus inside. Avocado and mango on the top. Drizzled with spicy mayo and sweet chili sauce",
+          "name": "Sunrise Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried calamari, snow crab, and smelt roe inside. Crabstick, avocado, and crunchy on top with spicy mayo and eel sauce",
+          "name": "The Kraken Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp, BBQ eel, cucumber, avocado, and smelt roe inside. Snow crab on top. Wrapped in soy paper. Drizzled with eel sauce",
+          "name": "Katrina Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Blue crab, snow crab, and avocado inside and tuna outside. Cut into a triangle shape. No rice",
+          "name": "Tuna Sandwich Roll",
+          "price": "$16.59"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried crawfish and cream cheese inside. Fresh tuna, escolar, and avocado on top. Drizzled with eel sauce, spicy mayo, and Sriracha",
+          "name": "Spicy Cajun Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried crab stick, spicy tuna, and cream cheese inside. Snow crab on top. Drizzled with eel sauce",
+          "name": "Who Dat Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "California roll at the bottom. Topped with spicy tuna, snow crab, crunchy, smelt roe and scallions. Comes with eel sauce and spicy mayo",
+          "name": "Volcano Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Crawfish and snow crab inside. Pepper tuna, avocado, crunchy, and smelt roe on top. Drizzled with wasabi mayo and ponzu sauce",
+          "name": "Funky Roll",
+          "price": "$15.55"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Variety of vegetables, crabstick, and fresh tuna on the inside. Wrapped with rice paper. No rice",
+          "name": "Skinny Roll",
+          "price": "$11.39"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Spicy tuna, jalapeno, and cucumber inside. Wrapped with soy paper. Drizzled with eel sauce and spicy hot sauce on top",
+          "name": "Angry Bird Roll",
+          "price": "$13.47"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Fried shrimp, crabstick, asparagus, and cream cheese inside. New York strip steak outside. Topped with shredded crispy crabstick and eel sauce",
+          "name": "Surf and Turf Roll",
+          "price": "$17.63"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Snow crab, asparagus, and crunchy inside. Torched New York strip and garlic on top with smelt roe and green onion. Drizzled with eel sauce and spicy mayo",
+          "name": "Wild Cowboy Roll",
+          "price": "$16.59"
+        },
+        {
+          "category": "Specialty Rolls",
+          "description": "Spicy tuna inside. Pepper tuna, avocado, and scallions on the top. Drizzled with eel sauce, ponzu sauce, and Sriracha",
+          "name": "Burning Man",
+          "price": "$14.51"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Crabstick, cucumber, avocado, and smelt roe",
+          "name": "California Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Snow crab, crunchy and asparagus",
+          "name": "Crunchy Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Snow crab, crunchy and asparagus with Sriracha",
+          "name": "Spicy Crunchy Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Tuna only with seaweed outside",
+          "name": "Tuna Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fresh salmon only with seaweed outside",
+          "name": "Fresh Salmon Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Yellowtail only with seaweed outside",
+          "name": "Yellowtail Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Crawfish only inside with rice outside",
+          "name": "Crawfish Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Snow crab, avocado and asparagus",
+          "name": "Snow Crab Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Cucumber only with seaweed outside",
+          "name": "Cucumber Roll",
+          "price": "$5.46"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Tempura fried sweet potatoes with eel sauce",
+          "name": "Sweet Potato Roll",
+          "price": "$5.46"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Avocado only with seaweed outside",
+          "name": "Avocado Roll",
+          "price": "$5.46"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Tempura fried asparagus with eel sauce",
+          "name": "Asparagus Tempura Roll",
+          "price": "$5.46"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Crabstick only with seaweed outside",
+          "name": "Crabstick Roll",
+          "price": "$7.02"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Shredded tuna mixed with Sriracha",
+          "name": "Spicy Tuna Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fresh salmon mixed with Sriracha",
+          "name": "Spicy Salmon Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Yellowtail with Sriracha",
+          "name": "Spicy Yellowtail Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Chopped tuna, salmon and escolar mixed with spicy mayo sauce",
+          "name": "Dynamite Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Chopped tuna, salmon and escolar mixed with spicy mayo and crunchy and asparagus",
+          "name": "Crunchy Dynamite Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fresh salmon, snow crab and avocado with eel sauce",
+          "name": "Mid City Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Tuna, snow crab and avocado with eel sauce",
+          "name": "Metairie Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Yellowtail, snowcrab and avocado with eel sauce",
+          "name": "Uptown Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Barbeque eel, cucumber and avocado with eel sauce",
+          "name": "Special Eel Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Smoked salmon, cream cheese and avocado",
+          "name": "Philadelphia Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fried shrimp, avocado and cucumber inside. Smelt roe outside with eel sauce",
+          "name": "Shrimp Tempura Roll",
+          "price": "$11.39"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fried shrimp, asparagus, avocado, and snow crab inside. Served with smelt roe and eel sauce",
+          "name": "Rock N Roll",
+          "price": "$12.43"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Cooked yellowtail, cucumber and smelt roe with eel sauce",
+          "name": "BBQ Yellowtail Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Boiled shrimp, snow crab, lettuce, avocado and asparagus in a cone-shaped roll",
+          "name": "Boston Hand Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Chopped scallop, asparagus and smelt roe mixed with spicy mayo sauce",
+          "name": "Scallop Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Smoked salmon and avocado inside and rice outside",
+          "name": "Smoked Salmon Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Tuna and avocado inside and rice outside",
+          "name": "Tuna Avocado Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Fresh salmon and avocado inside and rice outside",
+          "name": "Salmon Avocado Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Yellowtail and scallion inside and rice outside",
+          "name": "Yellowtail Scallion Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Cooked salmon skin, cucumber, smelt roe with eel sauce",
+          "name": "Salmon Skin Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Boiled shrimp, cucumber, avocado and smelt roe",
+          "name": "New York Roll",
+          "price": "$8.27"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Deep-fried soft shell crab, green onion, cucumber, and smelt roe with eel sauce",
+          "name": "Soft Shell Crab Roll",
+          "price": "$14.51"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Sushi pressed into a square box with snow crab in the middle, topped with your choice of barbeque eel, salmon, shrimp, tuna or yellowtail",
+          "name": "Box Sushi Roll",
+          "price": "$14.04"
+        },
+        {
+          "category": "Regular Roll",
+          "description": "Sushi pressed into a square box with snow crab in the middle and assorted fresh fish on top",
+          "name": "Box Special Roll",
+          "price": "$17.16"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Tuna Sushi",
+          "price": "$5.46"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Fresh Salmon Sushi",
+          "price": "$5.46"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Yellowtail Sushi",
+          "price": "$5.46"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Crabstick Sushi",
+          "price": "$4.42"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Escolar Sushi",
+          "price": "$5.20"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Shrimp Sushi",
+          "price": "$5.20"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Eel Sushi",
+          "price": "$6.24"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Mackerel Sushi",
+          "price": "$5.46"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Octopus Sushi",
+          "price": "$5.46"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Scallop Sushi",
+          "price": "$6.76"
+        },
+        {
+          "category": "Sushi",
+          "description": "Tamago",
+          "name": "2 Piece Egg Sushi",
+          "price": "$4.94"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Tuna Tataki Sushi",
+          "price": "$5.72"
+        },
+        {
+          "category": "Sushi",
+          "description": null,
+          "name": "2 Piece Pepper Tuna Su",
+          "price": null
+        }
+      ],
+      "key": "ikura hibachi and sushi",
+      "name": "Ikura Hibachi And Sushi",
+      "sourceURL": "https://ikurahibachisushi.com/new-orleans-ikura-hibachi-and-sushi-food-menu",
+      "verifiedAt": "2026-11-17T20:07:46+00:00"
     },
     {
       "items": [
