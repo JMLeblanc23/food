@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T21:11:50+00:00",
-  "itemCount": 4268,
+  "generatedAt": "2026-11-17T02:35:43+00:00",
+  "itemCount": 4312,
   "schemaVersion": 1,
-  "venueCount": 71,
+  "venueCount": 72,
   "venues": [
     {
       "items": [
@@ -8223,6 +8223,278 @@
       "name": "Gyro Grill",
       "sourceURL": "https://gyrogrillla.com/menu",
       "verifiedAt": "2026-11-16T21:11:11+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": null,
+          "description": "made with rich, dark roux",
+          "name": "Chicken & Andouille Gumbo Ya-Ya",
+          "price": "Cup $8 / Bowl $12"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Add a Scoop of Potato Salad",
+          "price": "$3"
+        },
+        {
+          "category": null,
+          "description": "with Mixed Pickles, Deviled Eggs and Toast Points",
+          "name": "Pimento Cheese Plate",
+          "price": "$13"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "BBQ Gulf Shrimp",
+          "price": "$15"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Cornmeal Fried Oysters",
+          "price": "$15"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Shrimp Remoulade",
+          "price": "$15"
+        },
+        {
+          "category": null,
+          "description": "Croutons with Cecil\u2019s Buttermilk Ranch, Blue Cheese, Red Wine Vinaigrette, or Russian Dressing",
+          "name": "Wedge Salad & Deviled Eggs",
+          "price": null
+        },
+        {
+          "category": null,
+          "description": "Romaine, Bell Peppers, Carrots, Celery & Cornbread Croutons with Cecil\u2019s Buttermilk Ranch, Blue Cheese, Red Wine Vinaigrette, or Russian Dressing",
+          "name": "Cecil\u2019s Salad",
+          "price": "Appetizer $8 / Dinner $10"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Add Grilled Chicken, Shrimp or Catfish",
+          "price": "$10"
+        },
+        {
+          "category": null,
+          "description": null,
+          "name": "Fried Oysters",
+          "price": "$12"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Cochon de Lait Sandwich",
+          "price": "$17"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Catfish Poboy Fried or Grilled",
+          "price": "$18"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Shrimp Poboy Fried or Grilled",
+          "price": "$18"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": null,
+          "name": "Fried Chicken Sandwich",
+          "price": "$17"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "Oysters fried then tossed in Red Remoulade Sauce",
+          "name": "Fried Oyster Remoulade Poboy",
+          "price": "$19"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "with Bacon, lettuce, tomato, pickle & Green goddess dressing on sourdough bread",
+          "name": "House Smoked Turkey Sandwich",
+          "price": "$17"
+        },
+        {
+          "category": "Poboys & Sandwiches",
+          "description": "house made Corned Beef, Sauerkraut, Swiss & Russian Dressing on Rye Bread",
+          "name": "Reuben Sandwich",
+          "price": "$19"
+        },
+        {
+          "category": null,
+          "description": "with one side",
+          "name": "Smoked Roasted Half Chicken",
+          "price": "$21"
+        },
+        {
+          "category": null,
+          "description": "with one side",
+          "name": "Slow Roasted Pork",
+          "price": "$17"
+        },
+        {
+          "category": null,
+          "description": "Filets Seasoned and cooked on the Flat Top Grill with one side",
+          "name": "Flat Top Catfish",
+          "price": "$19"
+        },
+        {
+          "category": null,
+          "description": "choose three sides",
+          "name": "Vegetable Plate with Cornbread",
+          "price": "$18"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "1/2 lb Angus Beef cooked on the Flat Top Grill",
+          "name": "Flat Top Burger",
+          "price": "$17"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Flat Top Burger with Pimento Cheese",
+          "name": "High Hat Burger",
+          "price": "$19"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Flat Top Burger with BBQ Sauce & Apple Wood-Smoked Bacon",
+          "name": "BBQ Bacon Burger",
+          "price": "$19"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Flat Top Burger with Apple Wood-Smoked Bacon, Cheddar or Swiss & Fried Egg",
+          "name": "One-Eyed Bacon Cheeseburger",
+          "price": "$22"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Apple Wood-Smoked Bacon (2pc.), Roast Pork Debris, Fried Egg, Cheddar, Pimento, Swiss or Blue Cheese, Fried Catfish",
+          "name": "Add to any Burger or Sandwich",
+          "price": "$2"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Pond-Raised U.S. Catfish served with Fries, Slaw, Hush Puppies & House Pickles",
+          "name": "Fried Catfish Large \u2013 4 piece",
+          "price": "$19"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": "Pond-Raised U.S. Catfish served with Fries, Slaw, Hush Puppies & House Pickles",
+          "name": "Fried Catfish Small \u2013 3 piece",
+          "price": "$17"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": null,
+          "name": "Shrimp Basket",
+          "price": "$20"
+        },
+        {
+          "category": "Burgers & Catfish",
+          "description": null,
+          "name": "Oyster Basket",
+          "price": "$22"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Braised Greens",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Black Eyed Peas",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Stewed Okra & Tomatoes",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Coleslaw",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Hush Puppies",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Creamy Stone Ground Grits",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Seasonal Vegetables",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Pimento Cheese Grits",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Seasonal Vegetables w/ Bacon",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Pimento Mac & Cheese",
+          "price": "$6"
+        },
+        {
+          "category": "Sides & Vegetables",
+          "description": null,
+          "name": "Traditional Potato Salad",
+          "price": "$6"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Basket of Fries",
+          "price": "$7"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Pimento Cheese Fries",
+          "price": "$9"
+        },
+        {
+          "category": "Extras",
+          "description": null,
+          "name": "Cornbread by the Slice",
+          "price": "$3 each"
+        }
+      ],
+      "key": "high hat",
+      "name": "High Hat Cafe",
+      "sourceURL": "https://www.highhatcafe.com/menu",
+      "verifiedAt": "2026-11-17T02:35:09+00:00"
     },
     {
       "items": [
