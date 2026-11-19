@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:13:01+00:00",
+  "generatedAt": "2026-11-19T16:14:32+00:00",
   "itemCount": 4708,
   "schemaVersion": 1,
   "venueCount": 75,
@@ -8030,7 +8030,7 @@
         },
         {
           "category": "Draught",
-          "description": "-A Juicy Pale Ale",
+          "description": "A Juicy Pale Ale",
           "name": "Parish Envie",
           "price": null
         },
@@ -8278,73 +8278,73 @@
           "category": "Red",
           "description": null,
           "name": "Bread n Butter Pinot Noir",
-          "price": "$7.00/glass, $21.00/bottle"
+          "price": "$7.00/glass"
         },
         {
           "category": "Red",
           "description": null,
           "name": "The Show Malbec",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "Red",
           "description": null,
           "name": "Bonanza Cabernet Sauvignon",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "Red",
           "description": "A full Bodied Red Wine From Spain",
           "name": "Honoro Vera Garnacha",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Seaglass Pinot Grigio",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Kendall Jackson Sauvignon Blacn",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Decoy Chardonnay",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Oyster Bay Sauvignon Blanc",
-          "price": "$9.00/Glass, $21.00/Bottle"
+          "price": "$9.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Wycliff Sparkling Wine",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Avissi Prosecco",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": null,
           "name": "Liquid Light Rose",
-          "price": "$9.00/Glass, $27.00/Bottle"
+          "price": "$9.00/Glass"
         },
         {
           "category": "White and Sparkling",
           "description": "A Lovely White Blend from Spain",
           "name": "Honoro Vera White Blend",
-          "price": "$7.00/Glass, $21.00/Bottle"
+          "price": "$7.00/Glass"
         },
         {
           "category": "Signature Cocktails",
@@ -8362,7 +8362,7 @@
           "category": "Signature Cocktails",
           "description": "Just like McCool\u2019s Iced Irish Coffee, but instead of milk, we use coffee liqueur. It\u2019s guaranteed to put a spring in your step",
           "name": "Frozen Irish Coffee",
-          "price": "$7.50/12oz, $9.50/16oz"
+          "price": "$7.50/12oz"
         },
         {
           "category": "Signature Cocktails",
@@ -8414,7 +8414,7 @@
         },
         {
           "category": "Signature Cocktails",
-          "description": "Old Overholt Rye Served up, on the rocks or with ginger, the way the legend himself drank it at the Crystal Palace Saloon",
+          "description": "Old Overholt Rye. Served up, on the rocks or with ginger, the way the legend himself drank it at the Crystal Palace Saloon",
           "name": "The Doc Holliday",
           "price": null
         },
@@ -8644,7 +8644,7 @@
       "key": "finn mccools irish pub",
       "name": "Finn McCool's Irish Pub",
       "sourceURL": "https://finnmccools.com/new-orleans-finn-mccool-s-irish-pub-drink-menu",
-      "verifiedAt": "2026-10-13T01:26:02+00:00"
+      "verifiedAt": "2026-11-19T16:13:57+00:00"
     },
     {
       "items": [
