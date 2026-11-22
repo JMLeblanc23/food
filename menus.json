@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T16:59:48+00:00",
-  "itemCount": 4927,
+  "generatedAt": "2026-11-22T20:42:29+00:00",
+  "itemCount": 4926,
   "schemaVersion": 1,
   "venueCount": 78,
   "venues": [
@@ -13846,13 +13846,7 @@
       "items": [
         {
           "category": "Mahony's Famous Po-Boys",
-          "description": null,
-          "name": "Classic Po-boys",
-          "price": "$12 | 18"
-        },
-        {
-          "category": "Mahony's Famous Po-Boys",
-          "description": "house-pattied beef, American cheese",
+          "description": "6oz angus beef patty, fully dressed on leidenheimer soft bun (or get it on French)",
           "name": "Cheeseburger",
           "price": "$12 | 18"
         },
@@ -13908,7 +13902,7 @@
       "key": "mahoneys po boy shop",
       "name": "Mahoney's Po-boy Shop",
       "sourceURL": "https://mahonyspoboys.com/menu",
-      "verifiedAt": "2026-10-13T15:10:52+00:00"
+      "verifiedAt": "2026-11-22T20:41:43+00:00"
     },
     {
       "items": [
