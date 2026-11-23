@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T16:33:58+00:00",
-  "itemCount": 4926,
+  "generatedAt": "2026-11-23T19:35:26+00:00",
+  "itemCount": 5000,
   "schemaVersion": 1,
-  "venueCount": 78,
+  "venueCount": 79,
   "venues": [
     {
       "items": [
@@ -14309,6 +14309,458 @@
       "name": "Maria's Oyster & Wine Bar",
       "sourceURL": "https://www.mariasoysterbar.com/menus",
       "verifiedAt": "2026-10-13T21:32:14+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Bar Bites",
+          "description": "Served with hand-cut fries.",
+          "name": "Golden Fried Chicken Tenders (3 pcs)",
+          "price": "9.95"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Served with hand-cut fries.",
+          "name": "Golden Fried Chicken Tenders (5 pcs)",
+          "price": "11.95"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "House fried tortillas, topped with homemade cheese sauce, veggie black beans, jalapeno, habanero crema, pico de gallo, and green onions",
+          "name": "Yachtchos (Small)",
+          "price": "9.95"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "House fried tortillas, topped with homemade cheese sauce, veggie black beans, jalapeno, habanero crema, pico de gallo, and green onions",
+          "name": "Yachtchos (Large)",
+          "price": "13.95"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Add-on for small Yachtchos",
+          "name": "Yachtchos - Add Chorizo, Shredded Pork, or Beef Debris (Small)",
+          "price": "4.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Add-on for large Yachtchos",
+          "name": "Yachtchos - Add Chorizo, Shredded Pork, or Beef Debris (Large)",
+          "price": "5.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Deep fried pickle chips served with our homemade ranch dressing.",
+          "name": "Fried Pickle Chips",
+          "price": "9.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Hand battered mozzarella served with roasted red bell pepper marinara.",
+          "name": "Mozzarella Logs",
+          "price": "11.00"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Your choice of fried shrimp or fried catfish strips on flour tortillas with coleslaw and tartar sauce | Shrimp is imported.",
+          "name": "Fried Seafood Tacos",
+          "price": "14.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Delicious pulled pork on flour tortillas with coleslaw and habanero crema.",
+          "name": "Pulled BBQ Pork Tacos",
+          "price": "14.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Topped with pickled onion and horseradish aoili.",
+          "name": "Roast Beef Debris Sliders",
+          "price": "5.95"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Naked, sweet, angry, or pissed off served with ranch or blue cheese.",
+          "name": "Wings (6 pcs)",
+          "price": "13.50"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Award-winning pork green chili.",
+          "name": "Pork Green Chili (Cup)",
+          "price": "7.75"
+        },
+        {
+          "category": "Bar Bites",
+          "description": "Award-winning pork green chili.",
+          "name": "Pork Green Chili (Bowl)",
+          "price": "9.95"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with Guinness caramelized onions.",
+          "name": "Boozy Burger",
+          "price": "15.75"
+        },
+        {
+          "category": "Burgers",
+          "description": "Topped with applewood smoked bacon and mushrooms.",
+          "name": "Lucky Burger",
+          "price": "17.95"
+        },
+        {
+          "category": "Burgers",
+          "description": "1/2 lb. of Angus on a bun.",
+          "name": "Plain Burger",
+          "price": "14.50"
+        },
+        {
+          "category": "Burgers",
+          "description": null,
+          "name": "Add Fries to any burger",
+          "price": "3.50"
+        },
+        {
+          "category": "Burgers",
+          "description": "American, cheddar, pepper jack, swiss, bleu cheese",
+          "name": "Add cheese to any burger",
+          "price": "1.25"
+        },
+        {
+          "category": "Burgers",
+          "description": null,
+          "name": "Add Lettuce, tomato, and onion to any burger",
+          "price": "1.25"
+        },
+        {
+          "category": "Burgers",
+          "description": null,
+          "name": "Add Applewood smoked bacon to any burger",
+          "price": "3.50"
+        },
+        {
+          "category": "Burgers",
+          "description": null,
+          "name": "Add Housemade chorizo to any burger",
+          "price": "4.50"
+        },
+        {
+          "category": "Burgers",
+          "description": null,
+          "name": "Add Debris Gravy to any burger",
+          "price": "4.50"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": "Ahi tuna grilled to order on a Kaiser roll with our signature sushi sauce with fresh lettuce and tomato. Make it a melt for +$1.00",
+          "name": "Grilled Ahi Tuna",
+          "price": "16.95"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": "Iceberg, tomato, onion, bleu cheese, ranch, remoulade, caesar, or balsamic vinaigrette",
+          "name": "Side Salad",
+          "price": "7.00"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": null,
+          "name": "Side Salad - Add Chicken or Shrimp",
+          "price": "5.50"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": null,
+          "name": "Side Salad - Add Tuna",
+          "price": "7.50"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": "Your choice of chips or carrots & celery.",
+          "name": "Hummus",
+          "price": "7.50"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": "Lettuce, tomato, purple onion, eggs, shredded cheddar, croutons | Choice of: Ham or Turkey",
+          "name": "Chef Salad",
+          "price": "11.95"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": null,
+          "name": "Chef Salad - Add Grilled or Fried Chicken or Shrimp",
+          "price": "5.50"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": "Stir-fried veggies over jasmine rice",
+          "name": "Veggie Stir Fry",
+          "price": "11.95"
+        },
+        {
+          "category": "Light & Tasty",
+          "description": null,
+          "name": "Veggie Stir Fry - Add Grilled Chicken or Shrimp",
+          "price": "5.50"
+        },
+        {
+          "category": "Hand Cut Fries",
+          "description": "Hand-cut, twice-cooked | Served with our spicy ketchup.",
+          "name": "Naked Fries",
+          "price": "8.50"
+        },
+        {
+          "category": "Hand Cut Fries",
+          "description": "Tossed with crushed garlic, fresh rosemary, and grated Parmiagiano Reggiano.",
+          "name": "Garlic Parm Fries",
+          "price": "10.50"
+        },
+        {
+          "category": "Hand Cut Fries",
+          "description": "Topped with roast beef debris gravy.",
+          "name": "Debris Fries",
+          "price": "11.95"
+        },
+        {
+          "category": "Hand Cut Fries",
+          "description": "Handcut, twice cooked, topped with homemade cheese sauce, bacon bits, green onions and ranch.",
+          "name": "Loaded Fries",
+          "price": "11.95"
+        },
+        {
+          "category": "Hand Cut Fries",
+          "description": "Topped with our award winning pork green chili and shredded cheddar.",
+          "name": "Chili Cheese Fries",
+          "price": "12.50"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Slow braised pork topped with Moonshine BBQ sauce homemade slaw.",
+          "name": "Shredded Pork N Slaw",
+          "price": "12.00"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Alligator & pork sausage on a bun topped with boozy onions and honey mustard.",
+          "name": "Alligator Sausage Dog",
+          "price": "12.00"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Black beans, quinoa, beets, jalapenos, and root vegetables | Comes dressed with lettuce, tomato & onion | Topped with moonshine BBQ.",
+          "name": "Housemade Veggie Burger",
+          "price": "13.50"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Crisp farm raised catfish fillets on a toasted Kaiser roll with vinegar slaw and house remoulade.",
+          "name": "Crispy Catfish",
+          "price": "14.00"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Grilled chicken breast, BBQ sauce, melty American cheese and applewood smoked bacon.",
+          "name": "BBQ Chicken & Bacon",
+          "price": "16.00"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": "Ham, turkey, cheese, bacon, dressed | No substitutions.",
+          "name": "Yacht Club Sandwich",
+          "price": "15.50"
+        },
+        {
+          "category": "Signature Sandwiches",
+          "description": null,
+          "name": "Add fries to any sandwich",
+          "price": "3.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Lightly seasoned flash-fried shrimp or crisp fried catfish filet on a po-boy roll | Shrimp is imported.",
+          "name": "Shrimp or Catfish Po-Boy",
+          "price": "15.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Our famous beef debris on a po-boy roll.",
+          "name": "Roast Beef Debris Po-Boy",
+          "price": "13.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Slow braised pork with Moonshine BBQ Sauce on a po-boy roll.",
+          "name": "BBQ Pork Po-Boy",
+          "price": "13.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": "Your choice of ham or turkey with cheese on a po-boy roll.",
+          "name": "Ham or Turkey & Cheese Po-Boy",
+          "price": "13.00"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Add fries to any po-boy",
+          "price": "3.50"
+        },
+        {
+          "category": "Po-Boys",
+          "description": null,
+          "name": "Dressed with lettuce, tomato, and mayo",
+          "price": "1.25"
+        },
+        {
+          "category": "Seafood Baskets",
+          "description": "Basket of lightly seasoned flash fried shrimp with remoulade and a side of fries | Shrimp is imported.",
+          "name": "Shrimp Basket",
+          "price": "16.50"
+        },
+        {
+          "category": "Seafood Baskets",
+          "description": "Crisp catfish filets in a basket with a side of fries.",
+          "name": "Catfish Basket",
+          "price": "16.50"
+        },
+        {
+          "category": "Menu",
+          "description": "Grilled bagel with cheesy scrambled eggs and 2 slices of applewood smoked bacon.",
+          "name": "\"The Yankee\"",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "5 large shrimp sauteed with our BBQ sauce over cheesy grits.",
+          "name": "\"The Southern\"",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "3 egg burrito with potato, onion, red bell pepper, jalapeno & cheddar cheese rolled in a grilled flour tortilla",
+          "name": "\"The Southwestern\"",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "Grilled flour tortilla topped with rice, vegetarian black beans, two eggs to order and habenero crema",
+          "name": "\"The Costa Rican\"",
+          "price": null
+        },
+        {
+          "category": "Menu",
+          "description": "8 oz. Angus ground beef patty grilled to order served over rice covered in our house made gravy and topped with an egg cooked to order.",
+          "name": "\"The Hawaiian\"",
+          "price": null
+        },
+        {
+          "category": "Light Fare",
+          "description": "Cheese, veggies, fruit, white bean hummus, grilled pita | Serves about 16",
+          "name": "Good Things Plate Party Size",
+          "price": "95.00"
+        },
+        {
+          "category": "Light Fare",
+          "description": "Fresh seasonal veggies. Served with house-made dip | Serves about 16",
+          "name": "Veggie Plate",
+          "price": "80.00"
+        },
+        {
+          "category": "Light Fare",
+          "description": "Quart size. Comes with grilled pita | Serves about 16",
+          "name": "Hummus (Quart)",
+          "price": "30.00"
+        },
+        {
+          "category": "Light Fare",
+          "description": "Basket filled. Great with white bean hummus | Serves about 16",
+          "name": "Grilled Pita",
+          "price": "15.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Lightly seasoned and flash-fried. Served with our housemade horseradish remoulade sauce. Shrimp is imported | About 55 pieces",
+          "name": "Bona Fried Shrimp",
+          "price": "110.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "A generous bowl of our hand-cut, twice-cooked fries. Served with our spiced Sriracha ketchup | Serves about 16",
+          "name": "Naked Fries (Party Size)",
+          "price": "35.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Marinated and fried. Served with a spicy tartar sauce. Catfish is imported | About 50 nuggets.",
+          "name": "Catfish (Party Size)",
+          "price": "110.00"
+        },
+        {
+          "category": "Appetizers",
+          "description": "Seasoned and fried crispy. Served with creole honey mustard | About 50 pieces",
+          "name": "Chicken (Party Size)",
+          "price": "95.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Romaine, red cabbage, carrots, cucumbers, and cherry tomatoes | Serves about 16",
+          "name": "Garden Salad",
+          "price": "50.00"
+        },
+        {
+          "category": "Salads",
+          "description": "Artichoke hearts and roasted seasonal vegetables tossed in a parmesan basil rotini pasta | Serves about 16",
+          "name": "Pasta Salad",
+          "price": "65.00"
+        },
+        {
+          "category": "Build Your Own Slider",
+          "description": "Braised and shredded chuck roast. Then smothered in our house made gravy. Served on a brioche bun with pickled onions, and horseradish sauce. | 35 pieces",
+          "name": "Beef Debris Sliders",
+          "price": "140.00"
+        },
+        {
+          "category": "Build Your Own Slider",
+          "description": "Shredded pork tossed with our house-made BBQ Sauce. Topped with coleslaw, and pickles on a brioche bun. | 35 pieces",
+          "name": "BBQ Pork Sliders",
+          "price": "110.00"
+        },
+        {
+          "category": "Cajun Pan Food",
+          "description": "Crawfish pasta with house-made cajun Alfredo sauce | Serves about 16",
+          "name": "Crawfish Alfredo (Half)",
+          "price": "90.00"
+        },
+        {
+          "category": "Cajun Pan Food",
+          "description": "Crawfish pasta with house-made cajun Alfredo sauce | Serves about 32",
+          "name": "Crawfish Alfredo (Full)",
+          "price": "165.00"
+        },
+        {
+          "category": "Cajun Pan Food",
+          "description": "Chicken, sausage, and rice. A classic | Serves about 16",
+          "name": "Jambalaya (Half)",
+          "price": "90.00"
+        },
+        {
+          "category": "Cajun Pan Food",
+          "description": "Chicken, sausage, and rice. A classic | Serves about 32",
+          "name": "Jambalaya (Full)",
+          "price": "130.00"
+        },
+        {
+          "category": "Wings",
+          "description": "Naked, sweet, angry, or pissed off flavors. Bleu cheese or ranch sauce. Order quantities of 25",
+          "name": "Buffalo Wings (25 pcs)",
+          "price": "75.00"
+        }
+      ],
+      "key": "midcity yacht club",
+      "name": "Midcity Yacht Club",
+      "sourceURL": "https://midcityyachtclub.com/new-orleans-mid-city-mid-city-yacht-club-food-menu",
+      "verifiedAt": "2026-11-23T19:34:52+00:00"
     },
     {
       "items": [
