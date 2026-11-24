@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T19:35:26+00:00",
-  "itemCount": 5000,
+  "generatedAt": "2026-11-24T15:44:56+00:00",
+  "itemCount": 5011,
   "schemaVersion": 1,
-  "venueCount": 79,
+  "venueCount": 80,
   "venues": [
     {
       "items": [
@@ -14761,6 +14761,80 @@
       "name": "Midcity Yacht Club",
       "sourceURL": "https://midcityyachtclub.com/new-orleans-mid-city-mid-city-yacht-club-food-menu",
       "verifiedAt": "2026-11-23T19:34:52+00:00"
+    },
+    {
+      "items": [
+        {
+          "category": "Specials",
+          "description": "One of four select salads & all you care to eat pizza. Dine-in only.",
+          "name": "Freret Jet Lunch Buffet",
+          "price": "$13.95"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Well Doubles",
+          "price": "$7.5"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Draft Schooners",
+          "price": "$2 Off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Draft Pints",
+          "price": "$1 Off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Glasses of Wine",
+          "price": "$8"
+        },
+        {
+          "category": "Happy Hour",
+          "description": "Until close",
+          "name": "Bottles of Wine",
+          "price": "1/2 off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Pigs in a Blanket",
+          "price": "1/2 off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Mozzarella Sticks",
+          "price": "1/2 off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Breadsticks (All Varieties)",
+          "price": "1/2 off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "Don Knotts",
+          "price": "1/2 off"
+        },
+        {
+          "category": "Happy Hour",
+          "description": null,
+          "name": "The Felix Meatballs",
+          "price": "1/2 off"
+        }
+      ],
+      "key": "midway pizza",
+      "name": "Midway Pizza",
+      "sourceURL": "https://www.midwaypizzanola.com/new-orleans-freret-midway-pizza-happy-hours-specials",
+      "verifiedAt": "2026-11-24T15:44:08+00:00"
     },
     {
       "items": [
