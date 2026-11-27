@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T20:55:34+00:00",
-  "itemCount": 5011,
+  "generatedAt": "2026-11-27T23:57:44+00:00",
+  "itemCount": 5013,
   "schemaVersion": 1,
   "venueCount": 80,
   "venues": [
@@ -15333,6 +15333,12 @@
           "price": "$15.00"
         },
         {
+          "category": "Appetizer",
+          "description": null,
+          "name": "Buff Chicken Nachos",
+          "price": "$16.50"
+        },
+        {
           "category": "Soup",
           "description": "Cup (8oz) Seafood, Sausage, Hot Sausage, Ham in a dark roux for takeout rice is on the side",
           "name": "Cup Gumbo",
@@ -15400,7 +15406,7 @@
         },
         {
           "category": "Salads",
-          "description": "mixed greens, avocado, cilantro, cucumbers, wontons strips with seared mid-rare Tuna w/ Hawaiian Vinaigrette",
+          "description": "mixed greens, avocado, cilantro, cucumbers, wontons strips with grilled shrimp w/ Hawaiian Vinaigrette",
           "name": "AUNT IRMA'S HAWAIIAN SALAD",
           "price": "$18.00"
         },
@@ -15592,21 +15598,27 @@
         },
         {
           "category": "Desserts",
-          "description": "OUT OF STOCK",
+          "description": null,
           "name": "CheeseCake",
           "price": "$8.50"
         },
         {
           "category": "Desserts",
-          "description": "OUT OF STOCK",
+          "description": null,
           "name": "Tres Leche",
+          "price": "$8.50"
+        },
+        {
+          "category": "Desserts",
+          "description": null,
+          "name": "Tuxedo Cake",
           "price": "$8.50"
         }
       ],
       "key": "munch factory",
       "name": "Munch Factory",
       "sourceURL": "https://www.themunchfactory.net/menu/the-munch-factory-6514-congress-dr",
-      "verifiedAt": "2026-10-16T17:44:01+00:00"
+      "verifiedAt": "2026-11-27T23:57:06+00:00"
     },
     {
       "items": [
